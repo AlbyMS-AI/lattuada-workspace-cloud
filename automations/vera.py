@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
 """VERA — Agente editoriale settimanale per Alberto Lattuada.
 
-Scheduled via launchd venerdì 12:00.
+NON PIU' SCHEDULATO (dal 20/07/2026): migrato a routine cloud
+trig_011zLYAjZLmCnbYTNhcmjVvo, che legge da un repo git invece che dal
+filesystem locale (vedi automations/agents-roster.md). File conservato come
+riferimento storico della logica e per l'hardening (timeout/retry/notifica),
+plist locale scaricato.
+
+Comportamento originale, quando era schedulato via launchd venerdì 12:00:
 1. Legge dal workspace gli articoli e i draft della settimana (Jamma, Bottadiculo, Sitiscommesse)
 2. Legge il piano editoriale LinkedIn vivo (04-linkedin/piano-editoriale-2026.md)
 3. Chiama claude CLI per comporre il brief editoriale con connessioni articolo -> LinkedIn

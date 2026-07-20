@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """OTTO — Check settimanale del workspace (sabato mattina).
 
-Scheduled via launchd sabato 08:30.
+NON PIU' SCHEDULATO (dal 20/07/2026): migrato a routine cloud
+trig_01LRGJfc8rvJb3SGnMLbWqDf, ridefinita per leggere da un repo git scoped
+invece che da launchd/filesystem locale (vedi automations/agents-roster.md).
+File conservato come riferimento storico, plist locale scaricato.
+
+Comportamento originale, quando era schedulato via launchd sabato 08:30:
 Replica il "grosso check del sabato" fatto manualmente il 12/07/2026:
 1. Stato agenti locali (launchd + log PIERO/VERA) e ultimi DM di MARCO/ALDO su Slack
 2. Stato task list (LinkedIn, LasVegas) e tracker articoli-pubblicati.md

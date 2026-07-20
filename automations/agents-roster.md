@@ -1,33 +1,38 @@
 # Agenti Workspace — Roster e Stato
 
-> Aggiornato: 20/07/2026 (migrazione PIERO a cloud + hardening VERA/OTTO). Questo è il file operativo di riferimento: la memoria di Claude punta qui.
+> Aggiornato: 20/07/2026 (migrazione completa a cloud di PIERO, VERA, OTTO). Questo è il file operativo di riferimento: la memoria di Claude punta qui.
 
 ## Roster attivo
 
 | Agente | Ruolo | Dove gira | Schedule | Stato verificato 20/07 |
 |---|---|---|---|---|
-| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Cloud cron** (migrato 20/07, era locale) | Ogni giorno 07:00 Roma (`0 5 * * *` UTC) | ✅ Migrato in cloud — routine `trig_01R5LLasoxRqBYz2w48MSRh6`. Plist locale scaricato (`launchctl unload`), file `piero.py` conservato ma non più schedulato. Non salva più file locale: il brief completo va per intero nel DM Slack |
+| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Cloud cron** | Ogni giorno 07:00 Roma (`0 5 * * *` UTC) | ✅ Cloud — routine `trig_01R5LLasoxRqBYz2w48MSRh6`. Solo DM Slack, nessuna dipendenza dal Mac |
 | **MARCO** | BDM / Pipeline review (Pipedrive Dealbot + Linear + Granola) | Cloud cron | Lun 07:00 Roma | ✅ Attivo — fired 20/07 regolare. ⚠️ Legato a Pipedrive: da rifare con la migrazione HubSpot |
-| **VERA** | Brief editoriale settimanale (workspace → brief → Slack) | Locale, launchd `com.albertol.vera` | Ven 12:00 | ⚠️ Run 17/07 fallito (appeso 1h44m poi exit 1, probabile sleep del Mac durante ferie) — **hardening 20/07**: timeout ridotto a 180s/60s, un retry automatico, notifica macOS locale se fallisce anche dopo retry |
+| **VERA** | Brief editoriale settimanale (repo → brief → Slack) | **Cloud cron** | Ven 12:00 Roma (`0 10 * * 5` UTC) | ✅ Cloud — routine `trig_011zLYAjZLmCnbYTNhcmjVvo`. Legge il repo `lattuada-workspace-cloud` invece del filesystem locale |
 | **ALDO** | General Manager / Daily brief (Calendar + Gmail + Linear) | Cloud cron | Lun-Ven 08:30 Roma | ✅ Attivo — fired 20/07 regolare |
-| **OTTO** | Check workspace del sabato | Locale, launchd `com.albertol.otto` | Sab 08:30 | ⚠️ Run 18/07 fallito (appeso 3h03m poi exit 1, stessa causa di VERA) — **hardening 20/07**: stesso fix di VERA + audit aggiornato (PIERO non è più tra gli "agenti locali" da controllare via launchd, ora è cercato tra i DM cloud insieme a MARCO/ALDO) |
+| **OTTO** | Check workspace del sabato | **Cloud cron** | Sab 08:30 Roma (`30 6 * * 6` UTC) | ✅ Cloud — routine `trig_01LRGJfc8rvJb3SGnMLbWqDf`. Audit ridefinito: agenti cloud via DM Slack (non più launchd), workspace via repo scoped (non più intero Mac) |
 | TONY | LasVegas (campagne + community) | — | — | ⏸ Bloccato: serve allineamento con Luigi + nessun connector LasVegas. Non costruire prima |
 
 Post-call workflow: skill on demand (`/post-call`), non schedulata — invariata.
 
-## Perché PIERO è passato al cloud e VERA/OTTO no
+## Migrazione completa a cloud (20/07/2026) — come funziona
 
-20/07/2026: Alberto ha chiesto affidabilità totale anche a laptop chiuso (ferie). Diagnosi: i job locali dipendono dal Mac acceso e in rete — se il lid si chiude a metà run, la chiamata a `claude CLI` resta appesa per ore (osservato: PIERO bloccato 9h, VERA 1h44m, OTTO 3h03m, tutti nella finestra ferie 14-22/07) e alla riapertura esce con `exit 1` senza stderr utile.
+Alberto ha posto un requisito esplicito: tutti gli agenti devono girare sempre, anche in vacanza e a Mac spento/in stand by. Diagnosi che ha portato alla decisione: i job locali (launchd + `claude CLI`) restano appesi per ore se il Mac va in sleep a metà run (osservato: PIERO bloccato 9h, VERA 1h44m, OTTO 3h03m, tutti nella finestra ferie 14-22/07) e poi escono con `exit 1` senza stderr utile — inaccettabile per il requisito posto.
 
-PIERO è stato l'unico migrabile subito in cloud puro: legge solo RSS esterni e scrive solo un DM Slack, nessuna dipendenza dal filesystem locale.
+**Soluzione**: tutti e tre ora girano su cloud cron (CCR), zero dipendenza dal Mac.
 
-VERA (legge draft/piano editoriale dal workspace) e OTTO (audita launchd e file locali per definizione) **non possono girare in cloud** finché `workspace/` non diventa un repo git accessibile alle routine cloud — è una decisione strutturale non ancora presa, discussa il 20/07 e rimandata. Fino ad allora restano locali ma con timeout stretti + retry + notifica macOS di fallback, così un blocco dura minuti non ore ed è sempre visibile (anche offline) invece di fallire in silenzio.
+- **PIERO**: nessuna dipendenza dal filesystem, legge solo RSS esterni.
+- **VERA e OTTO**: dipendevano dai file del workspace (draft, piano editoriale, task list). Sbloccati creando un repo GitHub dedicato, **`https://github.com/AlbyMS-AI/lattuada-workspace-cloud`** (pubblico — vedi sotto perché), che le routine cloud clonano ad ogni run.
+  - Scope del repo (deciso 20/07, non tutto il workspace): `03-giornalismo/` (esclusi `archive/`, `fatture/`, l'ex-archivio locale di PIERO), `04-linkedin/*.md` di primo livello (no `grafiche/`), `06-lasvegas/collaborazioni/task-list.md`, `automations/` (script + roster, no logs). **Esclusi di proposito**: `02-softswiss` (deal, dati interni) e `09-carriera` (candidature) — mai in un repo esterno.
+  - Sync: `automations/sync-cloud-repo.sh`, lanciato ogni 3 ore da launchd locale (`com.albertol.cloudsync`, unico job locale rimasto). Fa rsync dello scope + commit + push solo se ci sono modifiche. Se il Mac resta spento per giorni, il repo semplicemente non si aggiorna (le routine cloud continuano comunque a girare sull'ultimo stato pushato, senza bloccarsi).
+  - **Repo pubblico, non privato**: il collegamento GitHub App di claude.ai non è mai riuscito a ottenere accesso a un repo privato (provati: reconnect, revoke+reconnect, repo-picker nel prodotto Code — sempre lista vuota, causa non identificata, possibile bug/limite piattaforma). Per sbloccare oggi si è reso il repo pubblico. Il contenuto è comunque lo scope già filtrato (niente Softswiss/candidature/fatture), ma è tecnicamente leggibile da chiunque trovi il link. Se in futuro la connessione GitHub privata si sblocca, va ripristinata la privacy del repo.
+- **OTTO ridefinito**: non controlla più launchd/log locali (non li vede più) — ora cerca gli ultimi DM Slack di PIERO/VERA/MARCO/ALDO come prova che sono girati. L'igiene di file locali (`temp/`, cartelle "copia") non è più coperta da nessun agente: era fuori scope del repo.
 
 ## Lezioni operative
 
 - **launchd:** un plist in `~/Library/LaunchAgents/` non basta — va caricato (`launchctl load ...`) e verificato con `launchctl list | grep albertol`. Il fallimento è silenzioso: nessun log = mai partito.
-- **Job locali che chiamano claude CLI + rete:** vulnerabili a sleep/lid-close del Mac — la chiamata resta appesa per ore invece di fallire. Mitigazione applicata (VERA/OTTO, 20/07): timeout stretti (180s/60s) + un retry + notifica macOS locale su fallimento finale. Non risolve "Mac spento per giorni", solo "blocco silenzioso di ore".
-- **Permessi claude CLI negli script:** mai `--dangerously-skip-permissions` su job non presidiati. Si usano permessi scopati: `--allowedTools "mcp__claude_ai_Slack__slack_send_message"` (OTTO già così; VERA ancora con `--dangerously-skip-permissions`, da migrare).
+- **Job locali che chiamano claude CLI + rete:** vulnerabili a sleep/lid-close del Mac — la chiamata resta appesa per ore invece di fallire. Per questo si è scelta la migrazione cloud completa invece di continuare a patchare il locale.
+- **GitHub App di claude.ai + repo privati:** nella sessione del 20/07 non è mai stato possibile dare a una routine cloud accesso a un repo privato (401 poi 403 persistenti, nessuna schermata di autorizzazione per-repo apparsa in nessun punto del flusso — connectors, installations, repo-picker in Code). Bypassato rendendo il repo pubblico. Da rivedere se càpita di nuovo: verificare prima se è un problema noto della piattaforma.
 - **Slack DM a se stesso** = canale di output standard degli agenti (auto-approvato). Qualsiasi messaggio a terzi resta manuale.
 
 ## Cosa serve davvero al lavoro quotidiano — valutazione 12/07
