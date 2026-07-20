@@ -1,0 +1,19 @@
+[
+  {"name": "iGaming Business",     "url": "https://igamingbusiness.com/feed/",                  "enabled": true,  "lang": "EN", "focus": "B2B global"},
+  {"name": "iGaming Today",        "url": "https://igamingtoday.com/feed/",                     "enabled": true,  "lang": "EN", "focus": "B2B global"},
+  {"name": "EGR Global",           "url": "https://egr.global/feed/",                           "enabled": true,  "lang": "EN", "focus": "B2B global, M&A"},
+  {"name": "Casino Beats",         "url": "https://casinobeats.com/feed/",                      "enabled": true,  "lang": "EN", "focus": "B2B global, provider"},
+  {"name": "SBC News",             "url": "https://sbcnews.co.uk/feed/",                        "enabled": true,  "lang": "EN", "focus": "B2B global, regulation"},
+  {"name": "European Gaming",      "url": "https://europeangaming.eu/portal/feed/",             "enabled": true,  "lang": "EN", "focus": "Europa, mercati regolamentati"},
+  {"name": "Gambling Insider",     "url": "https://www.gamblinginsider.com/feed",               "enabled": true,  "lang": "EN", "focus": "B2B global, M&A"},
+  {"name": "CalvinAyre",           "url": "https://calvinayre.com/feed/",                       "enabled": true,  "lang": "EN", "focus": "Global, regulation, crypto"},
+  {"name": "G3 Newswire",          "url": "https://www.g3newswire.com/feed/",                   "enabled": true,  "lang": "EN", "focus": "B2B global, provider, platform"},
+  {"name": "Yogonet International","url": "https://www.yogonet.com/international/rss/",         "enabled": true,  "lang": "EN", "focus": "Global, LATAM, fiere"},
+  {"name": "Jamma.it",             "url": "https://www.jamma.it/feed",                          "enabled": true,  "lang": "IT", "focus": "Italia, B2B, ADM, regulation IT"},
+  {"name": "AGiMeG",              "url": "https://agimeg.it/feed",                              "enabled": true,  "lang": "IT", "focus": "Italia, ADM, normativa, operatori IT"},
+  {"name": "Agipro News",          "url": "https://agipronews.it/feed/",                        "enabled": true,  "lang": "IT", "focus": "Italia, B2C, scommesse, ADM"},
+  {"name": "Gioco News",           "url": "https://www.gioco-news.it/feed/",                    "enabled": true,  "lang": "IT", "focus": "Italia, B2B, slot, normativa"},
+  {"name": "FocusGN",              "url": "https://www.focusgn.com/feed/",                      "enabled": true,  "lang": "IT", "focus": "Italia, VLT, AWP, ADM"},
+  {"name": "Betting Business",     "url": "https://www.bettingbusiness.it/feed/",               "enabled": true,  "lang": "IT", "focus": "Italia, scommesse, operatori"},
+  {"name": "Sports Pro",           "url": "https://www.sportspromedia.com/feed/",               "enabled": false, "lang": "EN", "focus": "Sport B2B — abilitare se serve esports/sports betting"}
+]
