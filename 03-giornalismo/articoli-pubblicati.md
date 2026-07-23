@@ -50,6 +50,8 @@ Formato: `| Data | Testata | Titolo | File | Note |`
 | 05/06 | Jamma | Tre operatori. Metà mercato. Le leve che la riforma ha spostato. | `jamma/drafts/2026-06-05-concentrazione-mercato-leve-competitive.md` | |
 | 05/06 | Bottadiculo | Dal 13 maggio il responsible gambling è obbligatorio. I sistemi che lo certificano, no. | `bottadiculo/drafts/2026-06-05-proroga-certificazione-sistema-non-pronto.md` | |
 
+| 22/07 | Sitiscommesse | ADM, le scadenze fiscali del 16 luglio per gioco fisico e online | `sitiscommesse/adm-scadenze-fiscali-16-luglio-20260722.md` | |
+
 ---
 
 **Come tenere questo file aggiornato:**
