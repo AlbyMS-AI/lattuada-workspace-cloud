@@ -235,7 +235,7 @@ Fonte metodologica: Laura Copelli, Smau 2025 — riassunto in `../07-formazione/
 
 Regola di fondo: Alberto è il punto di vista, non l'argomento. Ogni contenuto deve superare tre domande prima di essere sviluppato:
 
-1. **Quale domanda di mercato risolve** — cosa si chiede Marco/Giulia a cui questo contenuto risponde (non "cosa voglio dire io")
+1. **Quale domanda di mercato risolve** — cosa si chiede Marco/Giulia a cui questo contenuto risponde (non "cosa voglio dire io"). Da metà luglio 2026: prima di rispondere per ipotesi, controllare `../02-softswiss/intelligence/buyer-voice.md` — segnali reali raccolti call dopo call (workflow `post-call`, Fase 4d). Se il file ha segnali pertinenti al blocco, preferirli all'ipotesi Marco/Giulia; se è vuoto o non pertinente, restano valide le persona ipotetiche
 2. **Quale gap copre** — cosa manca nelle risposte già in circolazione (competitor B2B analizzati in `insight-competitor-b2b-linkedin.md`, contenuti generici di settore)
 3. **Quale prova lo sostiene** — un case study proprio (anonimizzato, solo meccanismo — regola in `../CLAUDE.md`) o di terzi (fonte pubblica verificabile, mai da intelligence interna)
 

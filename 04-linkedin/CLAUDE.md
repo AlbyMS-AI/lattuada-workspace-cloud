@@ -208,6 +208,7 @@ Output atteso: tabella con colonne Obiettivo / Argomento / Formato / CTA
 | Articoli Jamma pubblicati | Caroselli di sintesi e post di commento |
 | Articoli Bottadiculo pubblicati | Post LinkedIn diretti (stesso tono) |
 | Lavoro BDM quotidiano (incluso tutto `02-softswiss/`) | Osservazioni anonimizzate, trend mercato — vedi regola di rielaborazione sotto |
+| `02-softswiss/intelligence/buyer-voice.md` | Domande/obiezioni/timori reali dei prospect, raccolti call dopo call dal workflow `post-call` (Fase 4d). Compounding: si arricchisce nel tempo. Input per la checklist non-autoreferenziale (`piano-editoriale-2026.md`) e per la validazione di Marco/Giulia su dati reali — mai citazioni letterali in pubblicazione, stessa regola di rielaborazione sotto |
 | Sitiscommesse, LasVegas, qualsiasi altro dominio del workspace | Stessa regola: fonte sì, dato interno no |
 | Uso operativo di AI (Claude) | Thought leadership: cosa funziona davvero |
 | Dati di settore (BDA reports) | Contenuti data-driven con fonti citate |

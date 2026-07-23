@@ -6,7 +6,7 @@
 
 | Agente | Ruolo | Dove gira | Schedule | Stato verificato 20/07 |
 |---|---|---|---|---|
-| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Cloud cron** | Ogni giorno 07:00 Roma (`0 5 * * *` UTC) | ✅ Cloud — routine `trig_01R5LLasoxRqBYz2w48MSRh6`. Solo DM Slack, nessuna dipendenza dal Mac |
+| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Cloud cron** | Ogni giorno 07:00 Roma (`0 5 * * *` UTC) | ⛔ **BLOCCATO dal 23/07** — vedi nota sotto. Routine `trig_01R5LLasoxRqBYz2w48MSRh6`. Solo DM Slack, nessuna dipendenza dal Mac |
 | **MARCO** | BDM / Pipeline review (Pipedrive Dealbot + Linear + Granola) | Cloud cron | Lun 07:00 Roma | ✅ Attivo — fired 20/07 regolare. ⚠️ Legato a Pipedrive: da rifare con la migrazione HubSpot |
 | **VERA** | Brief editoriale settimanale (repo → brief → Slack) | **Cloud cron** | Ven 12:00 Roma (`0 10 * * 5` UTC) | ✅ Cloud — routine `trig_011zLYAjZLmCnbYTNhcmjVvo`. Legge il repo `lattuada-workspace-cloud` invece del filesystem locale |
 | **ALDO** | General Manager / Daily brief (Calendar + Gmail + Linear) | Cloud cron | Lun-Ven 08:30 Roma | ✅ Attivo — fired 20/07 regolare |
@@ -14,6 +14,16 @@
 | TONY | LasVegas (campagne + community) | — | — | ⏸ Bloccato: serve allineamento con Luigi + nessun connector LasVegas. Non costruire prima |
 
 Post-call workflow: skill on demand (`/post-call`), non schedulata — invariata.
+
+## ⛔ PIERO bloccato — blocco di rete a livello ambiente (23/07/2026)
+
+Il 23/07 (rientro ferie Alberto) il run delle 07:00 ha fallito su tutte e 16 le fonti RSS: 403 dal gateway di uscita, non problema dei singoli siti. Tentato workaround: aggiornato il trigger per usare **WebFetch** invece di Bash/curl (allowed_tools ora `["Bash","WebFetch"]`) e rilanciato un run manuale lo stesso giorno.
+
+**Risultato workaround: fallito.** Anche con WebFetch, tutte e 16 le fonti hanno fallito — 14 con HTTP 403, 2 (Gioco News, Betting Business) con errore di risoluzione DNS (ENOTFOUND). Conferma che il blocco è sull'intero ambiente cloud (`env_01UpiUsAc53MWA7F4taF8CAG`), non specifico del tool usato per il fetch (Bash vs WebFetch) — l'ENOTFOUND su 2 domini è coerente con una policy di rete/DNS ristretta a livello ambiente, non con un blocco lato destinazione.
+
+**Non risolvibile da questa sessione**: nessun tool disponibile qui per gestire le impostazioni di rete/firewall degli ambienti cloud. Serve intervento di Alberto lato claude.ai (impostazioni ambiente/routine cloud, sezione rete/domini consentiti per `env_01UpiUsAc53MWA7F4taF8CAG`) o supporto Anthropic se non c'è un'opzione configurabile.
+
+**How to apply:** non proporre altri workaround lato tool di fetch (già provati Bash e WebFetch, entrambi bloccati identicamente) — il problema è a monte, nell'ambiente. Prossima verifica: dopo che Alberto interviene lato claude.ai, rilanciare un run manuale (`RemoteTrigger run` su `trig_01R5LLasoxRqBYz2w48MSRh6`) per confermare lo sblocco prima di fidarsi del prossimo run schedulato.
 
 ## Migrazione completa a cloud (20/07/2026) — come funziona
 

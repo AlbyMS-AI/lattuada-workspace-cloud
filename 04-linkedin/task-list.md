@@ -113,6 +113,7 @@ Non si perdono: si producono con la pipeline workspace quando si libera uno slot
 
 - [ ] **Monitorare chi interagisce realmente** con i contenuti pubblicati — le buyer persona Marco/Giulia sono ipotetiche, da validare sui dati reali
 - [ ] **Checkpoint fine agosto** — unificato con "Checkpoint analytics — fine agosto" sopra: stessa data, stessi dati, un solo passaggio invece di due
+- [x] **Buyer voice da call reali** — aggiunto 23/07/2026: `../02-softswiss/intelligence/buyer-voice.md` raccoglie domande/obiezioni/timori reali dei prospect, alimentato call dopo call dal workflow `post-call` (Fase 4d). Al checkpoint di fine agosto, usarlo come secondo riscontro oltre alle analytics per validare/correggere Marco e Giulia
 
 ## Come aggiornare
 
