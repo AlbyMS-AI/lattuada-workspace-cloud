@@ -255,8 +255,8 @@ Materiali e riassunti sessioni: `../07-formazione/mlr-linkedin-2026/`
 
 Sessioni completate: 1 (27/05) · 2 (03/06) · 3 (08/06) · 4 (15/06) · 5 (19/06) · 6 (08/07)
 Webinar Newsletter LinkedIn MLR guardato il 20/06/2026 — note in `content-strategy/newsletter-linkedin/istruzioni.md`
-Sessione 13 luglio (17:00): saltata — non tenuta. Lezione 7 attesa entro il 27 luglio.
-Prossime sessioni MLR: 24 luglio — 27 luglio (lezione 7)
+Sessione 13 luglio (17:00): saltata — non tenuta.
+Prossima sessione MLR: 27 luglio, lezione 7 (corretto 23/07 — non 24/07)
 
 Task aperti:
 
