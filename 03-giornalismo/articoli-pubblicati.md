@@ -12,6 +12,8 @@ Formato: `| Data | Testata | Titolo | File | Note |`
 
 | Data | Testata | Titolo | File | Note |
 |---|---|---|---|---|
+| 24/07 | Jamma | Chicken Road e i crash game non sono un problema di gioco d'azzardo. Sono un problema di antiriciclaggio che l'Italia non si è ancora posta | `jamma/drafts/2026-07-24-crash-game-antiriciclaggio-chicken-road-adm.md` | |
+| 24/07 | Bottadiculo | Juventus e bet365 Scores, il terzo caso della stessa scorciatoia | `bottadiculo/drafts/2026-07-24-juventus-bet365-scores-infotainment.md` | Post LinkedIn |
 | 19/07 | Jamma | Il Regno Unito riduce gli affordability check allo 0,5% dei giocatori. L'Italia non ha ancora aperto la discussione sui controlli finanziari nel gioco d'azzardo | `jamma/drafts/2026-07-19-ukgc-affordability-check-italia-banche.md` | Newsletter LinkedIn |
 | 19/07 | Bottadiculo | Google Ads gioco d'azzardo, da settembre 2026: un cliente sbaglia, l'agenzia perde tutti gli account | `bottadiculo/drafts/2026-07-19-google-ads-certificazione-mcc-affiliati.md` | Newsletter LinkedIn — SEO companion: `...-seo.md` |
 | 16/07 | Bottadiculo | La campagna porta traffico. Le registrazioni salgono. I depositi restano piatti. Il colpevole di solito non è il creativo. | `bottadiculo/drafts/2026-07-13-invisible-funnel-onboarding-kyc.md` | Post LinkedIn con grafica — confermato pubblicato in anticipo da Alberto il 13/07 (uscita programmata) |
