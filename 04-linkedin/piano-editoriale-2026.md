@@ -1,5 +1,5 @@
 # Piano Editoriale LinkedIn
-**Generato:** 20 giugno 2026 — **Rivisto:** 08 luglio 2026 (post Lezione 6 MLR) — **Ristrutturato:** 09 luglio 2026 (obiettivi BDM, blocchi IT/EN) — **Completato:** 13 luglio 2026 (Blocco 6 di chiusura, layer non-autoreferenziale — benchmark `content-strategy/benchmark-vandilli.md`) — **Slittato 2 settimane:** 14 luglio 2026 (sondaggio IT di apertura Blocco 1 posticipato al 27/07 in attesa del parere MLR — lezione 7 prevista per il 27/07 — tutto il calendario da Blocco 2 in poi trasla di conseguenza)
+**Generato:** 20 giugno 2026 — **Rivisto:** 08 luglio 2026 (post Lezione 6 MLR) — **Ristrutturato:** 09 luglio 2026 (obiettivi BDM, blocchi IT/EN) — **Completato:** 13 luglio 2026 (Blocco 6 di chiusura, layer non-autoreferenziale — benchmark `content-strategy/benchmark-vandilli.md`) — **Slittato 2 settimane:** 14 luglio 2026 (sondaggio IT di apertura Blocco 1 posticipato al 27/07 in attesa del parere MLR — lezione 7 prevista per il 27/07 — tutto il calendario da Blocco 2 in poi trasla di conseguenza) — **Adottato modello formato-fisso/contenuto-dinamico:** 27 luglio 2026 (Lezione 7 MLR — vedi sezione "Modello operativo" sotto: dal Blocco 2 in poi il piano fissa solo il formato, il tema si decide alla creazione)
 
 ---
 
@@ -76,6 +76,27 @@ Chi segue i 5 blocchi vede lo stesso schema ripetersi — apertura sul terreno o
 **Ciclo per argomento (dentro un blocco):** Sondaggio → Post con grafica → Newsletter (o Carosello) → **Analisi post prima di ogni pubblicazione**
 
 **Perché a blocchi e non mescolati nella stessa settimana:** il ciclo sondaggio → post → grafica funziona quando sviluppa lo stesso tema nella stessa lingua nell'arco della settimana. Mischiare IT/EN tra lunedì e venerdì lo spezzerebbe.
+
+---
+
+## Modello operativo — formato fisso, contenuto dinamico (dal 27/07/2026, Lezione 7 MLR)
+
+**Decisione presa in Lezione 7:** il meccanismo precedente — tema, posizione e dati decisi con settimane di anticipo, contenuto già scritto nel piano — è troppo rigido: non lascia spazio a stimoli ed eventi del momento (esempio concreto emerso in call: il caso Pirlo, capitato di sabato, fuori da qualsiasi piano). Da qui in avanti:
+
+- **Il piano fissa solo il formato per ogni slot** (giorno della settimana → formato), non il tema.
+- **Il tema, l'angolo, i dati/case study personali e la CTA si decidono al momento della creazione del contenuto** — le stesse domande che la skill "crea post generico" di MLR pone in quel momento: di cosa vuoi parlare? qual è la tua posizione (favorevole/contraria/sfumata)? hai dati o episodi personali da includere? vuoi una CTA in chiusura, verso quale articolo/newsletter?
+- Questo lascia il piano aperto a newsjacking e stimoli imprevisti senza doverlo riscrivere ogni volta.
+
+**Scheletro adattato alla cadenza reale di Alberto** (riferimento: lo scheletro Excel per formati mostrato da MLR in Lezione 7 — nella sua versione, pensata per un'agenzia a ritmo pieno, il ciclo copre 6 giorni/settimana con video, diffusioni e rubrica del sabato; qui adattato al ritmo ridotto 2 post/settimana in vigore, vedi "Ritmo ridotto" sopra):
+
+| Giorno | Formato fisso | Note |
+|---|---|---|
+| Lunedì | Sondaggio o Post — apre il tema | Sondaggio quando il tema si presta a una domanda secca (framing generico, CTA singola), altrimenti post |
+| Mercoledì | — | Saltato nel ritmo ridotto (formato più oneroso in produzione) |
+| Venerdì | Post o Carosello — chiude il tema | Coincide spesso con l'innesto Atto 3 |
+| Venerdì, ogni 2 settimane | Newsletter "The Betting Edge" | Cadenza fissa indipendente dal blocco, vedi sezione dedicata sopra |
+
+**Cosa cambia nelle tabelle sotto:** il Blocco 1 (in chiusura questa settimana) resta come scritto — è già pronto e in parte pubblicato. **Dal Blocco 2 in poi**, la colonna "Contenuto" nelle tabelle seguenti va letta come **idea di riferimento**, non come tema vincolante: il contenuto reale si genera al momento della creazione, con le domande dinamiche sopra. Le idee restano utili come canovaccio (coerenza con Atto 1/2/3, layer non-autoreferenziale, SEO target già assegnato) ma non bloccano un cambio di argomento se nel frattempo emerge qualcosa di più rilevante.
 
 ---
 
@@ -275,6 +296,8 @@ Le colonne sopra su Blocchi 1-5 sono una verifica leggera (i contenuti sono già
 
 ---
 
+**Formato fisso, contenuto dinamico (dal 27/07, vedi "Modello operativo" sopra):** le idee sotto sono di riferimento, il tema si conferma alla creazione del contenuto, non qui.
+
 ## Blocco 2 — EN — Chi guadagna e l'AI nel gaming (03/08 – 14/08)
 **Argomento:** Rich List 2026 (struttura economica del settore) + AI nel processo BDM, visti da un insider
 **Fonte:** Gambling Insights #65 — Bottadiculo (Rich List) + esperienza diretta BDM (AI)
@@ -295,6 +318,8 @@ Le colonne sopra su Blocchi 1-5 sono una verifica leggera (i contenuti sono già
 | ~~Ven 31/07~~ → **Ven 14/08** | C | Carosello "Come ho usato Claude per strutturare una proposta commerciale per il mercato IT regolamentato" (anonimizzato). **Atto 3**: chiudere sul "dopo" — l'AI non si ferma alla firma, come si usa nel monitoraggio post-integrazione di un account |
 
 ---
+
+**Formato fisso, contenuto dinamico:** idem sopra — idee di riferimento, non vincolo.
 
 ## Blocco 3 — IT — I giochi falsi e la proroga del fisico (17/08 – 28/08)
 **Argomento:** Contraffazione dei giochi come rischio sistemico + proroga concessioni fisico
@@ -318,6 +343,8 @@ Le colonne sopra su Blocchi 1-5 sono una verifica leggera (i contenuti sono già
 
 ---
 
+**Formato fisso, contenuto dinamico:** idem sopra — idee di riferimento, non vincolo.
+
 ## Blocco 4 — EN — L'integrazione unica come vantaggio (31/08 – 11/09)
 **Argomento:** Perché un'integrazione API unica vale più di tre aggregatori separati + confronto mercati regolamentati EU
 **Fonte:** Esperienza BDM (contenuto 10% posizionale) + Intelligence A8R
@@ -339,6 +366,8 @@ Le colonne sopra su Blocchi 1-5 sono una verifica leggera (i contenuti sono già
 
 ---
 
+**Formato fisso, contenuto dinamico:** idem sopra — idee di riferimento, non vincolo.
+
 ## Blocco 5 — IT — Esports betting: il verticale che cresce (14/09 – 18/09)
 **Argomento:** Esports betting +91% — e gli operatori ADM non ci sono
 **Fonte:** Gambling Insights #64 — Bottadiculo
@@ -359,6 +388,8 @@ Le colonne sopra su Blocchi 1-5 sono una verifica leggera (i contenuti sono già
 **Newsletter N6** (02/10): Mercati regolamentati Europa (IT/DE/BE/CZ/IE) a confronto, chiusura del ciclo — vedi Blocco 6.
 
 ---
+
+**Formato fisso, contenuto dinamico:** idem sopra — idee di riferimento, non vincolo.
 
 ## Blocco 6 — EN — Un ciclo, cinque mercati: chiusura del percorso narrativo (21/09 – 02/10)
 **Argomento:** Lo stesso ciclo (terreno → scelta → dopo la firma) applicato ai 5 mercati regolamentati che Alberto segue — IT, DE, BE, CZ, IE. Chiude sia il calendario a blocchi sia il percorso narrativo Atto 1/2/3 aperto in `piano-editoriale-2026.md`.
@@ -413,10 +444,11 @@ Metodologia fonte: `../07-formazione/mlr-linkedin-2026/riassunto-copelli-seo-lin
 
 ## Come usare questo piano con Claude
 
-Per sviluppare un singolo contenuto:
-1. Indicare il blocco e il formato (es. "Blocco 2, mercoledì, grafica")
-2. Claude legge la fonte indicata (`04-linkedin/contenuti/bottadiculo/` o `03-giornalismo/archive/`) e verifica la lingua/linea assegnata al blocco
-3. **Checklist non-autoreferenziale** — verificare/compilare le tre colonne (domanda di mercato, gap coperto, prova/case study) prima di scrivere, vedi sezione dedicata sopra e `content-strategy/benchmark-vandilli.md`
-4. Claude produce il testo seguendo le regole in `content-strategy/post-linkedin/istruzioni.md` (o `sondaggi/istruzioni.md` per i sondaggi)
-5. **Analisi post** — passare il contenuto dalla checklist `content-strategy/analisi-post-pre-pubblicazione.md` prima di considerarlo pronto
-6. Revisione e umanizzazione prima della pubblicazione
+Per sviluppare un singolo contenuto (dal 27/07/2026, modello formato-fisso/contenuto-dinamico — vedi "Modello operativo" sopra):
+1. Indicare il blocco e il formato (es. "Blocco 2, venerdì, post") — non serve più portare il tema già deciso
+2. Claude fa le domande dinamiche: tema, posizione (favorevole/contraria/sfumata), dati/episodi personali o case study, CTA e verso cosa. L'idea già presente nel piano per quello slot resta come riferimento, non come vincolo
+3. Claude legge la fonte pertinente al tema emerso (`04-linkedin/contenuti/bottadiculo/` o `03-giornalismo/archive/`) e verifica la lingua/linea assegnata al blocco
+4. **Checklist non-autoreferenziale** — verificare/compilare le tre colonne (domanda di mercato, gap coperto, prova/case study) prima di scrivere, vedi sezione dedicata sopra e `content-strategy/benchmark-vandilli.md`
+5. Claude produce il testo seguendo le regole in `content-strategy/post-linkedin/istruzioni.md` (o `sondaggi/istruzioni.md` per i sondaggi)
+6. **Analisi post** — passare il contenuto dalla checklist `content-strategy/analisi-post-pre-pubblicazione.md` prima di considerarlo pronto
+7. Revisione e umanizzazione prima della pubblicazione

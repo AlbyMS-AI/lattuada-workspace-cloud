@@ -6,7 +6,7 @@
 
 | Agente | Ruolo | Dove gira | Schedule | Stato verificato 20/07 |
 |---|---|---|---|---|
-| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Cloud cron** | Ogni giorno 07:00 Roma (`0 5 * * *` UTC) | ⛔ **BLOCCATO dal 23/07** — vedi nota sotto. Routine `trig_01R5LLasoxRqBYz2w48MSRh6`. Solo DM Slack, nessuna dipendenza dal Mac |
+| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Cloud cron** | Ogni giorno 07:00 Roma (`0 5 * * *` UTC) | ⏸ **DISATTIVATO manualmente il 27/07/2026** (`enabled: false` su `trig_01R5LLasoxRqBYz2w48MSRh6`, su richiesta di Alberto). Resta disponibile come skill on demand (`/piero`) |
 | **MARCO** | BDM / Pipeline review (Pipedrive Dealbot + Linear + Granola) | Cloud cron | Lun 07:00 Roma | ✅ Attivo — fired 20/07 regolare. ⚠️ Legato a Pipedrive: da rifare con la migrazione HubSpot |
 | **VERA** | Brief editoriale settimanale (repo → brief → Slack) | **Cloud cron** | Ven 12:00 Roma (`0 10 * * 5` UTC) | ✅ Cloud — routine `trig_011zLYAjZLmCnbYTNhcmjVvo`. Legge il repo `lattuada-workspace-cloud` invece del filesystem locale |
 | **ALDO** | General Manager / Daily brief (Calendar + Gmail + Linear) | Cloud cron | Lun-Ven 08:30 Roma | ✅ Attivo — fired 20/07 regolare |

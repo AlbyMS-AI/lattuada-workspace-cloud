@@ -28,6 +28,8 @@ Obiettivi LinkedIn:
 
 ## Regole di scrittura contenuti LinkedIn
 
+**Regola fissa (sempre, dal 27/07/2026 — Lezione 7 MLR):** prima di scrivere un post, un sondaggio, o di sviluppare un blocco del piano editoriale, fare sempre le domande dinamiche di MLR — tema, posizione (favorevole/contraria/sfumata), dati/episodi personali o case study, CTA e verso cosa, angolo di lettura. Anche se il piano editoriale ha già un'idea per quello slot, quell'idea resta un riferimento, non un vincolo: il contenuto reale si decide a quel momento, non quando si è scritto il piano. Dettaglio del modello in `piano-editoriale-2026.md`, sezione "Modello operativo"; domande complete in `content-strategy/post-linkedin/istruzioni.md` e `content-strategy/sondaggi/istruzioni.md`.
+
 - No hashtag — mai
 - No emoji — mai
 - No disclaimer o avvertenze
@@ -256,13 +258,21 @@ Materiali e riassunti sessioni: `../07-formazione/mlr-linkedin-2026/`
 Sessioni completate: 1 (27/05) · 2 (03/06) · 3 (08/06) · 4 (15/06) · 5 (19/06) · 6 (08/07)
 Webinar Newsletter LinkedIn MLR guardato il 20/06/2026 — note in `content-strategy/newsletter-linkedin/istruzioni.md`
 Sessione 13 luglio (17:00): saltata — non tenuta.
-Prossima sessione MLR: 27 luglio, lezione 7 (corretto 23/07 — non 24/07)
+Lezione 7 tenuta il 27 luglio — riassunto in `../07-formazione/mlr-linkedin-2026/Lezione 7/riassunto-sessione7-2026-07-27.md`. Prossima sessione: venerdì 31 luglio (MLR #8).
 
-Task aperti:
+Task aperti (lezione 7, 27/07):
+
+- [ ] **Creazione liste lead** — flusso semaforo rosso/giallo/verde su Sales Navigator
+- [ ] **Modifica e miglioramento piano editoriale LinkedIn** — sostituire le domande pre-generate con flusso dinamico stile MLR (domande al momento della creazione del contenuto, non nel piano) — impatta `piano-editoriale-2026.md`
+- [ ] Chiedere internamente l'ok (marketing/country manager) per il contenuto newsjacking su Pirlo prima di scriverlo — angolo neutro, nessun riferimento aziendale
+- [ ] Mandare mail a MLR con le skill richieste (crea post generico, crea sondaggio, crea newsletter)
+- [ ] Portare il piano editoriale rivisto a Lezione 8 (31/07) — non aperto in Lezione 7 per mancanza di tempo
+
+Ancora aperti da Lezione 6:
 
 - [ ] Mettere in pausa una delle due newsletter attive, consolidare su una sola (non crearne una terza) — da Lezione 6
-- [ ] Impostare skill Claude Code "analizza post" con file di contesto blog .md — da Lezione 6
-- [ ] Esportare analytics LinkedIn e costruire file unico di performance (skill "aggiorna analytics post") — da Lezione 6
+- [ ] Impostare skill Claude Code "analizza post" con file di contesto blog .md — da Lezione 6, verificare con MLR se slide profilo/content/newsletter sono arrivate
+- [ ] Esportare analytics LinkedIn e costruire file unico di performance (skill "aggiorna analytics post") — da Lezione 6, mai arrivata nonostante segnata come condivisa
 - [x] Eseguire 3 ricerche account su Sales Navigator e salvarle come liste denominate — da Lezione 6, completato entro 09/07/2026
 - [x] Newsletter — decisione presa (08/07): si prosegue con **"The Betting Edge"** (newsletter già esistente), nessuna newsletter nuova creata. "Regulated iGaming Europe" era un'ipotesi valutata e scartata (terza newsletter, stessa audience → frammentazione, sconsigliato da MLR). Da fare: mettere in pausa l'altra newsletter attiva, lasciarla visibile ma dormiente
 - [x] Completare profilo EN — fatto
