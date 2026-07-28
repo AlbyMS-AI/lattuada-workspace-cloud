@@ -9,7 +9,7 @@ VAI SU BETFLAG
 
 ## INFORMAZIONI ESSENZIALI
 
-Voto 4.5/5 — Fino a 5.010€ di benvenuto Sport (100% + 10€ no deposit + 200 Fun Flag) | Fino a 3.000€ Casinò | Fino a 1.000€ senza deposito con SPID/CIE
+Voto 4.5/5 | Fino a 5.010€ di benvenuto Sport (100% + 10€ no deposit + 200 Fun Flag) | Fino a 3.000€ Casinò | Fino a 1.000€ senza deposito con SPID/CIE
 
 | Campo | Dettaglio |
 |---|---|
