@@ -260,24 +260,35 @@ Webinar Newsletter LinkedIn MLR guardato il 20/06/2026 — note in `content-stra
 Sessione 13 luglio (17:00): saltata — non tenuta.
 Lezione 7 tenuta il 27 luglio — riassunto in `../07-formazione/mlr-linkedin-2026/Lezione 7/riassunto-sessione7-2026-07-27.md`. Prossima sessione: venerdì 31 luglio (MLR #8).
 
-Task aperti (lezione 7, 27/07):
+Task aperti (lezione 7, 27/07) — stato al 28/07:
 
-- [ ] **Creazione liste lead** — flusso semaforo rosso/giallo/verde su Sales Navigator
-- [ ] **Modifica e miglioramento piano editoriale LinkedIn** — sostituire le domande pre-generate con flusso dinamico stile MLR (domande al momento della creazione del contenuto, non nel piano) — impatta `piano-editoriale-2026.md`
-- [ ] Chiedere internamente l'ok (marketing/country manager) per il contenuto newsjacking su Pirlo prima di scriverlo — angolo neutro, nessun riferimento aziendale
-- [ ] Mandare mail a MLR con le skill richieste (crea post generico, crea sondaggio, crea newsletter)
-- [ ] Portare il piano editoriale rivisto a Lezione 8 (31/07) — non aperto in Lezione 7 per mancanza di tempo
+- [ ] **Creazione liste lead** — flusso semaforo rosso/giallo/verde su Sales Navigator, **entro giovedì 30/07**. Richiede interazione manuale nell'interfaccia Sales Navigator (Claude non ha accesso al browser/a LinkedIn) — resta a carico di Alberto, Claude può solo preparare booleani/testo dei messaggi su richiesta
+- [x] Modifica e miglioramento piano editoriale LinkedIn — fatto 27/07, vedi `piano-editoriale-2026.md` sezione "Modello operativo"
+- [x] Contenuto newsjacking su Pirlo — se ne occupa Alberto in autonomia, non cita il bookmaker/sponsor coinvolto
+- [x] Mandare mail a MLR con le skill richieste — inviata 27/07, skill ricevute e adattate il 28/07 (vedi sotto)
+- [x] Piano editoriale pronto per Lezione 8 (31/07)
 
 Ancora aperti da Lezione 6:
 
-- [ ] Mettere in pausa una delle due newsletter attive, consolidare su una sola (non crearne una terza) — da Lezione 6
-- [ ] Impostare skill Claude Code "analizza post" con file di contesto blog .md — da Lezione 6, verificare con MLR se slide profilo/content/newsletter sono arrivate
+- [x] ~~Mettere in pausa una delle due newsletter attive~~ — **chiuso 28/07**: confermato da Alberto, esiste una sola newsletter attiva, "The Betting Edge". Nessuna seconda newsletter da mettere in pausa
+- [x] Impostare skill Claude Code "analizza post" — **fatto 28/07**: MLR ha mandato 4 skill sue via email, adattate al contesto di Alberto e installate come skill Claude Code (vedi sotto)
 - [ ] Esportare analytics LinkedIn e costruire file unico di performance (skill "aggiorna analytics post") — da Lezione 6, mai arrivata nonostante segnata come condivisa
 - [x] Eseguire 3 ricerche account su Sales Navigator e salvarle come liste denominate — da Lezione 6, completato entro 09/07/2026
-- [x] Newsletter — decisione presa (08/07): si prosegue con **"The Betting Edge"** (newsletter già esistente), nessuna newsletter nuova creata. "Regulated iGaming Europe" era un'ipotesi valutata e scartata (terza newsletter, stessa audience → frammentazione, sconsigliato da MLR). Da fare: mettere in pausa l'altra newsletter attiva, lasciarla visibile ma dormiente
+- [x] Newsletter — decisione presa (08/07) e confermata (28/07): un'unica newsletter attiva, **"The Betting Edge"**. "Regulated iGaming Europe" era un'ipotesi valutata e scartata (terza newsletter, stessa audience → frammentazione, sconsigliato da MLR) — non esiste una seconda newsletter da gestire
 - [x] Completare profilo EN — fatto
 - [x] Aggiungere "gaming" (senza "i") in punti strategici del profilo
 - [ ] Creare account SlideShare — deadline 31/07/2026
+
+## Skill Claude Code disponibili (dal 28/07/2026)
+
+MLR ha condiviso 4 sue skill (originali in `../07-formazione/mlr-linkedin-2026/Lezione 7/skill-mlr-originali/`), adattate alla voce e al workspace di Alberto e installate in `.claude/skills/`:
+
+- **`linkedin-crea-post`** — post generico (testo/immagine/carosello), domande dinamiche (tema/posizione/angolo/dati/CTA)
+- **`linkedin-crea-sondaggio`** — 5 ipotesi di sondaggio con framing generico di mercato, poi post di lancio
+- **`linkedin-crea-newsletter`** — edizione di "The Betting Edge" da brief (tesi/fonte/dato/CTA) con layer SEO
+- **`linkedin-analizza-post`** — analisi criticità + riscrittura di un post prima di pubblicare, mantenendo la voce di Alberto
+
+Tutte e 4 applicano il modello "formato fisso, contenuto dinamico" deciso in Lezione 7: le idee già presenti nel piano editoriale sono riferimento, non vincolo — le domande si fanno al momento della creazione.
 
 ## File trasversali utili
 

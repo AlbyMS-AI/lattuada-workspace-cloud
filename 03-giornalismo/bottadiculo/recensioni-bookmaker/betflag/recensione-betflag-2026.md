@@ -14,7 +14,7 @@ Voto 4.5/5 | Fino a 5.010€ di benvenuto Sport (100% + 10€ no deposit + 200 F
 | Campo | Dettaglio |
 |---|---|
 | Licenza operativa | ADM, concessione n. 16008 (subentrata alla precedente GAD 15007 con il nuovo bando ADM) |
-| Proprietà | Betflag S.p.A. — dal novembre 2022 controllata al 100% da Lottomatica Group (operazione da 310 milioni di euro, più una componente variabile fino a 50 milioni legata ai risultati 2023). Betflag resta un brand autonomo nel portafoglio multibrand del gruppo |
+| Proprietà | Betflag S.p.A., dal novembre 2022 controllata al 100% da Lottomatica Group (operazione da 310 milioni di euro, più una componente variabile fino a 50 milioni legata ai risultati 2023). Resta un brand autonomo nel portafoglio multibrand del gruppo |
 | Bonus sport | 100% sul primo deposito fino a 5.000€ + 10€ senza deposito immediato + 200 Fun Flag (4 tranche da 50, ogni due giorni) |
 | Bonus casinò | 100% sul primo deposito fino a 3.000€ (casinò) + fino a 3.000€ (casinò live) |
 | Bonus senza deposito (SPID/CIE) | 1.000€, erogati in 5 tranche da 200€, rollover 1.000€ per tranche, massimo 500€ convertibili |
@@ -27,7 +27,7 @@ Voto 4.5/5 | Fino a 5.010€ di benvenuto Sport (100% + 10€ no deposit + 200 F
 
 ### PERCHÉ BETFLAG POTREBBE NON FARE AL CASO TUO
 
-- Quota minima richiesta per validare il bonus sport: 3,50, leggermente più alta della media di settore
+- Quota minima richiesta per validare il bonus sport: 3,50, di poco più alta della media di settore
 - Rollover del bonus senza deposito pari a 4 volte l'importo ricevuto su ogni tranche
 - L'app dedicata al casinò raccoglie un volume di recensioni ancora contenuto sull'App Store: chi cerca conferme ampie farà bene a consultare anche l'app Scommesse, più recensita
 
@@ -133,17 +133,17 @@ Il pilastro dell'offerta è il 100% sul primo deposito fino a 5.000€.
 | Finestra temporale | 90 giorni per completare gli obiettivi |
 | Erogazione | A scaglioni progressivi |
 
-A questo si aggiunge un pacchetto di benvenuto immediato: 10€ senza deposito, utilizzabili da subito sulle scommesse sportive, più 200 Fun Flag erogati in 4 tranche da 50, ogni due giorni a partire dall'assegnazione del primo bonus. In fase di registrazione va selezionata esplicitamente l'opzione "10€ e 200 Fun Flag Sport" per attivarlo.
+A questo si aggiunge un pacchetto di benvenuto immediato: 10€ senza deposito, utilizzabili da subito sulle scommesse sportive, più 200 Fun Flag erogati in 4 tranche da 50, ogni due giorni a partire dall'assegnazione del primo bonus. In fase di registrazione va selezionata l'opzione "10€ e 200 Fun Flag Sport" per attivarlo.
 
 ### Bonus di benvenuto Casinò
 
 100% sul primo versamento fino a 3.000€ per il casinò, più un'offerta parallela fino a 3.000€ dedicata al casinò live.
 
-### Bonus senza deposito — Registrazione SPID/CIE
+### Bonus senza deposito: Registrazione SPID/CIE
 
 1.000€, erogati in 5 tranche da 200€ ciascuna. Rollover di 1.000€ per tranche, con un massimo di 500€ convertibili in saldo prelevabile.
 
-### Bonus senza deposito — Registrazione classica
+### Bonus senza deposito: Registrazione classica
 
 250€, erogati in 5 tranche da 50€ ciascuna. Rollover di 250€, massimo 125€ convertibili.
 
@@ -155,19 +155,19 @@ Pagina 7 | Contenuto editoriale indipendente
 
 ## INFO SULLE QUOTE, MERCATI E FUNZIONALITÀ
 
-Il tratto distintivo dell'offerta Betflag non è la profondità dei singoli mercati calcistici, in linea con la media di settore, ma la presenza dell'Exchange accanto alle scommesse tradizionali. Nell'exchange le quote nascono dall'incontro tra chi punta e chi banca un esito: il bookmaker si limita a intermediare e a trattenere una commissione sulle giocate effettivamente abbinate. È un meccanismo diverso da quello delle quote fisse, pensato per chi vuole gestire attivamente l'esposizione su un evento, non solo scommettere sull'esito finale.
+Il tratto distintivo dell'offerta Betflag non è la profondità dei singoli mercati calcistici, in linea con la media di settore, ma la presenza dell'Exchange accanto alle scommesse tradizionali. Nell'exchange le quote nascono dall'incontro tra chi punta e chi banca un esito: il bookmaker si limita a intermediare e a trattenere una commissione sulle giocate abbinate. È un meccanismo diverso da quello delle quote fisse, pensato per chi vuole intervenire sull'esposizione durante l'evento, non solo scommettere sull'esito finale.
 
 La funzionalità Moneyback lavora su questo stesso principio: permette di incassare parte di una vincita potenziale o di limitare una perdita prima che l'evento sia concluso, ribilanciando la posizione in corso.
 
 ### Come piazzare una scommessa su Betflag
 
-**STEP 1 — Scegli l'evento**
+**STEP 1: Scegli l'evento**
 Naviga il palinsesto o usa la ricerca rapida. Seleziona il mercato e la quota desiderata.
 
-**STEP 2 — Componi la giocata**
+**STEP 2: Componi la giocata**
 Inserisci l'importo. Aggiungi altri eventi per una multipla, oppure passa alla sezione Exchange per puntare o bancare una quota.
 
-**STEP 3 — Conferma**
+**STEP 3: Conferma**
 Conferma la giocata. La ricevuta appare in tempo reale nella cronologia del conto.
 
 Pagina 8 | Contenuto editoriale indipendente
@@ -200,7 +200,7 @@ Betflag mette a disposizione 13 modalità di deposito, tra le più ampie del mer
 | Paysafecard | 10€ | Solo deposito |
 | OnShop | 5€ | Sì |
 
-I tempi di accredito sono istantanei per la quasi totalità dei metodi, a eccezione del bonifico bancario. Non risultano commissioni sui prelievi, indipendentemente dal metodo scelto: un vantaggio concreto rispetto a operatori che applicano costi oltre una certa soglia di operazioni.
+I tempi di accredito sono istantanei per la quasi totalità dei metodi, a eccezione del bonifico bancario. Non risultano commissioni sui prelievi, qualunque sia il metodo scelto: un vantaggio concreto rispetto a operatori che applicano costi oltre una certa soglia di operazioni.
 
 Pagina 10 | Contenuto editoriale indipendente
 
@@ -218,7 +218,7 @@ Pagina 11 | Contenuto editoriale indipendente
 
 ---
 
-## SERVE AIUTO? — CUSTOMER SUPPORT
+## SERVE AIUTO? CUSTOMER SUPPORT
 
 Il servizio clienti è raggiungibile tramite Numero Verde 800.900.333 (da rete fissa, 8:00-22:00), il numero 02-91645111 per chi chiama da cellulare, ed email attraverso la sezione Aiuto del sito.
 
@@ -250,19 +250,19 @@ Pagina 14 | Contenuto editoriale indipendente
 
 ---
 
-## TABELLA COMPARATIVA — BETFLAG VS SNAI VS SISAL
+## TABELLA COMPARATIVA: BETFLAG VS SNAI VS SISAL
 
 | Caratteristica | Betflag | SNAI | Sisal |
 |---|---|---|---|
 | Bonus sport | 100% fino a 5.000€ + 10€ no deposit + 200 Fun Flag = ~5.010€ (quota min. 3,50) | 500€ Gold (x6) + 500€ Game Bonus + 15€ free + 9€ extra = ~1.500€ | 50-200€ Real + 1.500€ Fun |
 | Bonus no deposit | 1.000€ (SPID/CIE) / 250€ (classica) | 15€ sport / 1.000€ Play (casinò, percorso separato) | Fino a 5.000€ (Salva il Bottino) |
-| Proprietà | Gruppo Lottomatica (dal 2022) | Gruppo Flutter Entertainment (dal 2025) | — |
+| Proprietà | Gruppo Lottomatica (dal 2022) | Gruppo Flutter Entertainment (dal 2025) | n.d. |
 | Prodotto distintivo | Betting Exchange + Moneyback | Ippica, Snaipay, integrazione fisico-digitale | Gamification |
 | Discipline sportive | 30+ (fonti di settore) | 25+ | 25+ |
 | Live streaming | Bundesliga, Lega Pro e altri | Eccellente (Bundesliga, Ligue 1, FA Cup, Liga, Serie A dedicata) | Buono |
 | Login SPID/CIE | Sì | Sì | Sì |
 
-**Nota**: le cifre di tutti gli operatori rappresentano valori nominali massimi, soggetti a rollover e condizioni di sblocco spesso complesse. Il valore effettivo percepito dall'utente può essere significativamente inferiore al valore headline della promozione.
+**Nota**: le cifre di tutti gli operatori rappresentano valori nominali massimi, soggetti a rollover e condizioni di sblocco spesso complesse. Il valore effettivo percepito dall'utente può essere molto inferiore al valore headline della promozione.
 
 Pagina 15 | Contenuto editoriale indipendente
 
@@ -274,7 +274,7 @@ Betflag arriva al 2026 con due identità che convivono: da un lato lo storico de
 
 Il vero elemento di differenziazione resta l'Exchange, un prodotto che pochi concessionari ADM offrono e che sposta l'esperienza di scommessa da "punto sull'esito" a "gestisci l'esposizione". Accanto a questo, un bonus di benvenuto tra i più alti del mercato, un catalogo casinò tra i più ampi del comparto ADM e una sezione ippica solida.
 
-Per lo scommettitore che cerca un prodotto diverso dalla scommessa tradizionale, e che vuole sfruttare un bonus generoso conoscendone le condizioni, Betflag resta un'opzione solida nel mercato ADM 2026.
+Chi vuole solo puntare su un esito troverà in Betflag un bonus tra i più generosi del mercato. Chi vuole anche uscire da una posizione prima che l'evento finisca, tramite l'Exchange e il Moneyback, trova un prodotto che in Italia offrono in pochi.
 
 ## VOTO FINALE: 4.5 SU 5
 
@@ -320,18 +320,18 @@ Pagina 18 | Contenuto editoriale indipendente
 
 - Licenza ADM concessione n. 16008 (subentrata a GAD 15007): confermato da fonte ufficiale Betflag, [info.betflag.it/info-conto/regolamenti-e-sicurezza/nuova-concessione-betflag](https://info.betflag.it/info-conto/regolamenti-e-sicurezza/nuova-concessione-betflag) e ricerca incrociata
 - Acquisizione 100% da parte di Lottomatica Group, novembre 2022, 310 milioni di euro + fino a 50 milioni earnout: confermato da comunicato ufficiale Lottomatica Group, [lottomaticagroup.com](https://lottomaticagroup.com/Lottomaticagroup.com/media/library_documents/Investors/Comunicato-Betflag-rev14-ENG.pdf), incrociato con [Agimeg](https://www.agimeg.it/gioco-online-lottomatica-betflag/) e [Gioconews](https://www.gioconews.it/casino/dalle-aziende/lottomatica-acquisisce-betflag--si-rafforza-posizionamento-nei-casino-games-.aspx)
-- Betflag online dal 2004: da fonte di settore, non verificato su fonte primaria societaria — dato di contesto, basso rischio
-- Bonus sport 100% fino a 5.000€, quota minima 3,50, esclusione Exchange/Cashout, finestra 90 giorni: da [TuttoMercatoWeb](https://www.tuttomercatoweb.com/scommesse/siti-scommesse/recensione-betflag/), fonte editoriale sportiva terza, non fonte primaria Betflag — da riverificare sui T&C ufficiali prima della pubblicazione
-- Bonus 10€ senza deposito + 200 Fun Flag (4 tranche da 50, ogni 2 giorni), attivabile selezionando "10€ e 200 Fun Flag Sport" in registrazione: riconciliato tra 4 fonti indipendenti ([Oddschecker](https://www.oddschecker.com/it/bonus-scommesse/betflag), [bookmakerbonus.it](https://bookmakerbonus.it/articoli/nuovo-bonus-benvenuto-betflag-10-eur-gratis-200-funflag-e-fino-a-5000-eur-sul-primo-deposito), [scommesse.org](https://www.scommesse.org/bonus/bonus-benvenuto-betflag/), [superscommesse.it](https://www.superscommesse.it/bookmaker/betflag/benvenuto_betflag_un_codice_promozionale_per_i_nuovi_clienti-8115.html)) — risolve la discrepanza rilevata nella bozza precedente tra Sportytrader e TMW: erano due componenti dello stesso pacchetto, non dati in conflitto
-- Bonus casinò 100% fino a 3.000€ + 3.000€ casinò live, bonus senza deposito SPID/CIE 1.000€ (5x200€) e classico 250€ (5x50€): da TuttoMercatoWeb, fonte editoriale terza, non fonte primaria Betflag — fetch diretto su info.betflag.it non riuscito (errore di connessione ripetuto)
+- Betflag online dal 2004: da fonte di settore, non verificato su fonte primaria societaria (dato di contesto, basso rischio)
+- Bonus sport 100% fino a 5.000€, quota minima 3,50, esclusione Exchange/Cashout, finestra 90 giorni: da [TuttoMercatoWeb](https://www.tuttomercatoweb.com/scommesse/siti-scommesse/recensione-betflag/), fonte editoriale sportiva terza, non fonte primaria Betflag. Da riverificare sui T&C ufficiali prima della pubblicazione
+- Bonus 10€ senza deposito + 200 Fun Flag (4 tranche da 50, ogni 2 giorni), attivabile selezionando "10€ e 200 Fun Flag Sport" in registrazione: riconciliato tra 4 fonti indipendenti ([Oddschecker](https://www.oddschecker.com/it/bonus-scommesse/betflag), [bookmakerbonus.it](https://bookmakerbonus.it/articoli/nuovo-bonus-benvenuto-betflag-10-eur-gratis-200-funflag-e-fino-a-5000-eur-sul-primo-deposito), [scommesse.org](https://www.scommesse.org/bonus/bonus-benvenuto-betflag/), [superscommesse.it](https://www.superscommesse.it/bookmaker/betflag/benvenuto_betflag_un_codice_promozionale_per_i_nuovi_clienti-8115.html)). Risolve la discrepanza rilevata nella bozza precedente tra Sportytrader e TMW: erano due componenti dello stesso pacchetto, non dati in conflitto
+- Bonus casinò 100% fino a 3.000€ + 3.000€ casinò live, bonus senza deposito SPID/CIE 1.000€ (5x200€) e classico 250€ (5x50€): da TuttoMercatoWeb, fonte editoriale terza, non fonte primaria Betflag (fetch diretto su info.betflag.it non riuscito, errore di connessione ripetuto)
 - Deposito minimo 5€ (0,50€ bonifico, 10€ Skrill/Paysafecard), 13 metodi di pagamento, nessuna commissione sui prelievi: incrociato tra Sportytrader e TuttoMercatoWeb
 - Numero verde 800.900.333, 02-91645111, email via sezione Aiuto: da TuttoMercatoWeb
-- Palinsesto 30+ discipline, live streaming Bundesliga/Lega Pro, eSport (LoL, CS:GO, Dota2, Valorant), ippica con streaming live: da ricerca aggregata su fonti di settore — cifre su discipline non verificate su fonte primaria, riportate come "secondo le fonti di settore"
-- Catalogo slot "oltre 5.500 titoli, 60+ provider": range ristretto e coerente su 4 fonti indipendenti (gambling.com, superscommesse.it, casinos.com, grinderlabpoker.it), valori tra 5.500 e 6.051 — cifra tonda scelta come soglia sicura all'interno del range confermato
+- Palinsesto 30+ discipline, live streaming Bundesliga/Lega Pro, eSport (LoL, CS:GO, Dota2, Valorant), ippica con streaming live: da ricerca aggregata su fonti di settore, cifre su discipline non verificate su fonte primaria, riportate come "secondo le fonti di settore"
+- Catalogo slot "oltre 5.500 titoli, 60+ provider": range ristretto e coerente su 4 fonti indipendenti (gambling.com, superscommesse.it, casinos.com, grinderlabpoker.it), valori tra 5.500 e 6.051. Cifra tonda scelta come soglia sicura all'interno del range confermato
 - Rating BetFlag: Scommesse 4,8/5 su ~3.200 recensioni: verificato con fetch diretto su apps.apple.com (fonte primaria)
-- Rating BetFlag: Casinò e Slot Machine 3,2/5 su 47 recensioni: verificato con fetch diretto su apps.apple.com (fonte primaria) — campione piccolo, citato come tale
-- Rating Trustpilot: verifica diretta su trustpilot.com fallita (HTTP 403); dato precedentemente stimato da fonti secondarie (1,4-1,6/5) rimosso dal testo pubblicato perché non confermabile su fonte primaria — sostituito con il dato App Store, verificato direttamente
+- Rating BetFlag: Casinò e Slot Machine 3,2/5 su 47 recensioni: verificato con fetch diretto su apps.apple.com (fonte primaria), campione piccolo, citato come tale
+- Rating Trustpilot: verifica diretta su trustpilot.com fallita (HTTP 403). Dato in precedenza stimato da fonti secondarie (1,4-1,6/5), rimosso dal testo pubblicato perché non confermabile su fonte primaria, sostituito con il dato App Store, verificato via fetch diretto
 - Betting Exchange e funzionalità Moneyback: confermato da fonte propria dell'operatore, [sportnews.betflag.it/come-funziona-betting-exchange/](https://sportnews.betflag.it/come-funziona-betting-exchange/)
 - Sezioni app (Scommesse, Casinò, Ippica, Exchange, Carte, Poker, Lotterie): da TuttoMercatoWeb
 
-**Nota editoriale**: su richiesta del caporedattore (operatore partner), il tono dei paragrafi critici è stato ammorbidito rispetto alla prima bozza — rimossi i toni allarmistici, ridotto lo spazio dedicato alle criticità, tolto il riferimento al punteggio Trustpilot (dato non verificabile su fonte primaria, non solo attenuato). Le informazioni fattuali verificate (rollover, quota minima, gap tra le due app sullo store) sono rimaste nel testo, solo con un registro più neutro: non fondate solo su fonti secondarie ma anche su verifica diretta App Store, quindi non erano rimovibili senza compromettere l'accuratezza. Punti ancora aperti: dati puntuali di payout/quote per disciplina non reperiti da fonte affidabile (sezione "Grafici e report" della struttura SNAI non replicata per questo motivo), conferma diretta dei termini bonus su info.betflag.it (fetch ripetutamente fallito).
+**Nota editoriale**: su richiesta del caporedattore (operatore partner), il tono dei paragrafi critici è stato ammorbidito rispetto alla prima bozza. Rimossi i toni allarmistici, ridotto lo spazio dedicato alle criticità, tolto il riferimento al punteggio Trustpilot (dato non verificabile su fonte primaria, non solo attenuato). Le informazioni fattuali verificate (rollover, quota minima, gap tra le due app sullo store) sono rimaste nel testo, solo con un registro più neutro: si fondano non solo su fonti secondarie ma anche su verifica diretta App Store, quindi non erano rimovibili senza compromettere l'accuratezza. Punti ancora aperti: dati puntuali di payout/quote per disciplina non reperiti da fonte affidabile (sezione "Grafici e report" della struttura SNAI non replicata per questo motivo), conferma diretta dei termini bonus su info.betflag.it (fetch fallito più volte).

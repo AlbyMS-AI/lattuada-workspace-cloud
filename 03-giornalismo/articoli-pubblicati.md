@@ -55,6 +55,8 @@ Formato: `| Data | Testata | Titolo | File | Note |`
 | 05/06 | Bottadiculo | Dal 13 maggio il responsible gambling è obbligatorio. I sistemi che lo certificano, no. | `bottadiculo/drafts/2026-06-05-proroga-certificazione-sistema-non-pronto.md` | |
 
 | 22/07 | Sitiscommesse | ADM, le scadenze fiscali del 16 luglio per gioco fisico e online | `sitiscommesse/adm-scadenze-fiscali-16-luglio-20260722.md` | |
+| 28/07 | Bottadiculo | NordVPN scopre una truffa social che ruba oltre 400 marchi per dirottare su casinò non autorizzati | `bottadiculo/drafts/2026-07-28-nordvpn-truffa-brand-casino-non-autorizzato.md` | |
+| 28/07 | Jamma | Infingame taglia i tempi di lancio del settanta per cento. Il suo dato di una settimana prima dice che non è il catalogo a spingere l'engagement | `jamma/drafts/2026-07-28-infingame-aggregazione-tempi-lancio-engagement.md` | |
 
 ---
 
