@@ -9,11 +9,41 @@
 
 | # | Operatore | Stato | Data pubblicazione | File |
 |---|---|---|---|---|
-| 1 | Betflag | Bozza pronta, verifica dati in sospeso | — | `betflag/recensione-betflag-2026.md` |
+| 1 | Betflag | Pronta, docx/pdf in stile SNAI generati | — | `betflag/recensione-betflag-2026.{md,docx,pdf}` |
 | 2 | Planetwin365 | Da fare | — | — |
 | 3 | Lottomatica | Da fare | — | — |
 | 4 | Goldbet | Da fare | — | — |
 | 5 | My Lotteries Play | Da fare | — | — |
+
+## Generazione docx/pdf nello stile approvato (SNAI)
+
+Il design (colori, tabelle, box) è stato estratto direttamente dal docx/pdf SNAI originali
+già approvati da Bottadiculo (`Recensione_SNAI_2026.pdf/.docx`), non ricreato a occhio.
+Motore riutilizzabile in `_template/`:
+
+- `_template/review_docx_builder.py` — libreria Python (python-docx) con le funzioni per
+  titolo, box rating, barra CTA gold, tabella info, box "contro" rosa, tabella valutazioni
+  con header blu scuro, box nota blu, box voto finale crema, tabella comparativa
+- `_template/review_style.css` — stesso design system in CSS, usato per generare l'HTML
+  che poi diventa PDF via Chrome headless
+
+Per una nuova recensione (es. Planetwin365): copiare `betflag/build_betflag_docx.py` e
+`betflag/build_betflag_html.py` nella cartella del nuovo operatore, sostituire i contenuti,
+poi:
+
+```
+/tmp/docxenv/bin/python build_<operatore>_docx.py   # richiede venv con python-docx installato
+python3 build_<operatore>_html.py
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless --disable-gpu \
+  --no-pdf-header-footer --print-to-pdf="recensione-<operatore>-2026.pdf" \
+  "file://$(pwd)/recensione-<operatore>-2026.html"
+```
+
+Nota: l'header/footer ripetuto su ogni pagina (titolo/data in alto, "Pagina X" in basso)
+funziona correttamente solo nel DOCX (meccanismo nativo Word). Nel PDF, Chrome headless
+non ripete in modo affidabile elementi fissi su più pagine stampate (si sovrappongono al
+contenuto): il PDF ha quindi una nota di intestazione solo in cima al documento, senza
+numerazione di pagina ripetuta.
 
 ## Template struttura (da Recensione SNAI 2026)
 
