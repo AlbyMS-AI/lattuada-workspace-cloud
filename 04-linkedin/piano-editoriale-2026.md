@@ -1,5 +1,5 @@
 # Piano Editoriale LinkedIn
-**Generato:** 20 giugno 2026 — **Rivisto:** 08 luglio 2026 (post Lezione 6 MLR) — **Ristrutturato:** 09 luglio 2026 (obiettivi BDM, blocchi IT/EN) — **Completato:** 13 luglio 2026 (Blocco 6 di chiusura, layer non-autoreferenziale — benchmark `content-strategy/benchmark-vandilli.md`) — **Slittato 2 settimane:** 14 luglio 2026 (sondaggio IT di apertura Blocco 1 posticipato al 27/07 in attesa del parere MLR — lezione 7 prevista per il 27/07 — tutto il calendario da Blocco 2 in poi trasla di conseguenza) — **Adottato modello formato-fisso/contenuto-dinamico:** 27 luglio 2026 (Lezione 7 MLR — vedi sezione "Modello operativo" sotto: dal Blocco 2 in poi il piano fissa solo il formato, il tema si decide alla creazione)
+**Generato:** 20 giugno 2026 — **Rivisto:** 08 luglio 2026 (post Lezione 6 MLR) — **Ristrutturato:** 09 luglio 2026 (obiettivi BDM, blocchi IT/EN) — **Completato:** 13 luglio 2026 (Blocco 6 di chiusura, layer non-autoreferenziale — benchmark `content-strategy/benchmark-vandilli.md`) — **Slittato 2 settimane:** 14 luglio 2026 (sondaggio IT di apertura Blocco 1 posticipato al 27/07 in attesa del parere MLR — lezione 7 prevista per il 27/07 — tutto il calendario da Blocco 2 in poi trasla di conseguenza) — **Adottato modello formato-fisso/contenuto-dinamico:** 27 luglio 2026 (Lezione 7 MLR — vedi sezione "Modello operativo" sotto: dal Blocco 2 in poi il piano fissa solo il formato, il tema si decide alla creazione) — **Aggiornato post Lezione 8 MLR (31/07), preparato per revisione riga per riga a Lezione 9 (mercoledì 05/08):** 01 agosto 2026. Modello formato-fisso/contenuto-dinamico confermato (nessuna novità in Lezione 8, sessione quasi interamente Sales Navigator operativo). Novità recepita: spunto content framework PAS per il target gaming/casinò, inserito come nuova idea attiva in Blocco 2 (Mer 05/08, vedi sotto). Corretta un'incongruenza: Mer 12/08 (grafica AI nel BDM) era rimasta erroneamente attiva nonostante il ritmo ridotto tagli tutti i mercoledì — riportata in backlog come gli altri, per non superare 2 post/settimana + l'unica eccezione voluta (05/08).
 
 ---
 
@@ -105,7 +105,7 @@ Chi segue i 5 blocchi vede lo stesso schema ripetersi — apertura sul terreno o
 | Periodo | Blocco | Linea |
 |---|---|---|
 | 09/07 – 31/07 | **IT** — Riordino ADM, bug mercato ADM, AGCOM (in corso — sondaggio e chiusura posticipati al 27/07-31/07, vedi "Ritmo ridotto" sopra) | Nutrimento Italia |
-| 03/08 – 14/08 | **EN** — Rich List/piramide del betting, Tony Bloom, AI nel BDM | Lead gen estero |
+| 03/08 – 14/08 | **EN** — Rich List/piramide del betting, Tony Bloom, portfolio giochi (PAS) | Lead gen estero |
 | 17/08 – 28/08 | **IT** — Contraffazione giochi, certificazione provider, proroga fisico | Nutrimento Italia |
 | 31/08 – 11/09 | **EN** — Costo integrazioni multiple, 5 mercati EU (posizionale Softswiss) | Lead gen estero |
 | 14/09 – 18/09 | **IT** — Esports betting, angolo ADM | Nutrimento Italia |
@@ -243,6 +243,7 @@ Fonte metodologica: Laura Copelli, Smau 2025 — riassunto in `../07-formazione/
 | Carosello | Titolo PDF da usare |
 |---|---|
 | Blocco 1 Ven 10/07 — Operatori ADM crescita | `Operatori ADM iGaming crescita 2026 Vincitu Betsson Betitaly.pdf` |
+| Blocco 2 Mer 05/08 (nuovo 01/08) — Portfolio giochi PAS | `Portfolio giochi game aggregator strategia catalogo igaming.pdf` |
 | Blocco 2 Ven 14/08 (era 31/07) — Claude proposta IT | `AI Claude proposta commerciale mercato iGaming regolamentato Italia.pdf` |
 | Blocco 3 Ven 21/08 (era 07/08) — Verifica certificazione | `Come verificare certificazione provider iGaming ADM guida pratica.pdf` |
 | Blocco 4 Ven 11/09 (era 28/08) — Checklist compliance | `Checklist compliance nuovo mercato iGaming regolamentato Europa.pdf` |
@@ -267,7 +268,7 @@ L'incipit non nomina mai Alberto in prima persona come soggetto ("ho fatto", "ne
 | Blocco | Domanda di mercato | Gap coperto | Prova/case study |
 |---|---|---|---|
 | 1 (IT, in corso) | Chi sopravvive alla concentrazione del mercato ADM e perché | Nessuna fonte pubblica mette in fila vincitori/perdenti con dati concreti, solo annunci singoli | Dati Gambling Insights #67 (Bottadiculo) + articolo Jamma, fonte pubblica citata |
-| 2 (EN) | Chi crea davvero valore nella filiera del betting; come cambia il lavoro BDM con l'AI | Il discorso pubblico su "AI nel gaming" resta teorico — nessuno mostra un uso operativo reale | Caso proprio anonimizzato: proposta commerciale strutturata con Claude (Blocco 2, Ven 31/07) |
+| 2 (EN) | Chi crea davvero valore nella filiera del betting; come cambia il lavoro BDM con l'AI; perché un catalogo giochi più ampio non genera automaticamente più revenue | Il discorso pubblico su "AI nel gaming" resta teorico — nessuno mostra un uso operativo reale. Sul portfolio giochi: il discorso pubblico è quasi tutto "più titoli = più scelta per il giocatore", mai il costo di gestione di un catalogo disperso | Caso proprio anonimizzato: proposta commerciale strutturata con Claude (Blocco 2, Ven 14/08). Sul portfolio giochi: meccanismo generico di selezione (BDM esperienza generalizzata, nessun operatore/deal nominato) — **la cifra "mercato dominato da 6 titoli" emersa in Lezione 8 va verificata su fonte pubblica prima della pubblicazione, non va citata come certa da una conversazione interna** |
 | 3 (IT) | Quanto è reale il rischio contraffazione; come si verifica un provider prima di integrarlo | I fornitori parlano di certificazione come formalità, non come processo verificabile dal buyer | Meccanismo generico di verifica (non un dossier specifico) + fonte Jamma |
 | 4 (EN) | Perché un'integrazione unica pesa meno di 3 separate nel tempo, non alla firma | Il costo si racconta sempre al momento della vendita, mai nella gestione post-integrazione | Esperienza BDM generalizzata (10% posizionale, senza nominare deal) + Intelligence A8R |
 | 5 (IT) | Chi presidia davvero l'esports betting nel mercato ADM | Il dato di crescita (+91%) circola, ma nessuno lo lega a un'analisi retention/LTV specifica ADM | Gambling Insights #64 (Bottadiculo), fonte pubblica |
@@ -299,22 +300,24 @@ Le colonne sopra su Blocchi 1-5 sono una verifica leggera (i contenuti sono già
 **Formato fisso, contenuto dinamico (dal 27/07, vedi "Modello operativo" sopra):** le idee sotto sono di riferimento, il tema si conferma alla creazione del contenuto, non qui.
 
 ## Blocco 2 — EN — Chi guadagna e l'AI nel gaming (03/08 – 14/08)
-**Argomento:** Rich List 2026 (struttura economica del settore) + AI nel processo BDM, visti da un insider
-**Fonte:** Gambling Insights #65 — Bottadiculo (Rich List) + esperienza diretta BDM (AI)
+**Argomento:** Rich List 2026 (struttura economica del settore) + AI nel processo BDM + portfolio giochi/framework PAS (spunto Lezione 8 MLR, 31/07), visti da un insider
+**Fonte:** Gambling Insights #65 — Bottadiculo (Rich List) + esperienza diretta BDM (AI, portfolio giochi)
 **Buyer persona:** prospect esteri, reach ampio — lead gen
 **Lingua:** EN
 **Nota:** nessun mention esplicito Softswiss nei post — solo nella CTA in DM
 
-**Slittato 2 settimane il 14/07** (per assorbire il rinvio del sondaggio IT di Blocco 1 senza mischiare blocchi IT/EN, vedi "Ritmo ridotto" sopra): mercoledì 05/08 e lunedì 10/08 restano posticipati come nel piano originale — la ferie non ricade più su queste date, ma il taglio del ritmo ridotto sì.
+**Slittato 2 settimane il 14/07** (per assorbire il rinvio del sondaggio IT di Blocco 1 senza mischiare blocchi IT/EN, vedi "Ritmo ridotto" sopra): lunedì 10/08 e mercoledì 12/08 restano posticipati come nel piano originale — la ferie non ricade più su queste date, ma il taglio del ritmo ridotto sì.
+
+**Eccezione unica (aggiunta 01/08, post Lezione 8 MLR):** mercoledì 05/08 torna attivo solo per il carosello portfolio giochi/PAS — spunto emerso in Lezione 8, troppo tempestivo per aspettare un blocco futuro (framework mostrato in sessione, aggancio diretto alla linea lead gen EN). Il resto del blocco resta a 2 post/settimana come da ritmo ridotto; mercoledì 12/08 resta tagliato.
 
 | Giorno | Formato | Contenuto |
 |---|---|---|
 | ~~Lun 20/07~~ → **Lun 03/08** | S | "Nel betting, chi crea davvero valore?" — L'operatore / L'affiliato / Il provider / Il giocatore vincente |
-| ~~Mer 22/07~~ → **Mer 05/08** | ~~G~~ | ~~Grafica: la piramide economica del betting — dai miliardari alle ricevitorie~~ — posticipata (backlog) |
+| ~~Mer 22/07~~ → **Mer 05/08** | C | Carosello "Portfolio giochi: perché più titoli non significa più revenue" — framework PAS (problema/agitazione/soluzione) applicato al target gaming/casinò. **Nuovo (01/08), spunto Lezione 8 MLR** — unica eccezione al taglio mercoledì in questo blocco |
 | ~~Ven 24/07~~ → **Ven 07/08** | P | "Tony Bloom non scommette. Gestisce la liquidità. La distinzione che cambia tutto." |
 | **Ven 07/08** (era 24/07) | **N2 (IT)** | Newsletter "The Betting Edge" — Delibera AGCOM 85/26/CONS, approfondimento (scollegata da questo blocco EN) |
 | ~~Lun 27/07~~ → **Lun 10/08** | ~~P~~ | ~~"L'AI non sta togliendo lavori nel gaming. Sta cambiando chi comanda nei processi decisionali."~~ — posticipata (backlog) |
-| ~~Mer 29/07~~ → **Mer 12/08** | G | Grafica: 5 usi concreti dell'AI nel processo BDM — prospect research, proposal, market analysis, debrief, piano editoriale |
+| ~~Mer 29/07~~ → **Mer 12/08** | ~~G~~ | ~~Grafica: 5 usi concreti dell'AI nel processo BDM — prospect research, proposal, market analysis, debrief, piano editoriale~~ — posticipata (backlog). **Corretto 01/08**: era rimasta erroneamente attiva nonostante il ritmo ridotto tagli tutti i mercoledì; l'unica eccezione voluta in questo blocco è il 05/08 |
 | ~~Ven 31/07~~ → **Ven 14/08** | C | Carosello "Come ho usato Claude per strutturare una proposta commerciale per il mercato IT regolamentato" (anonimizzato). **Atto 3**: chiudere sul "dopo" — l'AI non si ferma alla firma, come si usa nel monitoraggio post-integrazione di un account |
 
 ---
@@ -423,7 +426,7 @@ Le colonne sopra su Blocchi 1-5 sono una verifica leggera (i contenuti sono già
 ## Note operative
 
 **Newsletter:** "The Betting Edge" — unica newsletter attiva, 1.023 iscritti, 17 edizioni pubblicate, bisettimanale piena (14 giorni esatti, nessun salto) e indipendente dai blocchi post. Sempre IT, sempre linea market intelligence, mai lead gen esplicita. Sequenza aggiornata il 14/07/2026 (slittamento 2 settimane): N1 10/07 · N2 07/08 · N3 21/08 · N4 04/09 · N5 18/09 · N6 02/10.
-**Post — cadenza (deciso 13/07/2026, slittato 2 settimane il 14/07/2026):** **2 post/settimana da oggi 14/07 fino all'11/09**, luglio-agosto-inizio settembre compresi — non solo per le ferie. **Da metà settembre**, Blocco 5/6 sono disegnati a pieno regime (3 post/settimana) ma restano **provvisori**: si confermano al checkpoint analytics di fine agosto (vedi task dedicato in `task-list.md`). Blocchi da 2 settimane alternati IT/EN. IT = nutrimento account italiani già chiusi. EN = lead gen estero, CTA verso Sales Navigator/InMail.
+**Post — cadenza (deciso 13/07/2026, slittato 2 settimane il 14/07/2026):** **2 post/settimana da oggi 14/07 fino all'11/09**, luglio-agosto-inizio settembre compresi — non solo per le ferie. **Unica eccezione (01/08):** mercoledì 05/08 riattivato per il carosello portfolio giochi/PAS (Blocco 2) — contenuto specifico legato allo spunto di Lezione 8, non un cambio di ritmo strutturale. **Da metà settembre**, Blocco 5/6 sono disegnati a pieno regime (3 post/settimana) ma restano **provvisori**: si confermano al checkpoint analytics di fine agosto (vedi task dedicato in `task-list.md`). Blocchi da 2 settimane alternati IT/EN. IT = nutrimento account italiani già chiusi. EN = lead gen estero, CTA verso Sales Navigator/InMail.
 **Strumenti grafica:** Napkin (veloce) o Canva (qualità) — palette brand in `palette-brand.md`
 **Sondaggio:** framing generico di mercato (mai seconda persona/possesso), una sola CTA, mandarlo in DM via Sales Navigator prima della pubblicazione a lista lead qualificati — regole complete in `content-strategy/sondaggi/istruzioni.md`
 **Analisi post prima di pubblicare:** passaggio obbligatorio, checklist in `content-strategy/analisi-post-pre-pubblicazione.md` (provvisoria, in attesa del file di Letizia)

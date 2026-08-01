@@ -255,18 +255,19 @@ Per sviluppare un contenuto: indicare il blocco + formato, Claude legge la fonte
 Corso di personal branding e content strategy LinkedIn in corso.
 Materiali e riassunti sessioni: `../07-formazione/mlr-linkedin-2026/`
 
-Sessioni completate: 1 (27/05) · 2 (03/06) · 3 (08/06) · 4 (15/06) · 5 (19/06) · 6 (08/07)
+Sessioni completate: 1 (27/05) · 2 (03/06) · 3 (08/06) · 4 (15/06) · 5 (19/06) · 6 (08/07) · 7 (27/07) · 8 (31/07)
 Webinar Newsletter LinkedIn MLR guardato il 20/06/2026 — note in `content-strategy/newsletter-linkedin/istruzioni.md`
 Sessione 13 luglio (17:00): saltata — non tenuta.
-Lezione 7 tenuta il 27 luglio — riassunto in `../07-formazione/mlr-linkedin-2026/Lezione 7/riassunto-sessione7-2026-07-27.md`. Prossima sessione: venerdì 31 luglio (MLR #8).
+Lezione 7 tenuta il 27 luglio — riassunto in `../07-formazione/mlr-linkedin-2026/Lezione 7/riassunto-sessione7-2026-07-27.md`.
+Lezione 8 tenuta il 31 luglio (quasi interamente Sales Navigator operativo, revisione piano editoriale di nuovo rimandata) — riassunto in `../07-formazione/mlr-linkedin-2026/Lezione 8/riassunto-sessione8-2026-07-31.md`. Prossima sessione: **mercoledì 5 agosto, 8:30-10:30 (MLR #9)**; sessione aggiuntiva fissata per il 31 agosto.
 
-Task aperti (lezione 7, 27/07) — stato al 28/07:
+Task aperti (lezione 8, 31/07) — stato al 01/08:
 
-- [~] **Creazione liste lead** — 2 liste create (28/07); resta da inviare le richieste di collegamento e far scorrere rosso→giallo→verde, **entro giovedì 30/07**. Manuale su Sales Navigator, non automatizzabile da Claude
-- [x] Modifica e miglioramento piano editoriale LinkedIn — fatto 27/07, vedi `piano-editoriale-2026.md` sezione "Modello operativo"
-- [x] Contenuto newsjacking su Pirlo — se ne occupa Alberto in autonomia, non cita il bookmaker/sponsor coinvolto
-- [x] Mandare mail a MLR con le skill richieste — inviata 27/07, skill ricevute e adattate il 28/07 (vedi sotto)
-- [x] Piano editoriale pronto per Lezione 8 (31/07)
+- [ ] **Sales Navigator** — salvare/rinominare ricerche, inviare richieste di collegamento ai 17 lead qualificati, liste "lead spontanei da Newsletter" e "da ricontattare a settembre", ricerca "follower pagina + secondo grado". Manuale su Sales Navigator, non automatizzabile da Claude
+- [ ] Contattare il team marketing aziendale sulla content strategy — manuale
+- [x] Sviluppare contenuto gaming/casinò (framework PAS) — **fatto 01/08**, in `piano-editoriale-2026.md` Blocco 2, carosello Mer 05/08 "Portfolio giochi: perché più titoli non significa più revenue" (idea di riferimento, testo alla creazione). Attenzione: la cifra "6 titoli dominano il mercato" va verificata su fonte pubblica prima di scrivere il post
+- [x] **Revisione riga per riga del piano editoriale** — piano preparato e pronto per Lezione 9 (01/08, vedi changelog in `piano-editoriale-2026.md`); la revisione vera con MLR resta da fare, terzo tentativo dopo Lezione 7 e 8
+- [ ] Validazione framing sondaggi riformulato (già applicato) + checkpoint buyer persona Marco/Giulia (richiede dati reali, non disponibili)
 
 Ancora aperti da Lezione 6:
 

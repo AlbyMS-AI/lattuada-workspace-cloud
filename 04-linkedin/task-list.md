@@ -2,6 +2,7 @@
 > Aggiornato: 2026-07-14 — allineata a `piano-editoriale-2026.md` (ritmo ridotto esteso a tutta l'estate, deciso il 13/07: 2 post/settimana + newsletter bisettimanale piena — aggiunta edizione N3 intermedia, N4-N6 rinumerate; settembre a pieno regime solo dopo checkpoint analytics) + regola ferie: **14-22/07 Alberto attivo solo su Softswiss, nessuna attività LinkedIn**.
 > **Slittamento 2 settimane (14/07):** il sondaggio IT di apertura Blocco 1 non è uscito il 13-14/07 — lezione MLR del 13/07 saltata, Alberto vuole il parere di MLR prima di pubblicare (atteso entro lezione 7 MLR, prevista per il 27/07). Pubblicandolo lunedì 27/07, tutto il calendario da Blocco 2 in poi (post e newsletter) slitta di 2 settimane esatte per non mischiare blocchi IT/EN — dettaglio in `piano-editoriale-2026.md`, sezione "Ritmo ridotto".
 > Le date sono verificate sull'ancora 01/07/2026 = mercoledì.
+> **Aggiornamento 01/08/2026 (post Lezione 8 MLR):** aggiunto il carosello Mer 05/08 "Portfolio giochi" (framework PAS, unica eccezione al ritmo ridotto in Blocco 2) e corretta un'incongruenza — la grafica AI nel BDM di Mer 12/08 era rimasta attiva per errore, ora in backlog. Dettaglio completo in `piano-editoriale-2026.md`.
 
 Ogni riga è un task di produzione. Colonna "Grafica" sempre esplicita.
 Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-strategy/analisi-post-pre-pubblicazione.md`.
@@ -40,7 +41,7 @@ Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-str
 | ~~20/07~~ → **03/08** | ~~Lun~~ Lun | Sondaggio | EN | Nel betting, chi crea davvero valore? | No | 30/07 (Gio) | [ ] Da sviluppare — slittato 2 settimane (14/07), apre Blocco 2 |
 | ~~24/07~~ → **07/08** | ~~Ven~~ Ven | Post testo | EN | Tony Bloom non scommette: la distinzione che cambia tutto | No | 05/08 (Mer) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
 | ~~24/07~~ → **07/08** | ~~Ven~~ Ven | **Newsletter N2 — The Betting Edge** | IT | Delibera AGCOM 85/26/CONS — approfondimento | No (testo + immagini inline con tag alt) | 05/08 (Mer) | [~] Fact-check e umanizzazione completati (13/07) — `newsletter-2026-07-24-n2-agcom-85-26-cons.md` — slittata 2 settimane (14/07), resta accoppiata al post Tony Bloom. Manca solo revisione finale e conferma di Alberto, poi programmare su LinkedIn |
-| ~~29/07~~ → **12/08** | ~~Mer~~ Mer | Grafica | EN | 5 usi concreti dell'AI nel processo BDM | Sì — infografica (workflow Canva/NotebookLM) | 10/08 (Lun) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
+| **05/08** (nuovo 01/08) | Mer | Carosello | EN | Portfolio giochi: perché più titoli non significa più revenue (framework PAS, spunto Lezione 8 MLR) | Sì — carosello PDF (workflow Canva/NotebookLM) | 03/08 (Lun) | [ ] Da sviluppare — **unica eccezione al ritmo ridotto** in questo blocco. ⚠️ Verificare su fonte pubblica la cifra "mercato dominato da 6 titoli" (detta a voce in sessione) prima di scriverlo, non citarla come certa |
 | ~~31/07~~ → **14/08** | ~~Ven~~ Ven | Carosello | EN | Claude per una proposta commerciale mercato IT regolamentato (Atto 3, anonimizzato) | Sì — carosello PDF (workflow Canva/NotebookLM) | 12/08 (Mer) | [ ] Da sviluppare — slittato 2 settimane (14/07), chiude Blocco 2 |
 | ~~03/08~~ → **17/08** | ~~Lun~~ Lun | Post testo | IT | La contraffazione dei giochi cresce col mercato legale | No | 13/08 (Gio) | [ ] Da sviluppare — slittato 2 settimane (14/07), apre Blocco 3 |
 | ~~07/08~~ → **21/08** | ~~Ven~~ Ven | Carosello | IT | Come verificare la certificazione di un provider | Sì — carosello PDF (workflow Canva/NotebookLM) | 19/08 (Mer) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
@@ -94,6 +95,7 @@ Non si perdono: si producono con la pipeline workspace quando si libera uno slot
 |---|---|---|
 | 29/07 (Mer, saltato — era 15/07) | 4 bug strutturali del mercato ADM | [ ] **Testo approvato + fact-checked (12/07)** — `grafica-backlog-bug-strutturali-adm.md` — manca solo login NotebookLM + generazione (istruzioni "come riprendere" nel file) |
 | 05/08 (Mer, saltato — era 22/07) | La piramide economica del betting (EN) | [ ] In backlog |
+| 12/08 (Mer, saltato — era 29/07) | 5 usi concreti dell'AI nel processo BDM (EN) | [ ] In backlog — **spostato qui il 01/08**: era rimasto attivo per errore nel piano nonostante il taglio mercoledì, corretto insieme alla revisione post Lezione 8 |
 | 19/08 (Mer, saltato — era 05/08) | Filiera della contraffazione (IT) | [ ] In backlog |
 | 26/08 (Mer, saltato — era 12/08) | Chi tiene quota nel gioco fisico italiano (IT) | [ ] In backlog |
 | 02/09 (Mer, saltato — era 19/08 — Blocco 4) | Costo totale di ownership: 3 integrazioni vs 1 (EN) | [ ] In backlog — nuovo, da estensione ritmo ridotto decisa 13/07 |
@@ -107,7 +109,9 @@ Non si perdono: si producono con la pipeline workspace quando si libera uno slot
 2. **Lun 27/07 (rientro + lezione 7 MLR):** pubblicare il sondaggio IT "perché i giocatori esperti scelgono i siti non regolamentati" — subordinato al parere di MLR nella lezione dello stesso giorno.
 3. **Ven 31/07:** pubblicare il post AGCOM 85/26/CONS (già scritto, mai programmato) — chiude Blocco 1.
 4. **Gio 30/07 (creare entro):** sviluppare il sondaggio EN "chi crea davvero valore" per il 03/08 — apre Blocco 2.
-5. **Mer 05/08 (creare entro):** chiudere post Tony Bloom + newsletter N2 (AGCOM) per il 07/08 — N2 è già fact-checked e umanizzata, resta solo la revisione finale di Alberto.
+5. **Lun 03/08 (creare entro):** sviluppare il carosello "Portfolio giochi" (framework PAS) per Mer 05/08 — verificare prima la cifra "6 titoli" su fonte pubblica.
+6. **Mer 05/08 (creare entro):** chiudere post Tony Bloom + newsletter N2 (AGCOM) per il 07/08 — N2 è già fact-checked e umanizzata, resta solo la revisione finale di Alberto.
+7. **Mer 05/08, 8:30-10:30 (Lezione 9 MLR):** portare il piano editoriale aggiornato per la revisione riga per riga — terzo tentativo dopo Lezione 7 e 8.
 
 ## Task trasversale — buyer persona
 
