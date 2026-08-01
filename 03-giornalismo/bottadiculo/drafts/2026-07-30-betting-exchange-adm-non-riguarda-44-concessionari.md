@@ -5,7 +5,7 @@
 **Formato:** Post LinkedIn (circa 210 parole)
 **Topic:** ADM convoca i concessionari il 3 luglio e il 6 agosto sulla bozza di regolamento betting exchange + aggiornamento protocollo tecnico PSID 3.0. Angolo operativo: cosa significa per chi lavora nei 44 concessionari su 46 che non hanno mai attivato l'exchange in 12 anni.
 **Fonti:** Agimeg.it, Jamma.it (convocazioni ADM), stessa ricerca fact-checkata dell'articolo Jamma collegato
-**Status:** Bozza
+**Status:** Pubblicato
 
 ---
 

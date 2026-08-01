@@ -12,6 +12,8 @@ Formato: `| Data | Testata | Titolo | File | Note |`
 
 | Data | Testata | Titolo | File | Note |
 |---|---|---|---|---|
+| 30/07 | Jamma | Betting exchange, la bozza ADM non apre il mercato: la barriera resta la concessione da 7 milioni di euro | `jamma/drafts/2026-07-30-betting-exchange-adm-concessione-mercato-chiuso.md` | |
+| 30/07 | Bottadiculo | Il betting exchange si aggiorna, non si apre | `bottadiculo/drafts/2026-07-30-betting-exchange-adm-non-riguarda-44-concessionari.md` | Post LinkedIn |
 | 29/07 | Jamma | ADM fissa al 12% il tasso di controlli positivi per tre anni. Regno Unito e Germania misurano già l'esito della compliance nel gioco, non il numero delle verifiche | `jamma/drafts/2026-07-29-adm-tasso-positivita-controlli-checkbox-outcome.md` | Spunto da analisi SBC News (fonte non citata su richiesta di Alberto) |
 | 26/07 | Bottadiculo | Netflix racconta i prediction market. Kalshi accusa Netflix di aver falsificato le prove | `bottadiculo/drafts/2026-07-26-netflix-prediction-games-documentario-newsletter-linkedin.md` | Newsletter LinkedIn — SEO companion: `...-seo.md`; post di supporto: `2026-07-26-netflix-prediction-games-post-supporto.md` |
 | 25/07 | Jamma | Il Mondiale 2026 chiude senza scommesse sospette. Ma il vero problema è il prediction market che nessuno sa ancora leggere | `archive/jamma/newsletter/2026-07-25-fifa-copenhagen-prediction-market-integrity-corretto.md` | Newsletter LinkedIn — versione corretta il 27/07 dopo fact-check (rimossa cifra 240 mld non riscontrata, corretto "unica anomalia" Balogun con secondo caso Polymarket Spagna-Capo Verde, aggiunto contesto telefonata Trump-Infantino) |
