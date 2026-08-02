@@ -7,30 +7,30 @@
 
 - [x] **Codice affiliazione GoldBet** — confermato: **Edisonsrl21** (27/06/2026)
 - [x] **Ciclo sala virtuale "chiudo e apro 20 gg"** — meccanismo chiarito con Luigi (29/06/2026)
-- [ ] **Quantificare proposta Stefano Peduzzi** — definire valore per: 3 incontri con giocatori + intervista + presenza. Fee? In kind? % GGR? — **fine mese (27-31/07)**
+- [~] **Quantificare proposta Stefano Peduzzi** — definire valore per: 3 incontri con giocatori + intervista + presenza. Fee? In kind? % GGR? — **derubricato (02/08/2026)**: non più prioritario per ora, tolto dal tracker attivo
 
 ---
 
 ## GOLDBET
 
 - [x] **Strutturare workflow onboarding giocatore Goldbet** — dal primo contatto alla segnalazione bonus slot (300€ / 1.500€). Costruito in `workflows/` — chiuso (06/07/2026)
-- [ ] **Definire meccanismo poker giovedì** — password dedicata, chi invitare, come comunicarlo, follow-up — **fine mese (27-31/07)**
-- [ ] **Chiarire massimali ippica + sport** — chiedere al referente Goldbet i limiti bonus su ippica e sport — **fine mese (27-31/07)**
+- [~] **Definire meccanismo poker giovedì** — password dedicata, chi invitare, come comunicarlo, follow-up — **derubricato (02/08/2026)**: non più prioritario per ora, tolto dal tracker attivo
+- [~] **Chiarire massimali ippica + sport** — chiedere al referente Goldbet i limiti bonus su ippica e sport — **derubricato (02/08/2026)**: non più prioritario per ora, tolto dal tracker attivo
 
 ---
 
 ## BETFLAG
 
-- [ ] **Fissare call Betflag per Exchange** — obiettivo: personalizzazioni possibili su Exchange, ippica, casinò — **fine mese (27-31/07)**
-- [ ] **Analizzare bonus Betflag** — URL: https://info.betflag.it/promozioni-e-bonus/ — estrarre meccaniche, confrontarle con Goldbet, identificare leve di personalizzazione — **fine mese (27-31/07)**
-- [ ] **Mappare opportunità personalizzazione Betflag** — dopo analisi bonus: quali si possono customizzare per la rete? — **fine mese (27-31/07)**
+- [~] **Fissare call Betflag per Exchange** — obiettivo: personalizzazioni possibili su Exchange, ippica, casinò — **derubricato (02/08/2026)**: non più prioritario per ora, tolto dal tracker attivo
+- [~] **Analizzare bonus Betflag** — URL: https://info.betflag.it/promozioni-e-bonus/ — estrarre meccaniche, confrontarle con Goldbet, identificare leve di personalizzazione — **derubricato (02/08/2026)**: non più prioritario per ora, tolto dal tracker attivo
+- [~] **Mappare opportunità personalizzazione Betflag** — dopo analisi bonus: quali si possono customizzare per la rete? — **derubricato (02/08/2026)**: non più prioritario per ora, tolto dal tracker attivo
 
 ---
 
 ## LASVEGAS DIRETTI
 
-- [ ] **Progettare campagna dormienti LasVegas** — identificare segmento (ultimi X mesi senza gioco), canale (WhatsApp/email/DM), offerta, CTA — **fine mese (27-31/07)**
-- [ ] **Mappare community mancanti** — fare lista community di giocatori non ancora nella rete; prioritizzarle per verticale (poker, slot, sport, ippica) — **fine mese (27-31/07)**
+- [ ] **Progettare campagna dormienti LasVegas** — identificare segmento (ultimi X mesi senza gioco), canale (WhatsApp/email/DM), offerta, CTA — **metà agosto (14-16/08)**, spostato dal 02/08/2026
+- [ ] **Mappare community mancanti** — fare lista community di giocatori non ancora nella rete; prioritizzarle per verticale (poker, slot, sport, ippica) — **metà agosto (14-16/08)**, spostato dal 02/08/2026
 
 ---
 

@@ -61,6 +61,7 @@ Formato: `| Data | Testata | Titolo | File | Note |`
 | 28/07 | Bottadiculo | NordVPN scopre una truffa social che ruba oltre 400 marchi per dirottare su casinò non autorizzati | `bottadiculo/drafts/2026-07-28-nordvpn-truffa-brand-casino-non-autorizzato.md` | |
 | 28/07 | Jamma | Infingame taglia i tempi di lancio del settanta per cento. Il suo dato di una settimana prima dice che non è il catalogo a spingere l'engagement | `jamma/drafts/2026-07-28-infingame-aggregazione-tempi-lancio-engagement.md` | |
 | 02/08 | Jamma | Il caso Fonbet-Pirlo: ADM oscura un dominio in un giorno, il decreto dignità non aveva mai visto l'ambassador che lo aggirava da nove mesi | `jamma/drafts/2026-08-02-fonbet-pirlo-decreto-dignita-ambassador-adm.md` | Newsletter |
+| 02/08 | Bottadiculo | Polymarket-Lazio: l'indennizzo da 7 milioni è il prezzo del blocco ADM | `bottadiculo/drafts/2026-08-01-polymarket-lazio-indennizzo-newsletter-linkedin.md` | Newsletter LinkedIn — SEO companion: `...-seo.md`; post di supporto: `2026-08-01-polymarket-lazio-indennizzo-post-supporto.md` |
 
 ---
 
