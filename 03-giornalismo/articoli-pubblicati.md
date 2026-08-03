@@ -12,6 +12,7 @@ Formato: `| Data | Testata | Titolo | File | Note |`
 
 | Data | Testata | Titolo | File | Note |
 |---|---|---|---|---|
+| 03/08 | Jamma | Il caso Fonbet-Pirlo: l'oscuramento ADM era già deciso dal 10 luglio, il decreto dignità non aveva mai visto l'ambassador che lo aggirava da nove mesi | `jamma/drafts/2026-08-02-fonbet-pirlo-decreto-dignita-ambassador-adm.md` | Newsletter LinkedIn — corretta su segnalazione della dir. resp. Monica Cuprifi (02/08): il provvedimento ADM è del 10/07 con validità dal 27/07, non una reazione allo scandalo Pirlo. Rimosso il riferimento Betsson-Inter su indicazione di Alberto, sostituito con Polymarket-Lazio. Omessa la pista Lottomatica (nessuna fonte pubblica, indicazione della direttrice) |
 | 30/07 | Jamma | Betting exchange, la bozza ADM non apre il mercato: la barriera resta la concessione da 7 milioni di euro | `jamma/drafts/2026-07-30-betting-exchange-adm-concessione-mercato-chiuso.md` | |
 | 30/07 | Bottadiculo | Il betting exchange si aggiorna, non si apre | `bottadiculo/drafts/2026-07-30-betting-exchange-adm-non-riguarda-44-concessionari.md` | Post LinkedIn |
 | 29/07 | Jamma | ADM fissa al 12% il tasso di controlli positivi per tre anni. Regno Unito e Germania misurano già l'esito della compliance nel gioco, non il numero delle verifiche | `jamma/drafts/2026-07-29-adm-tasso-positivita-controlli-checkbox-outcome.md` | Spunto da analisi SBC News (fonte non citata su richiesta di Alberto) |
