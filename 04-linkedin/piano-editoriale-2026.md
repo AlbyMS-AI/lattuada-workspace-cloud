@@ -1,5 +1,5 @@
 # Piano Editoriale LinkedIn
-**Generato:** 20 giugno 2026 — **Rivisto:** 08 luglio 2026 (post Lezione 6 MLR) — **Ristrutturato:** 09 luglio 2026 (obiettivi BDM, blocchi IT/EN) — **Completato:** 13 luglio 2026 (Blocco 6 di chiusura, layer non-autoreferenziale — benchmark `content-strategy/benchmark-vandilli.md`) — **Slittato 2 settimane:** 14 luglio 2026 (sondaggio IT di apertura Blocco 1 posticipato al 27/07 in attesa del parere MLR — lezione 7 prevista per il 27/07 — tutto il calendario da Blocco 2 in poi trasla di conseguenza) — **Adottato modello formato-fisso/contenuto-dinamico:** 27 luglio 2026 (Lezione 7 MLR — vedi sezione "Modello operativo" sotto: dal Blocco 2 in poi il piano fissa solo il formato, il tema si decide alla creazione) — **Aggiornato post Lezione 8 MLR (31/07), preparato per revisione riga per riga a Lezione 9 (mercoledì 05/08):** 01 agosto 2026. Modello formato-fisso/contenuto-dinamico confermato (nessuna novità in Lezione 8, sessione quasi interamente Sales Navigator operativo). Novità recepita: spunto content framework PAS per il target gaming/casinò, inserito come nuova idea attiva in Blocco 2 (Mer 05/08, vedi sotto). Corretta un'incongruenza: Mer 12/08 (grafica AI nel BDM) era rimasta erroneamente attiva nonostante il ritmo ridotto tagli tutti i mercoledì — riportata in backlog come gli altri, per non superare 2 post/settimana + l'unica eccezione voluta (05/08).
+**Generato:** 20 giugno 2026 — **Rivisto:** 08 luglio 2026 (post Lezione 6 MLR) — **Ristrutturato:** 09 luglio 2026 (obiettivi BDM, blocchi IT/EN) — **Completato:** 13 luglio 2026 (Blocco 6 di chiusura, layer non-autoreferenziale — benchmark `content-strategy/benchmark-vandilli.md`) — **Slittato 2 settimane:** 14 luglio 2026 (sondaggio IT di apertura Blocco 1 posticipato al 27/07 in attesa del parere MLR — lezione 7 prevista per il 27/07 — tutto il calendario da Blocco 2 in poi trasla di conseguenza) — **Adottato modello formato-fisso/contenuto-dinamico:** 27 luglio 2026 (Lezione 7 MLR — vedi sezione "Modello operativo" sotto: dal Blocco 2 in poi il piano fissa solo il formato, il tema si decide alla creazione) — **Aggiornato post Lezione 8 MLR (31/07), preparato per revisione riga per riga a Lezione 9 (mercoledì 05/08):** 01 agosto 2026. Modello formato-fisso/contenuto-dinamico confermato (nessuna novità in Lezione 8, sessione quasi interamente Sales Navigator operativo). Novità recepita: spunto content framework PAS per il target gaming/casinò, inserito come nuova idea attiva in Blocco 2 (Mer 05/08, vedi sotto). Corretta un'incongruenza: Mer 12/08 (grafica AI nel BDM) era rimasta erroneamente attiva nonostante il ritmo ridotto tagli tutti i mercoledì — riportata in backlog come gli altri, per non superare 2 post/settimana + l'unica eccezione voluta (05/08). — **Blocco 1 IT chiuso senza i due pezzi finali:** 02 agosto 2026. Alberto ha deciso di non pubblicare né il sondaggio IT del 27/07 ("perché i giocatori esperti scelgono i siti non regolamentati") né il post AGCOM del 31/07 ("Il paradosso AGCOM 85/26/CONS") — Blocco 1 chiude a 5 contenuti invece di 7, testi restano salvati per eventuale riuso. Blocco 2 EN è già partito regolarmente (sondaggio "Nel betting, chi crea davvero valore?" pubblicato, schedulato lunedì 03/08): la sovrapposizione con la coda di Blocco 1 che la regola "non mischiare IT/EN" voleva evitare non si verifica più, perché Blocco 1 semplicemente si chiude prima anziché arrivare a fine luglio. Il resto del calendario (già slittato di 2 settimane il 14/07) non cambia.
 
 ---
 
@@ -30,7 +30,7 @@ Il piano non ha più un obiettivo unico. Segue due linee editoriali separate, ci
 
 | Blocco | Tema Atto 1/2 | Angolo Atto 3 | Dove si innesta |
 |---|---|---|---|
-| 1 (IT) | Riordino licenze ADM, concentrazione mercato | Un operatore che cambia/aggiunge aggregator per adeguarsi: cosa succede nei primi 90 giorni | Post **Ven 31/07** (era 17/07) |
+| 1 (IT) | Riordino licenze ADM, concentrazione mercato | Un operatore che cambia/aggiunge aggregator per adeguarsi: cosa succede nei primi 90 giorni | ~~Post Ven 31/07~~ — **non pubblicato (deciso 02/08)**, innesto Atto 3 saltato per questo blocco. Il percorso narrativo riprende regolarmente da Blocco 2 |
 | 2 (EN) | Chi crea valore nel betting, AI nel processo BDM | L'AI non si ferma alla firma: come si usa nel monitoraggio post-integrazione di un account | Carosello **Ven 14/08** (era 31/07) |
 | 3 (IT) | Contraffazione, certificazione provider | Dopo la certificazione: chi verifica cosa, nei primi mesi di integrazione | Newsletter **N3 (21/08)** (era 07/08) |
 | 4 (EN) | Costo di integrazioni multiple, 5 mercati EU | Il costo reale di un'integrazione non si vede alla firma, si vede nei primi 6 mesi di gestione | Post **Ven 04/09** + Newsletter **N4 (04/09)** (era 21/08) |
@@ -44,7 +44,9 @@ Chi segue i 5 blocchi vede lo stesso schema ripetersi — apertura sul terreno o
 
 **Deciso:** 10 luglio 2026, esteso il 13 luglio 2026, ricalendarizzato il 14 luglio 2026. Da lunedì 13/07 e per tutta l'estate: **2 post/settimana** invece di 3, **newsletter bisettimanale** (cadenza standard, non compressa oltre l'eccezione già segnalata sotto). La finestra ferie (14-22/07, vedi `[[project_ferie_luglio_2026]]`) resta dentro questo periodo, ma non ne è più l'unica motivazione: **13/07/2026** Alberto ha deciso di tenere il ritmo ridotto per tutta l'estate, non solo per il rientro dalle ferie, e di riportare il piano a pieno regime dopo un checkpoint sulle analytics reali (vedi "Note operative" e "Task trasversale — buyer persona" in `task-list.md`) — non a data fissa indipendente dai dati.
 
-**Slittamento 2 settimane (deciso 14/07/2026):** il sondaggio IT di apertura Blocco 1 non è uscito il 13-14/07 (lezione MLR del 13/07 saltata, Alberto vuole il parere di MLR prima di pubblicare — atteso entro lezione 7 MLR, prevista per il 27/07). Pubblicandolo lunedì **27/07**, il post di chiusura Blocco 1 (AGCOM, non ancora programmato) si sposterebbe su venerdì 31/07 — proprio la settimana già occupata dal Blocco 2 EN. Per non mischiare IT/EN nello stesso blocco, **tutto il calendario da Blocco 2 in poi (post e newsletter) slitta di 2 settimane esatte**, mantenendo intatti giorno della settimana e abbinamenti post+newsletter già pensati per uscire insieme. Il piano si chiude quindi a inizio ottobre invece che a metà settembre.
+**Slittamento 2 settimane (deciso 14/07/2026):** il sondaggio IT di apertura Blocco 1 non è uscito il 13-14/07 (lezione MLR del 13/07 saltata, Alberto vuole il parere di MLR prima di pubblicare — atteso entro lezione 7 MLR, prevista per il 27/07). Pubblicandolo lunedì **27/07**, il post di chiusura Blocco 1 (AGCOM, non ancora programmato) si sarebbe spostato su venerdì 31/07 — proprio la settimana già occupata dal Blocco 2 EN. Per non mischiare IT/EN nello stesso blocco, **tutto il calendario da Blocco 2 in poi (post e newsletter) slitta di 2 settimane esatte**, mantenendo intatti giorno della settimana e abbinamenti post+newsletter già pensati per uscire insieme. Il piano si chiude quindi a inizio ottobre invece che a metà settembre.
+
+**Aggiornamento 02/08/2026:** il rischio di sovrapposizione sopra non si è verificato — Alberto ha deciso di non pubblicare né il sondaggio IT (27/07) né il post AGCOM (31/07). Blocco 1 chiude senza questi due pezzi, Blocco 2 EN è partito regolarmente il 03/08 come da calendario già slittato. Lo slittamento di 2 settimane su Blocco 2-6 resta comunque valido: non era solo una misura anti-sovrapposizione, ma anche la base su cui sono già stati ricalcolati tutti gli abbinamenti post+newsletter successivi.
 
 - **Slot tagliato:** mercoledì (grafica) — il formato più oneroso in produzione. Lunedì (sondaggio, apre il tema) e venerdì (post/carosello, chiude — spesso coincide con l'innesto Atto 3) restano fissi. Vale anche per il Blocco 4 (31/08-11/09), che nel piano precedente tornava "a regime": resta a 2 post/settimana come i blocchi precedenti.
 - **Grafiche saltate:** non si perdono, vanno in backlog per quando si libera uno slot o si torna a regime — vedi tabella "Grafiche" più sotto, righe segnate "posticipata".
@@ -104,7 +106,7 @@ Chi segue i 5 blocchi vede lo stesso schema ripetersi — apertura sul terreno o
 
 | Periodo | Blocco | Linea |
 |---|---|---|
-| 09/07 – 31/07 | **IT** — Riordino ADM, bug mercato ADM, AGCOM (in corso — sondaggio e chiusura posticipati al 27/07-31/07, vedi "Ritmo ridotto" sopra) | Nutrimento Italia |
+| 09/07 – 31/07 | **IT** — Riordino ADM, bug mercato ADM, AGCOM (chiuso 02/08 — sondaggio e post AGCOM non pubblicati, vedi "Blocco 1" sotto) | Nutrimento Italia |
 | 03/08 – 14/08 | **EN** — Rich List/piramide del betting, Tony Bloom, portfolio giochi (PAS) | Lead gen estero |
 | 17/08 – 28/08 | **IT** — Contraffazione giochi, certificazione provider, proroga fisico | Nutrimento Italia |
 | 31/08 – 11/09 | **EN** — Costo integrazioni multiple, 5 mercati EU (posizionale Softswiss) | Lead gen estero |
@@ -124,10 +126,10 @@ Chi segue i 5 blocchi vede lo stesso schema ripetersi — apertura sul terreno o
 | 09/07 | Gio | Grafica | **IT** | Infografica riordino ADM — prima/dopo | Pubblicato |
 | 10/07 | Ven | Carosello | **IT** | 5 operatori ADM che crescono nel 2026 | Pubblicato |
 | 10/07 | Ven | **Newsletter N1** | **IT** | Riordino licenze ADM — approfondimento | Pubblicato |
-| ~~13/07~~ → **27/07** | ~~Lun~~ Lun | Sondaggio | **IT** | Perché i giocatori esperti scelgono i siti non regolamentati? | Slittato (14/07): lezione MLR del 13/07 saltata, Alberto vuole il parere di MLR prima di pubblicare — atteso entro lezione 7 MLR (prevista per il 27/07). Decade l'eccezione al blackout ferie: il sondaggio esce dopo le ferie, nel suo slot naturale di lunedì |
+| ~~13/07~~ → ~~27/07~~ | ~~Lun~~ | Sondaggio | **IT** | Perché i giocatori esperti scelgono i siti non regolamentati? | **Non pubblicato — deciso da Alberto il 02/08.** Testo resta pronto per eventuale riuso |
 | ~~15/07~~ → **29/07** | ~~Mer~~ | ~~Grafica~~ | ~~IT~~ | ~~4 bug strutturali del mercato ADM~~ | Posticipata (backlog) |
-| ~~17/07~~ → **31/07** | ~~Ven~~ Ven | Post testo | **IT** | Il paradosso AGCOM 85/26/CONS | Slittato (14/07) insieme al sondaggio — chiude Blocco 1 nella stessa settimana (lun 27/07 sondaggio, ven 31/07 post). **Atto 3**: chiude su cosa cambia per chi adegua il fornitore al nuovo mercato. Non ancora programmato su LinkedIn |
-| ~~20/07~~ → **03/08** | ~~Lun~~ Lun | Sondaggio | **EN** | Nel betting, chi crea davvero valore? | Salvato (recuperato 02/08) — `sondaggio-2026-08-03-chi-crea-valore.md` — manca solo pubblicazione |
+| ~~17/07~~ → ~~31/07~~ | ~~Ven~~ | Post testo | **IT** | Il paradosso AGCOM 85/26/CONS | **Non pubblicato — deciso da Alberto il 02/08.** Testo salvato in `post-2026-07-17-paradosso-agcom.md` per eventuale riuso. Blocco 1 chiude senza l'innesto Atto 3 previsto qui — vedi nota nella sezione "Blocco 1" |
+| ~~20/07~~ → **03/08** | ~~Lun~~ Lun | Sondaggio | **EN** | In betting, who really creates value? | Pubblicato — schedulato su LinkedIn nativo per lunedì 03/08 ore 10:30 — `sondaggio-2026-08-03-chi-crea-valore.md` |
 | ~~22/07~~ → **05/08** | ~~Mer~~ | ~~Grafica~~ | ~~EN~~ | ~~La piramide economica del betting~~ | Posticipata (backlog) |
 | ~~24/07~~ → **07/08** | ~~Ven~~ Ven | Post testo | **EN** | Tony Bloom non scommette: la distinzione che cambia tutto | Ritmo ridotto — slittato 2 settimane (14/07) |
 | ~~24/07~~ → **07/08** | ~~Ven~~ Ven | **Newsletter N2** | **IT** | Delibera AGCOM 85/26/CONS — approfondimento (scollegata dal blocco EN di quella settimana) | Slittata 2 settimane (14/07) insieme al calendario post — resta accoppiata al post Tony Bloom dello stesso giorno |
@@ -278,22 +280,24 @@ Le colonne sopra su Blocchi 1-5 sono una verifica leggera (i contenuti sono già
 
 ---
 
-## Blocco 1 — IT — Il mercato ADM si è concentrato (09/07 – 31/07, in corso — chiusura posticipata)
+## Blocco 1 — IT — Il mercato ADM si è concentrato (09/07 – 31/07, chiuso 02/08 — 2 pezzi non pubblicati)
 **Argomento:** 350 skin sparite, 46 operatori rimasti: chi sopravvive e perché, poi i bug strutturali del mercato
 **Fonte:** Gambling Insights #67 — Bottadiculo + articolo Jamma consolidamento mercato
 **Buyer persona:** Marco (CDO, compliance IT) + affiliati — nutrimento
 **Lingua:** IT
 
-**Ritmo ridotto dal 13/07, chiusura slittata il 14/07** (vedi "Ritmo ridotto" sopra): mercoledì 15/07 posticipato, sondaggio e post di chiusura spostati a fine luglio.
+**Chiuso il 02/08/2026:** Alberto ha deciso di non pubblicare il sondaggio e il post di chiusura sotto (entrambi pronti, in attesa dal 14/07). Blocco 1 chiude a 3 contenuti pubblicati su 5 previsti — grafica di mercoledì già in backlog dal ritmo ridotto, sondaggio e post ora non pubblicati per scelta, non per ritardo.
 
 | Giorno | Formato | Contenuto |
 |---|---|---|
 | Gio 09/07 | G | Infografica: prima/dopo il riordino ADM — 350 skin sparite, 52 concessioni, 46 operatori |
 | Ven 10/07 | C | Carosello "I 5 operatori ADM che crescono nel 2026 e perché" — da Lottomatica a Betitaly |
 | Ven 10/07 | N1 | Newsletter "The Betting Edge" — Riordino licenze ADM, approfondimento |
-| ~~Lun 13/07~~ → **Lun 27/07** | S | "Perché i giocatori esperti scelgono i siti non regolamentati?" — framing generico, CTA singola. Slittato (14/07): lezione MLR del 13/07 saltata, Alberto vuole il parere di MLR prima di pubblicare — atteso entro lezione 7 MLR (prevista per il 27/07) |
+| ~~Lun 13/07~~ → ~~Lun 27/07~~ | S | "Perché i giocatori esperti scelgono i siti non regolamentati?" — framing generico, CTA singola. **Non pubblicato — deciso da Alberto il 02/08.** Testo resta pronto per eventuale riuso |
 | ~~Mer 15/07~~ → **Mer 29/07** | ~~G~~ | ~~Grafica: "4 bug strutturali del mercato ADM"~~ — posticipata (backlog) |
-| ~~Ven 17/07~~ → **Ven 31/07** | P | Delibera AGCOM 85/26/CONS: il paradosso — meno comunicazione da chi è regolamentato, più libertà per l'illegale. Slittato (14/07) insieme al sondaggio — chiude Blocco 1 la stessa settimana. **Atto 3**: chiude sul "dopo" — integrazione tecnica veloce, il vero collo di bottiglia è la certificazione provider per provider (testo finale in `post-2026-07-17-paradosso-agcom.md`, non ancora programmato su LinkedIn) |
+| ~~Ven 17/07~~ → ~~Ven 31/07~~ | P | Delibera AGCOM 85/26/CONS: il paradosso — meno comunicazione da chi è regolamentato, più libertà per l'illegale. **Non pubblicato — deciso da Alberto il 02/08.** Testo finale resta salvato in `post-2026-07-17-paradosso-agcom.md` per eventuale riuso — non chiude più Blocco 1 con l'innesto Atto 3 previsto, vedi nota sotto |
+
+**Nota Atto 3:** l'innesto Atto 3 di Blocco 1 era pensato proprio sul post AGCOM ("un operatore che cambia/aggiunge aggregator per adeguarsi: cosa succede nei primi 90 giorni", vedi tabella "Percorso narrativo" sopra). Non pubblicandolo, Blocco 1 chiude senza il suo innesto Atto 3 — non serve recuperarlo qui: il percorso narrativo prosegue regolarmente da Blocco 2 (innesto Atto 3 già previsto sul carosello del 14/08).
 
 ---
 
@@ -307,6 +311,8 @@ Le colonne sopra su Blocchi 1-5 sono una verifica leggera (i contenuti sono già
 **Nota:** nessun mention esplicito Softswiss nei post — solo nella CTA in DM
 
 **Slittato 2 settimane il 14/07** (per assorbire il rinvio del sondaggio IT di Blocco 1 senza mischiare blocchi IT/EN, vedi "Ritmo ridotto" sopra): lunedì 10/08 e mercoledì 12/08 restano posticipati come nel piano originale — la ferie non ricade più su queste date, ma il taglio del ritmo ridotto sì.
+
+**Partito regolarmente il 03/08/2026:** il sondaggio di apertura è pubblicato/schedulato come da calendario. Blocco 1 IT ha chiuso il 02/08 senza i suoi ultimi due pezzi (sondaggio 27/07 e post 31/07, non pubblicati per scelta di Alberto — vedi sezione "Blocco 1"): la sovrapposizione di settimana che lo slittamento voleva evitare non si è verificata, Blocco 2 parte pulito.
 
 **Eccezione unica (aggiunta 01/08, post Lezione 8 MLR):** mercoledì 05/08 torna attivo solo per il carosello portfolio giochi/PAS — spunto emerso in Lezione 8, troppo tempestivo per aspettare un blocco futuro (framework mostrato in sessione, aggancio diretto alla linea lead gen EN). Il resto del blocco resta a 2 post/settimana come da ritmo ridotto; mercoledì 12/08 resta tagliato.
 

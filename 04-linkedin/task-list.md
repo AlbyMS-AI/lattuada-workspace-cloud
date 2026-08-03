@@ -36,9 +36,9 @@ Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-str
 
 | Pubblica | Giorno | Formato | Lingua | Contenuto | Grafica | Creare entro | Stato |
 |---|---|---|---|---|---|---|---|
-| ~~13/07~~ → **27/07** | ~~Lun~~ Lun | Sondaggio | IT | Perché i giocatori esperti scelgono i siti non regolamentati? | No | Fatto | [ ] Testo pronto, pubblicazione slittata al 27/07 (deciso 14/07: lezione MLR del 13/07 saltata, Alberto vuole il parere di MLR prima di pubblicare — atteso entro lezione 7 MLR). Creare entro gio 23/07 |
-| ~~17/07~~ → **31/07** | ~~Ven~~ Ven | Post testo | IT | Il paradosso AGCOM 85/26/CONS (Atto 3) | No | Già scritto | [x] Salvato — `post-2026-07-17-paradosso-agcom.md` — slittato insieme al sondaggio, chiude Blocco 1 (lun 27/07 sondaggio, ven 31/07 post). Non ancora programmato su LinkedIn |
-| ~~20/07~~ → **03/08** | ~~Lun~~ Lun | Sondaggio | EN | Nel betting, chi crea davvero valore? | No | 30/07 (Gio) | [x] Salvato (recuperato 02/08) — `sondaggio-2026-08-03-chi-crea-valore.md` — manca solo programmazione/pubblicazione su LinkedIn |
+| ~~13/07~~ → ~~27/07~~ | ~~Lun~~ | Sondaggio | IT | Perché i giocatori esperti scelgono i siti non regolamentati? | No | Fatto | [x] **Non si pubblica** — deciso da Alberto (02/08). Testo resta pronto in caso di riuso futuro, ma Blocco 1 IT chiude senza questo pezzo |
+| ~~17/07~~ → ~~31/07~~ | ~~Ven~~ | Post testo | IT | Il paradosso AGCOM 85/26/CONS (Atto 3) | No | Già scritto | [x] **Non si pubblica** — deciso da Alberto (02/08). Testo resta salvato in `post-2026-07-17-paradosso-agcom.md` in caso di riuso futuro, ma Blocco 1 IT chiude senza questo pezzo |
+| ~~20/07~~ → **03/08** | ~~Lun~~ Lun | Sondaggio | EN | In betting, who really creates value? | No | 30/07 (Gio) | [x] Pubblicato — schedulato su LinkedIn nativo per lunedì 03/08 ore 10:30 — `sondaggio-2026-08-03-chi-crea-valore.md` |
 | ~~24/07~~ → **07/08** | ~~Ven~~ Ven | Post testo | EN | Tony Bloom non scommette: la distinzione che cambia tutto | No | 05/08 (Mer) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
 | ~~24/07~~ → **07/08** | ~~Ven~~ Ven | **Newsletter N2 — The Betting Edge** | IT | Delibera AGCOM 85/26/CONS — approfondimento | No (testo + immagini inline con tag alt) | 05/08 (Mer) | [~] Fact-check e umanizzazione completati (13/07) — `newsletter-2026-07-24-n2-agcom-85-26-cons.md` — slittata 2 settimane (14/07), resta accoppiata al post Tony Bloom. Manca solo revisione finale e conferma di Alberto, poi programmare su LinkedIn |
 | **05/08** (nuovo 01/08) | Mer | Carosello | EN | Portfolio giochi: perché più titoli non significa più revenue (framework PAS, spunto Lezione 8 MLR) | Sì — carosello PDF (workflow Canva/NotebookLM) | 03/08 (Lun) | [ ] Da sviluppare — **unica eccezione al ritmo ridotto** in questo blocco. ⚠️ Verificare su fonte pubblica la cifra "mercato dominato da 6 titoli" (detta a voce in sessione) prima di scriverlo, non citarla come certa |
@@ -106,9 +106,9 @@ Non si perdono: si producono con la pipeline workspace quando si libera uno slot
 ## Prossimi task (in ordine)
 
 1. **14-22/07:** nessuna attività LinkedIn (solo Softswiss) — nessuna eccezione: il sondaggio IT non esce più prima delle ferie, slitta al 27/07.
-2. **Lun 27/07 (rientro + lezione 7 MLR):** pubblicare il sondaggio IT "perché i giocatori esperti scelgono i siti non regolamentati" — subordinato al parere di MLR nella lezione dello stesso giorno.
-3. **Ven 31/07:** pubblicare il post AGCOM 85/26/CONS (già scritto, mai programmato) — chiude Blocco 1.
-4. **Gio 30/07 (creare entro):** sviluppare il sondaggio EN "chi crea davvero valore" per il 03/08 — apre Blocco 2.
+2. ~~Lun 27/07: sondaggio IT "perché i giocatori esperti scelgono i siti non regolamentati"~~ — **deciso il 02/08: non si pubblica**. Blocco 1 IT chiude senza questo pezzo.
+3. ~~Ven 31/07: post AGCOM 85/26/CONS~~ — **deciso il 02/08: non si pubblica**. Blocco 1 IT chiude senza questo pezzo.
+4. ~~Gio 30/07 (creare entro): sviluppare il sondaggio EN "chi crea davvero valore" per il 03/08~~ — **pubblicato**, schedulato lunedì 03/08 ore 10:30 (`sondaggio-2026-08-03-chi-crea-valore.md`). Alberto ha confermato il 02/08 di essere partito da qui, saltando i due pezzi IT sopra.
 5. **Lun 03/08 (creare entro):** sviluppare il carosello "Portfolio giochi" (framework PAS) per Mer 05/08 — verificare prima la cifra "6 titoli" su fonte pubblica.
 6. **Mer 05/08 (creare entro):** chiudere post Tony Bloom + newsletter N2 (AGCOM) per il 07/08 — N2 è già fact-checked e umanizzata, resta solo la revisione finale di Alberto.
 7. **Mer 05/08, 8:30-10:30 (Lezione 9 MLR):** portare il piano editoriale aggiornato per la revisione riga per riga — terzo tentativo dopo Lezione 7 e 8.

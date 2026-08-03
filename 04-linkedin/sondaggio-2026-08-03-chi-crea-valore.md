@@ -1,6 +1,6 @@
 # Sondaggio LinkedIn — Blocco 2, lunedì: chi crea davvero valore nel betting
 Data pubblicazione: 2026-08-03 (lunedì)
-Stato: pronto — sviluppato d'urgenza il 02/08/2026 (creare entro 30/07 saltato, recuperato lo stesso giorno prima della pubblicazione).
+Stato: pubblicato. Sviluppato d'urgenza il 02/08/2026 (creare entro 30/07 saltato, recuperato lo stesso giorno) e schedulato da Alberto su LinkedIn nativo per lunedì 03/08 alle 10:30.
 
 ---
 
@@ -18,13 +18,15 @@ Rappresenta l'aggregatore. Tesi: il vero valore non è nell'aggregare cataloghi 
 
 ## Sondaggio
 
-**Domanda:** Nel betting, chi crea davvero valore?
+**Domanda (EN, coerenza lingua/blocco):** In betting, who really creates value?
 
 **Opzioni (max 4):**
-1. L'operatore
-2. L'affiliato
-3. Il provider di giochi
-4. Il giocatore vincente
+1. The operator
+2. The affiliate
+3. The game provider
+4. The winning player
+
+*(Corretto 02/08/2026: prima versione in italiano su blocco EN — mismatch lingua/mercato, stesso errore di categoria segnalato in Lezione 6 checklist, qui nella direzione opposta.)*
 
 ## Testo del post di lancio (EN)
 
@@ -51,7 +53,7 @@ Vote below. The option I'd pick isn't even on the list.
 - [x] Terza persona/framing generico di mercato nella domanda del sondaggio, nessun possesso personale
 - [x] Una sola CTA (vota) — nessun "vota E commenta"
 - [x] Domanda specifica con quattro opzioni concrete
-- [x] Lingua EN coerente con blocco lead gen estero
+- [x] Lingua EN coerente con blocco lead gen estero — sondaggio e post entrambi in inglese
 - [x] Incipit-teaser: il post promette un punto di vista (l'aggregatore) e lo consegna esplicitamente nel testo stesso, non solo a un contenuto futuro
 
 ## Autocontrollo anti-AI (checklist EN)

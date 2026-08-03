@@ -1,19 +1,38 @@
 # Agenti Workspace — Roster e Stato
 
-> Aggiornato: 20/07/2026 (migrazione completa a cloud di PIERO, VERA, OTTO). Questo è il file operativo di riferimento: la memoria di Claude punta qui.
+> Aggiornato: 02/08/2026 (check completo del workspace — verificato stato reale via `RemoteTrigger list`, non solo da questo file). Questo è il file operativo di riferimento: la memoria di Claude punta qui.
+>
+> **Nota sul check del 02/08:** questo file dichiarava uno stato che non corrispondeva più a quello reale delle routine cloud (VERA data per "sostituita dal locale" mentre era già tornata su cloud da tempo; OTTO aveva ereditato l'errore nel check di sabato 01/08 etichettandola "locale"). Inoltre esistevano **4 routine cloud attive non documentate qui**, trovate solo interrogando l'API. Vedi sezione "Routine trovate fuori dal roster" sotto.
 
 ## Roster attivo
 
-| Agente | Ruolo | Dove gira | Schedule | Stato verificato 20/07 |
+| Agente | Ruolo | Dove gira | Schedule | Stato verificato 02/08 |
 |---|---|---|---|---|
-| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Cloud cron** | Ogni giorno 07:00 Roma (`0 5 * * *` UTC) | ⏸ **DISATTIVATO manualmente il 27/07/2026** (`enabled: false` su `trig_01R5LLasoxRqBYz2w48MSRh6`, su richiesta di Alberto). Resta disponibile come skill on demand (`/piero`) |
-| **MARCO** | BDM / Pipeline review (Pipedrive Dealbot + Linear + Granola) | Cloud cron | Lun 07:00 Roma | ✅ Attivo — fired 20/07 regolare. ⚠️ Legato a Pipedrive: da rifare con la migrazione HubSpot |
-| **VERA** | Brief editoriale settimanale (repo → brief → Slack) | **Cloud cron** | Ven 12:00 Roma (`0 10 * * 5` UTC) | ✅ Cloud — routine `trig_011zLYAjZLmCnbYTNhcmjVvo`. Legge il repo `lattuada-workspace-cloud` invece del filesystem locale |
-| **ALDO** | General Manager / Daily brief (Calendar + Gmail + Linear) | Cloud cron | Lun-Ven 08:30 Roma | ✅ Attivo — fired 20/07 regolare |
-| **OTTO** | Check workspace del sabato | **Cloud cron** | Sab 08:30 Roma (`30 6 * * 6` UTC) | ✅ Cloud — routine `trig_01LRGJfc8rvJb3SGnMLbWqDf`. Audit ridefinito: agenti cloud via DM Slack (non più launchd), workspace via repo scoped (non più intero Mac) |
+| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Cloud cron** | Ogni giorno 07:00 Roma (`0 5 * * *` UTC) | ⏸ **DISATTIVATO** (`enabled: false` su `trig_01R5LLasoxRqBYz2w48MSRh6`, disattivato manualmente il 27/07/2026 su richiesta di Alberto dopo il blocco di rete del 23/07). Resta disponibile come skill on demand (`/piero`) |
+| **MARCO** | BDM / Pipeline review (Pipedrive Dealbot + Linear + Granola) | Cloud cron | Lun 07:00 Roma (`0 5 * * 1` UTC) | ✅ Attivo — `trig_018CSmAP6w4tyJcyenYNZBMd`. ⚠️ Legato a Pipedrive: da rifare con la migrazione HubSpot |
+| **VERA** | Brief editoriale settimanale (repo → brief → Slack) | **Cloud cron** | Ven 12:00 Roma (`0 10 * * 5` UTC) | ✅ Attivo — `trig_011zLYAjZLmCnbYTNhcmjVvo`. Legge il repo `lattuada-workspace-cloud` invece del filesystem locale. **Non è locale** — l'ID storico `trig_01DA1gYJLFTNbqUwcG4rw1uA` (marcato "sostituito dal locale" nelle versioni precedenti di questo file) è disabilitato e va ignorato |
+| **ALDO** | General Manager / Daily brief (Calendar + Gmail + Linear) | Cloud cron | Lun-Ven 08:30 Roma (`30 6 * * 1-5` UTC) | ✅ Attivo — `trig_01Li3P6YAkhP2gLGb5VzsDsm` |
+| **OTTO** | Check workspace del sabato | **Cloud cron** | Sab 08:30 Roma (`30 6 * * 6` UTC) | ✅ Attivo — `trig_01LRGJfc8rvJb3SGnMLbWqDf`. Audit ridefinito: agenti cloud via DM Slack (non più launchd), workspace via repo scoped (non più intero Mac). ⚠️ Il check si fida di questo file: se il file è stale, OTTO eredita l'errore (successo il 01/08 con lo stato di VERA) — da qui in poi va incrociato anche con `RemoteTrigger list` quando qualcosa non torna |
 | TONY | LasVegas (campagne + community) | — | — | ⏸ Bloccato: serve allineamento con Luigi + nessun connector LasVegas. Non costruire prima |
 
 Post-call workflow: skill on demand (`/post-call`), non schedulata — invariata.
+
+## Routine trovate fuori dal roster (scoperte nel check del 02/08/2026)
+
+Interrogando `RemoteTrigger list` sono emerse 6 routine mai documentate qui, oltre ai 5 agenti sopra. Decisioni prese durante il check:
+
+| Trigger | Cosa fa | Creata | Decisione 02/08 |
+|---|---|---|---|
+| `trig_01SDsLJnhYQcxE4p2tUGSCto` — "assistente editoriale iGaming" | Briefing giornaliero (08:30 Roma) sulle 3 notizie iGaming del giorno prima, via WebSearch → bozza Gmail. **Sovrappone la funzione di PIERO** con un meccanismo diverso (WebSearch+Gmail invece di RSS+Slack), creata il 08/06 — prima ancora di PIERO | 08/06/2026 | **Lasciata attiva** — con PIERO disattivato dal 27/07, potrebbe essere l'unica cosa che oggi produce un briefing quotidiano. Da verificare con Alberto: controlla mai le bozze Gmail generate? Se sì, decidere se tenerla come backup di PIERO o disattivarla per evitare doppioni quando PIERO torna operativo |
+| `trig_01KPMhuagKVioGPGeaEkwf4k` — "daily Linear deadline reminder" | Ogni giorno (08:00 Roma) controlla le issue Linear del team AlbertoBDMGA con scadenza nei 3 giorni successivi, crea bozza Gmail con l'elenco | 09/06/2026 | **Lasciata attiva** — copre esattamente il gap che questo file segnalava come "da fare" (vedi sezione sotto): esisteva già, semplicemente non era mai stata scritta qui |
+| `trig_01L2wP4nyxfp1UHhkqGrBmvg` — "ALB-17 Weekly Review Reminder" | Ogni lunedì, DM Slack con lo stato dell'issue Linear ALB-17 (Onboarding Skeleton Phase 1), scadenza indicata nel messaggio: 30/06/2026 | 10/06/2026 | ⏸ **Disattivata il 02/08** — scadenza superata da un mese, nessun riferimento ad ALB-17 nel resto del workspace, reminder ormai a vuoto. **Verificare su Linear** se l'issue è chiusa prima di riattivarla o cancellarla definitivamente |
+| `trig_01WyDwxbxyNBTmET6Qc3KmtK` — "LinkedIn Post Reminder - 24h advance" | Ogni giorno (08:00 Roma) controllava se il giorno dopo coincideva con una data del piano editoriale LinkedIn, con un calendario **scritto a mano nel prompt** (hardcoded fino a inizio settembre) | 26/06/2026 | ⏸ **Disattivata il 02/08** — il calendario hardcoded non è mai stato aggiornato dopo i riflow del piano (slittamento 2 settimane del 14/07, cambio modello del 27/07, aggiornamenti del 01/08): confermato dal log, ha girato regolarmente ma su date/temi ormai disallineati dal piano reale, quindi o taceva o avrebbe segnalato il contenuto sbagliato. Coincide con l'issue già nota in memoria sui reminder che non si aggiornano da soli sui riflow |
+| `trig_01RWypRJzSp6VSRxE1MGdpL2` — PIERO (versione precedente) | Copia quasi identica del prompt PIERO attuale, cron diverso (`0 6 * * *` invece di `0 5 * * *`) | 23/07/2026 | Già disabilitata, nessuna azione. Doppione residuo — l'API non espone un comando di cancellazione: se si vuole eliminarla definitivamente va fatto dall'interfaccia claude.ai (routine cloud) |
+| 3 reminder one-off (Slack, S1 LinkedIn + un test) | Promemoria puntuali già scattati (`ended_reason: run_once_fired`) | giugno/luglio | Nessuna azione — esauriti, non consumano schedule |
+
+## Cosa serve davvero — aggiornato 02/08
+
+Le prime due righe della tabella sopra **sostituiscono** il punto "Deadline contenuti dentro ALDO" che questo file elencava come lavoro da fare: il reminder Linear a 3 giorni esiste già dal 09/06, semplicemente non era mai stato scritto qui. Non serve costruirlo di nuovo.
 
 ## ⛔ PIERO bloccato — blocco di rete a livello ambiente (23/07/2026)
 
@@ -64,12 +83,18 @@ Il set attuale copre bene: rassegna stampa (PIERO), pipeline commerciale (MARCO)
 - `logs/` — vera.log, otto.log (+ .error.log). piero.log resta come storico pre-migrazione
 - Plist launchd: `~/Library/LaunchAgents/com.albertol.{vera,otto}.plist` attivi; `com.albertol.piero.plist` scaricato (`launchctl unload`) ma non cancellato, per rollback
 
-## Routine ID (cloud)
+## Routine ID (cloud) — verificate 02/08/2026 via RemoteTrigger list
 
-| Agente | Trigger ID |
-|---|---|
-| PIERO | trig_01R5LLasoxRqBYz2w48MSRh6 |
-|---|---|
-| MARCO | trig_018CSmAP6w4tyJcyenYNZBMd |
-| ALDO | trig_01Li3P6YAkhP2gLGb5VzsDsm |
-| VERA (cloud, DISATTIVATA 03/07) | trig_01DA1gYJLFTNbqUwcG4rw1uA — sostituita dal launchd locale |
+| Agente | Trigger ID | Stato |
+|---|---|---|
+| PIERO | trig_01R5LLasoxRqBYz2w48MSRh6 | Disattivata |
+| PIERO (doppione residuo) | trig_01RWypRJzSp6VSRxE1MGdpL2 | Disattivata |
+| MARCO | trig_018CSmAP6w4tyJcyenYNZBMd | Attiva |
+| ALDO | trig_01Li3P6YAkhP2gLGb5VzsDsm | Attiva |
+| OTTO | trig_01LRGJfc8rvJb3SGnMLbWqDf | Attiva |
+| VERA | trig_011zLYAjZLmCnbYTNhcmjVvo | Attiva |
+| VERA (ID storico, non usare) | trig_01DA1gYJLFTNbqUwcG4rw1uA | Disattivata |
+| Doppione PIERO via Gmail | trig_01SDsLJnhYQcxE4p2tUGSCto | Attiva |
+| Linear deadline reminder (3gg) | trig_01KPMhuagKVioGPGeaEkwf4k | Attiva |
+| ALB-17 Weekly Review Reminder | trig_01L2wP4nyxfp1UHhkqGrBmvg | Disattivata 02/08 |
+| LinkedIn Post Reminder 24h | trig_01WyDwxbxyNBTmET6Qc3KmtK | Disattivata 02/08 |
