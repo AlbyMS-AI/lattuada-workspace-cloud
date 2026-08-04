@@ -6,23 +6,25 @@
 **Topic:** ADM attiva dal 10 settembre 2026 il portale unico per segnalazioni e reclami sul gioco online. Angolo operativo: le 72 ore erano già nella convenzione, la novità è che ora il tempo lo misura ADM e non l'helpdesk del concessionario. Cinque settimane per chi ha il primo livello in outsourcing.
 **Fonti:** Agimeg.it (attivazione portale 10 settembre), Jamma.it (circolare ADM 24 febbraio 2026, contact center obbligatorio e penale 50mila euro)
 **Elementi grafici:** nessuno obbligatorio, il post regge da solo. Eventuale immagine: screenshot della pagina portale ADM
-**Status:** Bozza, seconda stesura (v1 rilevata 100% AI da Pangram il 03/08/2026, riscritta sulla struttura)
+**Status:** Pubblicato il 04/08/2026
 
 ---
 
-Il portale ADM apre il 10 settembre. Il termine delle 72 ore per rispondere ai reclami invece è roba vecchia: sta nell'articolo 17 comma 3 della convenzione ed era già stato ribadito nella circolare del 24 febbraio, quella con la penale da 50mila euro per chi il contact center non l'aveva attivato per niente.
+Il portale ADM apre il 10 settembre e sui gruppi lo stanno leggendo come una novità. Non lo è. Le 72 ore per rispondere a un reclamo stanno nell'articolo 17 comma 3 della convenzione, e la circolare del 24 febbraio te le aveva già ricordate, quella con la penale da 50mila euro per chi il contact center non l'aveva mai acceso.
 
-Quello che cambia è dove sta il cronometro. Finora il tempo di risposta lo misurava l'helpdesk del concessionario, sui propri ticket, con i propri log, e lo dichiarava su richiesta. Da settembre il giocatore entra con SPID o CIE, apre la segnalazione dentro l'applicativo sviluppato con Sogei, e il timestamp resta lì.
+Quello che cambia è dove sta il cronometro.
 
-Sul conteggio conviene leggere il dettaglio, perché gira già la lettura sbagliata. Le 72 ore sono lavorative: partono alle 00:01 del giorno dopo la segnalazione, scadono alle 23:59 del terzo giorno utile, sabati e festivi esclusi. Un reclamo che entra venerdì pomeriggio scade mercoledì sera. Cinque giorni pieni, non tre.
+Finora il tempo di risposta te lo misuravi in casa. Ticket tuoi, log tuoi, e quando ADM chiedeva glielo dichiaravi tu. Da settembre il giocatore entra con SPID, apre la segnalazione dentro l'applicativo fatto con Sogei, e il timestamp non passa più dalle tue mani.
 
-Il margine se lo mangia chi ha il primo livello appaltato fuori, su un fuso diverso. Il ticket deve arrivare al fornitore, essere lavorato e tornare indietro con una risposta tracciabile sul portale, non con una nota chiusa nel CRM del vendor.
+Sul conteggio però leggi bene, perché in giro sta girando la versione sbagliata. Le 72 ore sono lavorative: partono alle 00:01 del giorno dopo, scadono alle 23:59 del terzo giorno utile, sabati e festivi fuori. Un reclamo che entra venerdì alle cinque scade mercoledì sera. Cinque giorni pieni, non tre.
 
-La parte che nessuno sta sottolineando è che per il ritardo non risulta prevista nessuna penale. I 50mila euro sono un'altra cosa. Quello che nasce a settembre è uno storico dei tempi di risposta, concessionario per concessionario, che fino a ieri non esisteva da nessuna parte.
+Poi c'è chi quel margine non lo vedrà mai, e sono quelli col primo livello appaltato fuori, su un fuso dove il turno finisce mentre qui comincia. Il ticket deve arrivare al fornitore, essere lavorato, tornare indietro, e lasciare una risposta tracciata sul portale. Non una nota chiusa nel CRM del vendor. Quella lì per l'Agenzia non esiste.
 
-Cinque settimane per verificare dove finiscono adesso i reclami e quanto ci mettono a tornare, prima che il dato ce l'abbia anche qualcun altro.
+La parte che nessuno sta dicendo: per il ritardo non è prevista nessuna penale. I 50mila euro riguardano chi il contact center non ce l'ha proprio. Sulla carta non rischi niente di nuovo. Solo che da quel giorno esiste uno storico dei tuoi tempi di risposta che prima non stava da nessuna parte. E gli storici, prima o poi, qualcuno se li va a guardare.
 
-Salvatelo e portatelo al prossimo giro con il fornitore del customer care.
+Cinque settimane per scoprire dove finiscono adesso i reclami e quanto ci mettono a tornare.
+
+Salvatelo, e portatelo al prossimo giro col fornitore del customer care.
 
 ---
 

@@ -38,7 +38,7 @@ Lo stesso meccanismo si applica a tutti i format — compresso nel post, svilupp
 ```
 APERTURA:
 - 2-3 frasi brevi e nette che enunciano il fatto e la sua implicazione reale
-- "Non è un'iperbole. È il dispositivo della sentenza."
+- "Non è un'iperbole, sta scritto nel dispositivo della sentenza." Contrasto dentro una frase sola come default. La versione spezzata ("Non è un'iperbole. È il dispositivo della sentenza.") resta ammessa **una volta per pezzo**, nel punto di svolta vero: a contare per i classificatori è la densità, non l'occorrenza singola. Punto 3 della checklist anti-AI
 - Nessuna premessa, nessun contesto introduttivo
 
 SVILUPPO:
@@ -71,6 +71,26 @@ CHIUSURA:
 - Nessun aggettivo vuoto
 - Nessuna frase da AI — checklist completa in `../../01-tono-di-voce/anti-ai-checklist.md`
 - Nessuna neutralità su questioni dove esiste una posizione operativamente rilevante
+
+### Scrittura umana: le sei tecniche
+
+Il divieto di prima persona toglie il segnale umano più forte, quindi vanno usati gli altri
+canali, almeno tre per pezzo. Elenco completo con esempi nell'appendice della checklist
+anti-AI (`../../01-tono-di-voce/anti-ai-checklist.md`):
+
+1. **Seconda persona come motore** — "se hai il primo livello appaltato fuori", non "chi ha
+   il primo livello appaltato fuori". Il "tu" è consentito e sostituisce operativamente la
+   prima persona, che resta vietata
+2. **Digressione e rimando** — "ma ci arriviamo tra poco", l'inciso tra parentesi. Un testo
+   in cui ogni frase avanza è troppo efficiente per essere umano
+3. **Esempio concreto imprevedibile** — l'immagine scelta da chi scrive, diversa dal dato
+   verificabile: il dato dimostra competenza, l'immagine dimostra che dietro c'è una persona
+4. **Frammento parlato** — "Anzi.", "Un colpo, via." Almeno uno per paragrafo, non per pezzo
+5. **Frase lunga sbilanciata** — virgole accumulate invece di subordinate eleganti
+6. **Ruvidità mantenuta** — niente ultima mano di lucido su un testo già scritto
+
+Vincolo del formato: un post da 300 parole ha poco spazio per queste tecniche, vanno
+concentrate. La newsletter da 1.000-1.400 parole è dove funzionano meglio.
 
 ## Lunghezza
 - Post LinkedIn: 150-300 parole

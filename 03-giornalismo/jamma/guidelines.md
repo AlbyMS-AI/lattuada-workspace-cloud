@@ -51,12 +51,29 @@ CHIUSURA:
 ```
 
 ## Regole stilistiche
-- **Frasi brevi per i punti di svolta**: "La soluzione non è aumentare la sofisticazione del fraud team. È ridisegnare il prodotto." Una frase. Una sola.
+- **Frasi brevi per i punti di svolta**: il passaggio chiave sta in una frase sola, e quando serve un contrasto il contrasto ci sta dentro. "Il fraud team può raddoppiare senza spostare niente, perché il buco sta nel prodotto." Una frase. Una sola.
+  - La versione spezzata in due ("La soluzione non è aumentare la sofisticazione del fraud team. È ridisegnare il prodotto.") era l'esempio in queste guidelines fino al 04/08/2026. Resta usabile, ma **al massimo una volta per pezzo**, nel punto di svolta vero e ancorata a un fatto verificabile: è il pattern che i classificatori riconoscono per primo, e a contare è la densità. Regola completa al punto 3 della checklist anti-AI.
 - **Intestazioni come tesi**: ogni h2/h3 deve affermare qualcosa, non solo descrivere
 - **Dati sempre contestualizzati**: il numero da solo non vale niente — cosa significa per chi legge?
 - **Nessun aggettivo vuoto**: leader, innovativo, rivoluzionario → fuori
 - **Nessuna frase da AI**: "è importante sottolineare", "vale la pena notare", "certamente" → fuori — checklist completa in `../../01-tono-di-voce/anti-ai-checklist.md`
 - **Conformità come argomento commerciale**: non "dovresti farlo perché è giusto" ma "dovresti farlo perché l'audit ti troverà"
+
+### Scrittura umana: le sei tecniche
+
+La prima persona resta vietata anche qui, quindi il segnale umano va costruito con gli altri
+canali, almeno tre per pezzo. Elenco completo con esempi nell'appendice della checklist
+anti-AI (`../../01-tono-di-voce/anti-ai-checklist.md`):
+
+1. **Seconda persona come motore** — consentita, ed è il sostituto operativo della prima
+   persona. Su Jamma va dosata più che su Bottadiculo, il registro resta analitico
+2. **Digressione e rimando** — l'inciso, la promessa mantenuta più avanti. Un testo in cui
+   ogni frase avanza è troppo efficiente per essere umano
+3. **Esempio concreto imprevedibile** — l'immagine scelta da chi scrive, diversa dal dato
+   verificabile. Su Jamma spesso è il caso di mercato specifico invece dell'astrazione
+4. **Frammento parlato** — usato con parsimonia, il registro è più alto che su Bottadiculo
+5. **Frase lunga sbilanciata** — virgole accumulate invece di subordinate eleganti
+6. **Ruvidità mantenuta** — niente ultima mano di lucido su un testo già scritto
 
 ## Cosa evitare
 - Riportare la notizia come tutti gli altri — serve sempre un livello di analisi in più
