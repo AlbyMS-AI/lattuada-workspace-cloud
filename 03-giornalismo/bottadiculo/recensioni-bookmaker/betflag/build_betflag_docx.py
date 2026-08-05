@@ -47,7 +47,7 @@ b.add_divider(doc)
 b.add_h1(doc, "PREFAZIONE")
 b.add_body(doc, "Betflag è online dal 2004, quando il mercato italiano delle scommesse a distanza muoveva i primi passi. Ventidue anni dopo, l'operatore non è più un'azienda indipendente: dal novembre 2022 è controllato al 100% da Lottomatica Group, che lo ha acquisito per 310 milioni di euro con l'obiettivo dichiarato di rafforzare il proprio posizionamento nei casino games.")
 b.add_body(doc, "La scelta del gruppo è stata mantenere Betflag come brand separato, non assorbirlo in un prodotto unico. Per chi scommette, questo significa un'offerta che si muove in parallelo a quella di Lottomatica (Better), condividendo le risorse economiche e regolatorie del gruppo ma con un'identità di prodotto ancora distinta, a partire da una caratteristica che pochi concessionari ADM offrono: il betting exchange.")
-b.add_body(doc, "Operando sotto la concessione ADM n. 16008, Betflag copre l'intero spettro del gioco regolamentato: scommesse sportive, ippica, exchange, casinò, bingo, poker, lotterie. Questa recensione analizza l'offerta a luglio 2026, dal bonus di benvenuto alla sicurezza, passando per il nodo più delicato: la distanza tra la reputazione sui grandi store e quella sulle piattaforme di recensioni indipendenti.")
+b.add_body(doc, "Operando sotto la concessione ADM n. 16008, Betflag copre l'intero spettro del gioco regolamentato: scommesse sportive, ippica, exchange, casinò, bingo, poker, lotterie. Questa recensione analizza l'offerta, dal bonus di benvenuto alla sicurezza, passando per il nodo più delicato: la distanza tra la reputazione sui grandi store e quella sulle piattaforme di recensioni indipendenti.")
 b.add_divider(doc)
 
 b.add_h1(doc, "VALUTAZIONI")
@@ -55,13 +55,13 @@ b.add_data_table(
     doc,
     ["Categoria", "Voto", "Nota sintetica"],
     [
-        ["Palinsesto sportivo", "8.5/10", "Oltre 30 discipline secondo le fonti di settore, buona profondità su calcio ed eSport"],
+        ["Palinsesto sportivo", "8.5/10", "Oltre 30 discipline, buona profondità su calcio ed eSport"],
         ["Quote e payout", "8/10", "Quota minima 3,50 per validare il bonus sport"],
         ["Bonus e promozioni", "9/10", "Tra le offerte più ricche del mercato ADM"],
         ["App e mobile", "8.5/10", "Suite completa (scommesse, casinò, ippica, exchange, carte, poker, lotterie), app Scommesse tra le più apprezzate del settore"],
         ["Live streaming", "7.5/10", "Copertura di Bundesliga, Lega Pro e altri campionati"],
         ["Ippica", "8.5/10", "Sezione dedicata con streaming live delle corse"],
-        ["Casinò e slot", "8.5/10", "Catalogo tra i più ampi del mercato ADM, oltre 5.500 titoli secondo le fonti di settore"],
+        ["Casinò e slot", "8.5/10", "Catalogo tra i più ampi del mercato ADM, oltre 5.500 titoli"],
         ["Metodi di pagamento", "8.5/10", "13 metodi disponibili, nessuna commissione sui prelievi"],
         ["Assistenza clienti", "7.5/10", "Numero verde e canale mobile attivi; margini di miglioramento nella percezione utenti sulle dispute"],
         ["Sicurezza e compliance", "8.5/10", "Licenza ADM, garanzia patrimoniale del Gruppo Lottomatica"],
@@ -85,7 +85,7 @@ b.add_body(doc, "Il rollover sul bonus senza deposito, sia nella versione SPID/C
 b.add_divider(doc)
 
 b.add_h1(doc, "PANORAMICA TRA EVENTI E STREAMING")
-b.add_body(doc, "Il palinsesto sportivo di Betflag copre, secondo le fonti di settore, oltre 30 discipline e migliaia di eventi ogni settimana. Il calcio resta il prodotto principale, con copertura di Serie A, Serie B, Champions League, Europa League e dei principali campionati internazionali. Non manca l'offerta sui mercati minori (darts, snooker, sport americani) e sull'eSport, con tornei di League of Legends, CS:GO, Dota 2 e Valorant.")
+b.add_body(doc, "Il palinsesto sportivo di Betflag copre oltre 30 discipline e migliaia di eventi ogni settimana. Il calcio resta il prodotto principale, con copertura di Serie A, Serie B, Champions League, Europa League e dei principali campionati internazionali. Non manca l'offerta sui mercati minori (darts, snooker, sport americani) e sull'eSport, con tornei di League of Legends, CS:GO, Dota 2 e Valorant.")
 b.add_body(doc, "Lo streaming live copre Bundesliga, Lega Pro e altri campionati esteri, oltre a tennis, basket e ippica. La copertura non raggiunge l'ampiezza dei leader di mercato sul fronte calcio internazionale, ma resta solida per chi segue le corse in diretta o i campionati minori europei.")
 b.add_divider(doc)
 
@@ -93,8 +93,8 @@ b.add_h1(doc, "TIPOLOGIA DI GIOCHI DISPONIBILI")
 b.add_body(doc, "**Scommesse sportive**: oltre 30 discipline, dai grandi campionati agli eSport, con quote pre-match, live e multiple.")
 b.add_body(doc, "**Exchange**: betting exchange con quote fissate dagli scommettitori, funzionalità Moneyback per gestire l'esposizione prima della fine dell'evento. Esclude Cashout tradizionale e non concorre alla validazione del bonus di benvenuto sport.")
 b.add_body(doc, "**Ippica**: sezione dedicata con streaming live delle corse, tra i punti di forza più citati dagli utenti.")
-b.add_body(doc, "**Casinò online**: catalogo tra i più ampi del mercato ADM, oltre 5.500 titoli secondo le fonti di settore, distribuiti su 60+ provider certificati.")
-b.add_body(doc, "**Casinò live**: oltre 900 tavoli secondo le fonti di settore, disponibili 24 ore su 24.")
+b.add_body(doc, "**Casinò online**: catalogo tra i più ampi del mercato ADM, oltre 5.500 titoli, distribuiti su 60+ provider certificati.")
+b.add_body(doc, "**Casinò live**: oltre 900 tavoli, disponibili 24 ore su 24.")
 b.add_body(doc, "**Bingo, Poker, Lotterie**: sezioni presenti nell'app, a completamento dell'offerta.")
 b.add_divider(doc)
 
@@ -187,9 +187,9 @@ b.add_data_table(
     [
         ["Bonus sport", "100% fino a 5.000€ + 10€ no deposit + 200 Fun Flag = ~5.010€ (quota min. 3,50)", "500€ Gold (x6) + 500€ Game Bonus + 15€ free + 9€ extra = ~1.500€", "50-200€ Real + 1.500€ Fun"],
         ["Bonus no deposit", "1.000€ (SPID/CIE) / 250€ (classica)", "15€ sport / 1.000€ Play (casinò, percorso separato)", "Fino a 5.000€ (Salva il Bottino)"],
-        ["Proprietà", "Gruppo Lottomatica (dal 2022)", "Gruppo Flutter Entertainment (dal 2025)", "n.d."],
+        ["Proprietà", "Gruppo Lottomatica (dal 2022)", "Gruppo Flutter Entertainment (dal 2025)", "Gruppo Flutter Entertainment (dal 2022)"],
         ["Prodotto distintivo", "Betting Exchange + Moneyback", "Ippica, Snaipay, integrazione fisico-digitale", "Gamification"],
-        ["Discipline sportive", "30+ (fonti di settore)", "25+", "25+"],
+        ["Discipline sportive", "30+", "25+", "25+"],
         ["Live streaming", "Bundesliga, Lega Pro e altri", "Eccellente (Bundesliga, Ligue 1, FA Cup, Liga, Serie A dedicata)", "Buono"],
         ["Login SPID/CIE", "Sì", "Sì", "Sì"],
     ],

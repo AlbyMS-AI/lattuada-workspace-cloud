@@ -41,7 +41,7 @@ Betflag è online dal 2004, quando il mercato italiano delle scommesse a distanz
 
 La scelta del gruppo è stata mantenere Betflag come brand separato, non assorbirlo in un prodotto unico. Per chi scommette, questo significa un'offerta che si muove in parallelo a quella di Lottomatica (Better), condividendo le risorse economiche e regolatorie del gruppo ma con un'identità di prodotto ancora distinta, a partire da una caratteristica che pochi concessionari ADM offrono: il betting exchange.
 
-Operando sotto la concessione ADM n. 16008, Betflag copre l'intero spettro del gioco regolamentato: scommesse sportive, ippica, exchange, casinò, bingo, poker, lotterie. Questa recensione analizza l'offerta a luglio 2026, dal bonus di benvenuto alla sicurezza, passando per il nodo più delicato: la distanza tra la reputazione sui grandi store e quella sulle piattaforme di recensioni indipendenti.
+Operando sotto la concessione ADM n. 16008, Betflag copre l'intero spettro del gioco regolamentato: scommesse sportive, ippica, exchange, casinò, bingo, poker, lotterie. Questa recensione analizza l'offerta, dal bonus di benvenuto alla sicurezza, passando per il nodo più delicato: la distanza tra la reputazione sui grandi store e quella sulle piattaforme di recensioni indipendenti.
 
 Pagina 2 | Contenuto editoriale indipendente
 
@@ -51,13 +51,13 @@ Pagina 2 | Contenuto editoriale indipendente
 
 | Categoria | Voto | Nota sintetica |
 |---|---|---|
-| Palinsesto sportivo | 8.5/10 | Oltre 30 discipline secondo le fonti di settore, buona profondità su calcio ed eSport |
+| Palinsesto sportivo | 8.5/10 | Oltre 30 discipline, buona profondità su calcio ed eSport |
 | Quote e payout | 8/10 | Quota minima 3,50 per validare il bonus sport |
 | Bonus e promozioni | 9/10 | Tra le offerte più ricche del mercato ADM |
 | App e mobile | 8.5/10 | Suite completa (scommesse, casinò, ippica, exchange, carte, poker, lotterie), app Scommesse tra le più apprezzate del settore |
 | Live streaming | 7.5/10 | Copertura di Bundesliga, Lega Pro e altri campionati |
 | Ippica | 8.5/10 | Sezione dedicata con streaming live delle corse |
-| Casinò e slot | 8.5/10 | Catalogo tra i più ampi del mercato ADM, oltre 5.500 titoli secondo le fonti di settore |
+| Casinò e slot | 8.5/10 | Catalogo tra i più ampi del mercato ADM, oltre 5.500 titoli |
 | Metodi di pagamento | 8.5/10 | 13 metodi disponibili, nessuna commissione sui prelievi |
 | Assistenza clienti | 7.5/10 | Numero verde e canale mobile attivi; margini di miglioramento nella percezione utenti sulle dispute |
 | Sicurezza e compliance | 8.5/10 | Licenza ADM, garanzia patrimoniale del Gruppo Lottomatica |
@@ -92,7 +92,7 @@ Pagina 4 | Contenuto editoriale indipendente
 
 ## PANORAMICA TRA EVENTI E STREAMING
 
-Il palinsesto sportivo di Betflag copre, secondo le fonti di settore, oltre 30 discipline e migliaia di eventi ogni settimana. Il calcio resta il prodotto principale, con copertura di Serie A, Serie B, Champions League, Europa League e dei principali campionati internazionali. Non manca l'offerta sui mercati minori (darts, snooker, sport americani) e sull'eSport, con tornei di League of Legends, CS:GO, Dota 2 e Valorant.
+Il palinsesto sportivo di Betflag copre oltre 30 discipline e migliaia di eventi ogni settimana. Il calcio resta il prodotto principale, con copertura di Serie A, Serie B, Champions League, Europa League e dei principali campionati internazionali. Non manca l'offerta sui mercati minori (darts, snooker, sport americani) e sull'eSport, con tornei di League of Legends, CS:GO, Dota 2 e Valorant.
 
 Lo streaming live copre Bundesliga, Lega Pro e altri campionati esteri, oltre a tennis, basket e ippica. La copertura non raggiunge l'ampiezza dei leader di mercato sul fronte calcio internazionale, ma resta solida per chi segue le corse in diretta o i campionati minori europei.
 
@@ -108,9 +108,9 @@ Pagina 5 | Contenuto editoriale indipendente
 
 **Ippica**: sezione dedicata con streaming live delle corse, tra i punti di forza più citati dagli utenti.
 
-**Casinò online**: catalogo tra i più ampi del mercato ADM, oltre 5.500 titoli secondo le fonti di settore, distribuiti su 60+ provider certificati.
+**Casinò online**: catalogo tra i più ampi del mercato ADM, oltre 5.500 titoli, distribuiti su 60+ provider certificati.
 
-**Casinò live**: oltre 900 tavoli secondo le fonti di settore, disponibili 24 ore su 24.
+**Casinò live**: oltre 900 tavoli, disponibili 24 ore su 24.
 
 **Bingo, Poker, Lotterie**: sezioni presenti nell'app, a completamento dell'offerta.
 
@@ -256,9 +256,9 @@ Pagina 14 | Contenuto editoriale indipendente
 |---|---|---|---|
 | Bonus sport | 100% fino a 5.000€ + 10€ no deposit + 200 Fun Flag = ~5.010€ (quota min. 3,50) | 500€ Gold (x6) + 500€ Game Bonus + 15€ free + 9€ extra = ~1.500€ | 50-200€ Real + 1.500€ Fun |
 | Bonus no deposit | 1.000€ (SPID/CIE) / 250€ (classica) | 15€ sport / 1.000€ Play (casinò, percorso separato) | Fino a 5.000€ (Salva il Bottino) |
-| Proprietà | Gruppo Lottomatica (dal 2022) | Gruppo Flutter Entertainment (dal 2025) | n.d. |
+| Proprietà | Gruppo Lottomatica (dal 2022) | Gruppo Flutter Entertainment (dal 2025) | Gruppo Flutter Entertainment (dal 2022) |
 | Prodotto distintivo | Betting Exchange + Moneyback | Ippica, Snaipay, integrazione fisico-digitale | Gamification |
-| Discipline sportive | 30+ (fonti di settore) | 25+ | 25+ |
+| Discipline sportive | 30+ | 25+ | 25+ |
 | Live streaming | Bundesliga, Lega Pro e altri | Eccellente (Bundesliga, Ligue 1, FA Cup, Liga, Serie A dedicata) | Buono |
 | Login SPID/CIE | Sì | Sì | Sì |
 
@@ -326,7 +326,8 @@ Pagina 18 | Contenuto editoriale indipendente
 - Bonus casinò 100% fino a 3.000€ + 3.000€ casinò live, bonus senza deposito SPID/CIE 1.000€ (5x200€) e classico 250€ (5x50€): da TuttoMercatoWeb, fonte editoriale terza, non fonte primaria Betflag (fetch diretto su info.betflag.it non riuscito, errore di connessione ripetuto)
 - Deposito minimo 5€ (0,50€ bonifico, 10€ Skrill/Paysafecard), 13 metodi di pagamento, nessuna commissione sui prelievi: incrociato tra Sportytrader e TuttoMercatoWeb
 - Numero verde 800.900.333, 02-91645111, email via sezione Aiuto: da TuttoMercatoWeb
-- Palinsesto 30+ discipline, live streaming Bundesliga/Lega Pro, eSport (LoL, CS:GO, Dota2, Valorant), ippica con streaming live: da ricerca aggregata su fonti di settore, cifre su discipline non verificate su fonte primaria, riportate come "secondo le fonti di settore"
+- Palinsesto 30+ discipline, live streaming Bundesliga/Lega Pro, eSport (LoL, CS:GO, Dota2, Valorant), ippica con streaming live: da ricerca aggregata su fonti di settore, cifre su discipline non verificate su fonte primaria. Rimossa dal testo pubblicato l'attribuzione esplicita "secondo le fonti di settore" (rilievo del caporedattore, 05/08/2026: tell tipico di prosa AI, va tolta l'attribuzione generica o va indicata la fonte reale). Non essendoci una fonte primaria citabile, si è scelto di togliere l'hedge invece di inventarne una: il dato resta un aggregato di ricerca, non un numero ufficiale Betflag, e va trattato come tale se il caporedattore chiede conto della fonte
+- Proprietà Sisal: Gruppo Flutter Entertainment dal 2022 (non "n.d." come nella bozza precedente). Acquisizione completata il 4 agosto 2022 per 1,913 miliardi di euro da CVC Capital Partners, confermata da comunicato Sisal ([sisal.com](https://www.sisal.com/news-media/comunicati-stampa/corporate/flutter-completata-acquisizione-sisal)) e incrociata con [Agimeg](https://www.agimeg.it/flutter-acquisizione-sisal-autorizzazioni-dal-4-agosto-2022/), [PressGiochi](https://www.pressgiochi.it/flutter-completata-lacquisizione-di-sisal/103432) e [Gioconews](https://www.gioconews.it/news/attualita/flutter-entertainment-plc-completa-l-acquisizione-di-sisal.aspx). Nota per il caporedattore: Sisal e SNAI sono oggi entrambi sotto Gruppo Flutter Entertainment, non concorrenti indipendenti — vale la pena verificare se la tabella comparativa debba segnalarlo esplicitamente
 - Catalogo slot "oltre 5.500 titoli, 60+ provider": range ristretto e coerente su 4 fonti indipendenti (gambling.com, superscommesse.it, casinos.com, grinderlabpoker.it), valori tra 5.500 e 6.051. Cifra tonda scelta come soglia sicura all'interno del range confermato
 - Rating BetFlag: Scommesse 4,8/5 su ~3.200 recensioni: verificato con fetch diretto su apps.apple.com (fonte primaria)
 - Rating BetFlag: Casinò e Slot Machine 3,2/5 su 47 recensioni: verificato con fetch diretto su apps.apple.com (fonte primaria), campione piccolo, citato come tale
