@@ -9,7 +9,7 @@
 
 | # | Operatore | Stato | Data pubblicazione | File |
 |---|---|---|---|---|
-| 1 | Betflag | Pronta, docx/pdf in stile SNAI generati | — | `betflag/recensione-betflag-2026.{md,docx,pdf}` |
+| 1 | Betflag | Inviata al caporedattore (05/08/2026) | — | `betflag/recensione-betflag-2026.{md,docx,pdf}` |
 | 2 | Planetwin365 | Da fare | — | — |
 | 3 | Lottomatica | Da fare | — | — |
 | 4 | Goldbet | Da fare | — | — |

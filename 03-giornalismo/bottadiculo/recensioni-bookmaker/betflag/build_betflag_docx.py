@@ -46,7 +46,7 @@ b.add_divider(doc)
 
 b.add_h1(doc, "PREFAZIONE")
 b.add_body(doc, "Betflag è online dal 2004, quando il mercato italiano delle scommesse a distanza muoveva i primi passi. Ventidue anni dopo, l'operatore non è più un'azienda indipendente: dal novembre 2022 è controllato al 100% da Lottomatica Group, che lo ha acquisito per 310 milioni di euro con l'obiettivo dichiarato di rafforzare il proprio posizionamento nei casino games.")
-b.add_body(doc, "La scelta del gruppo è stata mantenere Betflag come brand separato, non assorbirlo in un prodotto unico. Per chi scommette, questo significa un'offerta che si muove in parallelo a quella di Lottomatica (Better), condividendo le risorse economiche e regolatorie del gruppo ma con un'identità di prodotto ancora distinta, a partire da una caratteristica che pochi concessionari ADM offrono: il betting exchange.")
+b.add_body(doc, "La scelta del gruppo è stata mantenere Betflag come brand separato, non assorbirlo in un prodotto unico. Per chi scommette, questo significa un'offerta che si muove in parallelo a quella di Lottomatica (Better), condividendo le risorse economiche e regolatorie del gruppo ma con un'identità di prodotto ancora distinta, a partire da una caratteristica che offrono solo due concessionari ADM: il betting exchange.")
 b.add_body(doc, "Operando sotto la concessione ADM n. 16008, Betflag copre l'intero spettro del gioco regolamentato: scommesse sportive, ippica, exchange, casinò, bingo, poker, lotterie. Questa recensione analizza l'offerta, dal bonus di benvenuto alla sicurezza, passando per il nodo più delicato: la distanza tra la reputazione sui grandi store e quella sulle piattaforme di recensioni indipendenti.")
 b.add_divider(doc)
 
@@ -75,7 +75,7 @@ b.add_divider(doc)
 b.add_h1(doc, "PRO & CONTRO")
 b.add_h2(doc, "Perché scegliere Betflag (Pro)")
 b.add_body(doc, "Il bonus di benvenuto sport, 100% del primo deposito fino a 5.000€, è tra i più alti del mercato ADM. Il deposito minimo qualificante è di 5€, tra i più accessibili del settore: non serve un budget importante per attivare la promozione, anche se sfruttarla per intero richiede depositi consistenti.")
-b.add_body(doc, "L'Exchange è la caratteristica che distingue davvero Betflag dal resto del mercato regolamentato italiano. Nel betting exchange non è il bookmaker a fissare le quote: sono gli scommettitori stessi a farlo, puntando o bancando un esito, con l'operatore che agisce da intermediario e trattiene una piccola commissione sulle giocate abbinate. La funzionalità Moneyback permette di equilibrare l'esposizione, incassando una parte della vincita o limitando una perdita prima che l'evento finisca. Pochi concessionari ADM offrono questo prodotto.")
+b.add_body(doc, "L'Exchange è la caratteristica che distingue davvero Betflag dal resto del mercato regolamentato italiano. Nel betting exchange non è il bookmaker a fissare le quote: sono gli scommettitori stessi a farlo, puntando o bancando un esito, con l'operatore che agisce da intermediario e trattiene una piccola commissione sulle giocate abbinate. La funzionalità Moneyback permette di equilibrare l'esposizione, incassando una parte della vincita o limitando una perdita prima che l'evento finisca. Solo due concessionari ADM offrono questo prodotto.")
 b.add_body(doc, "La sezione ippica è un punto di forza riconosciuto: streaming live delle corse integrato nella piattaforma, in un mercato dove pochi operatori investono con continuità su questa disciplina.")
 b.add_body(doc, "Il ventaglio di metodi di pagamento è ampio: 13 opzioni tra carte, e-wallet, PostePay, bonifico e OnShop, senza commissioni sui prelievi. Un dettaglio che pesa nel tempo, soprattutto per chi preleva con frequenza.")
 
@@ -190,7 +190,7 @@ b.add_data_table(
         ["Proprietà", "Gruppo Lottomatica (dal 2022)", "Gruppo Flutter Entertainment (dal 2025)", "Gruppo Flutter Entertainment (dal 2022)"],
         ["Prodotto distintivo", "Betting Exchange + Moneyback", "Ippica, Snaipay, integrazione fisico-digitale", "Gamification"],
         ["Discipline sportive", "30+", "25+", "25+"],
-        ["Live streaming", "Bundesliga, Lega Pro e altri", "Eccellente (Bundesliga, Ligue 1, FA Cup, Liga, Serie A dedicata)", "Buono"],
+        ["Live streaming", "Buono", "Eccellente", "Buono"],
         ["Login SPID/CIE", "Sì", "Sì", "Sì"],
     ],
     highlight_col=None,
@@ -200,8 +200,8 @@ b.add_body(doc, "**Nota**: le cifre di tutti gli operatori rappresentano valori 
 b.add_divider(doc)
 
 b.add_h1(doc, "IL NOSTRO GIUDIZIO")
-b.add_body(doc, "Betflag arriva al 2026 con due identità che convivono: da un lato lo storico del bookmaker online nato nel 2004, dall'altro la nuova appartenenza al Gruppo Lottomatica, che dal 2022 ne garantisce la solidità patrimoniale mantenendone però l'autonomia di brand e prodotto.")
-b.add_body(doc, "L'Exchange resta una delle poche concessioni ADM a offrirlo, un tratto che nel mercato italiano è tradizionalmente associato a Betfair. Su Betflag la funzionalità è presente ma non è valorizzata e promossa con la stessa intensità: resta più una carta in più nel mazzo che il motivo principale per cui un giocatore sceglie l'operatore. Restano invece solidi il bonus di benvenuto tra i più alti del mercato, un catalogo casinò tra i più ampi del comparto ADM e una sezione ippica ben curata.")
+b.add_body(doc, "Betflag ha due identità che convivono: da un lato lo storico del bookmaker online nato nel 2004, dall'altro la nuova appartenenza al Gruppo Lottomatica, che dal 2022 ne garantisce la solidità patrimoniale mantenendone però l'autonomia di brand e prodotto.")
+b.add_body(doc, "L'Exchange resta una delle due concessioni ADM a offrirlo, un tratto che nel mercato italiano è tradizionalmente associato solo a Betfair. Su Betflag la funzionalità è presente ma non è valorizzata e promossa con la stessa intensità: resta più una carta in più nel mazzo che il motivo principale per cui un giocatore sceglie l'operatore. Restano invece solidi il bonus di benvenuto tra i più alti del mercato, un catalogo casinò tra i più ampi del comparto ADM e una sezione ippica ben curata.")
 b.add_body(doc, "Chi punta solo sull'esito troverà in Betflag un bonus tra i più generosi del mercato e un catalogo ampio su casinò e ippica. Chi cerca l'Exchange lo trova anche qui, ma non è il terreno su cui Betflag gioca la sua partita migliore.")
 b.add_final_score_box(doc, "VOTO FINALE: 4.5 SU 5")
 b.add_divider(doc)
@@ -227,7 +227,7 @@ footer_p = doc.add_paragraph()
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 footer_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
 footer_p.paragraph_format.space_before = b.Pt(14)
-b._add_run(footer_p, "Contenuto editoriale indipendente • Dati verificati a luglio 2026 • Il gioco è vietato ai minori di 18 anni • Bonus e T&C soggetti a modifica: verificare sempre su betflag.it", italic=True, color=b.GRAY, size=8)
+b._add_run(footer_p, "Il gioco è vietato ai minori di 18 anni • Bonus e T&C soggetti a modifica: verificare sempre su betflag.it", italic=True, color=b.GRAY, size=8)
 
 doc.save(OUT)
 print("Salvato:", OUT)
