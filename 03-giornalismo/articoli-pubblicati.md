@@ -12,6 +12,7 @@ Formato: `| Data | Testata | Titolo | File | Note |`
 
 | Data | Testata | Titolo | File | Note |
 |---|---|---|---|---|
+| 07/08 | Jamma | Kalshi ha vinto sulla definizione di swap e ha perso lo stesso: la sentenza dello Utah sposta il terreno dei prediction market | `jamma/drafts/2026-08-06-kalshi-utah-preemption-swap-adm-prediction-market.md` | Aggiornamento della bozza mai pubblicata del 20/07 (`jamma/drafts/2026-07-20-kalshi-mondiale-swap-contratti-sportivi.md`, ora marcata come superata). Angolo: in KalshiEX v. Cox il giudice Shelby non decide se i contratti sportivi siano swap, nega che ne discenda la preemption sugli stati. Data sentenza verificata sul docket (CourtListener 2:26-cv-00151-RJS-CMR, dkt 65 del 04/08/2026), non sulle date di pubblicazione delle testate. Citazioni Selig ancorate a op-ed WSJ 17/02 e istruzione CFTC sul caso Michigan di luglio: nessuna reazione alla sentenza Utah gli è attribuita |
 | 03/08 | Jamma | Il caso Fonbet-Pirlo: l'oscuramento ADM era già deciso dal 10 luglio, il decreto dignità non aveva mai visto l'ambassador che lo aggirava da nove mesi | `jamma/drafts/2026-08-02-fonbet-pirlo-decreto-dignita-ambassador-adm.md` | Newsletter LinkedIn — corretta su segnalazione della dir. resp. Monica Cuprifi (02/08): il provvedimento ADM è del 10/07 con validità dal 27/07, non una reazione allo scandalo Pirlo. Rimosso il riferimento Betsson-Inter su indicazione di Alberto, sostituito con Polymarket-Lazio. Omessa la pista Lottomatica (nessuna fonte pubblica, indicazione della direttrice) |
 | 30/07 | Jamma | Betting exchange, la bozza ADM non apre il mercato: la barriera resta la concessione da 7 milioni di euro | `jamma/drafts/2026-07-30-betting-exchange-adm-concessione-mercato-chiuso.md` | |
 | 30/07 | Bottadiculo | Il betting exchange si aggiorna, non si apre | `bottadiculo/drafts/2026-07-30-betting-exchange-adm-non-riguarda-44-concessionari.md` | Post LinkedIn |
@@ -64,6 +65,7 @@ Formato: `| Data | Testata | Titolo | File | Note |`
 | 02/08 | Jamma | Il caso Fonbet-Pirlo: ADM oscura un dominio in un giorno, il decreto dignità non aveva mai visto l'ambassador che lo aggirava da nove mesi | `jamma/drafts/2026-08-02-fonbet-pirlo-decreto-dignita-ambassador-adm.md` | Newsletter |
 | 02/08 | Bottadiculo | Polymarket-Lazio: l'indennizzo da 7 milioni è il prezzo del blocco ADM | `bottadiculo/drafts/2026-08-01-polymarket-lazio-indennizzo-newsletter-linkedin.md` | Newsletter LinkedIn — SEO companion: `...-seo.md`; post di supporto: `2026-08-01-polymarket-lazio-indennizzo-post-supporto.md` |
 | 04/08 | Bottadiculo | Il portale ADM non introduce le 72 ore, sposta il cronometro | `bottadiculo/drafts/2026-08-03-adm-portale-segnalazioni-72-ore.md` | Post LinkedIn |
+| 07/08 | Bottadiculo | Riordino del gioco fisico e Holland Casino: nei Paesi Bassi il conto è salato, qui non c'è nemmeno il conto | `bottadiculo/drafts/2026-08-06-holland-casino-riordino-gioco-fisico-certezza-margini.md` | Post LinkedIn — confronto Paesi Bassi/Italia: licenza online Holland Casino rinnovata cinque anni con aliquota al 37,8% contro riordino della rete terrestre lasciato scadere (delega al 29/08) |
 
 ---
 

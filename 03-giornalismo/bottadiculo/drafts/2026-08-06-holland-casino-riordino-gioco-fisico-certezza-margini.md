@@ -6,7 +6,7 @@
 **Topic:** Confronto Paesi Bassi/Italia. La KSA rinnova per cinque anni la licenza online di Holland Casino mentre l'imposta sul gioco arriva al 37,8% e l'operatore taglia. In Italia il decreto di riordino della rete terrestre è fermo a Palazzo Chigi e la delega fiscale scade il 29 agosto senza che nessuno la eserciti. Angolo operativo: certezza regolatoria con margini in calo vale più di nessuna certezza, perché nel frattempo il conto arriva comunque (indennità bingo ricalcolate 2018-2026).
 **Fonti:** iGaming Business (rinnovo licenza online Holland Casino, 06/08/2026), CasinoNieuws.nl (seconda riorganizzazione, 30/06/2026), Accountant.nl (going concern KPMG bilancio 2024, 22/04/2025), Il Sole 24 Ore via Italian Gaming Expo (stop al riordino, 06/08/2026), Policy Maker (blocco distanziometri, 09/07/2026), Jamma/Agimeg (rideterminazione indennità bingo ADM)
 **Elementi grafici:** nessuno obbligatorio. Eventuale immagine: tabella a due colonne Paesi Bassi/Italia con aliquota, durata licenza, orizzonte gare
-**Status:** Bozza, da approvare
+**Status:** Pubblicato il 07/08/2026
 
 ---
 
