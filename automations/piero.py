@@ -119,9 +119,25 @@ def fetch_stories(sources: list) -> list:
             elapsed = time.monotonic() - started
             log(f"ERROR {src['name']} dopo {elapsed:.1f}s: {e}")
 
-    stories = stories[:MAX_STORIES]
-    log(f"Collected {len(stories)} relevant stories (capped at {MAX_STORIES})")
-    return stories
+    # Il taglio a MAX_STORIES era secco sulla lista in ordine di fonte: iGaming
+    # Business, che pubblica 100 item al giorno, saturava la quota e Jamma e
+    # AGiMeG (ultime della lista) restavano fuori dal brief. Verificato l'08/08.
+    # Ora si prende a giro: una storia per fonte a rotazione, cosi' ogni fonte
+    # entra nel brief e le testate italiane non vengono mai schiacciate.
+    by_source = {}
+    for story in stories:
+        by_source.setdefault(story["source"], []).append(story)
+
+    balanced = []
+    while len(balanced) < MAX_STORIES and any(by_source.values()):
+        for source in list(by_source):
+            if by_source[source] and len(balanced) < MAX_STORIES:
+                balanced.append(by_source[source].pop(0))
+
+    coverage = ", ".join(f"{s}:{sum(1 for b in balanced if b['source'] == s)}"
+                         for s in dict.fromkeys(b["source"] for b in balanced))
+    log(f"Collected {len(balanced)} relevant stories (cap {MAX_STORIES}) — {coverage}")
+    return balanced
 
 
 def build_prompt(stories: list, today: str) -> str:
