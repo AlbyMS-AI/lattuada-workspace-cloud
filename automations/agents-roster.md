@@ -1,21 +1,39 @@
 # Agenti Workspace — Roster e Stato
 
-> Aggiornato: 02/08/2026 (check completo del workspace — verificato stato reale via `RemoteTrigger list`, non solo da questo file). Questo è il file operativo di riferimento: la memoria di Claude punta qui.
+> Aggiornato: 08/08/2026 (riordino agenti — stato verificato su `launchctl list`, `crontab -l`, `RemoteTrigger list`, log locali e cronologia DM Slack, non dichiarato a memoria). Questo è il file operativo di riferimento: la memoria di Claude punta qui.
 >
-> **Nota sul check del 02/08:** questo file dichiarava uno stato che non corrispondeva più a quello reale delle routine cloud (VERA data per "sostituita dal locale" mentre era già tornata su cloud da tempo; OTTO aveva ereditato l'errore nel check di sabato 01/08 etichettandola "locale"). Inoltre esistevano **4 routine cloud attive non documentate qui**, trovate solo interrogando l'API. Vedi sezione "Routine trovate fuori dal roster" sotto.
+> **Riordino dell'08/08:** questo file era di nuovo stale, seconda volta dopo il 02/08. Diceva PIERO su cloud e i job locali scaricati: falso su entrambi i punti. OTTO e VERA giravano **due volte a settimana ciascuno** (cloud + launchd locale mai scaricato), producendo due report diversi e in contraddizione lo stesso giorno. PIERO cloud era disattivato e l'unico PIERO vivo era il processo locale, appeso da 9 ore su una fonte RSS senza timeout. Dettaglio completo dell'analisi: `check-sabato/2026-08-08-analisi-otto.md`.
+>
+> **Principio adottato:** un agente, un posto solo. Tutto su cloud tranne PIERO, che deve stare in locale perché la sandbox cloud non raggiunge le fonti RSS.
 
 ## Roster attivo
 
-| Agente | Ruolo | Dove gira | Schedule | Stato verificato 02/08 |
+| Agente | Ruolo | Dove gira | Schedule | Stato verificato 08/08 |
 |---|---|---|---|---|
-| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Cloud cron** | Ogni giorno 07:00 Roma (`0 5 * * *` UTC) | ⏸ **DISATTIVATO** (`enabled: false` su `trig_01R5LLasoxRqBYz2w48MSRh6`, disattivato manualmente il 27/07/2026 su richiesta di Alberto dopo il blocco di rete del 23/07). Resta disponibile come skill on demand (`/piero`) |
-| **MARCO** | BDM / Pipeline review (Pipedrive Dealbot + Linear + Granola) | Cloud cron | Lun 07:00 Roma (`0 5 * * 1` UTC) | ✅ Attivo — `trig_018CSmAP6w4tyJcyenYNZBMd`. ⚠️ Legato a Pipedrive: da rifare con la migrazione HubSpot |
-| **VERA** | Brief editoriale settimanale (repo → brief → Slack) | **Cloud cron** | Ven 12:00 Roma (`0 10 * * 5` UTC) | ✅ Attivo — `trig_011zLYAjZLmCnbYTNhcmjVvo`. Legge il repo `lattuada-workspace-cloud` invece del filesystem locale. **Non è locale** — l'ID storico `trig_01DA1gYJLFTNbqUwcG4rw1uA` (marcato "sostituito dal locale" nelle versioni precedenti di questo file) è disabilitato e va ignorato |
-| **ALDO** | General Manager / Daily brief (Calendar + Gmail + Linear) | Cloud cron | Lun-Ven 08:30 Roma (`30 6 * * 1-5` UTC) | ✅ Attivo — `trig_01Li3P6YAkhP2gLGb5VzsDsm` |
-| **OTTO** | Check workspace del sabato | **Cloud cron** | Sab 08:30 Roma (`30 6 * * 6` UTC) | ✅ Attivo — `trig_01LRGJfc8rvJb3SGnMLbWqDf`. Audit ridefinito: agenti cloud via DM Slack (non più launchd), workspace via repo scoped (non più intero Mac). ⚠️ Il check si fida di questo file: se il file è stale, OTTO eredita l'errore (successo il 01/08 con lo stato di VERA) — da qui in poi va incrociato anche con `RemoteTrigger list` quando qualcosa non torna |
+| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Locale** (launchd `com.albertol.piero`) | Ogni giorno 07:00 e 12:40 Roma | ✅ Attivo. È l'unico agente che deve girare in locale: la versione cloud (`trig_01R5LLasoxRqBYz2w48MSRh6`) resta disattivata perché la sandbox non raggiunge gli RSS (blocco del 23/07). Due finestre al giorno: la seconda recupera i giorni in cui il Mac dorme la mattina, senza doppioni (esce subito se il brief del giorno esiste già) |
+| **MARCO** | BDM / Pipeline review (Pipedrive Dealbot + Linear + Granola) | Cloud cron | Lun 07:00 Roma (`0 5 * * 1` UTC) | ✅ Attivo — `trig_018CSmAP6w4tyJcyenYNZBMd`. ⚠️ Legato a Pipedrive: da rifare con la migrazione HubSpot. ⚠️ Linear non autenticato dal 03/08 |
+| **VERA** | Brief editoriale settimanale (repo → brief → Slack) | **Solo cloud** | Ven 12:00 Roma (`0 10 * * 5` UTC) | ✅ Attivo — `trig_011zLYAjZLmCnbYTNhcmjVvo`. Il gemello locale (`com.albertol.vera`) è stato scaricato l'08/08: mandava un secondo brief ogni venerdì (12:06 cloud + 13:04 locale il 07/08, stesso schema il 31/07) |
+| **ALDO** | General Manager / Daily brief (Calendar + Gmail + Linear) | Cloud cron | Lun-Ven 08:30 Roma (`30 6 * * 1-5` UTC) | ✅ Attivo — `trig_01Li3P6YAkhP2gLGb5VzsDsm`. ⚠️ Linear non autenticato dal 03/08: i task non compaiono più nel brief |
+| **OTTO** | Check workspace del sabato | **Solo cloud** | Sab 08:30 Roma (`30 6 * * 6` UTC) | ✅ Attivo — `trig_01LRGJfc8rvJb3SGnMLbWqDf`. Il gemello locale è stato scaricato l'08/08. Prompt riscritto lo stesso giorno con la "regola di onestà": deve distinguere agente fermo, controllo rotto e dato mancante, e non può più declassare un agente sano perché la sua ricerca Slack è fallita |
 | TONY | LasVegas (campagne + community) | — | — | ⏸ Bloccato: serve allineamento con Luigi + nessun connector LasVegas. Non costruire prima |
 
+### Job locali rimasti (launchd)
+
+| Job | Stato | Nota |
+|---|---|---|
+| `com.albertol.piero` | ✅ Caricato | Vedi sopra, 07:00 + 12:40 |
+| `com.albertol.cloudsync` | ✅ Caricato | Sync del repo cloud ogni 3 ore |
+| `com.albertol.otto` | ⏸ Scaricato l'08/08 | Plist rinominato `.plist.disabled`, copia in `archive/launchd-disattivati-2026-08/` |
+| `com.albertol.vera` | ⏸ Scaricato l'08/08 | Come sopra |
+| crontab `cleanup.sh` | ✅ Attivo | Spostato dalle 23:47 alle 12:47 del 28: alle 23:47 il Mac dorme e il cleanup di luglio non è mai partito (`cleanup-log-2026-07.txt` mancante) |
+
 Post-call workflow: skill on demand (`/post-call`), non schedulata — invariata.
+
+### ⚠️ Linear scollegato dal 03/08/2026 — unica cosa che serve Alberto
+
+Dal 03/08 ogni brief ALDO e la pipeline review MARCO riportano "Linear non disponibile, autenticazione OAuth richiesta". Il 31/07 i task c'erano ancora. Conseguenza: da sei giorni nessun agente vede le scadenze, compresi i task Italy Market già scaduti che MARCO elencava il 03/08 (ALB-72, ALB-75, ALB-68, ALB-79, ALB-62).
+
+Non è risolvibile da una sessione Claude Code: serve riautenticare il connettore Linear dalle impostazioni connettori di claude.ai. Fino ad allora la routine `Linear-deadline-reminder` (aggiornata l'08/08) manda un DM Slack esplicito quando la chiamata fallisce, invece di restare in silenzio come faceva prima.
 
 ## Routine trovate fuori dal roster (scoperte nel check del 02/08/2026)
 
@@ -23,7 +41,7 @@ Interrogando `RemoteTrigger list` sono emerse 6 routine mai documentate qui, olt
 
 | Trigger | Cosa fa | Creata | Decisione 02/08 |
 |---|---|---|---|
-| `trig_01SDsLJnhYQcxE4p2tUGSCto` — "assistente editoriale iGaming" | Briefing giornaliero (08:30 Roma) sulle 3 notizie iGaming del giorno prima, via WebSearch → bozza Gmail. **Sovrappone la funzione di PIERO** con un meccanismo diverso (WebSearch+Gmail invece di RSS+Slack), creata il 08/06 — prima ancora di PIERO | 08/06/2026 | **Lasciata attiva** — con PIERO disattivato dal 27/07, potrebbe essere l'unica cosa che oggi produce un briefing quotidiano. Da verificare con Alberto: controlla mai le bozze Gmail generate? Se sì, decidere se tenerla come backup di PIERO o disattivarla per evitare doppioni quando PIERO torna operativo |
+| `trig_01SDsLJnhYQcxE4p2tUGSCto` — "assistente editoriale iGaming" | Briefing giornaliero (08:30 Roma) sulle 3 notizie iGaming del giorno prima, via WebSearch → bozza Gmail. **Sovrappone la funzione di PIERO** con un meccanismo diverso (WebSearch+Gmail invece di RSS+Slack), creata il 08/06 — prima ancora di PIERO | 08/06/2026 | ⏸ **Disattivata l'08/08/2026.** PIERO locale produce il brief tutti i giorni via Slack, che è dove Alberto lo legge: questa faceva un terzo briefing quotidiano in una bozza Gmail che nessuno apre. Riattivabile in un secondo se serve un backup |
 | `trig_01KPMhuagKVioGPGeaEkwf4k` — "daily Linear deadline reminder" | Ogni giorno (08:00 Roma) controlla le issue Linear del team AlbertoBDMGA con scadenza nei 3 giorni successivi, crea bozza Gmail con l'elenco | 09/06/2026 | **Lasciata attiva** — copre esattamente il gap che questo file segnalava come "da fare" (vedi sezione sotto): esisteva già, semplicemente non era mai stata scritta qui |
 | `trig_01L2wP4nyxfp1UHhkqGrBmvg` — "ALB-17 Weekly Review Reminder" | Ogni lunedì, DM Slack con lo stato dell'issue Linear ALB-17 (Onboarding Skeleton Phase 1), scadenza indicata nel messaggio: 30/06/2026 | 10/06/2026 | ⏸ **Disattivata il 02/08** — scadenza superata da un mese, nessun riferimento ad ALB-17 nel resto del workspace, reminder ormai a vuoto. **Verificare su Linear** se l'issue è chiusa prima di riattivarla o cancellarla definitivamente |
 | `trig_01WyDwxbxyNBTmET6Qc3KmtK` — "LinkedIn Post Reminder - 24h advance" | Ogni giorno (08:00 Roma) controllava se il giorno dopo coincideva con una data del piano editoriale LinkedIn, con un calendario **scritto a mano nel prompt** (hardcoded fino a inizio settembre) | 26/06/2026 | ⏸ **Disattivata il 02/08** — il calendario hardcoded non è mai stato aggiornato dopo i riflow del piano (slittamento 2 settimane del 14/07, cambio modello del 27/07, aggiornamenti del 01/08): confermato dal log, ha girato regolarmente ma su date/temi ormai disallineati dal piano reale, quindi o taceva o avrebbe segnalato il contenuto sbagliato. Coincide con l'issue già nota in memoria sui reminder che non si aggiornano da soli sui riflow |
@@ -70,18 +88,22 @@ Il set attuale copre bene: rassegna stampa (PIERO), pipeline commerciale (MARCO)
 
 1. **Deadline contenuti dentro ALDO** — oggi le scadenze "creare entro" della task list LinkedIn non arrivano nel brief mattutino perché ALDO (cloud) non legge il workspace. Via più semplice: creare issue Linear per le deadline di contenuto (il post-call già usa Linear, ALDO già lo legge). Nessun agente nuovo.
 2. **Skill "analizza post" + "aggiorna analytics"** — task MLR Lezione 6 ancora aperti; è il pezzo mancante del ciclo LinkedIn (pubblichi ma non misuri in modo sistematico). Da fare come skill on demand, non come cron.
-3. **Manutenzione PIERO** — disabilitare o sostituire la fonte "iGaming Today" (timeout da 2 giorni, allunga la run di 10 minuti); migrare a `--allowedTools` scopati come OTTO.
+3. ~~**Manutenzione PIERO**~~ — fatta l'08/08/2026. Tutte e 16 le fonti testate una per una:
+   - **10 attive e verificate**: iGaming Business, EGR Global (serve `www.`), Casino Beats, SBC News, European Gaming, Gambling Insider, CalvinAyre (senza slash finale), G3 Newswire (`g3newswire.com`), Jamma, **AGiMeG recuperata** con l'URL giusto `https://www.agimeg.it/feed/` (il vecchio `agimeg.it/feed` faceva un redirect su cui la run si appendeva).
+   - **6 disattivate con motivo scritto in `piero-sources.json`**: Gioco News e Betting Business (domini inesistenti, NXDOMAIN), Agipro News (404 su ogni path di feed), Yogonet (l'URL risponde ma restituisce HTML, non RSS), FocusGN e iGaming Today (403 anti-bot su tutto il sito).
+   - **Causa vera delle run appese**: `feedparser` senza timeout di rete. Ora c'è `socket.setdefaulttimeout(20)`, il download passa da `curl --max-time 20` (che risolve anche Casino Beats, che chiude la connessione alle librerie Python), un retry per fonte e il log del tempo per fonte. La fase di fetch è passata da ore a 4 secondi.
+   - Resta da fare: migrare a `--allowedTools` scopati come OTTO.
 4. **MARCO v2 su HubSpot** — non investire altro sul workaround Dealbot/Pipedrive; quando la migrazione HubSpot è operativa, rifare la fonte dati di MARCO. Fino ad allora MARCO resta com'è.
 5. **Niente agenti nuovi oltre questi** — TONY resta congelato finché Luigi non è allineato; il valore adesso è far girare bene i cinque esistenti, non aggiungerne.
 
 ## File tecnici
 
-- `piero.py` + `piero-sources.json` — versione locale storica, non più schedulata dal 20/07 (logica replicata nel prompt della routine cloud)
+- `piero.py` + `piero-sources.json` — **versione operativa**, schedulata in locale (07:00 e 12:40). Hardening dell'08/08: timeout di rete, download via curl, retry, log per fonte, fonti morte disattivate con la motivazione
 - `vera.py` — VERA (hardening 20/07: timeout/retry/notifica)
 - `otto.py` — OTTO (check sabato, hardening 20/07) → report in `check-sabato/`
 - `post-call-cron.md` — workflow post-call
 - `logs/` — vera.log, otto.log (+ .error.log). piero.log resta come storico pre-migrazione
-- Plist launchd: `~/Library/LaunchAgents/com.albertol.{vera,otto}.plist` attivi; `com.albertol.piero.plist` scaricato (`launchctl unload`) ma non cancellato, per rollback
+- Plist launchd: `~/Library/LaunchAgents/com.albertol.piero.plist` attivo; `com.albertol.{vera,otto}.plist` scaricati e rinominati `.plist.disabled` l'08/08 (copia di sicurezza in `../archive/launchd-disattivati-2026-08/`)
 
 ## Routine ID (cloud) — verificate 02/08/2026 via RemoteTrigger list
 
@@ -94,7 +116,7 @@ Il set attuale copre bene: rassegna stampa (PIERO), pipeline commerciale (MARCO)
 | OTTO | trig_01LRGJfc8rvJb3SGnMLbWqDf | Attiva |
 | VERA | trig_011zLYAjZLmCnbYTNhcmjVvo | Attiva |
 | VERA (ID storico, non usare) | trig_01DA1gYJLFTNbqUwcG4rw1uA | Disattivata |
-| Doppione PIERO via Gmail | trig_01SDsLJnhYQcxE4p2tUGSCto | Attiva |
+| Doppione PIERO via Gmail | trig_01SDsLJnhYQcxE4p2tUGSCto | Disattivata l'08/08/2026 |
 | Linear deadline reminder (3gg) | trig_01KPMhuagKVioGPGeaEkwf4k | Attiva |
 | ALB-17 Weekly Review Reminder | trig_01L2wP4nyxfp1UHhkqGrBmvg | Disattivata 02/08 |
 | LinkedIn Post Reminder 24h | trig_01WyDwxbxyNBTmET6Qc3KmtK | Disattivata 02/08 |

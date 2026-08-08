@@ -1,23 +1,37 @@
 #!/usr/bin/env python3
 """PIERO — iGaming News Radar per Alberto Lattuada.
 
-NON PIU' SCHEDULATO (dal 20/07/2026): migrato a routine cloud
-trig_01R5LLasoxRqBYz2w48MSRh6 (vedi automations/agents-roster.md).
-File conservato come riferimento storico della logica, plist locale scaricato.
+SCHEDULATO IN LOCALE via launchd (com.albertol.piero), ogni giorno alle 07:20.
+La versione cloud (trig_01R5LLasoxRqBYz2w48MSRh6) resta disattivata: la sandbox
+cloud non raggiunge le fonti RSS (blocco di rete del 23/07/2026). PIERO e'
+l'unico agente che deve girare per forza sul Mac.
 
-Comportamento originale, quando era schedulato via launchd alle 07:00:
-1. Scarica RSS feeds da fonti iGaming
+Flusso:
+1. Scarica RSS feeds da fonti iGaming (solo quelle enabled in piero-sources.json)
 2. Filtra storie delle ultime 48 ore per keyword di rilevanza
 3. Chiama claude CLI per generare angoli editoriali per testata
-4. Salva morning-brief.md in news-igaming 2026/YYYY-MM-DD/
+4. Salva morning-brief.md in news-igaming 2026/YYYY-MM-DD/ e manda DM Slack
+
+Hardening 08/08/2026: timeout di rete per fonte. Senza, una fonte lenta
+appendeva la run per ore (AGiMeG e Agipro News, run del 02, 03, 07 e 08/08).
 """
 
 import feedparser
 import json
+import socket
 import subprocess
 import datetime
 import sys
+import time
 from pathlib import Path
+
+# Timeout di rete globale: feedparser usa urllib, che senza questo attende
+# all'infinito. E' la causa delle run appese osservate fino all'08/08/2026.
+FETCH_TIMEOUT = 20
+socket.setdefaulttimeout(FETCH_TIMEOUT)
+
+USER_AGENT = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+              "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36")
 
 WORKSPACE   = Path("/Users/albertol./workspace")
 NEWS_DIR    = WORKSPACE / "03-giornalismo/news-igaming 2026"
@@ -43,6 +57,24 @@ def log(msg: str):
     print(f"[{ts}] PIERO: {msg}", flush=True)
 
 
+def download(url: str) -> bytes:
+    """Scarica il feed con curl invece che con urllib.
+
+    Alcune fonti (Casino Beats, verificato 08/08/2026) chiudono la connessione
+    con le librerie Python ma rispondono a curl. Il --max-time e' anche la
+    seconda barriera contro le run appese, oltre al socket timeout.
+    """
+    cmd = ["curl", "-sL", "--max-time", str(FETCH_TIMEOUT), "-A", USER_AGENT,
+           "-H", "Accept: application/rss+xml,application/xml;q=0.9,*/*;q=0.8", url]
+    for attempt in (1, 2):
+        result = subprocess.run(cmd, capture_output=True, timeout=FETCH_TIMEOUT + 10)
+        if result.returncode == 0 and result.stdout:
+            return result.stdout
+        if attempt == 1:
+            time.sleep(2)  # Casino Beats risponde a intermittenza, un retry basta
+    raise RuntimeError(f"curl exit {result.returncode} dopo 2 tentativi")
+
+
 def is_relevant(entry) -> bool:
     text = f"{entry.get('title', '')} {entry.get('summary', '')}".lower()
     return any(kw in text for kw in KEYWORDS)
@@ -56,9 +88,14 @@ def fetch_stories(sources: list) -> list:
     for src in sources:
         if not src.get("enabled", True):
             continue
-        log(f"Fetching {src['name']}...")
+        started = time.monotonic()
         try:
-            feed = feedparser.parse(src["url"])
+            feed = feedparser.parse(download(src["url"]))
+            elapsed = time.monotonic() - started
+            n_entries = len(feed.entries)
+            log(f"{src['name']}: {n_entries} entries in {elapsed:.1f}s")
+            if n_entries == 0:
+                log(f"WARN {src['name']}: feed vuoto o non parsabile, controllare l'URL")
             for entry in feed.entries:
                 title = entry.get("title", "").strip()
                 if not title or title.lower() in seen:
@@ -79,7 +116,8 @@ def fetch_stories(sources: list) -> list:
                     "summary": entry.get("summary", "")[:600].strip(),
                 })
         except Exception as e:
-            log(f"ERROR {src['name']}: {e}")
+            elapsed = time.monotonic() - started
+            log(f"ERROR {src['name']} dopo {elapsed:.1f}s: {e}")
 
     stories = stories[:MAX_STORIES]
     log(f"Collected {len(stories)} relevant stories (capped at {MAX_STORIES})")
