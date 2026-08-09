@@ -29,11 +29,11 @@
 
 Post-call workflow: skill on demand (`/post-call`), non schedulata — invariata.
 
-### ⚠️ Linear scollegato dal 03/08/2026 — unica cosa che serve Alberto
+### ✅ Linear riconnesso il 09/08/2026
 
-Dal 03/08 ogni brief ALDO e la pipeline review MARCO riportano "Linear non disponibile, autenticazione OAuth richiesta". Il 31/07 i task c'erano ancora. Conseguenza: da sei giorni nessun agente vede le scadenze, compresi i task Italy Market già scaduti che MARCO elencava il 03/08 (ALB-72, ALB-75, ALB-68, ALB-79, ALB-62).
+Era rimasto scollegato dal 03/08 al 08/08 (sei giorni, brief ALDO e pipeline review MARCO senza scadenze). Alberto ha riautenticato il connettore dalle impostazioni claude.ai il 09/08; verificato funzionante con `get_workspace` (workspace AlbertoBDMGA risponde).
 
-Non è risolvibile da una sessione Claude Code: serve riautenticare il connettore Linear dalle impostazioni connettori di claude.ai. Fino ad allora la routine `Linear-deadline-reminder` (aggiornata l'08/08) manda un DM Slack esplicito quando la chiamata fallisce, invece di restare in silenzio come faceva prima.
+**Decisione presa il 09/08 su come evitare che si ripeta in silenzio:** niente routine di controllo/riconnessione giornaliera — un token OAuth non si scollega per calendario, quindi ricontrollarlo ogni mattina è lavoro sprecato quando è collegato e inutile in anticipo quando si scollega. Ci si affida a `Linear-deadline-reminder` (aggiornata l'08/08), che manda già un DM Slack esplicito quando la chiamata fallisce invece di restare in silenzio, più la segnalazione diretta di Claude a inizio sessione se un tool Linear torna un errore di auth.
 
 ## Routine trovate fuori dal roster (scoperte nel check del 02/08/2026)
 
