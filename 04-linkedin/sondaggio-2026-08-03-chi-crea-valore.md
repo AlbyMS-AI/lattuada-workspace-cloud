@@ -69,7 +69,23 @@ Vote below. The option I'd pick isn't even on the list.
 
 ## DM Sales Navigator
 
-Gate ancora attivo (in attesa di via libera esplicito di Alberto). Pubblicazione organica, nessun invio DM di anticipo.
+Gate sbloccato il 09/08/2026 (via libera esplicito di Alberto, vedi `[[feedback_sales_navigator_attesa_via_libera]]`). Il 10/08/2026, ultimo giorno del sondaggio (durata 1 settimana da lunedì 03/08), Alberto ha inviato DM di sollecito voto alla lista Sales Navigator: 109 lead totali, tutti follower Softswiss, ruolo marketing/affiliate in aziende del settore; 53 su 109 attivi (post pubblicato negli ultimi 3 giorni al momento dell'invio), messaggio inviato a questo sottoinsieme attivo.
+
+Testo finale inviato (EN, singolo messaggio valido sia per contatti già avviati sia per primo contatto; rivisto da Alberto rispetto alla prima bozza per aggiungere autopresentazione BDM Softswiss e aggancio business, tolta la riga "my own answer isn't even one of the four options" perché in un DM privato risultava più trick che curiosità):
+
+> Hi [Name],
+>
+> I am Alberto Lattuada, Business Development Manager for the Game Aggregator at Softswiss.
+>
+> Quick one, I'm running a poll on LinkedIn: in betting, who actually creates the value: the operator, the affiliate, the provider, or the player? Closes today.
+>
+> Given your great experience in the industry, I'd genuinely like your take; it's close to what I work on daily on the aggregator side, so I'd love to compare notes with you sometime after.
+>
+> <https://www.linkedin.com/posts/albertolattuada_ask-an-operator-who-creates-value-in-betting-ugcPost-7489653235205664768-bBRo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAI9WnMB5AkXiubuPJp_61WGnjtM9-qt-44>
+>
+> Alberto
+
+**Esito (10/08/2026):** DM inviati, ricevute risposte dirette da alcuni lead e +3/4 voti al sondaggio riconducibili all'invio. Precedente positivo: la riga di aggancio business ("it's close to what I work on daily...") non ha reso il messaggio pushing e ha comunque generato conversazione, riusabile per solleciti sondaggio futuri sulla stessa lista.
 
 ## Note pubblicazione
 
@@ -77,3 +93,7 @@ Gate ancora attivo (in attesa di via libera esplicito di Alberto). Pubblicazione
 - Niente hashtag, niente emoji
 - Durata sondaggio: 1 settimana (default LinkedIn)
 - Formato: sondaggio nativo LinkedIn + testo del post come accompagnamento
+
+## Risultato finale (chiuso 10/08/2026)
+
+**The game provider vince con il 60%.** Nessun reveal a sé: Alberto ha deciso (10/08) di non produrre un post/commento dedicato solo al risultato — lunedì 10/08 è già occupato dal recupero Tony Bloom, mercoledì e venerdì da carosello e newsletter N2. Il dato (60% game provider, tesi aggregatore mai votata perché non in lista) confluisce nel carosello di chiusura Atto 3 del blocco, **venerdì 14/08** ("Come ho usato Claude per strutturare una proposta commerciale per il mercato IT regolamentato") — o in un contenuto successivo che riprenda esplicitamente il filone "chi crea valore", da valutare alla creazione.
