@@ -56,7 +56,8 @@ Aggiungere 3-4 paragrafi extra da ~50-60 parole ciascuno all'unico blocco di tes
 ### Trust link (link esterni a fonti autorevoli)
 - Formato: `<a href="https://url-fonte" target="_blank">anchor text</a>` — **con** `target="_blank"`
 - Inserire **uno** per articolo, in uno dei paragrafi del secondo blocco
-- Fonti accettabili: ADM, AGIPRO, AGIMEG, siti istituzionali, operatori con licenza ADM
+- Fonti accettabili: **solo** ADM, siti istituzionali (MEF, Governo, Gazzetta Ufficiale) e operatori con licenza ADM
+- **Mai testate di settore/competitor** (AGIMEG, Jamma, AGIPRO e simili) — sono concorrenti editoriali di sitiscommesse.com, non fonti primarie da linkare (corretto 10/08/2026, la versione precedente di questa riga era sbagliata)
 
 ### Verifica link
 - **I link devono essere testati e funzionanti** prima dell'invio
