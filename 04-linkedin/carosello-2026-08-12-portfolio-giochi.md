@@ -1,9 +1,9 @@
 # Carosello LinkedIn — Blocco 2, mercoledì (recupero): portfolio giochi, meno titoli non meno revenue
 
 Data: 2026-08-12
-Stato: pronto per pubblicazione. Grafica generata l'11/08/2026 da Alberto via NotebookLM web UI, notebook dedicato "LinkedIn Caroselli — Alberto" (creato l'11/08 per evitare contaminazione dalle fonti di "infografiche-design", che nel primo tentativo avevano introdotto terminologia inventata). Due round di revisione slide-per-slide: rimossa una cifra in dollari non verificata dalla slide 3, corretto il formato orizzontale non coerente di slide 3 e 7 (ora tutte verticali 1080x1350). File: `The_Volume_Trap_(5).pdf` — da rinominare in `Casino game catalogue portfolio strategy Alberto Lattuada.pdf` prima dell'upload (titolo SEO, vedi sezione sotto).
+Stato: **schedulato su LinkedIn nativo da Alberto per mercoledì 12/08/2026 ore 12:15.** Grafica generata l'11/08/2026 via NotebookLM web UI, notebook dedicato "LinkedIn Caroselli — Alberto" (creato l'11/08 per evitare contaminazione dalle fonti di "infografiche-design", che nel primo tentativo avevano introdotto terminologia inventata). Due round di revisione slide-per-slide: rimossa una cifra in dollari non verificata dalla slide 3, corretto il formato orizzontale non coerente di slide 3 e 7 (ora tutte verticali 1080x1350). File: `The_Volume_Trap_(5).pdf`.
 
-⚠️ Da confermare con Alberto: slide 4 ha il testo in basso invece che in alto come le altre 7 — variazione voluta o da correggere.
+Slide 4 confermata da Alberto così com'è (11/08) — il layout con testo in basso resta invariato, nessuna correzione necessaria.
 
 ---
 

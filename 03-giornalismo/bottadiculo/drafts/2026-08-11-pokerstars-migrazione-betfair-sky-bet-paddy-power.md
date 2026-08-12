@@ -6,7 +6,7 @@
 **Topic:** Flutter Entertainment lancia "PokerStars on Betfair" nel Regno Unito dal 13 agosto, con l'obiettivo di unificare la liquidità poker in un unico pool (PokerStars Network). Sky Bet e Paddy Power seguiranno più avanti nell'anno, senza data fissata.
 **Angolo:** impatto operativo per chi lavora su PokerStars UK/Betfair/Sky Bet/Paddy Power durante la transizione tecnica — con il precedente di Sky Poker, già migrato una volta (verso iPoker, maggio 2025) e ora in direzione opposta.
 **Fonti:** [sbcnews.co.uk](https://sbcnews.co.uk/igaming/2026/08/10/pokerstars-sky-bet-betfair-paddy-power/) (10/08/2026), [PokerNews](https://www.pokernews.com/news/2026/08/pokerstars-announces-major-network-restructuring-52094.htm), [Poker Industry PRO](https://pokerindustrypro.com/news/article/216025-sky-poker-migration-pokerstars-platform)
-**Status:** Draft — da approvare
+**Status:** Pubblicato
 
 ---
 

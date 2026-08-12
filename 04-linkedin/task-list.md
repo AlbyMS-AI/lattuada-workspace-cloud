@@ -16,6 +16,14 @@ Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-str
 
 ---
 
+## Fuori piano — reattivo a stimoli del momento
+
+| Data | Formato | Lingua | Contenuto | Stato |
+|---|---|---|---|---|
+| 11/08 | Repost + commentario | EN | Licensing come vero collo di bottiglia dello scaling multi-mercato — reattivo alla menzione Jamma (panel SOFTSWISS 27/08) | [x] Pubblicato — `post-2026-08-11-scaling-regulated-markets.md` |
+
+---
+
 ## Pubblicato (storico)
 
 | Pubblica | Giorno | Formato | Lingua | Contenuto | Stato |
@@ -41,8 +49,8 @@ Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-str
 | ~~17/07~~ → ~~31/07~~ | ~~Ven~~ | Post testo | IT | Il paradosso AGCOM 85/26/CONS (Atto 3) | No | Già scritto | [x] **Non si pubblica** — deciso da Alberto (02/08). Testo resta salvato in `post-2026-07-17-paradosso-agcom.md` in caso di riuso futuro, ma Blocco 1 IT chiude senza questo pezzo |
 | ~~20/07~~ → **03/08** | ~~Lun~~ Lun | Sondaggio | EN | In betting, who really creates value? | No | 30/07 (Gio) | [x] Pubblicato — schedulato su LinkedIn nativo per lunedì 03/08 ore 10:30 — `sondaggio-2026-08-03-chi-crea-valore.md` |
 | ~~07/08~~ → **10/08** | ~~Ven~~ Lun | Post testo | EN | Tony Bloom non scommette: la distinzione che cambia tutto | No | **subito** (era 05/08) | [x] Salvato — `post-2026-08-10-tony-bloom-liquidita.md`. Pronto per pubblicazione lunedì 10/08 |
-| ~~05/08~~ → **12/08** | ~~Mer~~ Mer | Carosello | EN | Portfolio giochi: perché più titoli non significa più revenue (framework PAS, spunto Lezione 8 MLR) | Sì — carosello PDF (workflow Canva/NotebookLM) | 10/08 (Lun) | [~] Testo salvato — `carosello-2026-08-12-portfolio-giochi.md`. Cifra "6 titoli" non verificabile su fonte pubblica (due ricerche negative), sostituita da meccanismo anonimizzato (proposal Staryes/Vittoriabet, senza nomi/cifre). Manca impaginazione grafica e autocontrollo anti-AI EN |
-| ~~07/08~~ → **14/08** | ~~Ven~~ Ven | **Newsletter N2 — The Betting Edge** | IT | Delibera AGCOM 85/26/CONS — approfondimento | No (testo + immagini inline con tag alt) | 12/08 (Mer) | [~] Fact-check e umanizzazione completati (13/07) — `newsletter-2026-07-24-n2-agcom-85-26-cons.md` — **recuperata il 07/08**, non più accoppiata al post Tony Bloom. Manca solo revisione finale e conferma di Alberto, poi programmare su LinkedIn. ⚠️ Prima di programmarla: decidere se N3 resta al 21/08 (7 giorni di distanza) o slitta al 28/08 |
+| ~~05/08~~ → **12/08** | ~~Mer~~ Mer | Carosello | EN | Portfolio giochi: perché più titoli non significa più revenue (framework PAS, spunto Lezione 8 MLR) | Sì — carosello PDF (workflow NotebookLM, notebook dedicato "LinkedIn Caroselli — Alberto") | 10/08 (Lun) | [x] Schedulato su LinkedIn nativo per mercoledì 12/08 ore 12:15 — `carosello-2026-08-12-portfolio-giochi.md`. Cifra "6 titoli" non verificabile su fonte pubblica, sostituita da meccanismo anonimizzato. ⚠️ Da verificare a posteriori: layout slide 4 (testo in basso, diverso dalle altre) |
+| ~~07/08~~ → **14/08** | ~~Ven~~ Ven | **Newsletter N2 — The Betting Edge** | IT | Delibera AGCOM 85/26/CONS — approfondimento | No (testo + immagini inline con tag alt) | 12/08 (Mer) | [~] Fact-check e umanizzazione completati (13/07) — `newsletter-2026-07-24-n2-agcom-85-26-cons.md` — **recuperata il 07/08**, non più accoppiata al post Tony Bloom. Revisione finale con Alberto a partire dal pomeriggio di mercoledì 12/08. ⚠️ Prima di programmarla: decidere se N3 resta al 21/08 (7 giorni di distanza) o slitta al 28/08 |
 | ~~31/07~~ → **14/08** | ~~Ven~~ Ven | Carosello | EN | Claude per una proposta commerciale mercato IT regolamentato (Atto 3, anonimizzato) | Sì — carosello PDF (workflow Canva/NotebookLM) | 12/08 (Mer) | [ ] Da sviluppare — chiude Blocco 2, stesso giorno della newsletter N2 |
 | ~~03/08~~ → **17/08** | ~~Lun~~ Lun | Post testo | IT | La contraffazione dei giochi cresce col mercato legale | No | 13/08 (Gio) | [ ] Da sviluppare — slittato 2 settimane (14/07), apre Blocco 3 |
 | ~~07/08~~ → **21/08** | ~~Ven~~ Ven | Carosello | IT | Come verificare la certificazione di un provider | Sì — carosello PDF (workflow Canva/NotebookLM) | 19/08 (Mer) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
