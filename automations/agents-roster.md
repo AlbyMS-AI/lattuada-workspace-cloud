@@ -26,6 +26,22 @@ Prima del 12/08 il job launchd e la skill `/piero` facevano cose diverse: il job
 
 Dal 12/08 la skill fa le stesse tre cose del job (chat, archivio, DM Slack con prefisso `PIERO |`). Se il brief del giorno esiste già non lo sovrascrive, lo affianca come `morning-brief-manuale.md`. Il job resta caricato come rete di sicurezza.
 
+### Avviso copertura italiana (13/08/2026)
+
+Il 13/08 le due sole fonti italiane, Jamma.it e AGiMeG, sono risultate irraggiungibili: 503 su porta 80 e connection reset su 443. Causa identificata da Alberto: **la rete WiFi a cui era agganciato filtra quei domini**. Non è un guasto dei siti né un problema di PIERO.
+
+Il difetto vero non era il blocco ma il silenzio: il brief usciva con 19 angoli Sitiscommesse su 20 a `N/A`, indistinguibile da una giornata senza notizie italiane. Dato che PIERO gira in locale, il problema si ripresenta ogni volta che Alberto è su quella rete.
+
+Correzione applicata lo stesso giorno, sia in `piero.py` (funzioni `italian_coverage`, `coverage_banner`, `_coverage_rule`) sia nella skill `/piero`:
+
+- se **nessuna** fonte IT risponde, il brief si apre con un avviso esplicito e il DM Slack lo ripete
+- se ne risponde **una sola**, avviso più leggero di copertura parziale
+- in entrambi i casi il modello riceve l'istruzione di non inventare angoli Sitiscommesse da notizie internazionali per riempire il vuoto
+
+Il banner è scritto dallo script, non chiesto al modello: deve comparire sempre quando la condizione è vera, senza dipendere dal fatto che il modello si ricordi di generarlo. Testato sui 5 casi possibili più un fetch reale contro la rete bloccata.
+
+**Se serve la copertura italiana e la rete la blocca:** cambiare rete (hotspot) e rilanciare `/piero`, che salva il brief affiancato senza sovrascrivere quello già in archivio.
+
 ### Job locali rimasti (launchd)
 
 | Job | Stato | Nota |

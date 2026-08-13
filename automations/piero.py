@@ -291,7 +291,7 @@ def main():
     raw_path.write_text(json.dumps(stories, ensure_ascii=False, indent=2))
     log(f"Raw stories saved: {raw_path}")
 
-    prompt = build_prompt(stories, today)
+    prompt = build_prompt(stories, today, cov)
     log(f"Calling claude CLI ({len(stories)} stories)...")
 
     result = subprocess.run(
@@ -303,7 +303,12 @@ def main():
         log(f"Claude error (exit {result.returncode}): {result.stderr[:300]}")
         sys.exit(1)
 
-    output_path.write_text(result.stdout)
+    # Il banner va scritto qui e non chiesto al modello: se lo generasse lui
+    # potrebbe ometterlo o ammorbidirlo, e l'avviso deve esserci sempre quando
+    # la condizione e' vera. Il modello riceve comunque l'istruzione separata
+    # (_coverage_rule) per non inventare angoli italiani a vuoto.
+    banner = coverage_banner(cov)
+    output_path.write_text(banner + ("\n" if banner else "") + result.stdout)
     log(f"Morning brief saved: {output_path}")
 
     subprocess.run([
@@ -312,9 +317,18 @@ def main():
     ])
 
     headlines = "\n".join(f"• {s['title']}" for s in stories[:3])
+    if cov["tutte_giu"]:
+        alert = ("\n\n:warning: *Nessuna fonte italiana raggiungibile* "
+                 f"({', '.join(h['name'] for h in cov['giu'])}). "
+                 "Il brief non copre il mercato IT: verificare a mano prima di usarlo per Sitiscommesse o per il nesso Italia su Jamma.")
+    elif cov["giu"]:
+        alert = ("\n\n:warning: *Copertura italiana parziale*: "
+                 f"{', '.join(h['name'] for h in cov['giu'])} non raggiungibile.")
+    else:
+        alert = ""
     slack_msg = (
         f"*PIERO | {today}* — {len(stories)} notizie iGaming\n\n"
-        f"{headlines}\n\n"
+        f"{headlines}{alert}\n\n"
         f"_Brief completo: `03-giornalismo/news-igaming 2026/{today}/morning-brief.md`_"
     )
     slack_prompt = f"Usa slack_send_message per inviare questo DM a U09TCJ89NJJ:\n\n{slack_msg}"
