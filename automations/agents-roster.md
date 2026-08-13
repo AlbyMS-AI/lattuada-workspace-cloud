@@ -1,21 +1,30 @@
 # Agenti Workspace — Roster e Stato
 
-> Aggiornato: 08/08/2026 (riordino agenti — stato verificato su `launchctl list`, `crontab -l`, `RemoteTrigger list`, log locali e cronologia DM Slack, non dichiarato a memoria). Questo è il file operativo di riferimento: la memoria di Claude punta qui.
+> Aggiornato: 12/08/2026 (check completo workspace — stato verificato su `launchctl list`, `crontab -l`, `RemoteTrigger list`, log locali e chiamate live ai connettori, non dichiarato a memoria). Questo è il file operativo di riferimento: la memoria di Claude punta qui.
 >
-> **Riordino dell'08/08:** questo file era di nuovo stale, seconda volta dopo il 02/08. Diceva PIERO su cloud e i job locali scaricati: falso su entrambi i punti. OTTO e VERA giravano **due volte a settimana ciascuno** (cloud + launchd locale mai scaricato), producendo due report diversi e in contraddizione lo stesso giorno. PIERO cloud era disattivato e l'unico PIERO vivo era il processo locale, appeso da 9 ore su una fonte RSS senza timeout. Dettaglio completo dell'analisi: `check-sabato/2026-08-08-analisi-otto.md`.
+> **Check del 12/08:** il roster era accurato sul "dove gira cosa" (prima volta dopo due check consecutivi in cui era stale). Il problema trovato era altrove, dentro i prompt: **ALDO e MARCO avevano hardcoded la deadline "contratto Italia Staryes/VittoriaBet entro 9 luglio"**, scaduta da 34 giorni, e la ripetevano a ogni run. Stessa classe di errore del LinkedIn Post Reminder disattivato il 02/08. Correzioni applicate lo stesso giorno, dettaglio sotto.
 >
 > **Principio adottato:** un agente, un posto solo. Tutto su cloud tranne PIERO, che deve stare in locale perché la sandbox cloud non raggiunge le fonti RSS.
+>
+> **Regola nuova (12/08): nessuna data hardcoded nei prompt degli agenti.** Le scadenze si leggono da Linear a ogni run. Un prompt che contiene una data la ripeterà per sempre, anche quando è morta, e nessuno se ne accorge finché non si rilegge il prompt. ALDO e MARCO ora hanno una nota esplicita che glielo vieta e che impone di segnalare il fallimento della chiamata Linear invece di riempire il vuoto.
 
 ## Roster attivo
 
-| Agente | Ruolo | Dove gira | Schedule | Stato verificato 08/08 |
+| Agente | Ruolo | Dove gira | Schedule | Stato verificato 12/08 |
 |---|---|---|---|---|
-| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Locale** (launchd `com.albertol.piero`) | Ogni giorno 07:00 e 12:40 Roma | ✅ Attivo. È l'unico agente che deve girare in locale: la versione cloud (`trig_01R5LLasoxRqBYz2w48MSRh6`) resta disattivata perché la sandbox non raggiunge gli RSS (blocco del 23/07). Due finestre al giorno: la seconda recupera i giorni in cui il Mac dorme la mattina, senza doppioni (esce subito se il brief del giorno esiste già) |
-| **MARCO** | BDM / Pipeline review (Pipedrive Dealbot + Linear + Granola) | Cloud cron | Lun 07:00 Roma (`0 5 * * 1` UTC) | ✅ Attivo — `trig_018CSmAP6w4tyJcyenYNZBMd`. ⚠️ Legato a Pipedrive: da rifare con la migrazione HubSpot. ⚠️ Linear non autenticato dal 03/08 |
-| **VERA** | Brief editoriale settimanale (repo → brief → Slack) | **Solo cloud** | Ven 12:00 Roma (`0 10 * * 5` UTC) | ✅ Attivo — `trig_011zLYAjZLmCnbYTNhcmjVvo`. Il gemello locale (`com.albertol.vera`) è stato scaricato l'08/08: mandava un secondo brief ogni venerdì (12:06 cloud + 13:04 locale il 07/08, stesso schema il 31/07) |
-| **ALDO** | General Manager / Daily brief (Calendar + Gmail + Linear) | Cloud cron | Lun-Ven 08:30 Roma (`30 6 * * 1-5` UTC) | ✅ Attivo — `trig_01Li3P6YAkhP2gLGb5VzsDsm`. ⚠️ Linear non autenticato dal 03/08: i task non compaiono più nel brief |
-| **OTTO** | Check workspace del sabato | **Solo cloud** | Sab 08:30 Roma (`30 6 * * 6` UTC) | ✅ Attivo — `trig_01LRGJfc8rvJb3SGnMLbWqDf`. Il gemello locale è stato scaricato l'08/08. Prompt riscritto lo stesso giorno con la "regola di onestà": deve distinguere agente fermo, controllo rotto e dato mancante, e non può più declassare un agente sano perché la sua ricerca Slack è fallita |
+| **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Locale** (launchd `com.albertol.piero`) + skill `/piero` on demand | Ogni giorno 07:00 e 12:40 Roma | ✅ Attivo, ultimo run 12/08 07:01 (fetch 10 fonti in ~9 secondi, l'hardening dell'08/08 ha retto). La versione cloud (`trig_01R5LLasoxRqBYz2w48MSRh6`) resta disattivata per il blocco RSS del 23/07, mai ritestato. Alberto lo lancia anche a mano con `/piero`: dal 12/08 la skill è allineata al job (salva l'archivio e manda il DM), vedi sotto |
+| **MARCO** | BDM / Pipeline review (Pipedrive Dealbot + Linear + Granola) | Cloud cron | Lun 07:00 Roma (`0 5 * * 1` UTC) | ✅ Attivo — `trig_018CSmAP6w4tyJcyenYNZBMd`. Prompt corretto il 12/08: rimossa la deadline hardcoded, aggiunto il divieto di inventare date, aggiunto un controllo che segnala le issue Linear il cui titolo contraddice la due date. Modello portato a Sonnet 5. ⚠️ Resta legato a Pipedrive: da rifare con la migrazione HubSpot |
+| **VERA** | Brief editoriale settimanale (repo → brief → Slack) | **Solo cloud** | Ven 12:00 Roma (`0 10 * * 5` UTC) | ✅ Attivo — `trig_011zLYAjZLmCnbYTNhcmjVvo`, ultimo run 07/08, prossimo 14/08. Nessuna correzione necessaria: non ha date hardcoded, legge tutto dal repo |
+| **ALDO** | General Manager / Daily brief (Calendar + Gmail + Linear) | Cloud cron | **Tutti i giorni 08:30 Roma** (`30 6 * * *` UTC) | ✅ Attivo — `trig_01Li3P6YAkhP2gLGb5VzsDsm`. Modificato il 12/08: passato da lun-ven a **7 giorni su 7** per il requisito di copertura weekend e festivi. Nel weekend gira in **versione leggera** (salta le email Softswiss, tiene calendario e scadenze Linear); se non c'è nulla manda una riga sola invece di un brief vuoto. Rimossa la deadline hardcoded. Modello portato a Sonnet 5 |
+| **OTTO** | Check workspace del sabato | **Solo cloud** | Sab 08:30 Roma (`30 6 * * 6` UTC) | ✅ Attivo — `trig_01LRGJfc8rvJb3SGnMLbWqDf`, ultimo run 08/08, prossimo 15/08. Regola di onestà dell'08/08 invariata |
+| **Linear-deadline-reminder** | Scadenze Linear a 3 giorni → bozza Gmail + DM Slack | Cloud cron | Ogni giorno 08:00 Roma (`0 6 * * *` UTC) | ✅ Attivo — `trig_01KPMhuagKVioGPGeaEkwf4k`, ultimo run 12/08. Manda un DM esplicito se Linear non risponde, invece di tacere: è la rete di sicurezza decisa il 09/08 al posto di una routine di controllo dedicata |
 | TONY | LasVegas (campagne + community) | — | — | ⏸ Bloccato: serve allineamento con Luigi + nessun connector LasVegas. Non costruire prima |
+
+### PIERO: job schedulato e skill allineati (12/08/2026)
+
+Prima del 12/08 il job launchd e la skill `/piero` facevano cose diverse: il job salvava l'archivio in `03-giornalismo/news-igaming 2026/` e mandava il DM Slack, la skill stampava solo in chat. Conseguenza: nei giorni in cui il Mac era spento all'alba e Alberto lanciava `/piero` a mano, l'archivio restava bucato e OTTO il sabato segnalava PIERO come fermo, perché cerca proprio quel DM come prova di vita. Buchi reali negli ultimi 30 giorni: 26/07, 29/07, 30/07.
+
+Dal 12/08 la skill fa le stesse tre cose del job (chat, archivio, DM Slack con prefisso `PIERO |`). Se il brief del giorno esiste già non lo sovrascrive, lo affianca come `morning-brief-manuale.md`. Il job resta caricato come rete di sicurezza.
 
 ### Job locali rimasti (launchd)
 
@@ -25,7 +34,7 @@
 | `com.albertol.cloudsync` | ✅ Caricato | Sync del repo cloud ogni 3 ore |
 | `com.albertol.otto` | ⏸ Scaricato l'08/08 | Plist rinominato `.plist.disabled`, copia in `archive/launchd-disattivati-2026-08/` |
 | `com.albertol.vera` | ⏸ Scaricato l'08/08 | Come sopra |
-| crontab `cleanup.sh` | ✅ Attivo | Spostato dalle 23:47 alle 12:47 del 28: alle 23:47 il Mac dorme e il cleanup di luglio non è mai partito (`cleanup-log-2026-07.txt` mancante) |
+| crontab `cleanup.sh` | ⚠️ Caricato ma mai eseguito al nuovo orario | Spostato dalle 23:47 alle 12:47 del 28 perché alle 23:47 il Mac dorme. **Verifica del 12/08:** `cleanup-cron.log` è ancora fermo al 28/06 e mancano sia `cleanup-log-2026-07.txt` sia quello di agosto, quindi il nuovo orario non ha ancora prodotto un run. Non è una prova di guasto: lo spostamento è successivo al 28/07, quindi il primo test reale è il **28/08/2026 alle 12:47**. Se quel giorno il log resta fermo, il job è rotto e va indagato |
 
 Post-call workflow: skill on demand (`/post-call`), non schedulata — invariata.
 

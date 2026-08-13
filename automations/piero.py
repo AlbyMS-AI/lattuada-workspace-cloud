@@ -80,10 +80,11 @@ def is_relevant(entry) -> bool:
     return any(kw in text for kw in KEYWORDS)
 
 
-def fetch_stories(sources: list) -> list:
+def fetch_stories(sources: list) -> tuple:
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=HOURS_BACK)
     stories = []
     seen = set()
+    health = []
 
     for src in sources:
         if not src.get("enabled", True):
@@ -96,6 +97,11 @@ def fetch_stories(sources: list) -> list:
             log(f"{src['name']}: {n_entries} entries in {elapsed:.1f}s")
             if n_entries == 0:
                 log(f"WARN {src['name']}: feed vuoto o non parsabile, controllare l'URL")
+                health.append({"name": src["name"], "lang": src.get("lang", "EN"),
+                               "ok": False, "detail": "feed vuoto o non parsabile"})
+            else:
+                health.append({"name": src["name"], "lang": src.get("lang", "EN"),
+                               "ok": True, "detail": f"{n_entries} entries"})
             for entry in feed.entries:
                 title = entry.get("title", "").strip()
                 if not title or title.lower() in seen:
@@ -118,6 +124,8 @@ def fetch_stories(sources: list) -> list:
         except Exception as e:
             elapsed = time.monotonic() - started
             log(f"ERROR {src['name']} dopo {elapsed:.1f}s: {e}")
+            health.append({"name": src["name"], "lang": src.get("lang", "EN"),
+                           "ok": False, "detail": str(e)[:120]})
 
     # Il taglio a MAX_STORIES era secco sulla lista in ordine di fonte: iGaming
     # Business, che pubblica 100 item al giorno, saturava la quota e Jamma e
@@ -137,10 +145,55 @@ def fetch_stories(sources: list) -> list:
     coverage = ", ".join(f"{s}:{sum(1 for b in balanced if b['source'] == s)}"
                          for s in dict.fromkeys(b["source"] for b in balanced))
     log(f"Collected {len(balanced)} relevant stories (cap {MAX_STORIES}) — {coverage}")
-    return balanced
+    return balanced, health
 
 
-def build_prompt(stories: list, today: str) -> str:
+def italian_coverage(health: list) -> dict:
+    """Stato delle fonti italiane per il run corrente.
+
+    Serve a distinguere due cose che nel brief si somigliano e non sono affatto
+    la stessa: "oggi in Italia non e' successo niente" e "oggi le fonti italiane
+    non rispondevano". Senza questo controllo il brief mostra solo una fila di
+    'Angle Sitiscommesse.com -> N/A', che letta di fretta sembra assenza di
+    notizie invece che assenza di fonti. Stessa regola di onesta' data a OTTO.
+
+    Caso reale che l'ha motivato: il 13/08/2026 Jamma e AGiMeG erano entrambe
+    irraggiungibili dalla rete WiFi di Alberto (503 su HTTP, reset su HTTPS) e
+    il brief usciva con 19 angoli Sitiscommesse su 20 a N/A, senza dirlo.
+    """
+    it = [h for h in health if h["lang"] == "IT"]
+    down = [h for h in it if not h["ok"]]
+    return {"totale": len(it), "giu": down, "tutte_giu": bool(it) and len(down) == len(it)}
+
+
+def coverage_banner(cov: dict) -> str:
+    """Riga di avviso da mettere in cima al brief. Stringa vuota se tutto ok."""
+    if not cov["giu"]:
+        return ""
+    nomi = ", ".join(h["name"] for h in cov["giu"])
+    if cov["tutte_giu"]:
+        return (f"> ⚠️ **Nessuna fonte italiana raggiungibile** ({nomi}). "
+                f"Questo brief non copre il mercato IT: gli angoli Sitiscommesse.com sono "
+                f"inaffidabili e l'assenza di notizie italiane non significa che non ce ne siano. "
+                f"Causa tipica: rete che filtra i domini (verificato il 13/08/2026 sulla WiFi di Alberto). "
+                f"Per il mercato IT controllare le fonti a mano prima di scriverci sopra.\n")
+    return (f"> ⚠️ **Copertura italiana parziale**: {nomi} non raggiungibile. "
+            f"Il mercato IT in questo brief e' coperto solo in parte.\n")
+
+
+def _coverage_rule(cov: dict) -> str:
+    """Istruzione da passare al modello quando mancano le fonti italiane."""
+    if not cov["giu"]:
+        return ""
+    nomi = ", ".join(h["name"] for h in cov["giu"])
+    stato = "Nessuna fonte italiana" if cov["tutte_giu"] else f"Fonti italiane mancanti ({nomi})"
+    return (f"- ATTENZIONE COPERTURA: {stato} ha risposto in questo run. "
+            f"Non dedurre che in Italia non sia successo nulla e non inventare "
+            f"angoli Sitiscommesse.com da notizie internazionali per riempire il vuoto: "
+            f"se una notizia non tocca davvero il mercato italiano, l'angolo resta N/A.")
+
+
+def build_prompt(stories: list, today: str, cov: dict) -> str:
     return f"""Sei PIERO, l'agente News Radar di Alberto Lattuada (giornalista iGaming e BDM Softswiss Game Aggregator).
 
 Alberto scrive per tre testate con identità editoriali distinte:
@@ -201,6 +254,7 @@ REGOLE:
 - No trattini nel corpo del testo, no avverbi in -mente
 - Il testo della sintesi deve essere in italiano
 - Se una sezione non ha storie, omettila
+{_coverage_rule(cov)}
 
 NOTIZIE DA ELABORARE ({len(stories)} storie, ultime 48 ore):
 
@@ -219,7 +273,13 @@ def main():
         return
 
     sources = json.loads(SOURCES_FILE.read_text())
-    stories = fetch_stories(sources)
+    stories, health = fetch_stories(sources)
+    cov = italian_coverage(health)
+
+    if cov["giu"]:
+        nomi = ", ".join(h["name"] for h in cov["giu"])
+        stato = "TUTTE giu'" if cov["tutte_giu"] else f"{len(cov['giu'])} su {cov['totale']} giu'"
+        log(f"COPERTURA IT: {stato} — {nomi}")
 
     if not stories:
         log("No relevant stories found. Exiting.")
