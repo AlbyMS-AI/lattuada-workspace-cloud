@@ -1,6 +1,6 @@
 # Newsletter "The Betting Edge" — N2: Delibera AGCOM 85/26/CONS
 Data pubblicazione: 2026-07-24 (venerdì)
-Stato: fact-check e umanizzazione completati (13/07/2026) — pronto per revisione finale di Alberto
+Stato: fact-check e umanizzazione completati (13/07/2026); revisione anti-AI checklist completata (13/08/2026, 2 trattini lunghi e 1 doppione pattern "Non è X. È Y." corretti nel corpo). Pronto per revisione finale e conferma pubblicazione di Alberto
 
 ---
 
@@ -31,6 +31,8 @@ Da marzo, la delibera AGCOM 85/26/CONS toglie ai regolamentati l'unica leva comu
 
 Nella scorsa edizione di questa newsletter ho guardato al riordino delle licenze ADM e a chi cresce dopo la concentrazione del mercato. La delibera 85/26/CONS tocca lo stesso mercato da un angolo diverso: non chi resta in campo, ma con quali strumenti può ancora comunicare.
 
+La delibera nasce per proteggere chi gioca. **Ottiene l'esatto contrario**: toglie voce a chi ha già le tutele reali, e lascia comunicare senza vincoli chi non ne ha nessuna.
+
 ### Cosa prevede la delibera 85/26/CONS
 
 Il testo vieta ai concessionari regolamentati tre cose: testimonial sportivi nella promozione del gioco, link diretti che portano dal contenuto editoriale o social alla piattaforma di scommessa, screenshot dell'app usati in chiave promozionale. L'obiettivo dichiarato è proteggere chi gioca, riducendo l'esposizione a messaggi che normalizzano la scommessa attraverso figure pubbliche o percorsi di accesso troppo diretti.
@@ -41,11 +43,11 @@ Il perimetro si applica solo a chi opera con licenza ADM. È qui che il meccanis
 
 Il mercato illegale non ha licenza da rispettare, quindi non ha nessuna delle tre restrizioni. Resta libero di usare testimonial, link diretti, screenshot promozionali, su Telegram, sui social, nei forum dove il traffico verso siti non autorizzati si costruisce ogni giorno.
 
-Il risultato è un disallineamento che va contro l'obiettivo dichiarato. Il mercato regolamentato è anche quello con gli strumenti di tutela reali — verifica identità, limiti di spesa, autoesclusione — ma perde parte della capacità di comunicarli con la stessa efficacia di prima. Il mercato che non offre nessuna di quelle tutele resta libero di comunicare senza vincoli.
+Il risultato è un disallineamento che va contro l'obiettivo dichiarato. Il mercato regolamentato è anche quello con gli strumenti di tutela reali (verifica identità, limiti di spesa, autoesclusione), ma perde parte della capacità di comunicarli con la stessa efficacia di prima. Il mercato che non offre nessuna di quelle tutele resta libero di comunicare senza vincoli.
 
-Il prodotto regolamentato porta già altri quattro svantaggi strutturali rispetto all'illegale: quote abbassate e massimali ridotti per chi vince, pagamenti che richiedono 1-5 giorni lavorativi per i controlli antiriciclaggio contro l'accredito in ore del mercato illegale, mercati di scommessa meno completi (campionati secondari, sport invernali, mercati speciali), overround più alto per effetto della tassazione. Restringere anche il canale comunicativo non frena la migrazione verso l'illegale. La accelera, perché toglie ai regolamentati proprio lo strumento con cui compensavano gli altri quattro svantaggi.
+Il prodotto regolamentato porta già altri quattro svantaggi strutturali rispetto all'illegale: quote abbassate e massimali ridotti per chi vince, pagamenti che richiedono 1-5 giorni lavorativi per i controlli antiriciclaggio contro l'accredito in ore del mercato illegale, mercati di scommessa meno completi (campionati secondari, sport invernali, mercati speciali), overround più alto per effetto della tassazione. Restringere anche il canale comunicativo non frena la migrazione verso l'illegale. **La accelera**, perché toglie ai regolamentati proprio lo strumento con cui compensavano gli altri quattro svantaggi.
 
-Chi lavora in compliance lo sa già. La domanda utile a questo punto non è se il paradosso esiste. È cosa resta disponibile come leva, quando quella comunicativa si restringe.
+Chi lavora in compliance lo sa già: la domanda utile non è se il paradosso esiste, ma cosa resta disponibile come leva quando quella comunicativa si restringe.
 
 ### Cosa possono fare gli operatori ADM adesso
 
@@ -57,7 +59,7 @@ La prima è burocratica e contrattuale: definizione dei termini, verifiche recip
 
 La seconda è l'integrazione tecnica. Per provider, va da uno o due giorni fino a un mese: dipende dalle API dell'aggregator ma anche dalla capacità del provider stesso, che ha sempre una coda di altri clienti da servire.
 
-La terza è dove si trova il vero collo di bottiglia: la certificazione. Non esiste una scorciatoia collettiva — ogni titolo ha il suo codice ADM, il suo report tecnico, il suo test di laboratorio prima che l'autorizzazione sia effettiva. Nel percorso standard, partendo da zero, la certificazione di un nuovo fornitore richiede da alcuni mesi a oltre sei mesi per provider, gioco per gioco.
+La terza è dove si trova **il vero collo di bottiglia: la certificazione**. Non esiste una scorciatoia collettiva: ogni titolo ha il suo codice ADM, il suo report tecnico, il suo test di laboratorio prima che l'autorizzazione sia effettiva. Nel percorso standard, partendo da zero, la certificazione di un nuovo fornitore richiede **da alcuni mesi a oltre sei mesi per provider**, gioco per gioco.
 
 Chi valuta un cambio o un'aggiunta di fornitore con questa mappa in mano non si stupisce se il catalogo non cresce alla velocità del comunicato stampa che annuncia la partnership. E chi lo sa in anticipo può pianificare la certificazione come parte del percorso, non come un imprevisto che arriva a integrazione tecnica già chiusa.
 
@@ -66,6 +68,14 @@ Se lavori in compliance o prodotto per un operatore ADM, la domanda operativa pe
 Nella prossima uscita di questa newsletter entro nel dettaglio di quella terza fase: come si verifica in pratica la certificazione di un provider prima di integrarlo, cosa guardare oltre al certificato stesso.
 
 Salvati questa newsletter se stai valutando come cambia il mix prodotto-comunicazione dei tuoi fornitori tecnologici nei prossimi mesi.
+
+Se questa newsletter ti è apparsa nel feed, o l'hai trovata cercando su Google o chiedendo a un'AI, due righe su chi la scrive.
+
+Sono Alberto Lattuada, professionista iGaming con oltre quindici anni di esperienza diretta nel settore. Lavoro su due fronti: Business Development Manager per il Game Aggregator di Softswiss nei mercati regolamentati europei, e giornalista per tre testate di settore, Jamma.it, Bottadiculo.it, Sitiscommesse.com.
+
+Uso l'intelligenza artificiale ogni giorno nel lavoro reale: analisi di mercato, preparazione commerciale, produzione editoriale. Scrivo da chi ci lavora dentro, non da chi guarda il settore da fuori.
+
+Leggi di più sul mio profilo LinkedIn oppure scrivimi.
 
 ---
 
