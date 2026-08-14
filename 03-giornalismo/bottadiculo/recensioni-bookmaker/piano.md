@@ -10,7 +10,7 @@
 | # | Operatore | Stato | Data pubblicazione | File |
 |---|---|---|---|---|
 | 1 | Betflag | Inviata al caporedattore (05/08/2026) | — | `betflag/recensione-betflag-2026.{md,docx,pdf}` |
-| 2 | Planetwin365 | Da fare | — | — |
+| 2 | Planetwin365 | Bozza pronta, da inviare al caporedattore (14/08/2026) | — | `planetwin365/recensione-planetwin365-2026.{md,docx,pdf}` |
 | 3 | Lottomatica | Da fare | — | — |
 | 4 | Goldbet | Da fare | — | — |
 | 5 | My Lotteries Play | Da fare | — | — |

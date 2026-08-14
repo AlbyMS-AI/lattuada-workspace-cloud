@@ -1,6 +1,6 @@
 # Newsletter "The Betting Edge" — N2: Delibera AGCOM 85/26/CONS
-Data pubblicazione: 2026-07-24 (venerdì)
-Stato: fact-check e umanizzazione completati (13/07/2026); revisione anti-AI checklist completata (13/08/2026, 2 trattini lunghi e 1 doppione pattern "Non è X. È Y." corretti nel corpo). Pronto per revisione finale e conferma pubblicazione di Alberto
+Data pubblicazione: 2026-08-14 (venerdì) — **pubblicato**
+Stato: pubblicato il 14/08/2026, confermato da Alberto. Fact-check e umanizzazione completati (13/07/2026); revisione anti-AI checklist (13/08/2026); tesi resa esplicita e grassetto sui passaggi chiave aggiunti (14/08/2026)
 
 ---
 
