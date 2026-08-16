@@ -37,3 +37,7 @@ Iscriviti alla newsletter se lavori in compliance o prodotto per un operatore AD
 - [x] Un'unica antitesi ("Sembra una scelta veloce. Non lo è.") nel punto di svolta
 - [x] Non spoilera i dati della newsletter (fasi, tempistiche non citate)
 - [x] CTA esplicita verso la newsletter
+
+## Interazioni commenti
+
+**14/08/2026 — Geronimo Cardia** (Presidente ACADI - Associazione Concessionari di Giochi Pubblici, founder GCLEGAL): commento che sposta l'accento sul sistema sanzionatorio inefficace sugli illegali e sulle regole datate che non centrano più l'obiettivo degli ideatori (link a un suo approfondimento sul riordino del gioco pubblico, stesso tema che segue da anni: distanziometri, questione territoriale). Risposta pubblicata: riconosciuto il punto sull'enforcement, aggiunta la seconda falla indipendente (la regola resta un problema anche con sanzioni perfette sull'illegale) — punto di vista di Alberto: entrambe le cause sono vere, non alternative. Risposta rimasta sul tema del post (AGCOM 85/26), nessuna apertura a contatto diretto in pubblico. Profilo di alto valore per E-E-A-T (Authoritativeness) — interazione da monitorare per eventuale sviluppo futuro della relazione.
