@@ -47,7 +47,7 @@ Il banner è scritto dallo script, non chiesto al modello: deve comparire sempre
 | Job | Stato | Nota |
 |---|---|---|
 | `com.albertol.piero` | ✅ Caricato | Vedi sopra, 07:00 + 12:40 |
-| `com.albertol.cloudsync` | ✅ Caricato | Sync del repo cloud ogni 3 ore |
+| `com.albertol.cloudsync` | ✅ Caricato | Sync del repo cloud ogni 3 ore. **Scope allargato il 17/08/2026:** `news-igaming 2026/` era esclusa dal 20/07 come archivio storico di PIERO pre-migrazione cloud, ma da allora PIERO è tornato locale e ci scrive il brief ogni giorno, e la nuova VERA (lock del giovedì) legge proprio quel brief dal repo. Senza quella cartella VERA non avrebbe mai trovato la rassegna. Restano esclusi i `piero-raw.json`, 1 MB dei 1,7 MB totali, inutili a VERA. Sync manuale eseguito lo stesso giorno (commit `b32bb56`) per non far dipendere il primo run del 20/08 dalla finestra automatica |
 | `com.albertol.otto` | ⏸ Scaricato l'08/08 | Plist rinominato `.plist.disabled`, copia in `archive/launchd-disattivati-2026-08/` |
 | `com.albertol.vera` | ⏸ Scaricato l'08/08 | Come sopra |
 | crontab `cleanup.sh` | ⚠️ Caricato ma mai eseguito al nuovo orario | Spostato dalle 23:47 alle 12:47 del 28 perché alle 23:47 il Mac dorme. **Verifica del 12/08:** `cleanup-cron.log` è ancora fermo al 28/06 e mancano sia `cleanup-log-2026-07.txt` sia quello di agosto, quindi il nuovo orario non ha ancora prodotto un run. Non è una prova di guasto: lo spostamento è successivo al 28/07, quindi il primo test reale è il **28/08/2026 alle 12:47**. Se quel giorno il log resta fermo, il job è rotto e va indagato |
