@@ -156,6 +156,21 @@ Google valuta **chi pubblica**, non solo cosa pubblica. LinkedIn, avendo altissi
 Implicazione pratica: ogni articolo pubblicato su Jamma e Bottadiculo, quando ripreso su LinkedIn
 con rimando al profilo dell'autore, crea un segnale incrociato che rafforza l'autorevolezza su entrambi i canali.
 
+## Priorità sui temi rispetto alle testate (dal 17/08/2026)
+
+Jamma e Bottadiculo pubblicano una newsletter LinkedIn ciascuna il lunedì. **Il canale personale di
+Alberto ha la priorità nella scelta del tema:** LinkedIn personale, poi Jamma, poi Bottadiculo. È
+priorità di scelta, non di pubblicazione.
+
+Al lock del giovedì si verifica se il fatto più forte della settimana regge tre letture: serve una
+tesi personale di Alberto, una decisione da board nominabile, e un'azione da campo entro trenta
+giorni. Tre sì e il fatto attraversa tutti e tre i canali con tre angoli distinti, con quello
+personale che porta la tesi in prima persona. Anche un solo no e i tre canali prendono tre fatti
+diversi, in ordine di priorità.
+
+Regola completa nei due piani gemelli: `../03-giornalismo/jamma/piano-newsletter-linkedin-2026.md`
+e `../03-giornalismo/bottadiculo/piano-newsletter-linkedin-2026.md`.
+
 ## AI Search Visibility (GEO)
 
 Estensione dell'E-E-A-T sopra al canale delle risposte AI (ChatGPT, Perplexity, Google AI Mode): LinkedIn è il secondo dominio più citato in queste risposte (11% media), e il 95% dei buyer B2B che usa AI la impiega per cercare fornitori. Principi, regole di scrittura per citabilità AI e metodo di verifica manuale: `content-strategy/ai-search-visibility.md`.

@@ -13,7 +13,7 @@ Prese in sessione il 16/08/2026, valide per entrambe le newsletter del lunedì.
 | # | Decisione | Perché |
 |---|---|---|
 | 1 | **Temi separati** — Jamma e Bottadiculo non trattano mai lo stesso fatto nella stessa edizione | Uscendo lo stesso giorno con la stessa firma, il lettore iscritto a entrambe ne aprirebbe una sola. Costa due ricerche indipendenti, compra due prodotti complementari invece che concorrenti |
-| 2 | **Bottadiculo sceglie per primo** | Il bacino Jamma (regolatorio IT + internazionale + M&A + dati + prediction market) è circa cinque volte più largo. Bilanciare sulla risorsa scarsa, non su quella abbondante |
+| 2 | ~~Bottadiculo sceglie per primo~~ → **rivista il 17/08/2026: LinkedIn personale, poi Jamma, poi Bottadiculo**, con regola mista sul fatto condiviso | Decisione di Alberto. Ribalta il criterio del 16/08, che bilanciava sulla risorsa scarsa: ora Bottadiculo pesca per ultimo dal bacino più stretto, quindi la banca temi diventa strutturale. Vedi "Regola di assegnazione" |
 | 3 | **Lock giovedì, scrittura venerdì, rifinitura domenica** + banca temi sempre piena | Il lunedì mattina è occupato dall'agenda Softswiss: può essere solo giorno di pubblicazione. La banca è la rete che al piano editoriale LinkedIn è mancata (tre pezzi persi nella settimana 5-7/08) |
 | 4 | **Scheletro fisso con rubriche ricorrenti** | Con temi separati, la struttura è l'unica cosa che rende i due prodotti riconoscibili. E riduce il tempo di scrittura: il giovedì sai già quali caselle riempire |
 
@@ -29,21 +29,61 @@ Prese in sessione il 16/08/2026, valide per entrambe le newsletter del lunedì.
 
 ---
 
-## Regola di assegnazione — Bottadiculo sceglie per primo
+## Regola di assegnazione (rivista il 17/08/2026)
 
-Ogni giovedì, dalla rassegna PIERO della settimana, Bottadiculo passa i fatti attraverso tre filtri.
+**Gerarchia di priorità:** LinkedIn personale di Alberto, poi Jamma, poi Bottadiculo. È priorità di
+scelta del tema, non di pubblicazione: le due testate restano sul lunedì, "The Betting Edge" sul
+venerdì bisettimanale.
+
+Sostituisce la regola del 16/08 in cui Bottadiculo sceglieva per primo. **Conseguenza da tenere
+presente:** Bottadiculo ora pesca per ultimo dal bacino più stretto, mentre ha bisogno del materiale
+più scarso, cioè il fatto operativo italiano. La banca temi passa da rete di riserva a componente
+strutturale del piano: se si svuota, il piano si ferma qui prima che altrove.
+
+### Passo 1 — Il fatto della settimana regge tre letture?
+
+Ogni giovedì si applica una sola domanda al fatto più forte della rassegna PIERO. Regge tre letture
+**solo se riempie la rubrica fissa di tutti e tre i canali**:
+
+1. **Esiste una tesi personale di Alberto** che non sia il resoconto del fatto (requisito LinkedIn personale)
+2. **Si può nominare una decisione concreta** che finisce sul tavolo di chi guida (requisito Jamma, rubrica "Cosa deve decidere chi guida")
+3. **Chi sta sul campo può fare qualcosa entro trenta giorni** (requisito Bottadiculo, rubrica "Cosa cambia da domani")
+
+**Tre sì → fatto condiviso**, tre angoli distinti sui tre canali. Una ricerca sola, tre prodotti.
+**Anche un solo no → tre fatti separati**, assegnati in ordine di priorità (passo 2).
+
+Il criterio non si negozia il giovedì: se una casella resta vuota, il fatto non è condiviso, anche
+quando è grosso.
+
+### Passo 2 — Tre fatti separati, in ordine di priorità
+
+LinkedIn personale sceglie per primo, Jamma per secondo, Bottadiculo per terzo. Bottadiculo prende
+il fatto residuo che supera i suoi tre filtri:
 
 1. **Orizzonte** — il lettore lo sente nel suo lavoro entro trenta giorni?
 2. **Azionabilità** — può fare qualcosa a riguardo? Verificare, cambiare un processo, aspettare consapevolmente?
 3. **Prossimità** — riguarda il mercato italiano o un operatore attivo in Italia?
 
-**Tutti e tre sì → è il tema Bottadiculo della settimana.** Il resto del bacino passa a Jamma.
-**Due sì su tre → resta nel bacino Jamma**, che lo tratterà in chiave strategica.
-**Nessun fatto passa i tre filtri → si pesca dalla banca.** Non si salta l'uscita e non si prende in prestito il tema di Jamma.
+**Nessun residuo passa i tre filtri → si pesca dalla banca.** Non si salta l'uscita, non si prende in
+prestito il tema di Jamma, non si riscrive il pezzo LinkedIn personale in versione operativa.
 
-Se due fatti passano tutti e tre i filtri nella stessa settimana, il secondo va in banca con la data di scadenza (vedi sotto), non nell'edizione.
+Se due fatti superano i filtri, il secondo va in banca con la sua scadenza, non nell'edizione.
 
 **Domini tipici di Bottadiculo:** retail e PVR, affiliazione e performance marketing, pubblicità e adv, prodotto visto dal giocatore, KYC e onboarding, responsible gambling operativo, controlli ADM sul territorio, migrazioni di piattaforma che qualcuno deve gestire.
+
+### Il tocco personale, canale per canale
+
+Richiesta di Alberto del 17/08/2026: ogni angolo deve portare il suo tocco personale. Si declina in
+modo diverso perché le regole di voce non sono le stesse.
+
+| Canale | Come entra il tocco personale |
+|---|---|
+| LinkedIn personale | Prima persona ammessa. Tesi propria, esperienza diretta come prova a supporto, mai come apertura |
+| Jamma | **Nessuna prima persona.** Il tocco è il POV raccolto in sessione con domande mirate, che diventa la tesi che il mercato non sta articolando |
+| Bottadiculo | **Nessuna prima persona.** Il "tu" è il sostituto operativo. Il tocco è il POV più l'esempio concreto scelto da chi scrive, non il dato verificabile |
+
+Su Jamma e Bottadiculo il POV va raccolto **al lock del giovedì**, non in fase di scrittura: è quello
+che decide la struttura, non una rifinitura da aggiungere sopra a un pezzo già fatto.
 
 ---
 
@@ -106,7 +146,7 @@ CHIUSURA                          50-80 parole
 
 ## Banca temi
 
-**Stato al 16/08/2026: vuota.** Tutti i draft recenti risultano pubblicati, non c'è materiale in giacenza. Riempirla è il primo lavoro del piano, prima ancora della prima edizione a regime.
+**File:** `banca-temi.md` (creato il 17/08/2026, tre schede). Si controlla al lock del giovedì **prima** di guardare la rassegna, per scartare le schede scadute.
 
 **Regola:** almeno due pezzi pronti in ogni momento, tre è il target.
 
@@ -157,14 +197,17 @@ Il piano fissa gli slot, non i temi. Ogni riga si riempie al lock del giovedì p
 | Edizione | Lunedì | Lock | Scrittura | Note |
 |---|---|---|---|---|
 | **#77** | **17/08** | — | Dom 16/08 | **Edizione ad hoc fuori regime**, prodotta in giornata su un fatto già maturo della settimana 11-16/08 (decisione di Alberto, 16/08). Tema: revoca licenze sala scommesse Milano |
-| #78 | 24/08 | Gio 21/08 | Ven 22/08 | Prima edizione a regime |
-| #79 | 31/08 | Gio 28/08 | Ven 29/08 | |
-| #80 | 07/09 | **Mer 02/09** | Ven 04/09 | Venerdì occupato da The Betting Edge N4 — lock anticipato |
-| #81 | 14/09 | Gio 11/09 | Ven 12/09 | |
-| #82 | 21/09 | **Mer 16/09** | Ven 18/09 | Venerdì occupato da The Betting Edge N5 — lock anticipato |
-| #83 | 28/09 | Gio 25/09 | Ven 26/09 | |
-| #84 | 05/10 | **Mer 30/09** | Ven 02/10 | Venerdì occupato da The Betting Edge N6 — lock anticipato |
-| #85 | 12/10 | Gio 09/10 | Ven 10/10 | Checkpoint: revisione del piano sui dati reali |
+| #78 | Lun 24/08 | Gio 20/08 | Ven 21/08 | Prima edizione a regime. ⚠️ Il 21/08 escono anche The Betting Edge N3 e il carosello certificazione: giornata di scrittura affollata |
+| #79 | Lun 31/08 | Gio 27/08 | Ven 28/08 | |
+| #80 | Lun 07/09 | **Mer 02/09** | Ven 04/09 | Venerdì occupato da The Betting Edge N4 — lock anticipato |
+| #81 | Lun 14/09 | Gio 10/09 | Ven 11/09 | |
+| #82 | Lun 21/09 | **Mer 16/09** | Ven 18/09 | Venerdì occupato da The Betting Edge N5 — lock anticipato |
+| #83 | Lun 28/09 | Gio 24/09 | Ven 25/09 | |
+| #84 | Lun 05/10 | **Mer 30/09** | Ven 02/10 | Venerdì occupato da The Betting Edge N6 — lock anticipato |
+| #85 | Lun 12/10 | Gio 08/10 | Ven 09/10 | Checkpoint: revisione del piano sui dati reali |
+
+> Date ricalcolate il 17/08/2026 dall'ancora nota (01/07/2026 = mercoledì). La prima stesura aveva
+> giovedì e venerdì spostati avanti di un giorno.
 
 ---
 

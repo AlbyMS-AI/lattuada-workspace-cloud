@@ -3,6 +3,31 @@
 
 ---
 
+## Priorità sui temi rispetto a Jamma e Bottadiculo (dal 17/08/2026)
+
+**Decisione di Alberto:** nella scelta del tema della settimana la priorità è **LinkedIn personale,
+poi Jamma, poi Bottadiculo**. È priorità di scelta, non di pubblicazione: le due testate restano sul
+lunedì, "The Betting Edge" sul venerdì bisettimanale.
+
+Al lock del giovedì si applica prima una domanda sola al fatto più forte della settimana: **regge tre
+letture?** Sì solo se esiste una tesi personale di Alberto che non sia il resoconto, si può nominare
+una decisione concreta da board, e chi sta sul campo può fare qualcosa entro trenta giorni.
+
+- **Tre sì** → fatto condiviso, tre angoli distinti sui tre canali. Su LinkedIn personale la tesi in
+  prima persona, su Jamma la decisione da board, su Bottadiculo l'azione da campo
+- **Anche un solo no** → tre fatti separati, assegnati in ordine di priorità
+
+Il criterio non si rinegozia il giovedì: se una casella resta vuota il fatto non è condiviso, anche
+quando è grosso. Regola completa nei due piani gemelli
+`../03-giornalismo/jamma/piano-newsletter-linkedin-2026.md` e
+`../03-giornalismo/bottadiculo/piano-newsletter-linkedin-2026.md`.
+
+**Effetto su questo piano:** il modello formato-fisso/contenuto-dinamico non cambia. Cambia il
+momento in cui si decide il tema degli slot che cadono in settimana di lock, che si sposta al
+giovedì, per non lasciare alle testate un fatto già scelto qui.
+
+---
+
 ## Obiettivi BDM — due linee distinte
 
 Il piano non ha più un obiettivo unico. Segue due linee editoriali separate, ciascuna con la propria lingua, il proprio scopo e il proprio tipo di CTA.

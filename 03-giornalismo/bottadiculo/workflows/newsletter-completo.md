@@ -1,13 +1,27 @@
-# Workflow Completo — Newsletter Bottadiculo.it
-# Gambling Insights (domenicale)
+# Workflow Completo — Newsletter Bottadiculo.it, Gambling Insights (lunedì, 7:30)
+
+> **Il piano editoriale ha la precedenza su questo file.**
+> `../piano-newsletter-linkedin-2026.md` fissa giorno di uscita, regola di assegnazione dei temi
+> rispetto a Jamma, ritmo settimanale, banca temi, calendario slot e numerazione delle edizioni.
+> Questo workflow descrive come si scrive una singola edizione, non come si decide cosa scriverci.
+> Aggiornato il 17/08/2026: la newsletter era domenicale, ora esce il lunedì insieme a quella di Jamma.
 
 ---
 
 ## Input necessari prima di iniziare
 
-- Tema / fatto della settimana
+- Tema / fatto della settimana — **arriva dal lock del giovedì**, non si sceglie qui
 - Fonti disponibili
 - A chi parla questa edizione? (affiliato / PVR / compliance / operativo di sala)
+
+**Regola di assegnazione (rivista il 17/08/2026).** Gerarchia di priorità: LinkedIn personale di
+Alberto, poi Jamma, poi Bottadiculo. Al lock del giovedì si chiede prima se il fatto più forte
+regge tre letture (tesi personale di Alberto + decisione da board nominabile + azione da campo
+entro trenta giorni): tre sì e il fatto è condiviso con tre angoli distinti, anche un solo no e i
+tre canali prendono tre fatti diversi in ordine di priorità. Bottadiculo prende il residuo che
+supera i suoi tre filtri — orizzonte trenta giorni, azionabilità, prossimità italiana. Se nessun
+residuo passa, si pesca dalla banca, non si prende in prestito il tema di Jamma e non si salta
+l'uscita. Regola completa in `../piano-newsletter-linkedin-2026.md`.
 
 ---
 
@@ -29,23 +43,46 @@ Esempi di rotazione dell'angolo:
 
 ## FASE 2 — Struttura
 
+Scheletro fisso dal 16/08/2026. Le caselle non cambiano da un'edizione all'altra: il piano
+fissa la struttura, il lock del giovedì decide solo cosa ci va dentro. Le due rubriche
+contrassegnate non si saltano mai, sono il segnale di riconoscimento del prodotto.
+
 ```
-H1: [diretto, contiene la tesi — può essere più tagliente di Jamma]
+H1: [contiene la keyword del tema e la tesi — può essere più tagliente di Jamma]
 
-APERTURA (2-3 paragrafi corti):
-- Fatto + implicazione immediata in 2-4 frasi brevi
-- La tesi: cosa sta succedendo che nessuno dice chiaramente
+APERTURA                            80-120 parole
+- Due o tre frasi. Fatto + implicazione immediata
+- Nessuna premessa, nessun contesto introduttivo
+- Contrasto dentro una frase sola come default
 
-SVILUPPO (4-6 sezioni H2):
-- Intestazioni come affermazioni operative, non domande
-- Ogni sezione: fatto → angolo inedito → implicazione per il lettore
-- Dati specifici con fonte
-- Paragrafi max 3-4 righe
+IL FATTO                            200-250 parole
+- Cosa è successo, dato con fonte primaria
+- Chi lo ha detto, quando, dove sta scritto
 
-CHIUSURA:
+LA PARTE CHE NESSUNO SOTTOLINEA     250-350 parole
+- L'angolo inedito reso esplicito
+- È la sezione che giustifica l'edizione: se manca,
+  il pezzo è una notizia riscritta e non esce
+- Unica sezione che può espandersi per arrivare a 1400
+
+▸ COSA CAMBIA DA DOMANI [FISSA]     250-300 parole
+- Tre o quattro punti operativi concreti
+- Se non se ne trovano almeno tre, il tema non aveva
+  superato davvero il filtro di azionabilità
+
+▸ IL NUMERO DELLA SETTIMANA [FISSA] 100-150 parole
+- Una cifra sola, con fonte e contesto
+- Non deve venire dal tema dell'edizione: è il dato
+  laterale che il lettore non ha visto passare
+
+CHIUSURA                            50-80 parole
 - Domanda operativa concreta al lettore
-- Non un riassunto
+- Non un riassunto, non un invito generico
 ```
+
+**Intestazioni H2 e SEO:** le due rubriche fisse vanno intitolate con le keyword del tema,
+non con il nome della rubrica. "Cosa cambia da domani per chi gestisce [x]", non "Cosa cambia
+da domani". Il nome della rubrica è la funzione, non il titolo.
 
 ---
 
@@ -79,7 +116,9 @@ Umanizzazione:
 
 ## FASE 5 — Output finale
 
-Al termine della newsletter approvata, produce in sequenza i quattro output qui sotto.
+Al termine della newsletter approvata, produce in sequenza i tre output qui sotto. Sono tutti
+obbligatori, nessuno si salta: la newsletter Bottadiculo non è consegnata finché non esistono
+anche il companion SEO, il post di supporto e la versione blog.
 
 ---
 
@@ -162,11 +201,30 @@ CTA finale:
 ---
 
 
+### 5C — Versione blog Bottadiculo.it
+
+La newsletter LinkedIn e il pezzo sul blog non possono essere lo stesso testo: Google penalizza
+la duplicazione e le due pagine finirebbero per competere sulla stessa query.
+
+- **Apertura inedita**, diversa da quella della newsletter. Nessun paragrafo ripreso alla lettera
+- Sviluppo ridotto, 500-600 parole
+- **Slug diverso** da quello LinkedIn
+- Link incorporato alla newsletter completa su LinkedIn, con segnaposto da sostituire dopo
+  la pubblicazione delle 7:30
+
+---
+
 ## File di output
 
-| File | Percorso |
+Tutti in `../drafts/`, con lo stesso prefisso `[data]-[slug]`.
+
+| File | Nome |
 |---|---|
-| Newsletter | `archive/bottadiculo/newsletter/[data]-[slug].md` |
-| SEO | `drafts/[data]-[slug]-seo.md` |
-| Post LinkedIn | `../../04-linkedin/contenuti/bottadiculo/[data]_[slug].md` |
-| Brief grafiche | `drafts/[data]-[slug]-grafiche.md` |
+| Newsletter | `[data]-[slug]-newsletter-linkedin.md` |
+| SEO companion | `[data]-[slug]-newsletter-linkedin-seo.md` |
+| Post di supporto LinkedIn | `[data]-[slug]-post-supporto.md` |
+| Versione blog WordPress | `[data]-[slug]-versione-blog.md` |
+| Brief grafiche (se serve) | `[data]-[slug]-grafiche.md` |
+
+Dopo la pubblicazione, confermata da Alberto: una riga in `../../articoli-pubblicati.md`,
+tabella unica ordinata per data decrescente.

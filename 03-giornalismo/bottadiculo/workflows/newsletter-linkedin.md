@@ -1,10 +1,34 @@
 # Workflow — Newsletter LinkedIn Settimanale (Bottadiculo.it)
 
+> **Il piano editoriale ha la precedenza su questo file.**
+> `../piano-newsletter-linkedin-2026.md` fissa giorno di uscita, regola di assegnazione dei temi
+> rispetto a Jamma, ritmo settimanale, banca temi, calendario slot e numerazione delle edizioni.
+> Per il flusso completo di produzione e gli output obbligatori vedi `newsletter-completo.md`.
+
 ## Format
-- Piattaforma: LinkedIn Newsletter
+- Piattaforma: LinkedIn Newsletter — "Gambling Insights", numerata
 - Lunghezza: 1000-1400 parole
-- Cadenza: settimanale
+- Cadenza: settimanale, **uscita il lunedì alle 7:30** (dal 17/08/2026 — prima era domenicale)
+- Lock del tema il giovedì, scrittura il venerdì, fact-check e umanizzazione la domenica
 - Stesso meccanismo del post, sviluppato
+
+## Assegnazione del tema (rivista il 17/08/2026)
+
+**Gerarchia di priorità:** LinkedIn personale di Alberto, poi Jamma, poi Bottadiculo.
+
+Al lock del giovedì si applica prima una domanda sola al fatto più forte della rassegna: **regge
+tre letture?** Sì solo se esiste una tesi personale di Alberto, si può nominare una decisione da
+board, e chi sta sul campo può fare qualcosa entro trenta giorni. Tre sì → fatto condiviso, tre
+angoli distinti sui tre canali. Anche un solo no → tre fatti separati, assegnati in ordine di
+priorità, e Bottadiculo prende il residuo che supera i suoi tre filtri (orizzonte, azionabilità,
+prossimità italiana). Nessun residuo utile → si pesca dalla banca temi, che dal 17/08 è
+strutturale e non di riserva.
+
+Regola completa e criterio di soglia nel piano: `../piano-newsletter-linkedin-2026.md`.
+
+**Tocco personale (richiesta di Alberto, 17/08/2026).** Su Bottadiculo la prima persona resta
+vietata: il tocco è il POV raccolto al lock del giovedì più l'esempio concreto scelto da chi scrive,
+non il dato verificabile. Il "tu" è il sostituto operativo della prima persona.
 
 ## SEO LinkedIn Newsletter
 
@@ -43,22 +67,41 @@ Ma il filtro è: **cosa significa questo per chi lavora sul campo ogni giorno?**
 - Una norma ADM → non la lettura legale, ma cosa cambia concretamente per chi gestisce giocatori reali
 
 ### Step 2 — Struttura
-```
-TITOLO: [diretto, può essere più tagliente di Jamma — contiene sempre la tesi]
 
-APERTURA (2-3 paragrafi corti):
-→ 2-4 frasi brevi che enunciano fatto + implicazione immediata
-→ "Non è un'iperbole. È [il dispositivo concreto]."
+Scheletro fisso dal 16/08/2026. Le due rubriche contrassegnate non si saltano mai: sono il segnale
+di riconoscimento del prodotto rispetto alla newsletter Jamma che esce lo stesso giorno. Le
+intestazioni H2 vanno scritte con le keyword del tema, non con il nome della rubrica.
+
+```
+H1: [contiene keyword del tema e tesi, può essere più tagliente di Jamma]
+
+APERTURA                             80-120 parole
+→ Due o tre frasi. Fatto + implicazione immediata
+→ Contrasto dentro una frase sola come default; la versione spezzata
+  ("Non è un'iperbole. È il dispositivo.") una volta sola per pezzo
 → La tesi: cosa sta davvero succedendo che nessuno dice chiaramente
 
-SVILUPPO (4-6 sezioni, paragrafi di 3-4 righe):
-→ Intestazioni come affermazioni operative
-→ Ogni sezione: fatto → angolo inedito → implicazione per il lettore operativo
-→ Dati specifici con fonte
+IL FATTO                             200-250 parole
+→ Cosa è successo, dato con fonte primaria
+→ Chi lo ha detto, quando, dove sta scritto
 → Expert quote in discorso indiretto
-→ Un emoji accettabile per segnare un cambio di tono o un punto chiave
 
-CHIUSURA:
+LA PARTE CHE NESSUNO SOTTOLINEA      250-350 parole
+→ L'angolo inedito reso esplicito
+→ Se manca, il pezzo è una notizia riscritta e non esce
+→ Unica sezione che può espandersi per arrivare a 1400
+
+▸ COSA CAMBIA DA DOMANI [FISSA]      250-300 parole
+→ Tre o quattro punti operativi concreti, seconda persona o imperativo
+→ Se non se ne trovano almeno tre, il tema non aveva superato
+  davvero il filtro di azionabilità
+
+▸ IL NUMERO DELLA SETTIMANA [FISSA]  100-150 parole
+→ Una cifra sola, con fonte e contesto
+→ Non deve venire dal tema dell'edizione: è il dato laterale
+  che il lettore non ha visto passare
+
+CHIUSURA                             50-80 parole
 → Domanda operativa concreta rivolta al lettore
 → Non un riassunto, non un invito generico
 → Esempio: "Quanti di voi hanno già aggiornato i contratti PVR alla luce di questo?"

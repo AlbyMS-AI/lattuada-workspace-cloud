@@ -17,7 +17,9 @@ fornitori, regolatori, professionisti del settore.
 
 - Tono: analitico, informativo, tecnico ma leggibile
 - Formato principale: articoli di approfondimento, interviste, news settoriali
+- Newsletter LinkedIn "Gioco & Business": 1000-1400 parole, esce il **lunedì alle 7:30**
 - Linee guida: `jamma/guidelines.md`
+- Piano newsletter: `jamma/piano-newsletter-linkedin-2026.md`
 - Workflow: `jamma/workflows/`
 - Archivio: `archive/` + `jamma/drafts/`
 
@@ -27,9 +29,11 @@ Voce edgy e diretta del settore. Più personale, più opinione, meno istituziona
 Lato del campo, non lato C-level. Lettore: operatori, affiliati, addetti ai lavori.
 
 - Tono: diretto, senza filtri, operativo
-- Formato principale: post 150-300 parole (mer/ven), newsletter domenicale 1000-1400 parole
-- La newsletter domenicale è la versione Substack/Bottadiculo (non LinkedIn)
+- Formato principale: post 150-300 parole (mer/ven), newsletter 1000-1400 parole
+- Newsletter LinkedIn "Gambling Insights" (numerata): esce il **lunedì alle 7:30**. Ogni edizione
+  produce sempre quattro file — newsletter, companion SEO, post di supporto, versione blog
 - Linee guida: `bottadiculo/guidelines.md`
+- Piano newsletter: `bottadiculo/piano-newsletter-linkedin-2026.md`
 - Workflow: `bottadiculo/workflows/`
 - Archivio: `bottadiculo/drafts/` + `archive/`
 
@@ -44,6 +48,32 @@ Focus news e notizie del settore scommesse. Zero opinioni, solo fatti.
 - Linee guida: `sitiscommesse/guidelines.md`
 - Workflow: `sitiscommesse/workflows/`
 - IMPORTANTE: topic deve essere approvato dal caporedattore prima di scrivere
+
+## Le due newsletter del lunedì
+
+Jamma e Bottadiculo pubblicano la propria newsletter LinkedIn lo stesso giorno, il lunedì alle 7:30.
+I due piani (`jamma/piano-newsletter-linkedin-2026.md` e `bottadiculo/piano-newsletter-linkedin-2026.md`)
+si leggono in coppia e hanno la precedenza sui workflow, che descrivono come si scrive una singola
+edizione ma non come si decide cosa scriverci.
+
+Le regole che valgono per entrambe:
+
+- **Gerarchia di priorità (17/08/2026): LinkedIn personale di Alberto, poi Jamma, poi Bottadiculo.**
+  È priorità di scelta del tema, non di pubblicazione. Sostituisce la regola del 16/08 in cui
+  Bottadiculo sceglieva per primo
+- **Regola mista sul fatto della settimana.** Al lock del giovedì si chiede se il fatto più forte
+  regge tre letture: serve una tesi personale di Alberto, una decisione da board nominabile, e
+  un'azione da campo entro trenta giorni. Tre sì → fatto condiviso, tre angoli distinti sui tre
+  canali. Anche un solo no → tre fatti separati, assegnati in ordine di priorità
+- **Tocco personale su ogni angolo.** Su LinkedIn personale con la prima persona; su Jamma e
+  Bottadiculo, dove la prima persona resta vietata, attraverso il POV raccolto con domande mirate
+  **al lock del giovedì**, non in fase di scrittura
+- **Lock giovedì, scrittura venerdì, rifinitura domenica.** Il lunedì è solo giorno di pubblicazione
+- **Banca temi** (`*/banca-temi.md`): se la settimana non produce un fatto abbastanza forte si pesca
+  da lì, non si salta l'uscita. Tre schede per Jamma, **quattro per Bottadiculo**, che pescando per
+  ultimo dal bacino più stretto è il canale che si scopre per primo
+- **Rubriche fisse** che non si saltano mai: "Cosa cambia da domani" e "Il numero della settimana"
+  su Bottadiculo, "Il precedente internazionale" e "Cosa deve decidere chi guida" su Jamma
 
 ## Flusso di lavoro (per tutti i format)
 
