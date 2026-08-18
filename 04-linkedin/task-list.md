@@ -80,18 +80,22 @@ Metodo: `content-strategy/lead-generation-outbound.md` · Testi: `content-strate
 
 | Batch | Blocco | Tema della domanda | Bacino | Volume | Pezzo di ritorno (passo 4) | Formulare entro | Stato |
 |---|---|---|---|---|---|---|---|
-| 1 | Blocco 3 (IT, dal 17/08) | Certificazione provider / concessioni | Rete 1° grado + iscritti newsletter | 20-30 | Newsletter N3 "Certificazione provider: guida tecnica per CDO", 21/08 | ~~13/08~~ **subito** | [ ] Da avviare — 3 ipotesi di domanda pronte in `outreach-domanda-ricerca.md`, da scegliere con Alberto |
+| 1 | Blocco 3 (IT, dal 17/08) | Certificazione provider / concessioni | Rete 1° grado + iscritti newsletter | 20-30 | Newsletter N3 "Certificazione provider: guida tecnica per CDO", 21/08 | ~~13/08~~ **subito** | [~] **In pausa dal 18/08** — 6/18 Marco inviati (3 diretto BD, 1 referral, 2 ricerca soft), Giulia non ancora avviata. Si aspettano le risposte prima di riprendere |
 | 2 | Blocco 4 (EN, dal 31/08) | Da definire all'apertura | Da definire | 20-30 | Da definire | 27/08 (Gio) | [ ] Da pianificare |
 
 **Batch 1 parte a blocco già aperto.** La regola "creare entro" avrebbe voluto la domanda pronta il 13/08, ma il metodo è nato il 17/08. Conseguenza operativa: la finestra tra invio e pezzo di ritorno è di 3-4 giorni (N3 esce il 21/08), stretta ma praticabile. Se le risposte non arrivano in tempo, il passo 4 slitta al carosello "Come verificare la certificazione di un provider" dello stesso giorno o al post di chiusura del 28/08 — non si accelera il contenuto per far tornare il batch.
 
-**Da fare prima dell'invio (Step 8 del piano):**
+**Fatto (18/08/2026):**
 
-- [ ] Leggere su LinkedIn il numero reale di collegamenti di 1° grado (gli 11.424 sono follower, non collegamenti) — serve a dimensionare la selezione
-- [ ] Scegliere la domanda tra le 3 ipotesi, passandola dalle domande dinamiche MLR
-- [ ] Selezionare i 20-30 destinatari incrociando i due bacini con l'ICP (Marco CDO/GM, Giulia Marketing Director; mercati IT/BE/CZ/DE/IE)
-- [ ] Approvazione dei testi da parte di Alberto — obbligatoria, lo sblocco del 09/08 riguardava lo strumento non il messaggio
-- [ ] Popolare il tracker con le righe in stato `inviato`
+- [x] Ricerche Sales Navigator salvate: Marco 189 pool → 18 target, Giulia 148 pool → 12 target — dettaglio in `content-strategy/ricerche-sales-navigator-icp.md`
+- [x] Domande confermate su fatti reali (non ipotesi inventate) — Marco: pattern deal bloccati per certificazione; Giulia: tesi dell'articolo Jamma sui giochi falsi
+- [x] Prima ondata Marco inviata: 6/18, tre track (diretto BD, referral, ricerca soft) — esito in `content-strategy/outreach-domanda-ricerca.md`
+
+**In pausa — non riprendere senza ok esplicito di Alberto:**
+
+- [ ] Restanti 12 destinatari Marco
+- [ ] Selezione destinatari Giulia (0/12)
+- [ ] Popolare il tracker oltre i 6 già registrati
 
 **Regola remind (12/07):** se l'invio del batch prende una data certa, schedulare il DM Slack — i promemoria operativi non restano solo in questo file.
 
