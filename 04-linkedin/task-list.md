@@ -22,6 +22,7 @@ Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-str
 |---|---|---|---|---|
 | 21/07 | Post evento sponsorizzato | EN | Tech Race Summit 2026 (evento SOFTSWISS, 10/09 Varsavia) — recuperato a posteriori dall'export analytics del 14/08, non passato dal processo editoriale standard | [x] Pubblicato — `post-2026-07-21-tech-race-summit.md` |
 | 11/08 | Repost + commentario | EN | Licensing come vero collo di bottiglia dello scaling multi-mercato — reattivo alla menzione Jamma (panel SOFTSWISS 27/08) | [x] Pubblicato — `post-2026-08-11-scaling-regulated-markets.md` |
+| 18/08 | Post testo | IT | Morte di Varenne — omaggio + angolo mercato (declino del verticale ippica nelle scommesse) | [x] Pubblicato — `post-2026-08-18-varenne-morte.md` — grafiche (main image Gemini, infografica NotebookLM) in produzione |
 
 ---
 
