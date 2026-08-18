@@ -18,13 +18,20 @@
 
 ## Obiettivo 2 — Lead Generation B2B per Softswiss
 
-**Ambizione**: attrarre prospect qualificati (operatori iGaming) attraverso la credibilità costruita con i contenuti — non con outreach diretto.
+**Aggiornato:** 17 agosto 2026 — prima escludeva l'outreach diretto ("non con outreach diretto"). Quella formulazione non era più vera dal 09/08/2026, quando Alberto ha dato il via libera a Sales Navigator, e ancora meno dopo il DM del 10/08 a 53 lead con esito positivo. L'outreach non è escluso: ha un ruolo definito e subordinato.
 
-**Meccanismo**: contenuto posiziona Alberto come insider credibile → il prospect segue e interagisce → si crea familiarità → quando emerge il bisogno (nuovo aggregatore, espansione mercato), Alberto è già nella mente del prospect. Il contenuto sul "dopo la firma" (Atto 3) aggiunge un secondo meccanismo, non solo per chi ha già firmato: riduce il rischio percepito nella fase di decisione, mostrando concretamente cosa succede a un account dopo la firma — prova indiretta di affidabilità, non solo promessa commerciale.
+**Ambizione**: attrarre prospect qualificati (operatori iGaming) attraverso la credibilità costruita con i contenuti.
 
-**Regola chiave**: non vendere Softswiss nei post. I contenuti devono essere utili indipendentemente dall'interesse commerciale. La CTA è implicita nella reputazione.
+**Meccanismo**: **l'outreach qualifica, il contenuto converte.** L'outbound porta le persone giuste dentro il bacino — collegamento, newsletter, conversazione — e poi lascia lavorare il contenuto. Il contenuto posiziona Alberto come insider credibile → il prospect segue e interagisce → si crea familiarità → quando emerge il bisogno (nuovo aggregatore, espansione mercato), Alberto è già nella mente del prospect. Il contenuto sul "dopo la firma" (Atto 3) aggiunge un secondo meccanismo, non solo per chi ha già firmato: riduce il rischio percepito nella fase di decisione, mostrando concretamente cosa succede a un account dopo la firma — prova indiretta di affidabilità, non solo promessa commerciale.
 
-**Come si misura**: richieste di connessione da CDO/GM/Marketing Director di operatori, DM in arrivo da prospect, lead qualificati generati attraverso LinkedIn.
+**Regola chiave**: non vendere Softswiss nei post. I contenuti devono essere utili indipendentemente dall'interesse commerciale. La CTA è implicita nella reputazione. **Stessa regola nei messaggi diretti**: nessuna CTA commerciale nel primo messaggio, nessuna proposta di call finché non c'è un segnale esplicito.
+
+**Come si misura**:
+
+- *Inbound* — richieste di connessione da CDO/GM/Marketing Director di operatori, DM in arrivo da prospect, lead qualificati generati attraverso LinkedIn
+- *Outbound* — tasso di risposta per batch, righe nuove in `../02-softswiss/intelligence/buyer-voice.md`, segnali espliciti riconosciuti, contatti passati in CRM
+
+→ Metodo operativo completo: `content-strategy/lead-generation-outbound.md`
 
 ---
 

@@ -64,8 +64,35 @@ Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-str
 | ~~24/08~~ → **07/09** | ~~Lun~~ Lun | Post testo | EN | 5 mercati, 3 dinamiche identiche ovunque | No | 03/09 (Gio) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
 | ~~28/08~~ → **11/09** | ~~Ven~~ Ven | Carosello | EN | Checklist compliance per un nuovo mercato (chiude Blocco 4) | Sì — carosello PDF (workflow Canva/NotebookLM) | 09/09 (Mer) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
 
-**Nota Blocco 2 (EN, lead gen):** resta il vincolo Sales Navigator — nessun DM finché Alberto non dà il via libera. I contenuti EN escono in forma organica.
+**Nota Blocco 2 (EN, lead gen) — superata il 17/08:** il vincolo Sales Navigator ("nessun DM finché Alberto non dà il via libera") è caduto il 09/08/2026 con il via libera esplicito, e il primo invio reale è del 10/08 (53 lead, esito positivo). Dal 17/08 l'outbound ha un metodo scritto: `content-strategy/lead-generation-outbound.md`. Resta valida la regola sull'approvazione del singolo messaggio — lo sblocco riguardava lo strumento, non il testo. Vedi la sezione "Batch outbound" sotto.
 **Nota Blocco 4 (13/07, slittato 14/07):** nel piano precedente tornava "a regime" (3 post/settimana) — deciso il 13/07 di tenerlo a 2 post/settimana come i blocchi precedenti, mercoledì 02/09 e 09/09 spostati in backlog (sotto).
+
+---
+
+## Batch outbound (dal 17/08/2026)
+
+Un batch di 20-30 DM per blocco editoriale, con la domanda di ricerca sul tema del blocco in corso. Non aggiunge slot di contenuto: si innesta sui blocchi esistenti e usa i pezzi già in calendario come materiale del passo 4.
+
+Metodo: `content-strategy/lead-generation-outbound.md` · Testi: `content-strategy/outreach-domanda-ricerca.md` · Stato contatti: `content-strategy/lead-tracker-outbound.md`
+
+**Regola "creare entro" applicata ai batch:** la domanda va formulata entro il **giovedì precedente l'apertura del blocco**, così il DM parte il primo giorno utile e le risposte arrivano mentre si scrivono i contenuti.
+
+| Batch | Blocco | Tema della domanda | Bacino | Volume | Pezzo di ritorno (passo 4) | Formulare entro | Stato |
+|---|---|---|---|---|---|---|---|
+| 1 | Blocco 3 (IT, dal 17/08) | Certificazione provider / concessioni | Rete 1° grado + iscritti newsletter | 20-30 | Newsletter N3 "Certificazione provider: guida tecnica per CDO", 21/08 | ~~13/08~~ **subito** | [ ] Da avviare — 3 ipotesi di domanda pronte in `outreach-domanda-ricerca.md`, da scegliere con Alberto |
+| 2 | Blocco 4 (EN, dal 31/08) | Da definire all'apertura | Da definire | 20-30 | Da definire | 27/08 (Gio) | [ ] Da pianificare |
+
+**Batch 1 parte a blocco già aperto.** La regola "creare entro" avrebbe voluto la domanda pronta il 13/08, ma il metodo è nato il 17/08. Conseguenza operativa: la finestra tra invio e pezzo di ritorno è di 3-4 giorni (N3 esce il 21/08), stretta ma praticabile. Se le risposte non arrivano in tempo, il passo 4 slitta al carosello "Come verificare la certificazione di un provider" dello stesso giorno o al post di chiusura del 28/08 — non si accelera il contenuto per far tornare il batch.
+
+**Da fare prima dell'invio (Step 8 del piano):**
+
+- [ ] Leggere su LinkedIn il numero reale di collegamenti di 1° grado (gli 11.424 sono follower, non collegamenti) — serve a dimensionare la selezione
+- [ ] Scegliere la domanda tra le 3 ipotesi, passandola dalle domande dinamiche MLR
+- [ ] Selezionare i 20-30 destinatari incrociando i due bacini con l'ICP (Marco CDO/GM, Giulia Marketing Director; mercati IT/BE/CZ/DE/IE)
+- [ ] Approvazione dei testi da parte di Alberto — obbligatoria, lo sblocco del 09/08 riguardava lo strumento non il messaggio
+- [ ] Popolare il tracker con le righe in stato `inviato`
+
+**Regola remind (12/07):** se l'invio del batch prende una data certa, schedulare il DM Slack — i promemoria operativi non restano solo in questo file.
 
 ---
 
@@ -74,6 +101,7 @@ Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-str
 - [ ] **Entro Ven 28/08** — esportare/rivedere le analytics dei contenuti pubblicati luglio-agosto (impressions qualificate, salvataggi, visite profilo da target, nuove connessioni rilevanti — non le impression grezze, vedi `../CLAUDE.md` KPI reali)
 - [ ] **Confermare o rivedere** la cadenza di Settembre (Blocco 5/6, sotto) sulla base dei dati: pieno regime 3 post/settimana solo se i segnali lo giustificano, altrimenti resta a 2 post/settimana
 - [ ] Stesso checkpoint utile per il task aperto "validare buyer persona Marco/Giulia sui dati reali" (Lezione 6 MLR) — farli insieme
+- [ ] **Fonte di dati nuova (dal 17/08):** le risposte al batch outbound finiscono in `../02-softswiss/intelligence/buyer-voice.md`. Il checkpoint buyer persona era bloccato da "mancano dati reali di engagement" e l'export LinkedIn non li contiene (vedi `analytics-performance.md`, nota finale) — le righe raccolte col batch 1 sono il primo dato reale disponibile. Portarle al checkpoint del 28/08
 
 ---
 

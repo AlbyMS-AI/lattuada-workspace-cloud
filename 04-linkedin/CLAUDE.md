@@ -199,12 +199,27 @@ Allineamento con il buyer journey:
 Errori da evitare: trattare il nurturing come mass messaging, parlare di sé invece del problema del lead,
 mancanza di coerenza tematica nel contenuto.
 
-### Sales Navigator — outbound B2B accelerato
+### Metodo outbound (dal 17/08/2026)
 
-Ricerche illimitate profili/aziende, lead list salvate, 50 InMail/mese (raggiunge 2° e 3° grado).
-Funziona anche da mini-CRM: monitora l'attività LinkedIn dei lead salvati.
-Attivazione: LinkedIn → griglia in alto a destra → "Per le aziende" → "Trova nuovi clienti" → Sales Navigator Core.
-Guida completa: `content-strategy/sales-navigator.md`
+**Principio: l'outreach qualifica, il contenuto converte.** L'outbound porta le persone giuste dentro il bacino e lascia lavorare il contenuto. Nessuna CTA commerciale nel primo messaggio, nessuna proposta di call finché non c'è un segnale esplicito.
+
+**Ciclo a cinque passi:** DM con una domanda di ricerca sul tema del blocco editoriale in corso → la risposta entra in `../02-softswiss/intelligence/buyer-voice.md` anonimizzata → il tema diventa contenuto pubblico senza citazioni → ritorno a chi ha risposto con il pezzo uscito → conversazione commerciale **solo** su segnale esplicito.
+
+**Ritmo:** un batch di 20-30 DM per blocco editoriale (due settimane). Non aggiunge slot di contenuto, si innesta sui blocchi esistenti. Se il ritmo editoriale rallenta, rallenta anche l'outbound.
+
+**Bacini in ordine di temperatura:** rete già collegata di 1° grado → iscritti newsletter (1.023, autoqualificati) → follower pagina Softswiss + 2° grado (57 isolati) → pubblico UK/finance del post Tony Bloom (decisione a sé) → 17 lead ricerca per qualifica.
+
+**Confine sui dati:** prima del segnale il contatto vive nel workspace (tracker + liste Sales Navigator); dal segnale è un lead Softswiss e passa in CRM. La rete LinkedIn di Alberto è l'asset di un freelance, non del committente.
+
+**Esclusione esplicita:** il cappello da giornalista non si usa come tecnica di apertura. Un contatto nato da una richiesta giornalistica resta giornalistico e non entra nel sistema — usarlo come grimaldello commerciale brucerebbe sia il rapporto sia la credibilità della testata.
+
+| File | Cosa contiene |
+| --- | --- |
+| `content-strategy/lead-generation-outbound.md` | Il metodo: principio, bacini, ciclo, definizione di "segnale esplicito", ritmo, KPI |
+| `content-strategy/outreach-domanda-ricerca.md` | I testi dei messaggi per bacino e lingua |
+| `content-strategy/lead-tracker-outbound.md` | Stato dei contatti e riepilogo per batch (non spostare in radice: sync cloud) |
+| `content-strategy/sales-navigator.md` | Guida allo strumento (ricerche, liste, InMail, Account IQ) |
+| `content-strategy/sales-navigator-richieste-collegamento.md` | Testi per i bacini freddi, 2°/3° grado |
 
 ## Piano editoriale con Claude
 
@@ -261,7 +276,8 @@ Per sviluppare un contenuto: indicare il blocco + formato, Claude legge la fonte
 | `palette-brand.md` | Palette colori (5 hex), istruzioni uso grafico |
 | `about-linkedin.md` | Testo About LinkedIn ottimizzato |
 | `swot-linkedin.md` | Analisi SWOT posizionamento LinkedIn |
-| `content-strategy/` | Istruzioni per formato (post, newsletter, carosello, analytics, sales navigator, insight competitor B2B, interazione commenti, benchmark esterni, AI search visibility/GEO) |
+| `content-strategy/` | Istruzioni per formato (post, newsletter, carosello, analytics, sales navigator, insight competitor B2B, interazione commenti, benchmark esterni, AI search visibility/GEO) + **metodo outbound** (`lead-generation-outbound.md`, `outreach-domanda-ricerca.md`, `lead-tracker-outbound.md`) |
+| `analytics-performance.md` | Performance dei contenuti sui KPI reali — input del checkpoint di fine agosto |
 | `contenuti/jamma/` | Articoli Jamma pubblicati → base per post e caroselli |
 | `contenuti/bottadiculo/` | Articoli Bottadiculo pubblicati → base per post |
 
