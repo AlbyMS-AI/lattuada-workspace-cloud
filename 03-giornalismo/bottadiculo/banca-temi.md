@@ -113,4 +113,4 @@ tema distribuiti sul mercato ADM durante il torneo.
 
 | Data | Scheda | Esito |
 |---|---|---|
-| | | |
+| 20/08 | Scheda 5 — Vita utile del giocatore da Mondiale | Pubblicata come post LinkedIn. Nesso italiano: l'Italia non è nel campione Blask, dichiarato esplicitamente nel testo invece di inventare un dato. POV Alberto raccolto con domande mirate prima del draft: il problema parte dalla finestra di misurazione ROI, responsabilità di chi compra media sull'evento, azione concreta è ripensare l'orizzonte di misurazione. `bottadiculo/drafts/2026-08-20-mondiale-2026-giocatore-acquisito-roi-media-buyer.md` |

@@ -66,4 +66,4 @@ BGC: oltre 540 sale scommesse chiuse e circa 4.500 posti persi nel Regno Unito d
 
 | Data | Scheda | Esito |
 |---|---|---|
-| | | |
+| 20/08 | Scheda 1 — Malta/Italia | Pubblicata. POV Alberto raccolto con domande mirate prima del draft: Malta confermato filtro B2B già operativo nella pratica, Italia riletto come rischio non ancora bruciato ma reale abbastanza da cambiare priorità di qualifica in pipeline. Fact-check corretto un dato (calo netto società maltesi 13, non 15). `jamma/drafts/2026-08-20-malta-italia-consolidamento-licenze-concessioni-b2b.md` |
