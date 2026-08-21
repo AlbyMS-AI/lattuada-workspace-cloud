@@ -10,7 +10,7 @@ Succede in quasi ogni trattativa di integrazione giochi in un mercato regolament
 
 ## Cosa significa certificare un provider in Italia (ADM)
 
-In Italia il percorso ha una struttura precisa. Il RNG va certificato, con un costo che parte intorno ai 2.500 euro e scende su scala con il numero di giochi coinvolti. Ogni titolo richiede poi un branded report, circa 300 euro a gioco in piccoli lotti, che scende fino a 30 euro quando più operatori integrano lo stesso provider. L'infrastruttura deve stare nello Spazio Economico Europeo, con standard di sicurezza vicini a ISO 27001. Prima del go-live si apre una chat tecnica a tre: fornitore, operatore, ente certificatore. Da novembre 2026 si aggiunge l'RGS, altri 4.500 euro stimati.
+In Italia il percorso ha una struttura precisa. Il RNG va certificato, con un costo che scende su una scala precisa via via che cresce il numero di giochi coinvolti. Ogni titolo richiede poi un branded report a parte, e qui la logica si ribalta: il prezzo per singolo report crolla quando più operatori integrano lo stesso provider, quindi conviene arrivarci con un portafoglio già ampio, non gioco per gioco. L'infrastruttura deve stare nello Spazio Economico Europeo, con standard di sicurezza vicini a ISO 27001. Prima del go-live si apre una chat tecnica a tre: fornitore, operatore, ente certificatore. Da novembre 2026 si aggiunge anche l'RGS, oggi non ancora richiesto.
 
 Nessuno di questi passaggi è visibile in un PDF con su scritto "ADM compliant".
 
@@ -21,6 +21,9 @@ In Germania la reciprocità non esiste. Ogni gioco deve avere una versione DE-sp
 In Belgio il problema arriva prima della certificazione tecnica. Solo chi possiede già una licenza per un casinò fisico può operare online, e il paese ne ha emesse nove in tutto. Il mercato resta chiuso ai nuovi entranti, e nessun documento di certificazione tecnica risolve un requisito di eleggibilità che il fornitore semplicemente non può soddisfare.
 
 Tre mercati, tre barriere diverse: costo scalare in Italia, assenza di reciprocità in Germania, eleggibilità come ostacolo a monte in Belgio. Chiedere "siete certificati?" senza specificare dove e come non produce un'informazione utile.
+
+[IMMAGINE: 2026-08-21-certificazione-provider-confronto-it-de-be.png]
+ALT: Tabella di confronto tra i requisiti di certificazione provider iGaming in Italia, Germania e Belgio
 
 ## Come verificare la certificazione di un fornitore iGaming
 

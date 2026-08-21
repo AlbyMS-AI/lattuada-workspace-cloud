@@ -14,10 +14,11 @@ Guida per CDO e Head of Product
 È una parola che copre tre situazioni diverse a seconda del mercato.
 
 **Slide 3 — Italia (ADM)**
-RNG: ~2.500€ (scala con volume)
-Branded report: ~300€/gioco → fino a 30€ su larga diffusione
+RNG certificato, costo a scala sul numero di giochi
+Branded report per titolo — il prezzo crolla con più operatori sullo stesso provider
 Server nello Spazio Economico Europeo
 Chat tecnica tripartita: fornitore, operatore, ente certificatore
+RGS obbligatorio da novembre 2026
 
 **Slide 4 — Germania**
 Nessuna reciprocità: certificazione locale per ogni gioco
