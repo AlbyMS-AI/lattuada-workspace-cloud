@@ -24,6 +24,7 @@ Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-str
 | 11/08 | Repost + commentario | EN | Licensing come vero collo di bottiglia dello scaling multi-mercato — reattivo alla menzione Jamma (panel SOFTSWISS 27/08) | [x] Pubblicato — `post-2026-08-11-scaling-regulated-markets.md` |
 | 18/08 | Post testo | IT | Morte di Varenne — omaggio + angolo mercato (declino del verticale ippica nelle scommesse) | [x] Pubblicato — `post-2026-08-18-varenne-morte.md` — grafiche (main image Gemini, infografica NotebookLM) in produzione |
 | 21/08 | Commento sotto post Jamma | IT | Terzo touchpoint Tech Race Summit 2026 — Alberto taggato nel post Jamma su Stake/Servers.com/Pragmatic Play partner, insieme a Fabio Kas, Sergey Kastukevich, Hub88, TrueLabel, The Playa, EvenBet Gaming, BGaming | [x] Testo confermato da Alberto — pubblicazione diretta (commento, non richiede file dedicato) |
+| 22/08 | Post testo | EN | Morte di Paul Gauselmann, fondatore Merkur Group — omaggio + lettura del metodo (pazienza prima del prodotto, legittimità costruita insieme al settore) | [x] Pubblicato — `post-2026-08-22-paul-gauselmann.md` |
 
 ---
 

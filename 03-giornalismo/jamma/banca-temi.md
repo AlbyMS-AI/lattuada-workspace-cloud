@@ -12,10 +12,12 @@ Il bacino largo è anche il vantaggio della banca: i confronti strutturali tra m
 
 ---
 
-## Scheda 1 — Due modelli di consolidamento a confronto: Malta e Italia
+## Scheda 1 — Due modelli di consolidamento a confronto: Malta e Italia [ESAURITA]
+
+⚠️ **Pubblicata come articolo Jamma.it il 20/08/2026, non riutilizzabile.** Vedi registro delle uscite in fondo al file.
 
 **Scadenza:** 31/03/2027, quando escono i dati 2026 di entrambi i mercati.
-**Stato:** pronta. Dati verificati su entrambi i lati, si può scrivere senza ricerca aggiuntiva.
+**Stato:** esaurita, non disponibile per la newsletter.
 
 **Tesi che il mercato non sta articolando.** Malta e Italia si stanno concentrando nello stesso periodo con due meccanismi opposti: Malta per selezione naturale, l'Italia per decisione amministrativa. Il risultato numerico somiglia, la conseguenza per chi vende nei due mercati no. Nessuno mette i due processi nella stessa pagina.
 
@@ -66,4 +68,4 @@ BGC: oltre 540 sale scommesse chiuse e circa 4.500 posti persi nel Regno Unito d
 
 | Data | Scheda | Esito |
 |---|---|---|
-| 20/08 | Scheda 1 — Malta/Italia | Pubblicata. POV Alberto raccolto con domande mirate prima del draft: Malta confermato filtro B2B già operativo nella pratica, Italia riletto come rischio non ancora bruciato ma reale abbastanza da cambiare priorità di qualifica in pipeline. Fact-check corretto un dato (calo netto società maltesi 13, non 15). `jamma/drafts/2026-08-20-malta-italia-consolidamento-licenze-concessioni-b2b.md` |
+| 20/08 | Scheda 1 — Malta/Italia | Pubblicata come articolo Jamma.it (non come newsletter LinkedIn), confermato in `articoli-pubblicati.md`. POV Alberto raccolto con domande mirate prima del draft: Malta confermato filtro B2B già operativo nella pratica, Italia riletto come rischio non ancora bruciato ma reale abbastanza da cambiare priorità di qualifica in pipeline. Fact-check corretto un dato (calo netto società maltesi 13, non 15). `jamma/drafts/2026-08-20-malta-italia-consolidamento-licenze-concessioni-b2b.md`. **Scheda esaurita**: non riutilizzabile per la newsletter LinkedIn, stesso fatto già uscito in settimana (22/08, verificato da Alberto per l'edizione 1 del 24/08). |
