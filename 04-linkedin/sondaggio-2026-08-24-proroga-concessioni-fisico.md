@@ -6,10 +6,16 @@
 
 **La proroga delle concessioni gioco fisico avvantaggia soprattutto:**
 
-- I grandi gruppi con più capitale
-- I piccoli operatori che guadagnano tempo
-- Lo Stato, che rinvia una scelta difficile
-- Nessuno, il problema resta identico
+- I grandi gruppi
+- I piccoli operatori
+- Lo Stato
+- Nessuno
+
+(Opzioni accorciate per il limite LinkedIn di 30 caratteri — il dettaglio di ogni posizione resta nel post di lancio e nella domanda.)
+
+**Durata sondaggio:** 1 settimana (default LinkedIn)
+
+**Orario pubblicazione confermato:** lunedì 24/08, ore 10:30
 
 ## Post di lancio
 
@@ -40,6 +46,6 @@ Singola: voto sul sondaggio (nessuna richiesta di commento nel testo, per non ab
 
 ## Stato
 
-- [ ] Da pubblicare lunedì 24/08/2026
-- [ ] Grafica: nessuna (formato sondaggio testuale)
-- [ ] Passare dalla checklist `content-strategy/analisi-post-pre-pubblicazione.md` prima della pubblicazione
+- [x] **Pubblicato/schedulato lunedì 24/08/2026, ore 10:30**
+- [x] Grafica: nessuna (formato sondaggio testuale)
+- [x] Passato dalla checklist `content-strategy/analisi-post-pre-pubblicazione.md`
