@@ -28,7 +28,7 @@ La material uncertainty arriva prima di tutto questo, perché non descrive un si
 
 Il caso Evoke mostra anche perché "l'operazione va in porto" non è la risposta rassicurante che sembra. Le due material uncertainties coprono entrambi gli esiti della stessa acquisizione: se salta, il rischio è sul rifinanziamento del debito; se si chiude, il rischio è che il nuovo proprietario non abbia ancora detto come intende gestire il gruppo. Per l'affiliato che ha un contratto in corso, l'incertezza non si scioglie quando gli azionisti approvano l'operazione. Cambia solo forma.
 
-Il motivo per cui quasi nessun affiliato la legge non è che sia difficile da trovare. È che sembra un problema del CFO, non un problema operativo. Non riguarda il funnel, non riguarda le campagne, non riguarda la commissione. Sembra la sezione del bilancio che si può saltare a piè pari. È proprio quella da leggere per prima.
+Il motivo per cui quasi nessun affiliato la legge non è che sia difficile da trovare, ma che sembra un problema del CFO, non un problema operativo: non riguarda il funnel, non riguarda le campagne, non riguarda la commissione. Sembra la sezione del bilancio che si può saltare a piè pari. È proprio quella da leggere per prima.
 
 ## Cosa cambia da domani per chi lavora su contratti revenue share e CPA
 

@@ -28,7 +28,7 @@ Un operatore che sta per avere un problema di continuità continua a pagare con 
 
 La material uncertainty arriva prima di tutto questo. Non descrive un sintomo. Descrive il giudizio del revisore sull'intero bilancio: debito, covenant, previsioni di cassa, operazioni straordinarie in corso.
 
-Il motivo per cui quasi nessun affiliato la legge non è che sia difficile da trovare. È che sembra un problema del CFO, non un problema operativo. Non riguarda il funnel, non riguarda le campagne, non riguarda la commissione che matura ogni mese. È proprio per questo che vale la pena leggerla per prima, prima ancora di guardare i numeri che di solito finiscono nella dashboard.
+Il problema è che sembra roba da CFO, non un problema tuo. Il funnel, le campagne, la commissione che matura ogni mese: nessuna di queste cose sta in quella sezione del bilancio, ed è per questo che quasi nessun affiliato la apre. Vale la pena leggerla comunque, prima ancora dei numeri che di solito finiscono nella dashboard.
 
 Chi lavora anche su brand quotati a Londra o attivi su più mercati incontra questo tipo di segnale più spesso di quanto pensi. Il rialzo della Remote Gaming Duty britannica, quasi raddoppiata in un anno, non è un dettaglio locale per chi guarda solo il mercato italiano: è un pezzo di margine che l'operatore ha davanti prima ancora di calcolare cosa resta per le commissioni.
 

@@ -8,9 +8,7 @@
 
 Evoke ha scritto due volte, nei conti del primo semestre, la stessa frase: dubbi sulla propria continuità aziendale.
 
-Non un pagamento in ritardo. Non un ticket di supporto rimasto senza risposta.
-
-Una nota di bilancio, pubblica, firmata dal revisore dei conti.
+Nessun pagamento saltato. Nessun ticket di supporto rimasto senza risposta. Solo una nota di bilancio, pubblica, firmata dal revisore dei conti, che pochi affiliati aprono davvero.
 
 Se lavori in affiliazione su revenue share o CPA, di solito giudichi un operatore su due numeri: quanto converte il traffico che gli mandi, e quanto paga con puntualità.
 
