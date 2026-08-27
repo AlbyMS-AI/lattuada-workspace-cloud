@@ -83,6 +83,11 @@ Controlla prima di chiudere:
 - Tono da giornalista pratico, non da comunicato stampa
 - Nessuna frase da AI: "è importante sottolineare che", "vale la pena notare", ecc.
 
+### Step 8 — Check finale obbligatorio (non saltare)
+Prima di dichiarare l'articolo pronto, in quest'ordine:
+- [ ] **Attualità della notizia**: rileggi la fonte (e eventuali fonti più recenti sullo stesso fatto) e conferma che l'angolo scritto sia ancora quello corrente. Se nel frattempo la notizia si è evoluta (nuovo sviluppo, dettaglio ritirato o superato), l'articolo va corretto prima dell'invio, non dopo. Caso di riferimento: 24/08/2026, angolo iniziale sullo sponsor Lazio superato dalla rinuncia alla cautelare TAR, corretto su indicazione del caporedattore prima della scrittura
+- [ ] **Checklist editoriale completa**: ripassa Step 5 (conteggi, struttura) + regole di `../guidelines.md` (zero opinioni, no h2, link non a competitor, nessuna citazione diretta senza fonte, bold solo su topic principale)
+
 ## Output
 Articolo pronto in `../../archive/sitiscommesse/[slug]-[data].md`
 
