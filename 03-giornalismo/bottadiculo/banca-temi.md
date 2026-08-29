@@ -56,10 +56,12 @@
 
 ---
 
-## Scheda 4 — Come si legge la solidità di un operatore prima che salti un pagamento
+## Scheda 4 — Come si legge la solidità di un operatore prima che salti un pagamento [ESAURITA]
+
+⚠️ **Pubblicata come Gambling Insights #78 (24/08/2026), non riutilizzabile.** Vedi registro delle uscite in fondo al file.
 
 **Scadenza:** 31/01/2027, quando escono i risultati di fine esercizio e i numeri vanno rifatti.
-**Stato:** pronta. Il meccanismo regge già, i numeri vanno confermati sui comunicati societari.
+**Stato:** esaurita, non disponibile per la newsletter.
 **Lettore:** affiliato con contratti revenue share o CPA, chi gestisce il rapporto commerciale con gli operatori.
 
 **Angolo.** Chi lavora in affiliazione valuta gli operatori su due cose: quanto convertono e quanto
@@ -114,3 +116,4 @@ tema distribuiti sul mercato ADM durante il torneo.
 | Data | Scheda | Esito |
 |---|---|---|
 | 20/08 | Scheda 5 — Vita utile del giocatore da Mondiale | Pubblicata come post LinkedIn. Nesso italiano: l'Italia non è nel campione Blask, dichiarato esplicitamente nel testo invece di inventare un dato. POV Alberto raccolto con domande mirate prima del draft: il problema parte dalla finestra di misurazione ROI, responsabilità di chi compra media sull'evento, azione concreta è ripensare l'orizzonte di misurazione. `bottadiculo/drafts/2026-08-20-mondiale-2026-giocatore-acquisito-roi-media-buyer.md` |
+| 24/08 | Scheda 4 — Solidità operatore/material uncertainty | Pubblicata come Gambling Insights #78. `bottadiculo/drafts/2026-08-24-material-uncertainty-affiliato-solidita-operatore-newsletter-linkedin.md` |
