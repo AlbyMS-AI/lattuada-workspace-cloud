@@ -3,6 +3,8 @@
 > Fonte: 3 export "AnalisiAggregate" LinkedIn incrociati — periodo pieno 18/07/2026-14/08/2026 (due estrazioni, numeri quasi identici) e finestra ristretta 08/08/2026-14/08/2026. Prima compilazione, 14/08/2026.
 > Rendimento complessivo periodo pieno: ~31.950 impressioni, ~21.970 utenti raggiunti. Follower totali al 14/08: 11.424 (+92 nel periodo). Solo gli ultimi 7 giorni (8-14/08) valgono 29.481 impressioni — **92% del totale delle 4 settimane** è arrivato nell'ultima settimana.
 
+> **Aggiornamento 30/08/2026** — nuovo export "AnalisiAggregate", finestra 15/08-28/08/2026: 10.839 impressioni, 6.503 utenti raggiunti. Follower totali al 28/08: 11.464 (+58 sommando i nuovi follower giornalieri del periodo, la differenza con l'11.424 del 14/08 è solo +40 — scarto di 18 non riconciliato, coerente con le imprecisioni già osservate tra estrazioni diverse). Stesso limite della volta scorsa: **nessun dato su salvataggi, visite profilo o nuove connessioni per singolo post** — l'export "AnalisiAggregate" non li contiene, vanno presi post per post da "Visualizza analisi". Non ancora fatto.
+
 **Correzione metodologica (confermata incrociando le finestre):** la tabella "impressioni per data di pubblicazione" non è un totale lifetime del post, ma le impressioni **ricevute durante la finestra dell'export**, attribuite alla data di pubblicazione originale. Per i contenuti recenti (10-14/08) i due valori coincidono perché il post non ha ancora vita fuori dalla finestra; per i contenuti più vecchi (es. il post del 21/07: 1.649 impressioni nella finestra di 4 settimane, ma solo 16 in quella di 7 giorni) i due numeri divergono — è traffico residuo che continua a filtrare mesi dopo, non il lifetime del post.
 
 **Limite dei dati disponibili:** l'export LinkedIn usato non riporta salvataggi, visite profilo o nuove connessioni per singolo post — solo impressioni, reazioni/commenti/repost aggregati ("Interazioni") e follower giornalieri aggregati. La classifica sotto è quindi **parziale**: non riflette i KPI reali prioritari (salvataggi, visite profilo da target, connessioni), che restano n/d per contenuto.
@@ -23,6 +25,24 @@
 | 14/08 | Newsletter + post accompagnamento | IT | Delibera AGCOM 85/26/CONS | troppo recente, fuori dal ranking top-post | n/d | n/d | n/d | n/d | `newsletter-2026-07-24-n2-agcom-85-26-cons.md` |
 
 \* Riga 01/07 nel task-list riporta un contenuto diverso ("Retail vs online... case study Lezione 6, 0 voti") — impressioni/interazioni associate per data, file esatto da confermare.
+
+## Finestra 15/08-28/08/2026 — nuovi dati per contenuto
+
+Stessa logica della tabella sopra: impressioni **ricevute in questa finestra**, attribuite alla data di pubblicazione originale — non lifetime. Per i contenuti di fine agosto i due valori coincidono (troppo recenti per avere vita fuori finestra); per Tony Bloom (10/08) e il carosello Portfolio giochi (12/08) questo è traffico residuo aggiuntivo, da sommare a quanto già registrato nella tabella sopra.
+
+| Data pubblicazione | Contenuto | Impressioni (finestra) | Interazioni (finestra) | File |
+|---|---|---|---|---|
+| 10/08 | Tony Bloom non scommette (residuo) | 1.134 | n/d (sotto soglia elenco) | `post-2026-08-10-tony-bloom-liquidita.md` |
+| 11/08 | Licensing collo di bottiglia (residuo) | 154 | n/d (sotto soglia elenco) | `post-2026-08-11-scaling-regulated-markets.md` |
+| 12/08 | Carosello Portfolio giochi (residuo) | 422 | 1 | `carosello-2026-08-12-portfolio-giochi.md` |
+| 14/08 | Post accompagnamento newsletter N2 | 1.282 | 13 | `post-2026-08-14-newsletter-n2-agcom-accompagnamento.md` |
+| 18/08 | Post Varenne | 282 | 3 | `post-2026-08-18-varenne-morte.md` |
+| 21/08 | Certificazione provider — due contenuti stesso giorno | 556 (confermato: Newsletter N3, vedi dettaglio per-post sotto — 558 impressioni lifetime, coincide) e 288 | 4 e 3 | `newsletter-2026-08-21-n3-certificazione-provider.md` (confermato via URL `un-fornitore-che-dice-siamo-certificati`, ha i campi "Rendimento articolo" tipici delle newsletter) · l'altro contenuto (288 impressioni) resta da attribuire tra `carosello-2026-08-21-certificazione-provider.md` e `post-2026-08-21-newsletter-n3-accompagnamento.md` |
+| 22/08 | Post Paul Gauselmann | **5.489** | **143** | `post-2026-08-22-paul-gauselmann.md` |
+| 24/08 | Sondaggio proroga concessioni fisico | 658 | 4 | `sondaggio-2026-08-24-proroga-concessioni-fisico.md` |
+| 28/08 | Post "Lo stallo non è neutrale" | 384 | 3 | `post-2026-08-28-stallo-non-neutrale.md` |
+
+**Paul Gauselmann (22/08) è il contenuto più forte del periodo**, fuori scala rispetto al resto: da solo vale il 51% delle impressioni totali della finestra (5.489 su 10.839) e il 79% delle interazioni (143 su ~180 sommando la tabella giorno-per-giorno). Il picco di nuovi follower del 22/08 (+9, il massimo del periodo) coincide con la pubblicazione.
 
 ## Classifica (parziale — solo impressioni e interazioni aggregate, non i KPI reali)
 
@@ -49,6 +69,44 @@ L'export contiene due blocchi di dati demografici separati. Confrontando la fine
 
 **Il pubblico raggiunto dal post Tony Bloom è quindi molto diverso dalla base follower**: Londra/UK invece di Milano/Roma, servizi finanziari (22-24%) prima ancora di gambling/casinò (10%), aziende come Flutter, bet365, Entain, HSBC, Deloitte, EY, J.P. Morgan invece di SOFTSWISS/Mediaset/Sky. Anzianità comunque coerente (Senior 34-35%, Direttore 19%) — allineata al livello decisionale di Marco (CDO/GM), ma la geografia e il settore no: è un pubblico UK/finance-heavy, non il mercato italiano regolamentato che il piano editoriale punta a nutrire. Da tenere presente al checkpoint: un contenuto forte in inglese su un tema "betting/valore" può bucare verso un pubblico finance/UK diverso da quello previsto per Marco/Giulia, utile da capire se è un target da coltivare a parte o un fuori-fuoco occasionale.
 
+### Confronto con il pubblico Paul Gauselmann (22/08) — nuovo dato, 30/08/2026
+
+Stessa struttura a due blocchi nell'export 15/08-28/08: il blocco 1 (follower stabili) resta sovrapponibile al precedente (Milano 23%, Roma 12%, Senior 30%, Livello base 26%, SOFTSWISS/Mediaset/Sky/QVC/Rai/Lottomatica tra le aziende) — conferma ulteriore che è una base stabile, non legata al contenuto della settimana. Il blocco 2 (chi ha visto i post nel periodo, dominato all'80%+ da Paul Gauselmann visto il suo peso sulle impressioni) è invece **l'opposto del pattern Tony Bloom**:
+
+| Dimensione | Pubblico Tony Bloom (10/08) | Pubblico Paul Gauselmann (22/08) |
+|---|---|---|
+| Settore gambling/casinò | 10% | **35%** |
+| Geografia | Londra/UK dominante | Londra 7%, Roma 6%, Milano 5%, **Sofia 2%, Espelkamp 1%** |
+| Aziende ricorrenti | Flutter, bet365, Entain, HSBC, Deloitte, J.P. Morgan | MERKUR GROUP 2%, Lottomatica, SOFTSWISS, Sisal, Light & Wonder, Entain, IGT, Snai |
+| Anzianità | Senior 34-35%, Direttore 19% | Senior 27%, Livello base 17%, Direttore 16%, CXO 8% |
+
+**Espelkamp** è la sede storica di Gauselmann/Merkur in Germania: la sua comparsa tra le località, per quanto all'1%, è un segnale concreto che il post ha raggiunto persone del settore gambling tedesco, non solo pubblico generico attratto dal nome. Insieme al 35% di settore "Strutture per gioco d'azzardo e casinò" (contro il 10% di Tony Bloom), è il primo caso nel periodo osservato di un contenuto ad alto reach che **resta dentro il target di settore** invece di bucare verso un pubblico adiacente. Utile per il checkpoint buyer persona: un contenuto in inglese su una figura del settore (non su un tema finance-adiacente come "chi crea valore") sembra trattenere meglio l'audience gambling — un solo caso non basta per una regola, ma è un secondo data point dopo Tony Bloom nella direzione opposta.
+
+## Dettaglio per singolo post — salvataggi, visite profilo, follower (30/08/2026)
+
+Primi dati reali sui KPI prioritari del workspace, presi da "Visualizza analisi" su 5 contenuti. **Sono valori lifetime** (dalla pubblicazione a oggi), non windowed come le tabelle sopra — per i contenuti recenti (21-24/08) i due tipi di dato coincidono quasi, per Tony Bloom (10/08) e Paul Gauselmann (22/08) sono il totale cumulato.
+
+| Contenuto | Data | Impressioni (lifetime) | Utenti raggiunti | Visitatori profilo | Follower acquisiti | Interazioni social | **Salvataggi** | File |
+|---|---|---|---|---|---|---|---|---|
+| Tony Bloom | 10/08 | 30.154 | 21.654 | **22** | 2 | 33 | **4** | `post-2026-08-10-tony-bloom-liquidita.md` |
+| Paul Gauselmann | 22/08 | 5.586 | 4.041 | 14 | **6** | 92 | 2 | `post-2026-08-22-paul-gauselmann.md` |
+| Newsletter N2 (AGCOM) | 14/08 | 2.654 | 1.852 | 8 | 0 | 30 | 1 | `newsletter-2026-07-24-n2-agcom-85-26-cons.md` |
+| Newsletter N3 (Certificazione) | 21/08 | 558 | 410 | 2 | 0 | 3 | 0 | `newsletter-2026-08-21-n3-certificazione-provider.md` |
+| Sondaggio proroga concessioni | 24/08 | 665 | 449 | 1 | 0 | 3 | 0 | `sondaggio-2026-08-24-proroga-concessioni-fisico.md` |
+
+**Nota su "Interazioni social" vs le tabelle precedenti:** per Paul Gauselmann questa vista mostra 92, mentre la tabella windowed per data di pubblicazione (sopra) ne mostrava 143 nella stessa finestra. Le due viste di LinkedIn non sono sempre coerenti tra loro (definizioni diverse di cosa conta come interazione) — non riconciliato, riportato così com'è per onestà del dato.
+
+**Cosa dice il primo dato reale su salvataggi:**
+
+1. **Tony Bloom resta il post che converte meglio in salvataggi (4)**, nonostante l'audience fuori target (finance/UK). Il salvataggio è un segnale di valore percepito indipendente dal fit di settore — chi salva un contenuto sul pricing di un fondo d'investimento nel betting lo trova utile a prescindere dal ruolo gambling.
+2. **Paul Gauselmann converte meglio in follow (6 nuovi follower su 14 visite profilo, 43%) di Tony Bloom (2 su 22, 9%)** — coerente con quanto già osservato sulla demografia: pubblico più in target (35-45% gambling) converte in relazione, pubblico più ampio ma fuori fuoco (Tony Bloom) converte in salvataggio isolato ma non in follow.
+3. **Le newsletter salvano poco** (N2: 1, N3: 0) — atteso, il formato newsletter si "salva" strutturalmente in modo diverso (iscrizione, non salvataggio del singolo numero).
+4. **Il sondaggio non genera né salvataggi né visite profilo** — coerente con la funzione del formato (raccogliere un voto, non un asset da tenere).
+
+**Ancora non pullati:** carosello certificazione provider (21/08, URL probabile `certificazione-provider-igaming-guida-per`), post di accompagnamento N3 (21/08), Varenne (18/08), "Lo stallo non è neutrale" (28/08), Licensing collo di bottiglia (11/08), Portfolio giochi (12/08). Utile se si vuole un quadro completo, ma i due contenuti a maggior reach del periodo (Tony Bloom, Gauselmann) sono già coperti.
+
 ## Nota — checkpoint fine agosto
 
-Questo file è uno dei due input per il checkpoint buyer persona di fine agosto (`piano-editoriale-2026.md` e `task-list.md`, insieme a `../02-softswiss/intelligence/buyer-voice.md`). Segnalo che al momento il checkpoint non può validare/correggere le buyer persona Marco/Giulia sui KPI reali (salvataggi, visite profilo, connessioni) perché questo export non li contiene — serve un export mirato (analisi del singolo post per i salvataggi, finestra temporale post-pubblicazione per visite profilo/connessioni) prima del 28/08. Il dato demografico sopra (blocco 2) è un proxy utile nel frattempo, ma resta un proxy: reach ≠ engagement qualificato.
+Questo file è uno dei due input per il checkpoint buyer persona di fine agosto (`piano-editoriale-2026.md` e `task-list.md`, insieme a `../02-softswiss/intelligence/buyer-voice.md`).
+
+**Aggiornato al 30/08/2026 con la finestra 15/08-28/08.** Resta lo stesso limite già segnalato il 14/08: **salvataggi, visite profilo e nuove connessioni per singolo post non sono nell'export "AnalisiAggregate"** — vanno presi post per post da "Visualizza analisi" su ogni contenuto, e per ora non sono stati raccolti. Il checkpoint può quindi usare impressioni/interazioni/demografia (dato via via più solido, ora su tre finestre incrociate) ma non può ancora validare i KPI reali prioritari del workspace. Il dato demografico (blocco 2, confronto Tony Bloom/Paul Gauselmann sopra) resta un proxy utile ma non sostituisce salvataggi e visite profilo.
