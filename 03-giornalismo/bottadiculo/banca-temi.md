@@ -43,7 +43,10 @@
 
 ---
 
-## Scheda 3 — Autoesclusione e responsabilità di chi fa le campagne
+## Scheda 3 — Autoesclusione e responsabilità di chi fa le campagne [ESAURITA]
+
+⚠️ **Pubblicata come Gambling Insights #79 (31/08/2026), non riutilizzabile.** Vedi registro delle uscite in fondo al file. Angolo finale diverso da quello originale della scheda: non targeting su liste di autoesclusi (il registro resta protetto), ma targeting su intenzione di ricerca di chi cerca di aggirare il proprio blocco (caso olandese Cruks/BNR), con nesso italiano costruito sul canale già documentato dall'Osservatorio Data Room Nexus per i siti clone, non su un caso RUA diretto (non trovato in fonti).
+
 
 **Scadenza:** nessuna, tema strutturale. Da riscrivere se ADM interviene sul RUA.
 **Lettore:** compliance operativa, chi gestisce liste e campagne, affiliati con modelli a performance.
@@ -117,3 +120,4 @@ tema distribuiti sul mercato ADM durante il torneo.
 |---|---|---|
 | 20/08 | Scheda 5 — Vita utile del giocatore da Mondiale | Pubblicata come post LinkedIn. Nesso italiano: l'Italia non è nel campione Blask, dichiarato esplicitamente nel testo invece di inventare un dato. POV Alberto raccolto con domande mirate prima del draft: il problema parte dalla finestra di misurazione ROI, responsabilità di chi compra media sull'evento, azione concreta è ripensare l'orizzonte di misurazione. `bottadiculo/drafts/2026-08-20-mondiale-2026-giocatore-acquisito-roi-media-buyer.md` |
 | 24/08 | Scheda 4 — Solidità operatore/material uncertainty | Pubblicata come Gambling Insights #78. `bottadiculo/drafts/2026-08-24-material-uncertainty-affiliato-solidita-operatore-newsletter-linkedin.md` |
+| 31/08 | Scheda 3 — Autoesclusione/responsabilità campagne | Pubblicata come Gambling Insights #79. Angolo rifatto in fase di ricerca: niente targeting su liste RUA (protette), ma su intenzione di ricerca di chi cerca di aggirare il proprio blocco (caso olandese Cruks/BNR) più nesso italiano costruito sul canale già documentato dall'Osservatorio Data Room Nexus per i cloni. `bottadiculo/drafts/2026-08-31-rua-autoesclusione-pubblicita-illegale-ricerca-newsletter-linkedin.md` |

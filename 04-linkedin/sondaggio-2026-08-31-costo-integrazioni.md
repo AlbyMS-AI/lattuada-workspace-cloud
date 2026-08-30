@@ -1,7 +1,7 @@
 # Sondaggio LinkedIn — Blocco 4, lunedì: cost visibility sull'integrazione giochi
 
 Data pubblicazione: 2026-08-31 (lunedì)
-Stato: bozza pronta, in attesa di conferma per lo scheduling. Sviluppato il 29/08/2026 (weekend di recupero, "creare entro" scaduto il 27/08).
+Stato: pubblicato/schedulato da Alberto il 29/08/2026 per lunedì 31/08. Sviluppato il 29/08/2026 (weekend di recupero, "creare entro" scaduto il 27/08).
 
 ---
 

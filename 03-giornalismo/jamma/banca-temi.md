@@ -31,10 +31,12 @@ Italia, riordino ADM: 52 concessioni, circa 350 skin verso la chiusura, 46 opera
 
 ---
 
-## Scheda 2 — La leva fiscale ha sostituito quella regolatoria come rischio competitivo
+## Scheda 2 — La leva fiscale ha sostituito quella regolatoria come rischio competitivo [ESAURITA]
+
+⚠️ **Pubblicata come newsletter LinkedIn Jamma, edizione 2 (31/08/2026), non riutilizzabile.** Vedi registro delle uscite in fondo al file.
 
 **Scadenza:** 31/10/2026. Dopo il prossimo Budget britannico i numeri vanno rifatti.
-**Stato:** quasi pronta. Manca la verifica su fonte primaria delle trimestrali.
+**Stato:** esaurita, non disponibile per la newsletter. Dati verificati su fonte primaria (Investegate, entaingroup.com) in fase di stesura: EBITDA Evoke -9,5% (non solo "in calo"), Entain EBITDA -2% con dichiarazione testuale sull'NGR eroso dalla tassa, acquisizione Bally's Intralot confermata a £243,1M.
 
 **Tesi.** Il settore continua a misurare il rischio di un mercato sulla severità del regolatore. I bilanci del primo semestre 2026 dicono che il fattore che erode i margini è l'aliquota, e che lo fa anche quando i ricavi crescono. È un cambio di variabile che nessuno ha ancora messo al centro.
 
@@ -69,3 +71,4 @@ BGC: oltre 540 sale scommesse chiuse e circa 4.500 posti persi nel Regno Unito d
 | Data | Scheda | Esito |
 |---|---|---|
 | 20/08 | Scheda 1 — Malta/Italia | Pubblicata come articolo Jamma.it (non come newsletter LinkedIn), confermato in `articoli-pubblicati.md`. POV Alberto raccolto con domande mirate prima del draft: Malta confermato filtro B2B già operativo nella pratica, Italia riletto come rischio non ancora bruciato ma reale abbastanza da cambiare priorità di qualifica in pipeline. Fact-check corretto un dato (calo netto società maltesi 13, non 15). `jamma/drafts/2026-08-20-malta-italia-consolidamento-licenze-concessioni-b2b.md`. **Scheda esaurita**: non riutilizzabile per la newsletter LinkedIn, stesso fatto già uscito in settimana (22/08, verificato da Alberto per l'edizione 1 del 24/08). |
+| 31/08 | Scheda 2 — Leva fiscale vs regolatoria | Pubblicata come newsletter LinkedIn Jamma, edizione 2. Angolo A (crescita non protegge più il margine): Entain +7% NGR ma EBITDA -2%, Evoke EBITDA -9,5% con due material uncertainty, nesso italiano su aliquote 2025 e riordino concessioni. `jamma/drafts/2026-08-31-tassazione-gioco-online-margine-entain-evoke.md` |
