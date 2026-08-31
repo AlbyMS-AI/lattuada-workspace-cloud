@@ -84,26 +84,32 @@ Stessa struttura a due blocchi nell'export 15/08-28/08: il blocco 1 (follower st
 
 ## Dettaglio per singolo post — salvataggi, visite profilo, follower (30/08/2026)
 
-Primi dati reali sui KPI prioritari del workspace, presi da "Visualizza analisi" su 5 contenuti. **Sono valori lifetime** (dalla pubblicazione a oggi), non windowed come le tabelle sopra — per i contenuti recenti (21-24/08) i due tipi di dato coincidono quasi, per Tony Bloom (10/08) e Paul Gauselmann (22/08) sono il totale cumulato.
+Dati reali sui KPI prioritari del workspace, presi da "Visualizza analisi" su 8 contenuti (aggiornato con il secondo giro di export ricevuto lo stesso giorno). **Sono valori lifetime** (dalla pubblicazione a oggi), non windowed come le tabelle sopra.
 
 | Contenuto | Data | Impressioni (lifetime) | Utenti raggiunti | Visitatori profilo | Follower acquisiti | Interazioni social | **Salvataggi** | File |
 |---|---|---|---|---|---|---|---|---|
-| Tony Bloom | 10/08 | 30.154 | 21.654 | **22** | 2 | 33 | **4** | `post-2026-08-10-tony-bloom-liquidita.md` |
-| Paul Gauselmann | 22/08 | 5.586 | 4.041 | 14 | **6** | 92 | 2 | `post-2026-08-22-paul-gauselmann.md` |
-| Newsletter N2 (AGCOM) | 14/08 | 2.654 | 1.852 | 8 | 0 | 30 | 1 | `newsletter-2026-07-24-n2-agcom-85-26-cons.md` |
-| Newsletter N3 (Certificazione) | 21/08 | 558 | 410 | 2 | 0 | 3 | 0 | `newsletter-2026-08-21-n3-certificazione-provider.md` |
-| Sondaggio proroga concessioni | 24/08 | 665 | 449 | 1 | 0 | 3 | 0 | `sondaggio-2026-08-24-proroga-concessioni-fisico.md` |
+| Tony Bloom (EN) | 10/08 | 30.154 | 21.654 | **22** | 2 | 33 | **4** | `post-2026-08-10-tony-bloom-liquidita.md` |
+| Paul Gauselmann (EN) | 22/08 | 5.586 | 4.041 | 14 | **6** | 92 | 2 | `post-2026-08-22-paul-gauselmann.md` |
+| Newsletter N2 — AGCOM (IT) | 14/08 | 2.654 | 1.852 | 8 | 0 | 30 | 1 | `newsletter-2026-07-24-n2-agcom-85-26-cons.md` |
+| Sondaggio "chi crea valore" (EN) | 03/08 | 431 | 272 | 2 | 0 | 1 | 0 | `sondaggio-2026-08-03-chi-crea-valore.md` — **solo 2 voti reali (dato MLR, non in questa tabella), diagnosi: rete italiana, sondaggio EN senza DM di supporto** |
+| Sondaggio proroga concessioni (IT) | 24/08 | 665 | 449 | 1 | 0 | 3 | 0 | `sondaggio-2026-08-24-proroga-concessioni-fisico.md` |
+| Carosello Portfolio giochi (EN) | 12/08 | 897 | 675 | 1 | 1 | 3 | 0 | `carosello-2026-08-12-portfolio-giochi.md` |
+| Newsletter N3 — Certificazione (IT) | 21/08 | 562 | 410 | 2 | 0 | 3 | 0 | `newsletter-2026-08-21-n3-certificazione-provider.md` |
+| Carosello certificazione provider (IT) | 21/08 | 290 | 210 | 1 | 0 | 3 | 0 | `carosello-2026-08-21-certificazione-provider.md` — confermato: URL `certificazione-provider-igaming-guida-per`, nessun campo articolo → è il carosello, non la newsletter |
+| Post Varenne (IT) | 18/08 | 287 | 214 | 1 | 0 | 3 | 0 | `post-2026-08-18-varenne-morte.md` |
+| Post "Lo stallo non è neutrale" (IT) | 28/08 | 473 | 330 | 3 | 0 | 3 | 0 | `post-2026-08-28-stallo-non-neutrale.md` |
 
-**Nota su "Interazioni social" vs le tabelle precedenti:** per Paul Gauselmann questa vista mostra 92, mentre la tabella windowed per data di pubblicazione (sopra) ne mostrava 143 nella stessa finestra. Le due viste di LinkedIn non sono sempre coerenti tra loro (definizioni diverse di cosa conta come interazione) — non riconciliato, riportato così com'è per onestà del dato.
+**Nota su "Interazioni social" vs le tabelle precedenti:** per Paul Gauselmann questa vista mostra 92, mentre la tabella windowed per data di pubblicazione (sopra) ne mostrava 143 nella stessa finestra. Le due viste di LinkedIn non sono sempre coerenti tra loro — non riconciliato, riportato così com'è per onestà del dato.
 
-**Cosa dice il primo dato reale su salvataggi:**
+**Il quadro che emerge con 10 contenuti coperti è più netto di quanto sembrasse con 5:**
 
-1. **Tony Bloom resta il post che converte meglio in salvataggi (4)**, nonostante l'audience fuori target (finance/UK). Il salvataggio è un segnale di valore percepito indipendente dal fit di settore — chi salva un contenuto sul pricing di un fondo d'investimento nel betting lo trova utile a prescindere dal ruolo gambling.
-2. **Paul Gauselmann converte meglio in follow (6 nuovi follower su 14 visite profilo, 43%) di Tony Bloom (2 su 22, 9%)** — coerente con quanto già osservato sulla demografia: pubblico più in target (35-45% gambling) converte in relazione, pubblico più ampio ma fuori fuoco (Tony Bloom) converte in salvataggio isolato ma non in follow.
-3. **Le newsletter salvano poco** (N2: 1, N3: 0) — atteso, il formato newsletter si "salva" strutturalmente in modo diverso (iscrizione, non salvataggio del singolo numero).
-4. **Il sondaggio non genera né salvataggi né visite profilo** — coerente con la funzione del formato (raccogliere un voto, non un asset da tenere).
+1. **Su 10 post con dato reale, solo 2 (Tony Bloom e Paul Gauselmann) generano salvataggi** — tutti gli altri, IT e EN, newsletter e carosello e post e sondaggio, sono a **zero salvataggi**. Non è "i post normali salvano poco", è che **quasi nessun contenuto del periodo tranne questi due ha prodotto il KPI reale più importante**.
+2. **Stessa concentrazione su visite profilo**: Tony Bloom (22) e Gauselmann (14) contro 1-3 per tutto il resto. Anche qui non è una gradazione, è uno scarto di un ordine di grandezza.
+3. **Tony Bloom resta il post che converte meglio in salvataggi (4)** nonostante l'audience fuori target — segnale di valore percepito indipendente dal fit di settore.
+4. **Paul Gauselmann converte meglio in follow (6/14 visite, 43%) di Tony Bloom (2/22, 9%)** — pubblico più in target (35-45% gambling) converte in relazione, pubblico più ampio ma fuori fuoco converte in salvataggio isolato ma non in follow.
+5. **Il sondaggio EN "chi crea valore" (03/08) è il caso da tenere a mente per domani**: 431 impressioni non sono poche, ma **solo 2 voti reali** (dato di MLR in Lezione 9, non visibile in questa tabella) — il sondaggio come formato ha bisogno di spinta attiva (DM), le impressioni passive non bastano a far votare.
 
-**Ancora non pullati:** carosello certificazione provider (21/08, URL probabile `certificazione-provider-igaming-guida-per`), post di accompagnamento N3 (21/08), Varenne (18/08), "Lo stallo non è neutrale" (28/08), Licensing collo di bottiglia (11/08), Portfolio giochi (12/08). Utile se si vuole un quadro completo, ma i due contenuti a maggior reach del periodo (Tony Bloom, Gauselmann) sono già coperti.
+**Ancora non pullato:** post "Licensing collo di bottiglia" (11/08) e il post di accompagnamento N3 (21/08, probabilmente sotto la soglia di visibilità in classifica). Copertura ormai quasi completa sui contenuti pubblicati dal 03/08 al 28/08.
 
 ## Nota — checkpoint fine agosto
 
