@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """PIERO — iGaming News Radar per Alberto Lattuada.
 
-SCHEDULATO IN LOCALE via launchd (com.albertol.piero), ogni giorno alle 07:20.
+SCHEDULATO IN LOCALE via launchd (com.albertol.piero), ogni giorno alle 07:00 e 12:40.
 La versione cloud (trig_01R5LLasoxRqBYz2w48MSRh6) resta disattivata: la sandbox
 cloud non raggiunge le fonti RSS (blocco di rete del 23/07/2026). PIERO e'
 l'unico agente che deve girare per forza sul Mac.
@@ -294,9 +294,19 @@ def main():
     prompt = build_prompt(stories, today, cov)
     log(f"Calling claude CLI ({len(stories)} stories)...")
 
+    # --tools "": la generazione del brief e' pura scrittura di testo, non le
+    # serve nessun tool. Senza questo flag, con --dangerously-skip-permissions
+    # il modello e' libero di aprire i link delle notizie per verificarle
+    # invece di limitarsi a scrivere: e' quello che spiega le run da 60-100
+    # minuti osservate tra il 25 e il 30/08/2026 (la chiamata Slack sotto,
+    # stesso binario, stesso flag di permessi ma senza link da seguire,
+    # impiega 22 secondi). Testato il 31/08/2026 con --tools "": 116s per 9
+    # storie, 292s per 30 (il tetto MAX_STORIES). Timeout a 420s per margine
+    # reale, contro i 600s che comunque non bastavano quando il modello si
+    # metteva a navigare.
     result = subprocess.run(
-        [CLAUDE_BIN, "-p", prompt, "--dangerously-skip-permissions"],
-        capture_output=True, text=True, timeout=600
+        [CLAUDE_BIN, "-p", prompt, "--dangerously-skip-permissions", "--tools", ""],
+        capture_output=True, text=True, timeout=420
     )
 
     if result.returncode != 0:
