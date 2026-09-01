@@ -1,4 +1,13 @@
-# Task List — Piano Editoriale LinkedIn
+# Piano Editoriale LinkedIn — produzione
+
+> **Questo file è il piano, non il registro.** Dal 01/09/2026 le scadenze operative vivono su Linear, progetto **Contenuti LinkedIn**. Qui restano il ragionamento, gli slittamenti motivati, il backlog e lo storico: cose che Linear non regge e che servono comunque.
+>
+> **La due date su Linear è la colonna "Creare entro", non "Pubblica".** La data di pubblicazione sta nel titolo della issue, formato `[pubb. GG/MM]`. Convenzioni complete: `../automations/linear-convenzioni.md`.
+>
+> Se il piano cambia: aggiorna prima `piano-editoriale-2026.md`, poi questo file, poi lancia `/agenda` per riallineare Linear.
+>
+> ⚠️ **Numerazione newsletter:** questo file elenca ancora la sequenza pre-01/09. La sequenza valida è in `piano-editoriale-2026.md`, aggiornata dopo la Lezione 10 MLR: N4 (04/09) · **N5 checklist compliance (11/09, nuova)** · N6 esports (18/09, era N5) · N7 aggregator multi-mercato (25/09, nuova) · N8 Europa (02/10, era N6). La newsletter passa a **settimanale dall'11/09**.
+>
 > Aggiornato: 2026-07-14 — allineata a `piano-editoriale-2026.md` (ritmo ridotto esteso a tutta l'estate, deciso il 13/07: 2 post/settimana + newsletter bisettimanale piena — aggiunta edizione N3 intermedia, N4-N6 rinumerate; settembre a pieno regime solo dopo checkpoint analytics) + regola ferie: **14-22/07 Alberto attivo solo su Softswiss, nessuna attività LinkedIn**.
 > **Slittamento 2 settimane (14/07):** il sondaggio IT di apertura Blocco 1 non è uscito il 13-14/07 — lezione MLR del 13/07 saltata, Alberto vuole il parere di MLR prima di pubblicare (atteso entro lezione 7 MLR, prevista per il 27/07). Pubblicandolo lunedì 27/07, tutto il calendario da Blocco 2 in poi (post e newsletter) slitta di 2 settimane esatte per non mischiare blocchi IT/EN — dettaglio in `piano-editoriale-2026.md`, sezione "Ritmo ridotto".
 > Le date sono verificate sull'ancora 01/07/2026 = mercoledì.
@@ -12,7 +21,9 @@ Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-str
 
 **Regola grafiche (12/07):** mai Alberto da solo — Claude prepara prompt/brief, guida passo passo e compone. Standard corrente in `content-strategy/grafiche-workflow.md` (main image: Gemini + composizione HTML; infografiche/caroselli: Canva/NotebookLM). Si producono solo a testo approvato; l'export finale si salva in `grafiche/`.
 
-**Regola remind (dal 12/07):** i promemoria operativi non restano solo qui — vanno agli agenti: DM Slack programmato per le scadenze puntuali, brief di ALDO/OTTO per il quadro. Se una riga ha una scadenza critica, schedularle il remind.
+**Regola remind (riscritta il 01/09/2026):** una riga con una scadenza diventa una issue Linear nel progetto Contenuti LinkedIn, e da lì la raccoglie ALDO nel brief delle 08:30. Basta questo.
+
+Non si schedulano più DM Slack singoli per le scadenze puntuali: era la regola del 12/07, ed è la stessa che il 17/07 ha fatto arrivare "Domani pubblichi: Post AGCOM" per uno slot spostato di due settimane. Un messaggio fissato a una data non si aggiorna quando il piano si riflowa, mentre ALDO rilegge Linear a ogni run. Se in coda restano vecchi promemoria schedulati, si cancellano a mano da Slack (icona fulmine → Scheduled messages).
 
 ---
 
@@ -56,17 +67,17 @@ Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-str
 | ~~07/08~~ → **10/08** | ~~Ven~~ Lun | Post testo | EN | Tony Bloom non scommette: la distinzione che cambia tutto | No | **subito** (era 05/08) | [x] Salvato — `post-2026-08-10-tony-bloom-liquidita.md`. Pronto per pubblicazione lunedì 10/08 |
 | ~~05/08~~ → **12/08** | ~~Mer~~ Mer | Carosello | EN | Portfolio giochi: perché più titoli non significa più revenue (framework PAS, spunto Lezione 8 MLR) | Sì — carosello PDF (workflow NotebookLM, notebook dedicato "LinkedIn Caroselli — Alberto") | 10/08 (Lun) | [x] Schedulato su LinkedIn nativo per mercoledì 12/08 ore 12:15 — `carosello-2026-08-12-portfolio-giochi.md`. Cifra "6 titoli" non verificabile su fonte pubblica, sostituita da meccanismo anonimizzato. ⚠️ Da verificare a posteriori: layout slide 4 (testo in basso, diverso dalle altre) |
 | ~~07/08~~ → ~~14/08~~ | ~~Ven~~ Ven | **Newsletter N2 — The Betting Edge** | IT | Delibera AGCOM 85/26/CONS — approfondimento | Sì — copertina con foto, tag alt applicato | 12/08 (Mer) | [x] **Pubblicato il 14/08/2026** — `newsletter-2026-07-24-n2-agcom-85-26-cons.md` + post di accompagnamento `post-2026-08-14-newsletter-n2-agcom-accompagnamento.md` + copertina `alberto-lattuada-newsletter-n2-agcom-cover-ricca.png` |
-| ~~31/07~~ → **14/08** | ~~Ven~~ Ven | Carosello | EN | Claude per una proposta commerciale mercato IT regolamentato (Atto 3, anonimizzato) | Sì — carosello PDF (workflow Canva/NotebookLM) | 12/08 (Mer) | [ ] Da sviluppare — chiude Blocco 2, stesso giorno della newsletter N2 |
-| ~~03/08~~ → **17/08** | ~~Lun~~ Lun | Post testo | IT | La contraffazione dei giochi cresce col mercato legale | No | 13/08 (Gio) | [ ] Da sviluppare — slittato 2 settimane (14/07), apre Blocco 3 |
+| ~~31/07~~ → **14/08** | ~~Ven~~ Ven | Carosello | EN | Claude per una proposta commerciale mercato IT regolamentato (Atto 3, anonimizzato) | Sì — carosello PDF (workflow Canva/NotebookLM) | 12/08 (Mer) | [ ] **ALB-104** — arretrato di 18 giorni al 01/09. Su Linear con la due date lasciata al 14/08 apposta, perché resti visibile come arretrato. ⚠️ Decisione di Alberto: recuperare con data nuova o chiudere |
+| ~~03/08~~ → **17/08** | ~~Lun~~ Lun | Post testo | IT | La contraffazione dei giochi cresce col mercato legale | No | 13/08 (Gio) | [ ] **ALB-105** — arretrato di 15 giorni al 01/09. Due date lasciata al 17/08 apposta. ⚠️ Decisione di Alberto: recuperare o chiudere, Blocco 3 è chiuso dal 28/08 |
 | ~~07/08~~ → **21/08** | ~~Ven~~ Ven | Carosello | IT | Come verificare la certificazione di un provider | Sì — carosello PDF (NotebookLM) | 19/08 (Mer) | [x] **Schedulato (20/08)** — 21/08 ore 12:00. File in `grafiche/2026-08-21-certificazione-provider-carosello.pdf`. Link newsletter nel primo commento: da aggiungere manualmente da Alberto al momento della pubblicazione |
 | ~~07/08~~ → **21/08** | ~~Ven~~ Ven | **Newsletter N3 — The Betting Edge** | IT | Certificazione provider: guida tecnica per CDO | Sì — copertina + 1 infografica inline | 19/08 (Mer) | [x] **Schedulata (20/08)** — 21/08 ore 7:00-9:00, con post di accompagnamento in coda. File in `newsletter-2026-08-21-n3-certificazione-provider.md` + `post-2026-08-21-newsletter-n3-accompagnamento.md` |
 | ~~10/08~~ → **24/08** | ~~Lun~~ Lun | Sondaggio | IT | La proroga concessioni fisico avvantaggia soprattutto... | No | ~~20/08 (Gio)~~ → ~~22/08 (Sab)~~ → **23/08** | [x] **Pubblicato/schedulato (24/08, ore 10:30)** — `sondaggio-2026-08-24-proroga-concessioni-fisico.md`. Angolo BDM/aggregator, fonte Jamma 08/06 + Sitiscommesse 10/08 |
 | ~~14/08~~ → **28/08** | ~~Ven~~ Ven | Post con immagine | IT | Lo stallo non è neutrale (chiude Blocco 3) | Sì — main image Gemini+HTML | ~~26/08 (Mer)~~ → **23/08** | [x] **Pubblicato/schedulato (28/08)** — `post-2026-08-28-stallo-non-neutrale.md` + `grafiche/alberto-lattuada-stallo-distanze-gioco-fisico-adm.png`. Angolo: conflitto distanze minime MEF 100/200m vs AGSI 250m, modello ACCA, agganciato al sondaggio 24/08 |
 | ~~17/08~~ → **31/08** | ~~Lun~~ Lun | Sondaggio | EN | Cost visibility sull'integrazione giochi (angolo scelto al posto del confronto stack, aggancia post+N4 del 04/09) | No | ~~27/08 (Gio)~~ → **29/08 (Sab, recupero weekend)** | [x] **Pubblicato/schedulato (29/08)** — `sondaggio-2026-08-31-costo-integrazioni.md`. Solo pubblico, nessun DM Sales Navigator |
-| ~~21/08~~ → **04/09** | ~~Ven~~ Ven | Post testo | EN | I 3 costi nascosti che i CDO non pesano (Atto 3) | No | 02/09 (Mer) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
-| ~~21/08~~ → **04/09** | ~~Ven~~ Ven | **Newsletter N4 — The Betting Edge** | IT | Il costo reale di un'integrazione multipla: cosa i CDO non vedono alla firma | No (testo + immagini inline con tag alt) | 02/09 (Mer) | [ ] Da sviluppare — nuovo contenuto (13/07), slittato 2 settimane (14/07), in coppia col post dello stesso giorno |
-| ~~24/08~~ → **07/09** | ~~Lun~~ Lun | Post testo | EN | 5 mercati, 3 dinamiche identiche ovunque | No | 03/09 (Gio) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
-| ~~28/08~~ → **11/09** | ~~Ven~~ Ven | Carosello | EN | Checklist compliance per un nuovo mercato (chiude Blocco 4) | Sì — carosello PDF (workflow Canva/NotebookLM) | 09/09 (Mer) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
+| ~~21/08~~ → **04/09** | ~~Ven~~ Ven | Post testo | EN | I 3 costi nascosti che i CDO non pesano (Atto 3) | No | 02/09 (Mer) | [ ] **ALB-100** — ⚠️ decisione aperta: il 04/09 avrebbe tre pezzi (N4 IT + accompagnamento IT + questo EN). Tenerlo, spostarlo al 07/09, o farlo assorbire dall'accompagnamento |
+| ~~21/08~~ → **04/09** | ~~Ven~~ Ven | **Newsletter N4 — The Betting Edge** | IT | Il costo reale di un'integrazione multipla: cosa i CDO non vedono alla firma | No (testo + immagini inline con tag alt) | 02/09 (Mer) | [~] **ALB-99 — testo scritto il 01/09**, `newsletter-2026-09-04-n4-costo-integrazione-multipla.md` (1.183 parole) + accompagnamento `post-2026-09-04-newsletter-n4-accompagnamento.md`. Tesi: l'integrazione è una porta a senso unico. Restano spot-check Pangram, immagine inline, conferma di Alberto |
+| ~~24/08~~ → **07/09** | ~~Lun~~ Lun | Post testo | EN | 5 mercati, 3 dinamiche identiche ovunque | No | 03/09 (Gio) | [ ] **ALB-101** — da sviluppare |
+| ~~28/08~~ → **11/09** | ~~Ven~~ Ven | Carosello | EN | Checklist compliance per un nuovo mercato (chiude Blocco 4) | Sì — carosello PDF (workflow Canva/NotebookLM) | 09/09 (Mer) | [ ] **ALB-102** — da sviluppare. In coppia con la newsletter N5 dello stesso giorno (**ALB-103**), prima edizione a cadenza settimanale |
 
 **Nota Blocco 2 (EN, lead gen) — superata il 17/08:** il vincolo Sales Navigator ("nessun DM finché Alberto non dà il via libera") è caduto il 09/08/2026 con il via libera esplicito, e il primo invio reale è del 10/08 (53 lead, esito positivo). Dal 17/08 l'outbound ha un metodo scritto: `content-strategy/lead-generation-outbound.md`. Resta valida la regola sull'approvazione del singolo messaggio — lo sblocco riguardava lo strumento, non il testo. Vedi la sezione "Batch outbound" sotto.
 **Nota Blocco 4 (13/07, slittato 14/07):** nel piano precedente tornava "a regime" (3 post/settimana) — deciso il 13/07 di tenerlo a 2 post/settimana come i blocchi precedenti, mercoledì 02/09 e 09/09 spostati in backlog (sotto).
@@ -100,7 +111,7 @@ Metodo: `content-strategy/lead-generation-outbound.md` · Testi: `content-strate
 - [ ] Selezione destinatari Giulia (0/12)
 - [ ] Popolare il tracker oltre i 6 già registrati
 
-**Regola remind (12/07):** se l'invio del batch prende una data certa, schedulare il DM Slack — i promemoria operativi non restano solo in questo file.
+**Registro:** Batch 1 Marco residui → **ALB-106**, selezione Giulia → **ALB-107**. Entrambe senza scadenza su Linear, perché il batch è in pausa per decisione di Alberto: una data qui sarebbe inventata. Quando l'invio prende una data certa, si mette la due date sulla issue e ALDO la porta nel brief. Niente DM Slack schedulati a mano (vedi regola remind riscritta in testa al file).
 
 ---
 

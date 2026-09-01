@@ -260,6 +260,12 @@ Dove possibile, ogni contenuto derivato da materiale interno va anche verificato
 
 ## Piano editoriale
 
+**Registro operativo su Linear (dal 01/09/2026).** `piano-editoriale-2026.md` e `task-list.md` sono i **piani**: contengono il ragionamento, gli slittamenti motivati, il backlog senza data. Le scadenze azionabili vivono su Linear, progetto **Contenuti LinkedIn**, ed è da lì che ALDO le porta nel brief delle 08:30.
+
+La due date su Linear è la colonna **"Creare entro"**, mai "Pubblica": la data di pubblicazione sta nel titolo della issue, formato `[pubb. GG/MM]`. Convenzioni complete in `../automations/linear-convenzioni.md`.
+
+Quando il piano cambia: prima `piano-editoriale-2026.md`, poi `task-list.md`, poi `/agenda` per riallineare Linear. Le skill `linkedin-crea-post`, `linkedin-crea-newsletter` e `linkedin-crea-sondaggio` chiudono da sole la issue del pezzo che producono.
+
 Piano ristrutturato il 09/07/2026: `piano-editoriale-2026.md`
 Due linee BDM distinte: **nutrimento Italia** (IT, account già chiusi) e **lead gen estero** (EN, Sales Navigator/InMail).
 Post 3/settimana (Lun/Mer/Ven) a blocchi da 2 settimane alternati IT/EN — non più blocchi mensili.

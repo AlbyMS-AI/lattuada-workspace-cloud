@@ -1,6 +1,8 @@
 # Agenti Workspace — Roster e Stato
 
-> Aggiornato: 12/08/2026 (check completo workspace — stato verificato su `launchctl list`, `crontab -l`, `RemoteTrigger list`, log locali e chiamate live ai connettori, non dichiarato a memoria). Questo è il file operativo di riferimento: la memoria di Claude punta qui.
+> **Aggiornato: 01/09/2026** — ALDO riscritto in v2, nuova routine Check serale, `Linear-deadline-reminder` in dismissione. Registro task unificato su Linear, convenzioni in `linear-convenzioni.md`. Dettaglio nella sezione "ALDO v2 e il registro unico su Linear". Terzo caso della stessa classe di errore (elenco di progetti hardcoded dentro il prompt di ALDO), da cui la regola generalizzata: **mai un elenco di entità mutevoli dentro un prompt**.
+>
+> Aggiornato in precedenza: 12/08/2026 (check completo workspace — stato verificato su `launchctl list`, `crontab -l`, `RemoteTrigger list`, log locali e chiamate live ai connettori, non dichiarato a memoria). Questo è il file operativo di riferimento: la memoria di Claude punta qui.
 >
 > **Check del 12/08:** il roster era accurato sul "dove gira cosa" (prima volta dopo due check consecutivi in cui era stale). Il problema trovato era altrove, dentro i prompt: **ALDO e MARCO avevano hardcoded la deadline "contratto Italia Staryes/VittoriaBet entro 9 luglio"**, scaduta da 34 giorni, e la ripetevano a ogni run. Stessa classe di errore del LinkedIn Post Reminder disattivato il 02/08. Correzioni applicate lo stesso giorno, dettaglio sotto.
 >
@@ -15,9 +17,10 @@
 | **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Locale** (launchd `com.albertol.piero`) + skill `/piero` on demand | Ogni giorno 07:00 e 12:40 Roma | ✅ Attivo, ultimo run 12/08 07:01 (fetch 10 fonti in ~9 secondi, l'hardening dell'08/08 ha retto). La versione cloud (`trig_01R5LLasoxRqBYz2w48MSRh6`) resta disattivata per il blocco RSS del 23/07, mai ritestato. Alberto lo lancia anche a mano con `/piero`: dal 12/08 la skill è allineata al job (salva l'archivio e manda il DM), vedi sotto |
 | **MARCO** | BDM / Pipeline review (Pipedrive Dealbot + Linear + Granola) | Cloud cron | Lun 07:00 Roma (`0 5 * * 1` UTC) | ✅ Attivo — `trig_018CSmAP6w4tyJcyenYNZBMd`. Prompt corretto il 12/08: rimossa la deadline hardcoded, aggiunto il divieto di inventare date, aggiunto un controllo che segnala le issue Linear il cui titolo contraddice la due date. Modello portato a Sonnet 5. ⚠️ Resta legato a Pipedrive: da rifare con la migrazione HubSpot |
 | **VERA** | **Lock editoriale settimanale** (repo → tavolo del lock → Slack) | **Solo cloud** | **Gio 09:00 Roma** (`0 7 * * 4` UTC) | ✅ Attivo — `trig_011zLYAjZLmCnbYTNhcmjVvo`, prossimo run **gio 20/08**. **Riconvertita il 17/08/2026**: era "Brief editoriale settimanale" del venerdì 12:00, che sotto il nuovo piano newsletter arrivava a scrittura già iniziata. Ora prepara il lock del giovedì: legge la rassegna PIERO del giorno, conta le schede in banca e segnala le scadute, elenca cosa è già stato coperto in settimana, ricorda il test delle tre letture. **Non decide i temi, prepara il tavolo.** Nessuna data né tema hardcoded, tutto letto dal repo a ogni run; ha una sezione obbligatoria "Buchi in questo brief" che elenca i file non leggibili invece di tacere. Orario alle 09:00 e non alle 08:00 perché il sync del repo gira ogni 3 ore e il brief PIERO delle 07:00 deve avere tempo di arrivare |
-| **ALDO** | General Manager / Daily brief (Calendar + Gmail + Linear) | Cloud cron | **Tutti i giorni 08:30 Roma** (`30 6 * * *` UTC) | ✅ Attivo — `trig_01Li3P6YAkhP2gLGb5VzsDsm`. Modificato il 12/08: passato da lun-ven a **7 giorni su 7** per il requisito di copertura weekend e festivi. Nel weekend gira in **versione leggera** (salta le email Softswiss, tiene calendario e scadenze Linear); se non c'è nulla manda una riga sola invece di un brief vuoto. Rimossa la deadline hardcoded. Modello portato a Sonnet 5 |
+| **ALDO v2** | **Assistente personale / Agenda giornaliera** (Calendar + Gmail + Linear + Slack) | Cloud cron | **Tutti i giorni 08:30 Roma** (`30 6 * * *` UTC) | ✅ Attivo — `trig_01Li3P6YAkhP2gLGb5VzsDsm`. **Riscritto il 01/09/2026** (vedi sezione dedicata sotto): non è più un aggregatore di tre fonti ma un assistente bidirezionale. Sequenzia al massimo cinque azioni ordinate, ha orizzonte a 72 ore, chiude le issue leggendo la risposta di Alberto al check serale, e il lunedì genera le ricorrenze LasVegas. Resta a 7 giorni su 7 con versione leggera nel weekend (deciso 12/08). Modello Sonnet 5 |
+| **Check serale** | Chiede ad Alberto cosa ha chiuso oggi | Cloud cron | **Lun-ven 18:30 Roma** (`30 16 * * 1-5` UTC) | ✅ Attivo dal 01/09/2026 — `trig_01J3Go9PV537sbW6qanj9Gvc`. **Non scrive su Linear**: chiede e basta, la scrittura la fa ALDO il mattino dopo leggendo il thread. Se non ci sono issue scadute o in scadenza oggi non manda niente, per non diventare rumore quotidiano. Prende il posto nel bilancio del `Linear-deadline-reminder` |
 | **OTTO** | Check workspace del sabato | **Solo cloud** | Sab 08:30 Roma (`30 6 * * 6` UTC) | ✅ Attivo — `trig_01LRGJfc8rvJb3SGnMLbWqDf`, verificato via `RemoteTrigger list_runs` il 31/08: run regolari 01, 08, 15, 22, 29/08, nessun buco. Output solo via DM Slack dal 20/07 (non più su `automations/check-sabato/`, che resta ferma all'08/08 come residuo pre-migrazione: normale, non un guasto). Regola di onestà dell'08/08 invariata |
-| **Linear-deadline-reminder** | Scadenze Linear a 3 giorni → bozza Gmail + DM Slack | Cloud cron | Ogni giorno 08:00 Roma (`0 6 * * *` UTC) | ✅ Attivo — `trig_01KPMhuagKVioGPGeaEkwf4k`, ultimo run 12/08. Manda un DM esplicito se Linear non risponde, invece di tacere: è la rete di sicurezza decisa il 09/08 al posto di una routine di controllo dedicata |
+| **Linear-deadline-reminder** | Scadenze Linear a 3 giorni → bozza Gmail + DM Slack | Cloud cron | Ogni giorno 08:00 Roma (`0 6 * * *` UTC) | ⏳ **Attivo ma in dismissione dal 01/09/2026** — `trig_01KPMhuagKVioGPGeaEkwf4k`. La sua funzione (orizzonte a 3 giorni) è ora dentro ALDO v2, sezione "Entro [giorno]", incrociata con calendario ed email. **Va disattivato dopo due giorni di ALDO v2 verificato, non prima**: se v2 avesse un problema, nel frattempo l'orizzonte resta coperto. La rete di sicurezza sul fallimento del connettore Linear, decisa il 09/08, è già replicata in ALDO con lo stesso testo. La bozza Gmail che produce non va preservata, Alberto non la apre |
 | TONY | LasVegas (campagne + community) | — | — | ⏸ Bloccato: serve allineamento con Luigi + nessun connector LasVegas. Non costruire prima |
 
 ### PIERO: job schedulato e skill allineati (12/08/2026)
@@ -41,6 +44,29 @@ Il report OTTO del 29/08 (e già quello del 22/08) segnalava un'anomalia: "ALDO 
 Causa reale, trovata leggendo il prompt live della routine OTTO (`trig_01LRGJfc8rvJb3SGnMLbWqDf`, `updated_at` fermo all'08/08): il prompt aveva ancora hardcoded "ALDO: lun-ven" e "VERA: venerdì", cadenze cambiate il 12/08 (ALDO a 7 giorni su 7) e il 17/08 (VERA da brief del venerdì a lock editoriale del giovedì) — mai riportate nel prompt di OTTO. Stessa identica classe di errore delle date hardcoded corrette il 12/08 su ALDO e MARCO, stavolta dentro OTTO stesso, l'agente che dovrebbe fare da rete di controllo.
 
 Corretto il 31/08: il prompt di OTTO non hardcoda più le cadenze attese. Ora legge `automations/agents-roster.md` (già nello scope del repo cloud) a ogni run e confronta i DM trovati con la cadenza reale lì dentro, con una nota esplicita che spiega perché (per non farlo ripetere in futuro se questo file cambia ancora). Prossima verifica naturale: run di sabato 05/09.
+
+### ALDO v2 e il registro unico su Linear (01/09/2026)
+
+Implementazione di `plans/2026-09-01-sistema-task-unico-linear-assistente.md`. Il punto di partenza era che Alberto perdeva i task: Linear conteneva **cinque issue aperte a fronte di circa venticinque task reali**, e le altre venti vivevano in `04-linkedin/task-list.md` e `06-lasvegas/collaborazioni/task-list.md`, file che nessuna routine legge. Conseguenze misurate il 01/09: due contenuti scaduti da oltre due settimane, due consegne per il 02/09 che nessun promemoria avrebbe segnalato, cinque revisioni ricorrenti LasVegas inesistenti in qualsiasi sistema.
+
+**Terzo caso della stessa classe di errore, trovato leggendo il prompt live.** ALDO faceva `list_issues` su un elenco di quattro progetti scritto dentro il prompt (Italy Market, BizDev Deals, Crypto & Special, BizDev Internal). I progetti sono otto: LasVegas, ML Russo e ogni issue senza progetto erano invisibili al brief **pur essendo dentro Linear**. Tre issue su cinque non arrivavano ad Alberto. È lo stesso meccanismo delle date hardcoded corrette il 12/08 su ALDO e MARCO e delle cadenze hardcoded corrette il 31/08 su OTTO: un elenco scritto in un prompt invecchia in silenzio e nessuno se ne accorge finché non lo si rilegge.
+
+**Regola generalizzata:** un prompt non contiene mai un elenco di entità che possono cambiare (date, cadenze, progetti, fonti). Si interroga la sorgente a ogni run, oppure si legge da un file del repo.
+
+Cosa fa ALDO v2, in ordine di run:
+
+1. Legge il proprio DM del giorno prima e le risposte di Alberto nel thread del check serale, e **chiude su Linear** i task che Alberto dichiara fatti. Se un riferimento è ambiguo non chiude niente e lo segnala
+2. Calendario di oggi
+3. Email prioritarie, solo lun-ven
+4. `list_issues` **sul team**, senza filtro progetto, separando in scadute/oggi, entro 72 ore, ferme su altri
+5. Solo il lunedì: clona il repo pubblico e legge la sezione "Ricorrenze" di `06-lasvegas/collaborazioni/task-list.md`, creando le issue mancanti della settimana. Controlla prima se esistono già, così un secondo run non produce duplicati. Nessuna cadenza nel prompt
+6. Compone il DM: *Agenda oggi*, *La tua giornata* (massimo cinque azioni **ordinate**, ognuna col motivo per cui è lì, più una riga di conteggio per il resto), *Entro [giorno]*, *Email*, *Fermo su altri*
+
+La sezione "Fermo su altri" esiste perché un task bloccato da una decisione di terzi non deve stare in una sequenza di cose da fare: Alberto non può agirci, e metterlo in lista lo fa sembrare inadempiente su qualcosa che non dipende da lui.
+
+**Tutta la scrittura automatica su Linear è concentrata in ALDO.** Il check serale chiede e basta. Se scrivessero in due sullo stesso registro, un disallineamento diventerebbe impossibile da attribuire.
+
+**Pezzo fragile da sorvegliare nei primi giorni:** finora ALDO ha solo letto. Se la chiusura automatica dal thread si rivela inaffidabile, il fallback è tenere il check serale come promemoria puro e chiudere a mano con `/agenda` una volta a settimana.
 
 ### Avviso copertura italiana (13/08/2026)
 
@@ -142,6 +168,7 @@ Il set attuale copre bene: rassegna stampa (PIERO), pipeline commerciale (MARCO)
 - `piero.py` + `piero-sources.json` — **versione operativa**, schedulata in locale (07:00 e 12:40). Hardening dell'08/08: timeout di rete, download via curl, retry, log per fonte, fonti morte disattivate con la motivazione
 - `vera.py` — VERA (hardening 20/07: timeout/retry/notifica)
 - `otto.py` — OTTO (check sabato, hardening 20/07) → report in `check-sabato/`
+- `linear-convenzioni.md` — **convenzioni del registro Linear** (progetti e ID, label, formato titoli, regola sulla due date, chi scrive cosa). Letto da ALDO, dal check serale e dalla skill `/agenda`. Se una convenzione cambia si cambia qui, mai dentro un prompt
 - `post-call-cron.md` — workflow post-call
 - `logs/` — vera.log, otto.log (+ .error.log). piero.log resta come storico pre-migrazione
 - Plist launchd: `~/Library/LaunchAgents/com.albertol.piero.plist` attivo; `com.albertol.{vera,otto}.plist` scaricati e rinominati `.plist.disabled` l'08/08 (copia di sicurezza in `../archive/launchd-disattivati-2026-08/`)
@@ -158,6 +185,7 @@ Il set attuale copre bene: rassegna stampa (PIERO), pipeline commerciale (MARCO)
 | VERA | trig_011zLYAjZLmCnbYTNhcmjVvo | Attiva |
 | VERA (ID storico, non usare) | trig_01DA1gYJLFTNbqUwcG4rw1uA | Disattivata |
 | Doppione PIERO via Gmail | trig_01SDsLJnhYQcxE4p2tUGSCto | Disattivata l'08/08/2026 |
-| Linear deadline reminder (3gg) | trig_01KPMhuagKVioGPGeaEkwf4k | Attiva |
+| Linear deadline reminder (3gg) | trig_01KPMhuagKVioGPGeaEkwf4k | ⏳ Attiva, da spegnere dopo 2 giorni di ALDO v2 verificato |
+| Check serale | trig_01J3Go9PV537sbW6qanj9Gvc | Attiva dal 01/09/2026 |
 | ALB-17 Weekly Review Reminder | trig_01L2wP4nyxfp1UHhkqGrBmvg | Disattivata 02/08 |
 | LinkedIn Post Reminder 24h | trig_01WyDwxbxyNBTmET6Qc3KmtK | Disattivata 02/08 |
