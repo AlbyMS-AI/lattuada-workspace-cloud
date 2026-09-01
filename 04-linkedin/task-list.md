@@ -25,6 +25,7 @@ Prima di segnare "Pubblicato", passare il contenuto dalla checklist `content-str
 | 18/08 | Post testo | IT | Morte di Varenne — omaggio + angolo mercato (declino del verticale ippica nelle scommesse) | [x] Pubblicato — `post-2026-08-18-varenne-morte.md` — grafiche (main image Gemini, infografica NotebookLM) in produzione |
 | 21/08 | Commento sotto post Jamma | IT | Terzo touchpoint Tech Race Summit 2026 — Alberto taggato nel post Jamma su Stake/Servers.com/Pragmatic Play partner, insieme a Fabio Kas, Sergey Kastukevich, Hub88, TrueLabel, The Playa, EvenBet Gaming, BGaming | [x] Testo confermato da Alberto — pubblicazione diretta (commento, non richiede file dedicato) |
 | 22/08 | Post testo | EN | Morte di Paul Gauselmann, fondatore Merkur Group — omaggio + lettura del metodo (pazienza prima del prodotto, legittimità costruita insieme al settore) | [x] Pubblicato — `post-2026-08-22-paul-gauselmann.md` |
+| 31/08 | Post con immagine | IT | Caso "True Data" Serie A — mancanza di coordinamento tra Lega Serie A, ADM e AGCOM, angolo ACCA agganciato al precedente "spazi quote" (AGCOM 132/19/CONS) | [~] Testo confermato — `post-2026-08-31-true-data-serie-a.md`. Main image Gemini+HTML in produzione, in attesa del file in `grafiche/inbox/` |
 
 ---
 
