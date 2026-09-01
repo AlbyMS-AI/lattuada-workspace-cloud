@@ -23,7 +23,7 @@ Obiettivi LinkedIn:
 - Ogni testata giornalistica ha voce separata con logo (non accorpare sotto "freelance")
 - Keyword principale: "iGaming" — deve comparire in: headline, About, esperienze, competenze
 - Aggiungere anche "gaming" (senza "i") in punti strategici per ricerche alternative
-- URL post: costruito dai primi 3 hashtag — no hashtag = prende le prime righe. No grassetti nelle prime righe (sporcano l'URL)
+- URL contenuti: LinkedIn la costruisce da dominio + tipo contenuto (`/posts/`, `/pulse/`) + profilo + un elemento finale — hashtag se presenti, altrimenti l'incipit (post) o il titolo del documento (carosello PDF, prime 7-8 parole, prevale su tutto). Qui non si usano hashtag per scelta: l'incipit/titolo determina la URL, quindi va sempre scritto in caratteri standard, mai in Unicode stilizzato (grassetto/corsivo finto) — altrimenti la URL diventa illeggibile e il testo è invisibile alla ricerca interna di LinkedIn. Dettaglio: `content-strategy/post-linkedin/istruzioni.md`, sezione Formattazione Unicode
 - Top 5 competenze visibili: devono rispecchiare il posizionamento a colpo d'occhio
 
 ## Regole di scrittura contenuti LinkedIn
@@ -115,8 +115,7 @@ Per tipo di contenuto:
 **Post con immagine / infografica** — infografiche con testo piccolo aumentano il dwell time
 (le persone zoomano = segnale positivo per l'algoritmo)
 
-**Sondaggio** — una domanda semplice e chiara, max 4 opzioni. Usarlo anche come lead gen:
-mandarlo via DM a lista Sales Navigator prima di pubblicarlo
+**Sondaggio** — una domanda semplice e chiara, max 4 opzioni. Dal 01/09/2026 non più formato ricorrente fisso ma occasionale (priorità al carosello) — vedi `piano-editoriale-2026.md`, sezione "Modello operativo". Il DM via Sales Navigator prima della pubblicazione non è opzionale: i due sondaggi EN pubblicati senza (03/08, 31/08/2026) sono rimasti sotto i 3 voti
 
 **Newsletter LinkedIn** — il contenuto pivot: tutto converge qui. Ogni post può rimandare
 alla newsletter come CTA. Ogni nuovo collegamento target riceve l'invito automaticamente.
@@ -124,7 +123,7 @@ Benchmark: ~20% della rete si iscrive al primo invio (segnale di interesse reale
 Titolo newsletter: descrittivo > creativo — deve contenere keyword e chiarire il target.
 Istruzioni complete (setup, SEO, crescita, Sales Navigator): `content-strategy/newsletter-linkedin/istruzioni.md`
 
-**PDF / carosello** — guide step-by-step, sintesi visive di articoli già pubblicati
+**PDF / carosello** — guide step-by-step, sintesi visive di articoli già pubblicati. Il titolo del documento determina la URL del post (prevale su incipit e hashtag) e, se il PDF ha testo selezionabile (non screenshot), tutto il contenuto interno viene indicizzato da Google/Bing — non solo la copertina. Dettaglio: `content-strategy/caroselli/istruzioni.md`
 
 **Video** — introdotto l'11/07/2026 su indicazione best practice LinkedIn ("diversifica formati"). Verticale 9:16, 30-90 secondi, hook nei primi 3 secondi, sottotitoli sempre integrati. Primo test in Blocco 5 (02/09) — sostituisce uno slot esistente, non aggiunge volume. Cadenza fissa solo se il test funziona.
 
