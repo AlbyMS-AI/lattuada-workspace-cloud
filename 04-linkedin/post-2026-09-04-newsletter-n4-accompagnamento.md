@@ -9,4 +9,4 @@ Nella nuova edizione di The Betting Edge spiego perché il prezzo che negozi all
 La trovi al link, primo commento.
 
 ---
-NOTA: sostituire "al link, primo commento" con il link reale della newsletter una volta pubblicata/schedulata su LinkedIn nativo (stessa convenzione di N3, segnaposto già aperto su ALB-90 per Jamma/Bottadiculo).
+SUPERATO (03/09/2026): questo testo non si pubblica. Deciso da Alberto che il post EN "3 costi nascosti" (`post-2026-09-04-hidden-costs-integration.md`, ALB-100) fa da unico accompagnamento a N4 — chiude già rimandando alla newsletter ("in this week's edition of The Betting Edge, in Italian"). Il 04/09 ha quindi due contenuti, non tre: Newsletter N4 IT + post EN. File tenuto per riferimento, non cancellato.
