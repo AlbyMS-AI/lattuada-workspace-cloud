@@ -1,4 +1,4 @@
-# Il colosso Lottomatica-CIRSA nasce oggi. La sua rete fisica italiana chiuderà come quella di Paddy Power, solo più tardi
+# Lottomatica-CIRSA: il conto della rete fisica italiana che nessuno ha ancora fatto
 
 Il 2 settembre Lottomatica e CIRSA hanno firmato una fusione all-share da 2,8 miliardi di euro. CIRSA si scioglie, trasferisce tutti gli asset a Lottomatica, che resta la società quotata e assorbe l'intera valutazione a sei volte l'EBITDA 2026 atteso. Il cambio è 0,668 azioni Lottomatica per ogni azione CIRSA: i soci storici di Lottomatica restano al 67,5%, quelli di CIRSA al 32,5%, e tra questi ultimi Blackstone, che controlla CIRSA attraverso la holding LHMC Midco, diventa il primo socio singolo del gruppo combinato con circa il 24% e due poltrone nel nuovo board. Nasce così il secondo operatore quotato al mondo nel gaming e nel betting dopo Flutter, con un EBITDA pro forma di circa 2 miliardi di euro e sinergie promesse per 115 milioni l'anno, da centrare entro il terzo esercizio pieno dopo il closing atteso nel secondo trimestre 2027.
 
@@ -30,4 +30,4 @@ Quando quella leva si muoverà di un altro punto percentuale, la domanda che ogg
 
 Flutter ha scoperto il proprio punto di rottura solo dopo che la Remote Gaming Duty lo ha reso visibile. Lottomatica ha un vantaggio che Flutter non aveva: sa già, oggi, quale leva fiscale italiana può produrre lo stesso effetto, perché l'ha già vista muoversi negli ultimi due anni.
 
-La domanda operativa riguarda il quando, non il se: prima di dover onorare i 115 milioni di sinergie promesse ai nuovi azionisti, il board metterà per iscritto cosa succede alla rete fisica italiana quando i due interessi, oggi allineati, smetteranno di esserlo? Aspettare che la domanda arrivi da un aumento del PREU significa scoprirlo con lo stesso preavviso con cui Flutter ha scoperto Paddy Power: nessuno.
+La domanda operativa riguarda il quando, non il se: prima di dover onorare i 115 milioni di sinergie promesse ai nuovi azionisti, vale la pena mettere per iscritto cosa succede alla rete fisica italiana quando i due interessi, oggi allineati, smetteranno di esserlo. Il vantaggio che Lottomatica ha e che Flutter non aveva è proprio questo: può rispondere alla domanda prima che sia una leva fiscale a porla al posto suo.
