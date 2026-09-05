@@ -1,6 +1,13 @@
 # Workflow Grafiche — Newsletter Bottadiculo.it
 # 1 main image + 2 infografiche interne
 
+**Palette (corretta il 05/09/2026):** quella reale di Bottadiculo.it, estratta dal sito live
+il 13/07/2026 e documentata in `../../04-linkedin/palette-brand.md` — non la palette navy
+personale di Alberto. Sfondo indigo `#1C0F3A`, accento unico arancio `#F9511F`, secondario
+viola `#6330C7`, testo bianco `#FFFFFF`. Le query sotto sono state aggiornate di conseguenza;
+prima erano rimaste sulla palette blu (`#0D1B2A`/`#1B4F8A`) usata per errore nel primo
+tentativo del 13/07.
+
 ---
 
 ## 3 output per ogni edizione
@@ -31,9 +38,9 @@ Formato: 1200x630px
 
 Query:
 Crea una grafica tipografica editoriale per newsletter iGaming italiana.
-Sfondo pieno #0D1B2A (navy scuro).
-Testo principale #F0F8FF (quasi bianco).
-Accento #1B4F8A (blu istituzionale) per evidenziare una parola o elemento.
+Sfondo pieno #1C0F3A (indigo scuro).
+Testo principale #FFFFFF (bianco).
+Accento #F9511F (arancio, accento unico) per evidenziare una parola o elemento.
 
 Testo da mostrare (nessun testo aggiunto oltre a questo):
 [FRASE 1 — max 6 parole]
@@ -66,7 +73,7 @@ Formato: 1080x1350px (4:5)
 
 Query:
 Crea un'infografica editoriale per LinkedIn, stile iGaming professionale italiano.
-Sfondo #0D1B2A, testo #F0F8FF, accento #1B4F8A, secondario #7DC8E0.
+Sfondo #1C0F3A, testo #FFFFFF, accento #F9511F, secondario #6330C7.
 Nessuna illustrazione. Solo tipografia e blocchi colore.
 
 Tipo: [quote card / stat card — scegli uno]
@@ -131,7 +138,7 @@ Cosa NON includere:
 Layout: [verticale a lista / due colonne / centrato]
 
 Palette:
-Sfondo: #0D1B2A — Testo: #F0F8FF — Accento: #1B4F8A — Secondario: #7DC8E0
+Sfondo: #1C0F3A — Testo: #FFFFFF — Accento: #F9511F — Secondario: #6330C7
 
 Formato: 4:5 (1080x1350px)
 
@@ -159,7 +166,7 @@ Cosa NON includere:
 Nessuna spiegazione aggiuntiva per ogni punto, nessuna icona decorativa, nessun logo ADM
 
 Layout: verticale a lista, checkbox o numeri come marker
-Palette: sfondo #0D1B2A, testo #F0F8FF, accento checklist #1B4F8A
+Palette: sfondo #1C0F3A, testo #FFFFFF, accento checklist #F9511F
 Formato: 4:5
 ```
 
@@ -186,8 +193,8 @@ COLONNA DESTRA — "Governance confermata"
 Cosa NON includere:
 Nessuna freccia animata, nessuna icona, nessun logo, nessuna data
 
-Layout: due colonne simmetriche, separatore verticale in #7DC8E0
-Palette: sfondo #0D1B2A, colonna sinistra accento #1B4F8A, testo #F0F8FF
+Layout: due colonne simmetriche, separatore verticale in #6330C7
+Palette: sfondo #1C0F3A, colonna sinistra accento #F9511F, testo #FFFFFF
 Formato: 4:5
 ```
 
