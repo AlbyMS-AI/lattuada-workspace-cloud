@@ -109,15 +109,20 @@ Formato: 4:5 (1080x1350px)
 
 ## Export e salvataggio
 
-| File | Nome | Dove |
-|---|---|---|
-| Immagine Gemini grezza (utente) | `lottomatica-cirsa-rete-fisica-brand.png` | `04-linkedin/grafiche/inbox/` |
-| Main image composta (Claude, dopo) | `2026-09-07-lottomatica-cirsa-cover.png` | `04-linkedin/grafiche/` |
-| Infografica 1 (NotebookLM, utente) | `2026-09-07-lottomatica-cirsa-infografica-1.png` | `04-linkedin/grafiche/inbox/` poi spostata |
-| Infografica 2 (NotebookLM, utente) | `2026-09-07-lottomatica-cirsa-infografica-2.png` | `04-linkedin/grafiche/inbox/` poi spostata |
+| File | Nome | Dove | Stato |
+|---|---|---|---|
+| Immagine Gemini grezza (utente) | `lottomatica-cirsa-rete-fisica-brand.png` | `04-linkedin/grafiche/inbox/` | fatto (05/09) |
+| Main image composta (Claude) | `2026-09-07-lottomatica-cirsa-cover.png` | `04-linkedin/grafiche/` | **definitiva, approvata da Alberto (05/09)** |
+| Infografica 1 (NotebookLM, utente) | `2026-09-07-lottomatica-cirsa-infografica-1.png` | `04-linkedin/grafiche/inbox/` poi spostata | da fare |
+| Infografica 2 (NotebookLM, utente) | `2026-09-07-lottomatica-cirsa-infografica-2.png` | `04-linkedin/grafiche/inbox/` poi spostata | da fare |
+
+Sorgente HTML della main image: `04-linkedin/grafiche/src/2026-09-07-lottomatica-cirsa-cover.html`
+(kicker + headline in alto su sfondo pieno, illustrazione intera visibile sotto compreso il
+tassello arancio che si stacca, byline in basso — nessuno scrim sopra l'illustrazione, evita
+la sovrapposizione testo/immagine del primo tentativo).
 
 Alt text per tutte e tre: schema [soggetto] + [dato/contesto] + [2026], vedi il file
 `...-newsletter-linkedin-seo.md`.
 
-**Prossimo passo:** genera l'immagine Gemini per la main image e falla arrivare (inbox o
-qui in chat), poi scrivo l'HTML e lancio `render.sh` per il file finale.
+**Prossimo passo:** genera le due infografiche su NotebookLM con i brief sopra e falle
+arrivare, poi le sposto/rinomino secondo la tabella.
