@@ -43,4 +43,4 @@ newsletter del lunedì non saltano mai per fare spazio ai pezzi mer/ven.
 
 ## Storico
 
-Nessuna voce ancora — il ciclo mer/ven parte il 09/09/2026 (prima settimana a regime).
+- **07/09/2026** — Prima applicazione delle ricorrenze via `/agenda`. Creata `ALB-114` (Articolo Jamma, pubb. 09/09), `ALB-115` (Articolo Jamma, pubb. 11/09), `ALB-116` (Post Bottadiculo, pubb. 09/09), `ALB-117` (Post Bottadiculo, pubb. 11/09), `ALB-118` (Newsletter Jamma, pubb. 14/09), `ALB-119` (Newsletter Bottadiculo, pubb. 14/09). Chiusa `ALB-110` (lock 03/09 per la newsletter del 07/09, già pubblicata) — risolve anche la nota lasciata aperta su quella issue il 02/09 ("popolare il progetto Giornalismo con le newsletter ricorrenti è una decisione ancora aperta").
