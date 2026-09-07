@@ -1,8 +1,8 @@
 # Banca temi — Gioco & Business (Jamma)
 
 **Creata:** 17 agosto 2026
-**Regola:** almeno due schede pronte in ogni momento, tre è il target. Si controlla al lock del giovedì, **prima** di guardare la rassegna PIERO, per scartare le schede scadute.
-**Piano di riferimento:** `piano-newsletter-linkedin-2026.md`
+**Regola:** almeno due schede pronte in ogni momento, quattro è il target (alzato da tre il 07/09/2026). Si controlla al lock del giovedì, **prima** di guardare la rassegna PIERO, per scartare le schede scadute.
+**Piano di riferimento:** `piano-newsletter-linkedin-2026.md`. Dal 07/09/2026 questa banca è anche la riserva del ciclo mer/ven (`piano-approfondimenti-2026.md`): la fonte primaria di quel ciclo resta PIERO, la banca entra in gioco solo quando la rassegna del giorno non produce un tema utilizzabile.
 
 **Cosa entra qui:** analisi strutturali che non dipendono da un evento in corso. Confronti tra mercati regolamentati, letture di report di settore, meccanismi normativi che valgono anche fra sei settimane.
 

@@ -4,9 +4,14 @@
 **Palette (corretta il 05/09/2026):** quella reale di Bottadiculo.it, estratta dal sito live
 il 13/07/2026 e documentata in `../../04-linkedin/palette-brand.md` — non la palette navy
 personale di Alberto. Sfondo indigo `#1C0F3A`, accento unico arancio `#F9511F`, secondario
-viola `#6330C7`, testo bianco `#FFFFFF`. Le query sotto sono state aggiornate di conseguenza;
-prima erano rimaste sulla palette blu (`#0D1B2A`/`#1B4F8A`) usata per errore nel primo
-tentativo del 13/07.
+viola `#6330C7`, testo bianco `#FFFFFF`.
+
+**Main image standardizzata il 06/09/2026** (vedi sezione dedicata sotto): niente più
+Canva/Gemini per-edizione. Motivo: un'illustrazione diversa ogni settimana non comunica il
+tema specifico senza testo (provato con l'edizione #80, Lottomatica-CIRSA) e aggiunge un
+giro manuale (Gemini → inbox → composizione) a ogni uscita. Un formato fisso rende Gambling
+Insights riconoscibile a colpo d'occhio nel feed, sullo stesso modello di "The Betting Edge"
+(newsletter personale di Alberto): cambia solo il testo, l'identità visiva resta.
 
 ---
 
@@ -14,88 +19,49 @@ tentativo del 13/07.
 
 | Output | Formato | Strumento | Chi lo fa |
 |---|---|---|---|
-| Main image | 1200×630px (16:9) | Canva | Claude |
-| Infografica 1 | 1080×1350px (4:5) | Canva | Claude |
+| Main image | 1280×720px (16:9) | Template HTML fisso | Claude |
+| Infografica 1 | 1080×1350px (4:5) | NotebookLM | Utente |
 | Infografica 2 | 1080×1350px (4:5) | NotebookLM | Utente |
 
 **Logica di assegnazione strumento:**
-- Canva (Claude): grafiche tipografiche, visive, minimal testo — quote card, hook card, stat card
-- NotebookLM (utente): grafiche strutturate con testo abbondante — checklist, profile card, before/after
+- Template HTML (Claude): main image, sempre lo stesso layout, solo il testo cambia — vedi sotto
+- NotebookLM (utente): grafiche strutturate con testo — checklist, profile card, before/after, stat card
 
 ---
 
-## MAIN IMAGE — Canva via Claude
+## MAIN IMAGE — template fisso (Claude, no tool esterni)
 
-### Quando usarla
-Sempre la stessa logica: hook tipografico — le 2-3 frasi più forti dell'apertura della newsletter.
-La main image deve funzionare senza contesto: chi la vede nel feed capisce il punto anche senza aver letto nulla.
-
-### Formato query Canva
+### Come si usa
+Sorgente: `../../../04-linkedin/grafiche/src/templates/gambling-insights-cover-template.html`.
+Per ogni edizione: copiarlo in `../../../04-linkedin/grafiche/src/[data]-[slug]-cover.html`,
+compilare solo tre campi nella sezione `.box` (kicker `#N · data`, h1, sub — una frase che
+riprende l'angolo, non riassume la newsletter), poi:
 
 ```
-Design type: infographic
-Formato: 1200x630px
-
-Query:
-Crea una grafica tipografica editoriale per newsletter iGaming italiana.
-Sfondo pieno #1C0F3A (indigo scuro).
-Testo principale #FFFFFF (bianco).
-Accento #F9511F (arancio, accento unico) per evidenziare una parola o elemento.
-
-Testo da mostrare (nessun testo aggiunto oltre a questo):
-[FRASE 1 — max 6 parole]
-[FRASE 2 — max 6 parole]
-[FRASE 3 — max 6 parole, opzionale]
-Label in basso a destra, piccolo: "Bottadiculo.it"
-
-Layout: tipografico, frasi impilate verticalmente al centro.
-Nessuna illustrazione, nessuna icona, nessuna foto.
-Solo tipografia bold su sfondo scuro.
-Font sans-serif moderno, peso black o extrabold per le frasi principali.
+cd 04-linkedin/grafiche
+./render.sh png src/[data]-[slug]-cover.html [data]-[slug]-cover.png 1280x720
 ```
 
-### Fallback se Canva non produce risultati soddisfacenti
-Usare Gemini con la stessa query + specificare "flat design, no illustrations, typography only".
+Il pannello sinistro (identità fissa: tassello arancio spezzato su sfondo indigo, wordmark
+"Bottadiculo.it") non si tocca mai — è lui a rendere riconoscibile l'edizione nel feed, non
+un'illustrazione nuova ogni volta. Palette e struttura: vedi commento in testa al file
+template.
+
+### Perché non più Canva/Gemini per-edizione
+Archiviato il 06/09/2026 dopo il tentativo sull'edizione #80: il formato 1200×630 dell'iterazione
+precedente non era quello corretto per la newsletter LinkedIn (serve 16:9 in 1280×720, non
+630px di altezza), e un'illustrazione Gemini su misura per il fatto della settimana rischiava
+di non comunicare il tema senza leggere il testo. Il template fisso risolve entrambi i problemi.
 
 ---
 
-## INFOGRAFICA 1 — Canva via Claude
+## INFOGRAFICHE 1 e 2 — NotebookLM (utente)
 
-### Quando usarla
-Per il momento visivo più sintetico della newsletter: una frase-perno isolata oppure un dato chiave.
-Tipicamente la sezione con la frase più condivisibile.
-
-### Formato query Canva
-
-```
-Design type: infographic
-Formato: 1080x1350px (4:5)
-
-Query:
-Crea un'infografica editoriale per LinkedIn, stile iGaming professionale italiano.
-Sfondo #1C0F3A, testo #FFFFFF, accento #F9511F, secondario #6330C7.
-Nessuna illustrazione. Solo tipografia e blocchi colore.
-
-Tipo: [quote card / stat card — scegli uno]
-
-SE quote card:
-Frase grande al centro tra virgolette tipografiche:
-"[FRASE CHIAVE — max 12 parole]"
-Sotto, piccolo: "Gambling Insights #[N] | Bottadiculo.it"
-
-SE stat card:
-Numero grande al centro: [NUMERO + UNITÀ]
-Una riga sopra, piccola: [CONTESTO DEL DATO — max 5 parole]
-Una riga sotto, piccola: [FONTE — max 5 parole]
-```
-
----
-
-## INFOGRAFICA 2 — NotebookLM (utente)
-
-### Quando usarla
-Per la sezione più strutturata della newsletter: checklist, profilo in punti, before/after.
-NotebookLM gestisce meglio i layout con testo multiplo e gerarchie visive.
+### Quando usarle
+Infografica 1: il momento visivo più sintetico della newsletter — una frase-perno isolata
+(quote card) oppure un dato chiave (stat card), tipicamente la sezione più condivisibile.
+Infografica 2: la sezione più strutturata — checklist, profilo in punti, before/after.
+NotebookLM gestisce entrambi i casi, testo minimo o abbondante che sia.
 
 ### Fonte da caricare in NotebookLM
 
@@ -200,26 +166,13 @@ Formato: 4:5
 
 ---
 
-## Processo Canva passo per passo (quando Claude genera)
-
-1. Claude lancia `generate-design` con la query compilata
-2. Canva restituisce 3-4 design candidate
-3. Utente sceglie il candidate preferito
-4. Claude lancia `create-design-from-candidate` con l'ID scelto
-5. Claude lancia `export-design` → PNG
-6. URL di download condiviso con l'utente
-
-Nota: i design Canva sono editabili dopo la generazione. Se colori o testo non sono esatti, si corregge nell'editor prima dell'export.
-
----
-
 ## Export e salvataggio
 
 | File | Nome | Dove |
 |---|---|---|
-| Main image | `[data]-cover.png` | `bottadiculo/grafiche/[data]-[slug]/` |
-| Infografica 1 (Canva) | `[data]-infografica-1.png` | `bottadiculo/grafiche/[data]-[slug]/` |
-| Infografica 2 (NotebookLM) | `[data]-infografica-2.png` | `bottadiculo/grafiche/[data]-[slug]/` |
+| Main image (template HTML, Claude) | `[data]-[slug]-cover.png` | `04-linkedin/grafiche/` |
+| Infografica 1 (NotebookLM, utente) | `[data]-infografica-1.png` | `04-linkedin/grafiche/inbox/` poi spostata |
+| Infografica 2 (NotebookLM, utente) | `[data]-infografica-2.png` | `04-linkedin/grafiche/inbox/` poi spostata |
 | Brief grafiche | `[data]-[slug]-grafiche.md` | `bottadiculo/drafts/` |
 
 ---

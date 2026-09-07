@@ -40,6 +40,14 @@ presente:** Bottadiculo ora pesca per ultimo dal bacino più stretto, mentre ha 
 più scarso, cioè il fatto operativo italiano. La banca temi passa da rete di riserva a componente
 strutturale del piano: se si svuota, il piano si ferma qui prima che altrove.
 
+**Regola aggiunta il 07/09/2026, di default:** il tema della newsletter è sempre diverso da
+quello già trattato in un post mer/ven di Bottadiculo nella stessa settimana (`piano-post-linkedin-2026.md`).
+Al lock del giovedì, prima di applicare i tre filtri sotto, controllo dei due post già usciti
+quella settimana (mercoledì, e venerdì se già pubblicato) su `../articoli-pubblicati.md`. Un
+tema già coperto lì non entra in newsletter, anche se resta il fatto più forte della settimana:
+si passa al candidato successivo o alla banca. Vale anche in senso inverso, già previsto nel
+piano post mer/ven.
+
 ### Passo 1 — Il fatto della settimana regge tre letture?
 
 Ogni giovedì si applica una sola domanda al fatto più forte della rassegna PIERO. Regge tre letture
@@ -227,6 +235,7 @@ Al checkpoint del 12/10 si confrontano i numeri di Gambling Insights con quelli 
 ## Cosa questa newsletter non fa
 
 - Non tratta il tema di Jamma della stessa settimana, in nessuna forma
+- Non tratta un tema già coperto in un post mer/ven di Bottadiculo della stessa settimana (regola del 07/09/2026)
 - Non parla al C-level: se l'implicazione è una decisione da board, il tema era di Jamma
 - Non riassume la settimana: è un tema solo, sviluppato
 - Non salta le due rubriche fisse

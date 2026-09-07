@@ -38,6 +38,14 @@ venerdì bisettimanale.
 
 Sostituisce la regola del 16/08 in cui Bottadiculo sceglieva per primo.
 
+**Regola aggiunta il 07/09/2026, di default:** il tema della newsletter è sempre diverso da
+quello già trattato in un articolo mer/ven di Jamma nella stessa settimana
+(`piano-approfondimenti-2026.md`). Al lock del giovedì, prima di applicare il passo 1 sotto,
+controllo dei pezzi già usciti quella settimana (mercoledì, e venerdì se già pubblicato) su
+`../articoli-pubblicati.md`. Un tema già coperto lì non entra in newsletter, anche se resta il
+fatto più forte della settimana: si passa al candidato successivo o alla banca. Vale anche in
+senso inverso, già previsto nel piano approfondimenti mer/ven.
+
 ### Passo 1 — Il fatto della settimana regge tre letture?
 
 Ogni giovedì si applica una sola domanda al fatto più forte della rassegna PIERO. Regge tre letture
@@ -235,6 +243,7 @@ Al checkpoint del 12/10 si confrontano i numeri di Gioco & Business con quelli d
 ## Cosa questa newsletter non fa
 
 - Non tratta il tema di Bottadiculo della stessa settimana, in nessuna forma
+- Non tratta un tema già coperto in un articolo mer/ven di Jamma della stessa settimana (regola del 07/09/2026)
 - Non scende sull'operativo quotidiano: se l'implicazione è "cosa faccio domani mattina", il tema era di Bottadiculo
 - Non pubblica un fatto internazionale senza nesso ADM o mercato italiano
 - Non salta le due rubriche fisse

@@ -1,15 +1,20 @@
 # Banca temi — Gambling Insights (Bottadiculo)
 
 **Creata:** 17 agosto 2026
-**Regola:** almeno due schede pronte in ogni momento, tre è il target. Si controlla al lock del giovedì, **prima** di guardare la rassegna PIERO, per scartare le schede scadute.
+**Regola:** almeno due schede pronte in ogni momento, cinque è il target (alzato da quattro il 07/09/2026). Si controlla al lock del giovedì, **prima** di guardare la rassegna PIERO, per scartare le schede scadute.
 **Piano di riferimento:** `piano-newsletter-linkedin-2026.md`
 
 **Cosa entra qui:** temi che passano i filtri di azionabilità e prossimità italiana ma non quello dell'orizzonte a trenta giorni. Operativi e italiani, ma non urgenti, quindi reggono l'attesa.
 
-> ⚠️ **Dal 17/08/2026 questa banca è strutturale, non di riserva.** La gerarchia di priorità è
-> LinkedIn personale, poi Jamma, poi Bottadiculo: Bottadiculo pesca per ultimo dal bacino più
-> stretto pur avendo bisogno del materiale più scarso, il fatto operativo italiano. Se la banca si
-> svuota, il piano si ferma qui prima che altrove. **Target alzato a quattro schede**, non tre.
+> ⚠️ **Dal 17/08/2026 questa banca è strutturale, non di riserva, per la newsletter.** La
+> gerarchia di priorità è LinkedIn personale, poi Jamma, poi Bottadiculo: Bottadiculo pesca per
+> ultimo dal bacino più stretto pur avendo bisogno del materiale più scarso, il fatto operativo
+> italiano. Se la banca si svuota, il piano si ferma qui prima che altrove.
+>
+> **Target alzato a cinque schede il 07/09/2026** (era quattro): dal 07/09 questa banca è anche
+> la riserva del ciclo mer/ven (`piano-post-linkedin-2026.md`), che per i due post settimanali ha
+> come fonte primaria PIERO, non la banca — la banca entra in gioco solo quando la rassegna del
+> giorno non produce un tema utilizzabile.
 
 **Cosa non entra:** commenti su fatti in evoluzione, temi che dipendono da una decisione attesa, temi presi in prestito dal bacino Jamma.
 
