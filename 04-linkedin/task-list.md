@@ -38,6 +38,7 @@ Non si schedulano più DM Slack singoli per le scadenze puntuali: era la regola 
 | 22/08 | Post testo | EN | Morte di Paul Gauselmann, fondatore Merkur Group — omaggio + lettura del metodo (pazienza prima del prodotto, legittimità costruita insieme al settore) | [x] Pubblicato — `post-2026-08-22-paul-gauselmann.md` |
 | 31/08 | Post con immagine | IT | Caso "True Data" Serie A — mancanza di coordinamento tra Lega Serie A, ADM e AGCOM, angolo ACCA agganciato al precedente "spazi quote" (AGCOM 132/19/CONS) | [~] Testo confermato — `post-2026-08-31-true-data-serie-a.md`. Main image Gemini+HTML in produzione, in attesa del file in `grafiche/inbox/` |
 | 02/09 | Post testo | IT | Fusione Lottomatica-CIRSA — newsjacking, angolo mercato aggregator/provider IT (non solo lettura finanziaria del deal) | [x] **Pubblicato il 02/09** (confermato da Alberto il 03/09) — `post-2026-09-02-lottomatica-cirsa-merger.md`. Nessuna grafica. Ripreso in LinkedIn Notizie il 03/09 |
+| 08/09 | Post testo | IT | Inter senza sponsor sulla maglia contro il Real Madrid (Champions) — newsjacking, angolo: il decreto dignità è più severo della norma spagnola, non il contrario come raccontato dalla stampa | [x] **Pubblicato l'08/09** (confermato da Alberto) — `post-2026-09-08-inter-decreto-dignita.md`. Nessuna grafica |
 
 ---
 
@@ -134,23 +135,21 @@ Resta aperto, non bloccante: dettaglio salvataggi/visite profilo non ancora pull
 
 ---
 
-## Settembre/ottobre — provvisorio, in attesa del checkpoint analytics (14/09 – 02/10)
+## Settembre/ottobre — confermato a 2 post/settimana (14/09 – 02/10)
 
-**Non ancora confermato a pieno regime.** Blocco 5 e Blocco 6 sono disegnati a 3 post/settimana ma restano condizionati all'esito del checkpoint sopra — che ora precede entrambi i blocchi con più margine, essendo slittati 2 settimane il 14/07. Se il checkpoint non lo conferma, mercoledì 16/09, 23/09 e 30/09 saltano come negli altri blocchi ridotti.
+**Confermato dal checkpoint analytics (chiuso 30/08):** Blocco 5 e Blocco 6 restano a 2 post/settimana come i blocchi precedenti — nessun segnale nei dati che giustifichi tornare a 3/settimana. Mercoledì 16/09, 23/09 e 30/09 saltano, spostati in backlog grafiche sotto (stesso trattamento dei mercoledì saltati nei blocchi precedenti). Aggiornato 08/09/2026: la tabella era rimasta ferma alla versione "provvisoria" nonostante la decisione del 30/08 — corretto in fase di verifica task Linear.
 
 | Pubblica | Giorno | Formato | Lingua | Contenuto | Grafica | Creare entro | Stato |
 |---|---|---|---|---|---|---|---|
-| ~~31/08~~ → **14/09** | ~~Lun~~ Lun | Post testo | IT | Esports betting +91% e gli operatori ADM non ci sono | No | 10/09 (Gio) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
-| ~~02/09~~ → **16/09** | ~~Mer~~ Mer | Grafica | IT | Confronto esports globale vs mercato ADM — **primo test video 9:16** (sostituisce lo slot, non aggiunge volume) | Sì — video o infografica | 14/09 (Lun) | [ ] Da sviluppare — provvisorio, slittato 2 settimane (14/07) |
-| ~~04/09~~ → **18/09** | ~~Ven~~ Ven | Carosello | IT | Come integrare esports in un'offerta già strutturata (Atto 3) | Sì — carosello PDF (workflow Canva/NotebookLM) | 16/09 (Mer) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
-| ~~04/09~~ → **18/09** | ~~Ven~~ Ven | **Newsletter N5 — The Betting Edge** | IT | Esports betting: il giocatore non è un bettor tradizionale (rinumerata da N4 il 13/07) | No (testo + immagini inline con tag alt) | 16/09 (Mer) | [ ] Da sviluppare — newsletter non condizionata dal checkpoint, slittata 2 settimane (14/07) |
-| ~~07/09~~ → **21/09** | ~~Lun~~ Lun | Sondaggio | EN | Criterio che pesa di più nell'espansione multi-mercato | No | 17/09 (Gio) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
-| ~~09/09~~ → **23/09** | ~~Mer~~ Mer | Carosello | EN | Come si valuta un game aggregator per più mercati insieme | Sì — carosello PDF (workflow Canva/NotebookLM) | 21/09 (Lun) | [ ] Da sviluppare — provvisorio, slittato 2 settimane (14/07) |
-| ~~11/09~~ → **25/09** | ~~Ven~~ Ven | Post testo | EN | Un aggregatore che funziona in un mercato non basta per il prossimo (Atto 2) | No | 23/09 (Mer) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
-| ~~14/09~~ → **28/09** | ~~Lun~~ Lun | Post testo | EN | Dopo la firma in un nuovo mercato, il vero lavoro comincia (Atto 3) | No | 24/09 (Gio) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
-| ~~16/09~~ → **30/09** | ~~Mer~~ Mer | Grafica | EN | Infografica di chiusura: il ciclo terreno-scelta-dopo la firma su 5 mercati EU | Sì — infografica (workflow Canva/NotebookLM) | 28/09 (Lun) | [ ] Da sviluppare — provvisorio, slittato 2 settimane (14/07) |
-| ~~18/09~~ → **02/10** | ~~Ven~~ Ven | Carosello | EN | 5 mercati, 1 ciclo: cosa resta uguale e cosa cambia (chiusura Atto 1/2/3) | Sì — carosello PDF (workflow Canva/NotebookLM) | 30/09 (Mer) | [ ] Da sviluppare — slittato 2 settimane (14/07) |
-| ~~18/09~~ → **02/10** | ~~Ven~~ Ven | **Newsletter N6 — The Betting Edge** | IT | Mercati regolamentati Europa (IT/DE/BE/CZ/IE) a confronto — chiusura ciclo (rinumerata da N5 il 13/07) | No | 30/09 (Mer) | [ ] Da sviluppare — newsletter non condizionata dal checkpoint, slittata 2 settimane (14/07) |
+| ~~31/08~~ → **14/09** | ~~Lun~~ Lun | Post testo | IT | Esports betting +91% e gli operatori ADM non ci sono | No | 10/09 (Gio) | [ ] **ALB-122** — da sviluppare, slittato 2 settimane (14/07) |
+| ~~04/09~~ → **18/09** | ~~Ven~~ Ven | Carosello | IT | Come integrare esports in un'offerta già strutturata (Atto 3) | Sì — carosello PDF (workflow Canva/NotebookLM) | 16/09 (Mer) | [ ] **ALB-123** — da sviluppare, slittato 2 settimane (14/07) |
+| ~~04/09~~ → **18/09** | ~~Ven~~ Ven | **Newsletter N6 — The Betting Edge** | IT | Esports betting: il giocatore non è un bettor tradizionale (rinumerata da N4 il 13/07, poi N5→N6 il 01/09 per la cadenza settimanale — corretto qui l'08/09, era rimasta a "N5") | No (testo + immagini inline con tag alt) | 16/09 (Mer) | [ ] **ALB-124** — da sviluppare, newsletter non condizionata dal ritmo dei post, slittata 2 settimane (14/07) |
+| ~~07/09~~ → **21/09** | ~~Lun~~ Lun | Post testo (era Sondaggio, cambiato nel piano il 01/09 — corretto qui l'08/09) | EN | Criterio che pesa di più nell'espansione in un nuovo mercato regolamentato (normativa locale / partner tecnologico già presente / tempo di certificazione / costo di ingresso) | No | 17/09 (Gio) | [ ] **ALB-125** — da sviluppare, slittato 2 settimane (14/07). Cambiato da sondaggio a post: nessun motore outbound attivo dietro, i due sondaggi EN senza DM di supporto (03/08, 31/08) sono rimasti sotto i 3 voti |
+| ~~11/09~~ → **25/09** | ~~Ven~~ Ven | Post testo | EN | Un aggregatore che funziona in un mercato non basta per il prossimo (Atto 2) | No | 23/09 (Mer) | [ ] **ALB-126** — da sviluppare, slittato 2 settimane (14/07) |
+| **25/09** (nuova, 01/09/2026 — mancante qui, aggiunta l'08/09) | Ven | **Newsletter N7 — The Betting Edge** | IT | Scegliere un game aggregator per più mercati regolamentati: perché la scelta cambia da IT a DE a BE | No | 23/09 (Mer) | [ ] **ALB-127** — da sviluppare, prima edizione settimanale in coppia col post dello stesso giorno |
+| ~~14/09~~ → **28/09** | ~~Lun~~ Lun | Post testo | EN | Dopo la firma in un nuovo mercato, il vero lavoro comincia (Atto 3) | No | 24/09 (Gio) | [ ] **ALB-128** — da sviluppare, slittato 2 settimane (14/07) |
+| ~~18/09~~ → **02/10** | ~~Ven~~ Ven | Carosello | EN | 5 mercati, 1 ciclo: cosa resta uguale e cosa cambia (chiusura Atto 1/2/3) | Sì — carosello PDF (workflow Canva/NotebookLM) | 30/09 (Mer) | [ ] **ALB-129** — da sviluppare, slittato 2 settimane (14/07) |
+| ~~18/09~~ → **02/10** | ~~Ven~~ Ven | **Newsletter N8 — The Betting Edge** | IT | Mercati regolamentati Europa (IT/DE/BE/CZ/IE) a confronto — chiusura ciclo (rinumerata da N5 il 13/07, poi N6→N8 il 01/09 per la cadenza settimanale — corretto qui l'08/09, era rimasta a "N6") | No | 30/09 (Mer) | [ ] **ALB-130** — da sviluppare, newsletter non condizionata dal ritmo dei post, slittata 2 settimane (14/07) |
 
 ---
 
@@ -167,6 +166,9 @@ Non si perdono: si producono con la pipeline workspace quando si libera uno slot
 | 26/08 (Mer, saltato — era 12/08) | Chi tiene quota nel gioco fisico italiano (IT) | [ ] In backlog |
 | 02/09 (Mer, saltato — era 19/08 — Blocco 4) | Costo totale di ownership: 3 integrazioni vs 1 (EN) | [ ] In backlog — nuovo, da estensione ritmo ridotto decisa 13/07 |
 | 09/09 (Mer, saltato — era 26/08 — Blocco 4) | Mappa requisiti certificazione provider EU (EN) | [ ] In backlog — nuovo, da estensione ritmo ridotto decisa 13/07 |
+| 16/09 (Mer, saltato — Blocco 5) | Confronto esports globale vs mercato ADM — **primo test video 9:16** (IT) | [ ] In backlog — spostato qui l'08/09 in seguito alla conferma 2 post/settimana (checkpoint 30/08); il primo test video resta da schedulare in un formato che non richieda lo slot di mercoledì |
+| 23/09 (Mer, saltato — Blocco 5) | Come si valuta un game aggregator per più mercati insieme (EN) | [ ] In backlog — spostato qui l'08/09 in seguito alla conferma 2 post/settimana (checkpoint 30/08) |
+| 30/09 (Mer, saltato — Blocco 6) | Infografica di chiusura: il ciclo terreno-scelta-dopo la firma su 5 mercati EU (EN) | [ ] In backlog — spostato qui l'08/09 in seguito alla conferma 2 post/settimana (checkpoint 30/08) |
 
 ---
 
