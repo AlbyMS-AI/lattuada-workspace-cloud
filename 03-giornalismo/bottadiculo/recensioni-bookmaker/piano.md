@@ -12,7 +12,7 @@
 | 1 | Betflag | Inviata al caporedattore (05/08/2026) | — | `betflag/recensione-betflag-2026.{md,docx,pdf}` |
 | 2 | Planetwin365 | Bozza pronta, da inviare al caporedattore (14/08/2026) | — | `planetwin365/recensione-planetwin365-2026.{md,docx,pdf}` |
 | 3 | Lottomatica | Inviata al caporedattore (02/09/2026) | — | `lottomatica/recensione-lottomatica-2026.{md,docx,pdf}` |
-| 4 | Goldbet | Da fare | — | — |
+| 4 | Goldbet | Bozza pronta, da inviare al caporedattore (12/09/2026) | — | `goldbet/recensione-goldbet-2026.{md,docx,pdf}` |
 | 5 | My Lotteries Play | Da fare | — | — |
 
 ## Generazione docx/pdf nello stile approvato (SNAI)
