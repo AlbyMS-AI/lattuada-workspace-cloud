@@ -20,7 +20,7 @@
 
 **Primaria: PIERO.** Stessa rassegna che alimenta il ciclo Jamma, angoli già filtrati per Bottadiculo. Si lancia la mattina stessa della pubblicazione: rassegna → scelta angolo → verifica non sovrapposizione → scrittura → fact-check → umanizzazione → grafica, in un'unica sessione.
 
-**Riserva: banca temi.** Se la rassegna del giorno non produce nulla di utilizzabile, si pesca da `banca-temi.md` (target 5 schede, vedi nota lì).
+**Riserva: banca temi.** Se la rassegna del giorno non produce nulla di utilizzabile, si pesca da `banca-temi.md` (target 5 schede, vedi nota lì). **Aggiunto 12/09/2026:** `banca-temi.md` ha una sezione "Territori di competenza e cluster" — a parità di validità, quando si pesca una scheda di riserva preferire quella su un cluster meno rappresentato nella settimana (vedi terzo punto di controllo sotto).
 
 **Se nessuna delle due fonti produce un tema valido**, il post salta. Vale la stessa regola del ciclo Jamma: un'uscita persa e dichiarata è meglio di un post senza angolo vero.
 
@@ -32,6 +32,7 @@ Prima di scegliere il tema, controllo in due punti:
 
 1. **`../articoli-pubblicati.md`, ultimi 7 giorni**, tutte le testate — compresa la newsletter LinkedIn personale di Alberto.
 2. **Il tema scelto per il pezzo Jamma dello stesso giorno**, quando entrambi i cicli pescano dalla rassegna PIERO della stessa mattina: mai lo stesso fatto sui due canali nello stesso giorno, stessa regola già in vigore tra le due newsletter del lunedì.
+3. **Aggiunto 12/09/2026 — equilibrio cluster nella settimana.** Verificare a quale cluster (`banca-temi.md`, sezione "Territori di competenza e cluster") appartengono già gli altri output della settimana, incluso il pezzo Jamma dello stesso giorno quando entrambi i cicli pescano dalla rassegna PIERO della stessa mattina. Non vieta di ripetere un cluster nella settimana, rende la scelta consapevole invece che casuale.
 
 ---
 

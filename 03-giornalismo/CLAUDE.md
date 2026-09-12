@@ -79,7 +79,10 @@ Le regole che valgono per entrambe:
 - **Lock giovedì, scrittura venerdì, rifinitura domenica.** Il lunedì è solo giorno di pubblicazione
 - **Banca temi** (`*/banca-temi.md`): se la settimana non produce un fatto abbastanza forte si pesca
   da lì, non si salta l'uscita. Tre schede per Jamma, **quattro per Bottadiculo**, che pescando per
-  ultimo dal bacino più stretto è il canale che si scopre per primo
+  ultimo dal bacino più stretto è il canale che si scopre per primo. Entrambe le banche hanno una
+  sezione "Territori di competenza e cluster" (aggiunta 12/09/2026, metodo Copelli): dice non solo
+  quante schede sono pronte ma se coprono aree diverse — il target numerico da solo può nascondere
+  schede tutte concentrate sullo stesso cluster
 - **Rubriche fisse** che non si saltano mai: "Cosa cambia da domani" e "Il numero della settimana"
   su Bottadiculo, "Il precedente internazionale" e "Cosa deve decidere chi guida" su Jamma
 

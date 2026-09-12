@@ -22,7 +22,7 @@
 
 **Primaria: PIERO.** La rassegna quotidiana (skill `piero`, 13 fonti RSS, filtro 48 ore su IT/BE/CZ/DE/IE) genera angoli già suddivisi per testata. È la fonte che ha storicamente alimentato la maggior parte degli articoli mer/ven di Jamma, verificabile in `../articoli-pubblicati.md`. Si lancia la mattina stessa della pubblicazione: rassegna → scelta angolo → verifica non sovrapposizione → scrittura → fact-check → umanizzazione, in un'unica sessione.
 
-**Riserva: banca temi.** Se la rassegna del giorno non produce nulla che superi il controllo di non sovrapposizione, si pesca da `banca-temi.md` (target 4 schede, vedi nota lì). La banca resta pensata soprattutto per la newsletter, ma una scheda strutturale regge anche come approfondimento mer/ven quando serve.
+**Riserva: banca temi.** Se la rassegna del giorno non produce nulla che superi il controllo di non sovrapposizione, si pesca da `banca-temi.md` (target 4 schede, vedi nota lì). La banca resta pensata soprattutto per la newsletter, ma una scheda strutturale regge anche come approfondimento mer/ven quando serve. **Aggiunto 12/09/2026:** `banca-temi.md` ha una sezione "Territori di competenza e cluster" — a parità di validità, quando si pesca una scheda di riserva preferire quella su un cluster meno rappresentato nella settimana (vedi terzo punto di controllo sotto).
 
 **Se nessuna delle due fonti produce un tema valido**, il pezzo salta. Meglio un'uscita persa e dichiarata (visibile su Linear come issue non chiusa) che un pezzo scritto per riempire lo slot senza un angolo vero — è la stessa regola di `guidelines.md`: "un articolo senza angolo proprio non vale pubblicarlo su Jamma."
 
@@ -34,6 +34,7 @@ Prima di scegliere il tema, controllo in due punti:
 
 1. **`../articoli-pubblicati.md`, ultimi 7 giorni**, tutte le testate. Non solo Jamma: un tema già coperto da Bottadiculo o dalla newsletter personale di Alberto nella stessa settimana non si ripete qui con un angolo diverso, a meno che l'angolo sia davvero un livello di analisi in più, non una riformulazione.
 2. **Le news di Jamma.it della settimana**, quelle scritte dalla redazione (non da questo ciclo). Se il pezzo approfondisce una notizia già coperta lì, deve aggiungere un livello di analisi che la notizia non aveva — mai limitarsi a riscriverla più lunga. Checklist già in `workflows/article-1000-1400.md`, Step 6: "qualcuno di Jamma ha già scritto questo angolo? Se sì, trovane un altro."
+3. **Aggiunto 12/09/2026 — equilibrio cluster nella settimana.** Prima di scegliere il tema del giorno, verificare a quale cluster (`banca-temi.md`, sezione "Territori di competenza e cluster") appartengono già gli altri output della settimana — la newsletter Jamma del lunedì, il pezzo Bottadiculo dello stesso giorno se noto. Non è un divieto di ripetere un cluster nella stessa settimana (non ha la stessa forza della non sovrapposizione di fatto sopra), è un criterio per rendere la scelta consapevole invece che casuale.
 
 ---
 

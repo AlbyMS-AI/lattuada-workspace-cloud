@@ -1,7 +1,7 @@
 # Banca temi — Gioco & Business (Jamma)
 
 **Creata:** 17 agosto 2026
-**Regola:** almeno due schede pronte in ogni momento, quattro è il target (alzato da tre il 07/09/2026). Si controlla al lock del giovedì, **prima** di guardare la rassegna PIERO, per scartare le schede scadute.
+**Regola:** almeno due schede pronte in ogni momento, quattro è il target (alzato da tre il 07/09/2026). Si controlla al lock del giovedì, **prima** di guardare la rassegna PIERO, per scartare le schede scadute. **Aggiunto 12/09/2026:** il target di quattro schede va coperto da almeno due cluster diversi (vedi sotto) — se tre schede pronte sono sullo stesso cluster, la prossima scheda nuova va scritta su un cluster diverso, anche se il target numerico è già soddisfatto.
 **Piano di riferimento:** `piano-newsletter-linkedin-2026.md`. Dal 07/09/2026 questa banca è anche la riserva del ciclo mer/ven (`piano-approfondimenti-2026.md`): la fonte primaria di quel ciclo resta PIERO, la banca entra in gioco solo quando la rassegna del giorno non produce un tema utilizzabile.
 
 **Cosa entra qui:** analisi strutturali che non dipendono da un evento in corso. Confronti tra mercati regolamentati, letture di report di settore, meccanismi normativi che valgono anche fra sei settimane.
@@ -12,9 +12,26 @@ Il bacino largo è anche il vantaggio della banca: i confronti strutturali tra m
 
 ---
 
+## Territori di competenza e cluster
+
+**Aggiunto:** 12 settembre 2026 — metodo Laura Copelli, masterclass "Piano editoriale SEO + GEO" (SEOZoom Academy, 09/09/2026). Cluster ricostruiti da ciò che la banca ha già prodotto — nomi di lavoro, correggibili quando non rispecchiano il punto di vista reale di Alberto.
+
+| Cluster | Cosa copre | Schede |
+|---|---|---|
+| **Consolidamento e fiscalità di mercato** | Concentrazione dei mercati regolamentati, leva fiscale come rischio competitivo, confronti internazionali sui numeri di settore | Scheda 1 (Malta/Italia), Scheda 2 (leva fiscale vs regolatoria) |
+| **Responsabilità normativa e certificazione B2B** | Chi risponde della non conformità di un gioco tra operatore e fornitore, regimi di responsabilità a confronto tra mercati | Scheda 3 (tre modelli europei di responsabilità) |
+
+**Incrocio con Bottadiculo:** la Scheda 3 di questa banca ("Chi risponde quando il gioco non è conforme") e la Scheda 1 di `bottadiculo/banca-temi.md` ("Come si verifica davvero un fornitore prima di integrarlo") toccano lo stesso territorio — certificazione/responsabilità dei provider — da due letture diverse: qui il lettore è il CDO/board che deve capire il regime normativo, lì l'affiliato/operatore che deve fidarsi del bollino. Sono contenuti compatibili nella stessa settimana solo se il taglio resta distinto — vedi nota nella Scheda 1 di Bottadiculo.
+
+Cluster attualmente scoperto: nessuna scheda pronta copre ancora un terzo territorio oltre ai due sopra (es. dati/report di settore letti senza il taglio normativo) — da tenere presente nella prossima scheda nuova, in coerenza con la regola di copertura minima sopra.
+
+---
+
 ## Scheda 1 — Due modelli di consolidamento a confronto: Malta e Italia [ESAURITA]
 
 ⚠️ **Pubblicata come articolo Jamma.it il 20/08/2026, non riutilizzabile.** Vedi registro delle uscite in fondo al file.
+
+**Cluster:** Consolidamento e fiscalità di mercato.
 
 **Scadenza:** 31/03/2027, quando escono i dati 2026 di entrambi i mercati.
 **Stato:** esaurita, non disponibile per la newsletter.
@@ -35,6 +52,8 @@ Italia, riordino ADM: 52 concessioni, circa 350 skin verso la chiusura, 46 opera
 
 ⚠️ **Pubblicata come newsletter LinkedIn Jamma, edizione 2 (31/08/2026), non riutilizzabile.** Vedi registro delle uscite in fondo al file.
 
+**Cluster:** Consolidamento e fiscalità di mercato.
+
 **Scadenza:** 31/10/2026. Dopo il prossimo Budget britannico i numeri vanno rifatti.
 **Stato:** esaurita, non disponibile per la newsletter. Dati verificati su fonte primaria (Investegate, entaingroup.com) in fase di stesura: EBITDA Evoke -9,5% (non solo "in calo"), Entain EBITDA -2% con dichiarazione testuale sull'NGR eroso dalla tassa, acquisizione Bally's Intralot confermata a £243,1M.
 
@@ -53,6 +72,8 @@ BGC: oltre 540 sale scommesse chiuse e circa 4.500 posti persi nel Regno Unito d
 
 ## Scheda 3 — Chi risponde quando il gioco non è conforme: tre modelli europei
 
+**Cluster:** Responsabilità normativa e certificazione B2B.
+
 **Scadenza:** nessuna, tema strutturale. Da aggiornare se ADM o DGOJ intervengono sul perimetro di responsabilità.
 **Stato:** da sviluppare. La base spagnola è verificata, servono i riscontri su Italia e Malta.
 
@@ -68,7 +89,7 @@ BGC: oltre 540 sale scommesse chiuse e circa 4.500 posti persi nel Regno Unito d
 
 ## Registro delle uscite dalla banca
 
-| Data | Scheda | Esito |
-|---|---|---|
-| 20/08 | Scheda 1 — Malta/Italia | Pubblicata come articolo Jamma.it (non come newsletter LinkedIn), confermato in `articoli-pubblicati.md`. POV Alberto raccolto con domande mirate prima del draft: Malta confermato filtro B2B già operativo nella pratica, Italia riletto come rischio non ancora bruciato ma reale abbastanza da cambiare priorità di qualifica in pipeline. Fact-check corretto un dato (calo netto società maltesi 13, non 15). `jamma/drafts/2026-08-20-malta-italia-consolidamento-licenze-concessioni-b2b.md`. **Scheda esaurita**: non riutilizzabile per la newsletter LinkedIn, stesso fatto già uscito in settimana (22/08, verificato da Alberto per l'edizione 1 del 24/08). |
-| 31/08 | Scheda 2 — Leva fiscale vs regolatoria | Pubblicata come newsletter LinkedIn Jamma, edizione 2. Angolo A (crescita non protegge più il margine): Entain +7% NGR ma EBITDA -2%, Evoke EBITDA -9,5% con due material uncertainty, nesso italiano su aliquote 2025 e riordino concessioni. `jamma/drafts/2026-08-31-tassazione-gioco-online-margine-entain-evoke.md` |
+| Data | Scheda | Cluster | Esito |
+|---|---|---|---|
+| 20/08 | Scheda 1 — Malta/Italia | Consolidamento e fiscalità di mercato | Pubblicata come articolo Jamma.it (non come newsletter LinkedIn), confermato in `articoli-pubblicati.md`. POV Alberto raccolto con domande mirate prima del draft: Malta confermato filtro B2B già operativo nella pratica, Italia riletto come rischio non ancora bruciato ma reale abbastanza da cambiare priorità di qualifica in pipeline. Fact-check corretto un dato (calo netto società maltesi 13, non 15). `jamma/drafts/2026-08-20-malta-italia-consolidamento-licenze-concessioni-b2b.md`. **Scheda esaurita**: non riutilizzabile per la newsletter LinkedIn, stesso fatto già uscito in settimana (22/08, verificato da Alberto per l'edizione 1 del 24/08). |
+| 31/08 | Scheda 2 — Leva fiscale vs regolatoria | Consolidamento e fiscalità di mercato | Pubblicata come newsletter LinkedIn Jamma, edizione 2. Angolo A (crescita non protegge più il margine): Entain +7% NGR ma EBITDA -2%, Evoke EBITDA -9,5% con due material uncertainty, nesso italiano su aliquote 2025 e riordino concessioni. `jamma/drafts/2026-08-31-tassazione-gioco-online-margine-entain-evoke.md` |

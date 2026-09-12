@@ -18,9 +18,30 @@
 
 **Cosa non entra:** commenti su fatti in evoluzione, temi che dipendono da una decisione attesa, temi presi in prestito dal bacino Jamma.
 
+**Aggiunto 12/09/2026:** il target di cinque schede pronte va coperto da almeno tre cluster diversi (vedi sotto), dato il bacino più ampio di Bottadiculo rispetto a Jamma — un conteggio totale senza distribuzione nasconderebbe uno sbilanciamento reale.
+
+---
+
+## Territori di competenza e cluster
+
+**Aggiunto:** 12 settembre 2026 — metodo Laura Copelli, masterclass "Piano editoriale SEO + GEO" (SEOZoom Academy, 09/09/2026). Cluster ricostruiti da ciò che la banca ha già prodotto — nomi di lavoro, correggibili quando non rispecchiano il punto di vista reale di Alberto.
+
+| Cluster | Cosa copre | Schede |
+|---|---|---|
+| **Certificazione fornitori — lato affiliato/operatore** | Cosa certifica davvero il bollino ADM, visto da chi compra il prodotto (non da chi lo certifica) | Scheda 1 (come si verifica davvero un fornitore) |
+| **Solidità e rischio operatore** | Segnali pubblici di rischio finanziario/continuità aziendale, letti dal lato di chi lavora in affiliazione | Scheda 4 (material uncertainty, ESAURITA) |
+| **Compliance operativa e campagne** | Autoesclusione, targeting pubblicitario, responsabilità di chi costruisce audience e compra media | Scheda 3 (autoesclusione RUA/Cruks, ESAURITA) |
+| **Prodotto e acquisizione** | Free to play come canale quando la pubblicità non si può fare, vita utile del giocatore acquisito su eventi/picchi | Scheda 2 (free to play), Scheda 5 (vita utile giocatore da Mondiale) |
+
+**Incrocio con Jamma:** la Scheda 1 di questa banca ("Come si verifica davvero un fornitore prima di integrarlo") e la Scheda 3 di `jamma/banca-temi.md` ("Chi risponde quando il gioco non è conforme") toccano lo stesso territorio — certificazione/responsabilità dei provider — da due letture diverse: qui l'affiliato/operatore che si fida del bollino, lì il CDO/board che deve capire il regime normativo. Vale già la nota di conflitto calendario scritta nella Scheda 1 sotto: i due pezzi restano compatibili nella stessa settimana solo se il taglio resta distinto.
+
+Cluster più scoperto: "Certificazione fornitori" ha una sola scheda, per di più con un vincolo di calendario che ne ha già rimandato l'uscita (vedi nota nella Scheda 1) — primo candidato quando serve una scheda nuova su un cluster diverso da quelli già rappresentati.
+
 ---
 
 ## Scheda 1 — Come si verifica davvero un fornitore prima di integrarlo
+
+**Cluster:** Certificazione fornitori — lato affiliato/operatore.
 
 **Scadenza:** nessuna, tema strutturale. Rivedere i dati a gennaio 2027.
 **Lettore:** operatore, affiliato che valuta con chi lavorare, chi gestisce palinsesto prodotti.
@@ -37,6 +58,8 @@
 
 ## Scheda 2 — Il free to play come canale di acquisizione dove la pubblicità non si può fare
 
+**Cluster:** Prodotto e acquisizione.
+
 **Scadenza:** 31/12/2026. Oltre, il caso Entain non è più recente abbastanza per reggere l'apertura.
 **Lettore:** affiliato, chi gestisce acquisizione e campagne, marketing operativo.
 
@@ -52,6 +75,7 @@
 
 ⚠️ **Pubblicata come Gambling Insights #79 (31/08/2026), non riutilizzabile.** Vedi registro delle uscite in fondo al file. Angolo finale diverso da quello originale della scheda: non targeting su liste di autoesclusi (il registro resta protetto), ma targeting su intenzione di ricerca di chi cerca di aggirare il proprio blocco (caso olandese Cruks/BNR), con nesso italiano costruito sul canale già documentato dall'Osservatorio Data Room Nexus per i siti clone, non su un caso RUA diretto (non trovato in fonti).
 
+**Cluster:** Compliance operativa e campagne.
 
 **Scadenza:** nessuna, tema strutturale. Da riscrivere se ADM interviene sul RUA.
 **Lettore:** compliance operativa, chi gestisce liste e campagne, affiliati con modelli a performance.
@@ -67,6 +91,8 @@
 ## Scheda 4 — Come si legge la solidità di un operatore prima che salti un pagamento [ESAURITA]
 
 ⚠️ **Pubblicata come Gambling Insights #78 (24/08/2026), non riutilizzabile.** Vedi registro delle uscite in fondo al file.
+
+**Cluster:** Solidità e rischio operatore.
 
 **Scadenza:** 31/01/2027, quando escono i risultati di fine esercizio e i numeri vanno rifatti.
 **Stato:** esaurita, non disponibile per la newsletter.
@@ -99,6 +125,8 @@ prassi, applicata qui alla contabilità.
 
 ## Scheda 5 — Il giocatore acquisito durante il picco non resta, e il palinsesto lo dimostra
 
+**Cluster:** Prodotto e acquisizione.
+
 **Scadenza:** 30/11/2026, prima che i dati sul post Mondiale smettano di essere leggibili come recenti.
 **Stato:** pronta. Un dato solo, verificato, e un meccanismo che si regge da sé.
 **Lettore:** chi gestisce palinsesto prodotti, chi compra media, affiliato che pianifica sugli eventi.
@@ -121,8 +149,8 @@ tema distribuiti sul mercato ADM durante il torneo.
 
 ## Registro delle uscite dalla banca
 
-| Data | Scheda | Esito |
-|---|---|---|
-| 20/08 | Scheda 5 — Vita utile del giocatore da Mondiale | Pubblicata come post LinkedIn. Nesso italiano: l'Italia non è nel campione Blask, dichiarato esplicitamente nel testo invece di inventare un dato. POV Alberto raccolto con domande mirate prima del draft: il problema parte dalla finestra di misurazione ROI, responsabilità di chi compra media sull'evento, azione concreta è ripensare l'orizzonte di misurazione. `bottadiculo/drafts/2026-08-20-mondiale-2026-giocatore-acquisito-roi-media-buyer.md` |
-| 24/08 | Scheda 4 — Solidità operatore/material uncertainty | Pubblicata come Gambling Insights #78. `bottadiculo/drafts/2026-08-24-material-uncertainty-affiliato-solidita-operatore-newsletter-linkedin.md` |
-| 31/08 | Scheda 3 — Autoesclusione/responsabilità campagne | Pubblicata come Gambling Insights #79. Angolo rifatto in fase di ricerca: niente targeting su liste RUA (protette), ma su intenzione di ricerca di chi cerca di aggirare il proprio blocco (caso olandese Cruks/BNR) più nesso italiano costruito sul canale già documentato dall'Osservatorio Data Room Nexus per i cloni. `bottadiculo/drafts/2026-08-31-rua-autoesclusione-pubblicita-illegale-ricerca-newsletter-linkedin.md` |
+| Data | Scheda | Cluster | Esito |
+|---|---|---|---|
+| 20/08 | Scheda 5 — Vita utile del giocatore da Mondiale | Prodotto e acquisizione | Pubblicata come post LinkedIn. Nesso italiano: l'Italia non è nel campione Blask, dichiarato esplicitamente nel testo invece di inventare un dato. POV Alberto raccolto con domande mirate prima del draft: il problema parte dalla finestra di misurazione ROI, responsabilità di chi compra media sull'evento, azione concreta è ripensare l'orizzonte di misurazione. `bottadiculo/drafts/2026-08-20-mondiale-2026-giocatore-acquisito-roi-media-buyer.md` |
+| 24/08 | Scheda 4 — Solidità operatore/material uncertainty | Solidità e rischio operatore | Pubblicata come Gambling Insights #78. `bottadiculo/drafts/2026-08-24-material-uncertainty-affiliato-solidita-operatore-newsletter-linkedin.md` |
+| 31/08 | Scheda 3 — Autoesclusione/responsabilità campagne | Compliance operativa e campagne | Pubblicata come Gambling Insights #79. Angolo rifatto in fase di ricerca: niente targeting su liste RUA (protette), ma su intenzione di ricerca di chi cerca di aggirare il proprio blocco (caso olandese Cruks/BNR) più nesso italiano costruito sul canale già documentato dall'Osservatorio Data Room Nexus per i cloni. `bottadiculo/drafts/2026-08-31-rua-autoesclusione-pubblicita-illegale-ricerca-newsletter-linkedin.md` |

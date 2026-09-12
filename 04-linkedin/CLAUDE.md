@@ -90,6 +90,8 @@ l'incoerenza tra chi interagisce e di cosa tratta il contenuto.
 
 Implicazione: crea contenuti che le persone vogliono **salvare o condividere privatamente**.
 
+Questi sono i segnali che pesano per l'algoritmo. Per verificare se un contenuto ha raggiunto lo scopo per cui è stato scritto (posizionamento, lead gen, evergreen, reattivo...), vedi la tabella complementare "Misurazione per scopo" in `piano-editoriale-2026.md`: le due letture vanno incrociate, non sostituite l'una con l'altra.
+
 ## Orari di pubblicazione
 
 Nessun orario universale, ma indicazioni di base per il target iGaming B2B:
