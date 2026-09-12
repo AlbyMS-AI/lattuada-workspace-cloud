@@ -1,13 +1,13 @@
 # Carosello LinkedIn — Blocco 4, chiusura: checklist compliance nuovo mercato
 
 Data: 2026-09-14 (pubblicazione, slittata dal weekend 11/09, vedi `piano-editoriale-2026.md`)
-Stato: testo pronto, in attesa di produzione grafica (Canva/NotebookLM, dopo conferma di Alberto sul testo)
+Stato: testo rivisto dopo check editoriale Codex (12/09/2026, effort high) — vedi note in fondo. In attesa di produzione grafica (Canva/NotebookLM, dopo conferma di Alberto)
 
 ---
 
 ## Fonte
 
-Meccanismo di prova: osservazione anonimizzata dal lavoro BDM sulla pipeline di ingressi in mercati regolamentati europei (categoria di blocco più ricorrente: regolatoria/licensing, non tecnica/commerciale) + segnale reale da un prospect italiano (domanda su chi predispone il contratto senza rapporto diretto con il licence holder) + fatto pubblico verificabile sul modello belga (licenza online agganciata a licenza terrestre). Nessun nome di deal, cliente o prospect citato, coerente con la regola di rielaborazione `../CLAUDE.md`. Stesso meccanismo della newsletter N5 dello stesso giorno (`newsletter-2026-09-14-n5-checklist-compliance-nuovo-mercato.md`), qui in formato carosello EN per il pubblico lead gen estero.
+Meccanismo di prova: osservazione anonimizzata dal lavoro BDM sulla pipeline di ingressi in mercati regolamentati europei (categoria di blocco più ricorrente osservata: regolatoria/licensing, non tecnica/commerciale) + segnale reale da un prospect italiano (domanda su chi predispone il contratto senza rapporto diretto con il licence holder) + fatto pubblico verificabile sul modello belga (licenza online agganciata a licenza terrestre esistente, per legge). Nessun nome di deal, cliente o prospect citato, coerente con la regola di rielaborazione `../CLAUDE.md`. Stesso meccanismo della newsletter N5 dello stesso giorno (`newsletter-2026-09-14-n5-checklist-compliance-nuovo-mercato.md`), qui in formato carosello EN per il pubblico lead gen estero.
 
 ## Buyer persona
 
@@ -15,7 +15,7 @@ Marco (CDO/GM, decisione di ingresso in un nuovo mercato) — linea lead gen est
 
 ## Posizione di Alberto (angolo)
 
-La sequenza standard delle checklist di compliance è sbagliata: licenza e struttura contrattuale vanno risolte prima, non in parallelo alla certificazione e all'integrazione tecnica.
+Le voci della checklist standard (licenza, certificazione, requisiti tecnici) non sono sbagliate di per sé. Il problema è che vengono affrontate senza sapere quale dipende dalle altre: chi detiene la licenza e come si struttura il contratto condiziona certificazione e integrazione tecnica, non il contrario.
 
 ## Keyword target
 
@@ -24,44 +24,42 @@ market entry compliance checklist / iGaming licensing structure
 ## Slide
 
 **1 — Hook**
-Every market entry checklist lists the same three items in the same order. Licence. Certification. Technical integration. The order is wrong.
+Most market entry checklists list the same three items: licence, certification, technical integration. Almost none of them says which one the other two actually depend on.
 
 **2**
-Look at where regulated market entries actually stall. Licensing sits at the top of the list. Not product. Not price.
+In the entries we've worked on from the aggregator side, licensing is where things stall first, more often than product or price.
 
 **3**
-The question that comes first from operators isn't which games you carry. It's who drafts the contract when there's no direct relationship with the licence holder.
+The question we hear early isn't which games you carry. It's who drafts the contract when there's no direct relationship with the licence holder.
 
 **4**
-Belgium makes the sequencing explicit by law. No online licence without an existing land-based one. Structure comes before the digital product.
+Belgium makes one version of this explicit in law: an online licence only exists as an add-on to a matching land-based one already in place.
 
 **5**
-Certifying providers before the licence structure is settled means certifying for an entry that might not close, or might close under a different structure entirely.
+Certify providers before that structure is settled, and you're certifying for an entry that might close under a different structure entirely, or not close at all.
 
 **6**
-Wallet architecture, reporting requirements, integration timeline. All real. All secondary to who is legally on the hook if something goes wrong.
+Wallet architecture, reporting requirements, integration timeline all matter. They just don't decide whether the entry closes. The contractual structure does.
 
 **7 — Insight**
-Reorder the checklist. Licence and contractual structure first. Certification and technical integration only move once that's settled.
+The checklist items aren't wrong. What's missing is knowing which one gates the others. Settle the licence and the contract structure first, and certification and integration move without rework.
 
 **8 — Chiusura + CTA**
-This week's edition of The Betting Edge breaks down the mechanism in full, with the structure that made one regulated market entry actually work. In Italian, link in the newsletter.
+One regulated market entry we worked on stalled exactly here: unclear whether the licence holder or the technical partner should be the contracting party. Once the licence holder became the counterparty, with the technical partner operating under that licence without its own certification, provider certification started, and the next operator on the same licence didn't have to repeat it. This week's edition of The Betting Edge goes deeper on the mechanism. In Italian, link in the newsletter.
 
 ## Caption post (accompagna il carosello)
 
-Every market entry checklist lists the same three items in the same order. Licence. Certification. Technical integration.
+Most market entry checklists list the same three items: licence, certification, technical integration. Almost none of them says which one the other two depend on.
 
-The order is wrong.
+In the entries we've worked on from the aggregator side, licensing is where things stall first, more often than product or price. The question that comes up early isn't which games you carry. It's who drafts the contract when there's no direct relationship with the licence holder.
 
-Look at where regulated market entries in Europe actually stall, and licensing sits at the top. Not product, not price. Who legally holds the licence, and how the contract is structured when there's no direct relationship with the holder.
-
-Belgium makes the point by law: no online licence without an existing land-based one. Structure comes before the product, not alongside it.
+Belgium makes one version of this explicit in law: an online licence only exists as an add-on to a matching land-based one already in place.
 
 Certify your providers before that structure is settled, and you're certifying for an entry that might close differently, or not close at all.
 
-Reorder the checklist. Licence first. The rest follows.
+One entry we worked on stalled on exactly this question. Once the licence holder became the contracting party, with the technical partner operating under that licence, certification started moving, and the next operator on the same licence didn't have to repeat it.
 
-This week's edition of The Betting Edge goes deeper on the mechanism, in Italian, link in the newsletter.
+This week's edition of The Betting Edge goes deeper on the mechanism. In Italian, link in the newsletter.
 
 ## SEO
 
@@ -74,8 +72,9 @@ Titolo PDF: `Market entry compliance checklist iGaming licensing Alberto Lattuad
 - [x] Coerenza lingua/mercato: EN su blocco lead gen estero
 - [x] Nessun mention esplicito Softswiss nel corpo (solo eventuale DM, per regola Blocco 4)
 - [x] Nessuna cifra o nome di deal/cliente/prospect citato (regola rielaborazione `../CLAUDE.md`)
-- [x] Fatto pubblico (modello belga) verificabile, non da fonte interna
-- [ ] Autocontrollo anti-AI EN (`../01-tono-di-voce/anti-ai-checklist-en.md`) — da fare prima della pubblicazione
+- [x] Fatto pubblico (modello belga) verificabile, non da fonte interna. Nessun numero di sentenza citato nel testo pubblico: non verificato a fonte primaria da Alberto/Claude, solo il meccanismo generale (confermato da più fonti indipendenti) resta in pubblicazione
+- [x] Check editoriale Codex (12/09/2026, effort high): risolta la contraddizione slide 1/7 (non più "l'ordine è sbagliato" ma "la dipendenza non è risolta"), scalati gli assoluti ("every", "operators" generico), tolte le tecniche di umanizzazione impilate (frammenti ripetuti, antitesi multiple), aggiunto un arco concreto (incertezza → decisione → sblocco) alla slide 8 invece del gloss "ha funzionato"
+- [ ] Autocontrollo anti-AI EN (`../01-tono-di-voce/anti-ai-checklist-en.md`) — ultima verifica prima della pubblicazione
 - [ ] Produzione grafica (Canva/NotebookLM) dopo conferma testo da Alberto
 - [ ] Rinominare il file PDF con il titolo SEO prima dell'upload
 
