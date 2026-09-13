@@ -427,7 +427,7 @@ Le due tabelle si leggono insieme: un contenuto può salvare bene (KPI algoritmi
 
 **Formato fisso, contenuto dinamico:** idem sopra — idee di riferimento, non vincolo.
 
-## Blocco 4 — EN — L'integrazione unica come vantaggio (31/08 – 14/09, chiusura slittata dal weekend)
+## Blocco 4 — EN — L'integrazione unica come vantaggio (31/08 – 14/09, chiuso 13/09/2026, tutti i contenuti pubblicati)
 **Argomento:** Perché un'integrazione API unica vale più di tre aggregatori separati + confronto mercati regolamentati EU
 **Fonte:** Esperienza BDM (contenuto 10% posizionale) + Intelligence A8R
 **Buyer persona:** Marco (decisione integrazione), espansione europea — lead gen

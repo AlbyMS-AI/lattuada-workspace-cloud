@@ -129,7 +129,7 @@ divider()
 
 h1("PREFAZIONE")
 body("Goldbet nasce in Austria nel 2000 come operatore specializzato in scommesse sportive, e nel 2015 sbarca in Italia ottenendo la concessione ADM per il gioco a distanza. Sette anni dopo, a metà giugno 2022, il marchio cambia pelle: la fusione per incorporazione di Lottomatica Scommesse in Goldbet dà vita a GBO Italy S.p.A., con sede a Roma, saldamente dentro il Gruppo Lottomatica.")
-body("Betflag entra nello stesso portafoglio nel novembre 2022, Planetwin365 con il completamento dell'acquisizione di SKS365 nell'aprile 2024: tre marchi arrivati in momenti diversi, che il giocatore incontra come alternative distinte ma che oggi rispondono alla stessa proprietà, quotata su Euronext Milan e nel FTSE MIB. Rispetto ai fratelli di portafoglio, Goldbet si è costruita negli anni la reputazione di prodotto solido e giocabile, con un'app tra le più apprezzate della categoria e, diversamente da quanto talvolta si legge, una rete di agenzie fisiche che affianca l'online. Questa recensione analizza bonus, palinsesto, casinò e sicurezza di un operatore che il mercato conosce bene, insieme al punto su cui il gruppo ha ancora del lavoro da fare.")
+body("Betflag entra nello stesso portafoglio nel novembre 2022, Planetwin365 con il completamento dell'acquisizione di SKS365 nell'aprile 2024: tre marchi arrivati in momenti diversi, che il giocatore incontra come alternative distinte ma che oggi rispondono alla stessa proprietà, quotata su Euronext Milan e nel FTSE MIB. Goldbet si è costruita negli anni la reputazione di prodotto solido e giocabile, con un'app tra le più apprezzate della categoria e, diversamente da quanto talvolta si legge, una rete di agenzie fisiche che affianca l'online. Questa recensione analizza bonus, palinsesto, casinò e sicurezza di un operatore che il mercato conosce bene, insieme al punto su cui il gruppo ha ancora del lavoro da fare.")
 divider()
 
 h1("VALUTAZIONI")
@@ -154,18 +154,18 @@ divider()
 h1("PRO &amp; CONTRO")
 h2("Perché scegliere Goldbet (Pro)")
 body("Tra gli scommettitori, Goldbet gode di una buona reputazione: nel giudizio di chi segue il settore da anni è un prodotto solido su piazzabilità, giocabilità e affidabilità generale, anche in virtù del legame con uno dei gruppi più importanti del mercato italiano. Il legame con Lottomatica Group, quotato su Euronext Milan e nel FTSE MIB, colloca Goldbet in una struttura societaria più solida di quella di molti concessionari indipendenti.")
-body("Sul trattamento dei giocatori vincenti e dei bonus abuser, secondo la stessa fonte Goldbet si colloca sulla linea degli altri brand del gruppo già passati sotto questa lente (Betflag, Planetwin365, Lottomatica), senza differenze sostanziali segnalate.")
-body("L'app, disponibile su App Store, raccoglie una valutazione media di 4,8/5 su circa 25.000 valutazioni: un risultato tra i migliori dell'intera serie, che conferma la reputazione del prodotto tra gli utenti più attivi.")
+body("Sul trattamento dei giocatori vincenti e dei bonus abuser, secondo la stessa fonte Goldbet si colloca sulla linea degli altri brand del gruppo già recensiti in questa serie (Betflag, Planetwin365, Lottomatica), senza differenze sostanziali segnalate.")
+body("L'app, disponibile su App Store, raccoglie una valutazione media di 4,8/5 su circa 25.000 valutazioni (rilevazione dell'11/09/2026): un risultato tra i migliori dell'intera serie.")
 body("Il casinò online supera i 3.000 giochi distribuiti su oltre 18 provider, tra cui Playtech, NetEnt, Spribe e Nolimit City. La sezione live si appoggia a Evolution Gaming, Playtech Live e MediaLive Casino su oltre 100 tavoli, e include tavoli brandizzati in esclusiva per Goldbet: Goldbet 21, Goldbet 21 VIP e Goldbet Sport Roulette.")
 body("Il bonus di benvenuto arriva fino a 2.050€ nominali, con la stessa struttura in due componenti già vista su Lottomatica: un primo 100% fino a 50€ e un secondo 100% fino a 2.000€, entrambi attivabili con un deposito minimo di 20€.")
 h2("Dove Goldbet può migliorare (Contro)")
-body("Il dato più critico riguarda ancora una volta l'assistenza, ma qui il quadro pesa più che altrove nella serie: su Trustpilot, Goldbet raccoglie un punteggio di 2,1/5 su 1.129 recensioni, con l'82% dei giudizi a una stella. Secondo il giudizio editoriale di chi segue il settore da anni, qui il dato non è solo la distorsione tipica delle piattaforme di recensioni negative: riflette una superficialità reale nella gestione del cliente, con una struttura difficile da interfacciare anche per chi lavora all'interno dello stesso ecosistema Goldbet.")
+body("Il dato più critico riguarda ancora una volta l'assistenza: su Trustpilot, Goldbet raccoglie un punteggio di 2,1/5 su 1.129 recensioni, con l'82% dei giudizi a una stella (rilevazione dell'11/09/2026). È un indicatore reputazionale, non una misura statisticamente rappresentativa della qualità del customer care: chi lascia una recensione negativa è strutturalmente sovrarappresentato rispetto alla base clienti complessiva. Detto questo, nel giudizio editoriale di chi segue il settore da anni (dettagliato in nota fact-check, in fondo), qui il segnale non si esaurisce nella distorsione tipica delle piattaforme di recensioni negative: riflette anche una gestione del cliente superficiale, con una struttura difficile da interfacciare anche per chi lavora all'interno dello stesso ecosistema Goldbet.")
 body("Sempre secondo questo giudizio, negli ultimi mesi l'operatore avrebbe intensificato le procedure di verifica e blocco sui conti con attività ritenute sospette: una linea più rigorosa, percepita come un ulteriore ostacolo anche se coerente con una tendenza più ampia del comparto regolamentato.")
 body("La registrazione tramite SPID non è più disponibile dal 13 novembre 2025, in coincidenza con il nuovo regime di rilascio delle concessioni online varato da ADM, e la CIE non è un'alternativa attiva per la registrazione (resta valida come documento d'identità caricato a corredo). L'app, infine, non è disponibile su Google Play: su Android l'unica via è il download diretto di un APK dal sito.")
 divider()
 
 h1("PANORAMICA TRA EVENTI E STREAMING")
-body("Il palinsesto di Goldbet copre oltre 40 discipline sportive: dal calcio, sempre il prodotto trainante, a basket, tennis, pallavolo, hockey su ghiaccio e rugby, fino a discipline meno centrali nel mercato ADM come scacchi, freccette e surf. Sui grandi match il ventaglio di mercati arriva fino a 600, mentre anche sugli eventi minori la soglia supera regolarmente i 200 mercati, per un totale di circa 200 eventi coperti ogni giorno.")
+body("Il palinsesto di Goldbet copre oltre 40 discipline sportive: dal calcio, il prodotto trainante, a basket, tennis, pallavolo, hockey su ghiaccio e rugby, fino a discipline meno centrali nel mercato ADM come scacchi, freccette e surf. Sui grandi match il ventaglio di mercati arriva fino a 600, mentre anche sugli eventi minori la soglia supera regolarmente i 200 mercati, per un totale di circa 200 eventi coperti ogni giorno.")
 body("Lo streaming live non è sistematico e resta concentrato soprattutto sui campionati minori, con una presenza comunque su alcuni grandi tornei: Serie A, Serie B, Bundesliga e basket NBA compaiono nella copertura, ma non su ogni singolo evento delle rispettive competizioni.")
 divider()
 
@@ -231,7 +231,7 @@ divider()
 
 h1("SERVE AIUTO? CUSTOMER SUPPORT")
 body("Il servizio clienti è raggiungibile tramite telefono (02 30453039 nei giorni feriali dalle 9:00 alle 20:00, oppure 06 40400860 tutti i giorni dalle 9:00 alle 22:00), live chat sul sito ed email (assistenza@goldbet.it, oltre a indirizzi dedicati per contratti e reclami).")
-body("Su Trustpilot l'operatore raccoglie un punteggio di 2,1/5 su 1.129 recensioni, con l'82% dei giudizi a una stella: il dato più critico dell'intera recensione, discusso nel dettaglio in Pro &amp; Contro.")
+body("Su Trustpilot l'operatore raccoglie un punteggio di 2,1/5 su 1.129 recensioni, con l'82% dei giudizi a una stella (rilevazione dell'11/09/2026): un indicatore reputazionale più che una misura diretta della qualità del servizio, con la lettura completa in Pro &amp; Contro.")
 divider()
 
 h1("ALTRI PRODOTTI NELL'OFFERTA")
@@ -240,7 +240,7 @@ body("<b>Bingo e lotterie</b>: sezione con montepremi settimanali, supportata da
 divider()
 
 h1("FEEDBACK E RECENSIONI")
-body("Sull'App Store, l'app Goldbet raggiunge una valutazione media di 4,8/5 su circa 25.000 valutazioni: uno dei risultati migliori tra tutti gli operatori passati sotto questa lente.")
+body("Sull'App Store, l'app Goldbet raggiunge una valutazione media di 4,8/5 su circa 25.000 valutazioni (rilevazione dell'11/09/2026): uno dei risultati migliori tra tutti gli operatori di questa serie.")
 body("Il quadro cambia radicalmente su Trustpilot, dove Goldbet registra un punteggio di 2,1/5 su 1.129 recensioni, con l'82% dei giudizi a una stella. La divaricazione tra i due canali è ampia quanto quella già vista su altri brand del gruppo, ma qui il rilievo ha più sostanza: riflette un problema reale di gestione del cliente più che una distorsione del canale.")
 divider()
 
@@ -249,19 +249,19 @@ data_table(
     ["Caratteristica", "Goldbet", "SNAI", "Lottomatica"],
     [
         ["Bonus sport", "100% fino a 50€ + 100% fino a 2.000€ = 2.050€ (rollover x6)", "500€ Gold (x6) + 500€ Game Bonus + 15€ free + 9€ extra = 1.024€", "100% fino a 50€ + 100% fino a 2.000€ = 2.050€ (rollover x6)"],
-        ["Deposito minimo bonus", "20€", "Non specificato in questa serie", "20€"],
+        ["Deposito minimo bonus", "20€", "Dato non verificato alla data di aggiornamento", "20€"],
         ["Proprietà", "GBO Italy S.p.A. (Gruppo Lottomatica)", "Gruppo Flutter Entertainment (dal 2025)", "Lottomatica Group (capofila)"],
         ["Prodotto distintivo", "App tra le più valutate della categoria (4,8/5); rete di agenzie fisiche affiancata all'online", "Ippica, Snaipay, integrazione fisico-digitale", "Rete fisica capillare: oltre 4.000 agenzie, 1.100 sale gioco"],
         ["Registrazione SPID/CIE", "Non disponibile dal 13/11/2025", "Sì", "Non disponibile dal 13/11/2025"],
-        ["Licenza ADM", "16009", "Non riportata in questa serie", "16010"],
+        ["Licenza ADM", "16009", "Dato non verificato alla data di aggiornamento", "16010"],
     ],
 )
-body("<b>Nota</b>: le cifre di tutti gli operatori rappresentano valori nominali massimi, soggetti a rollover e condizioni di sblocco spesso complesse. Goldbet e Lottomatica condividono oggi la stessa proprietà: la tabella li mette a confronto come prodotti distinti, non come alternative indipendenti.", size=9)
+body("<b>Nota</b>: le cifre di tutti gli operatori rappresentano valori nominali massimi, soggetti a rollover e condizioni di sblocco spesso complesse, e rilevate in momenti diversi (dati Goldbet aggiornati al 12-13/09/2026, dati SNAI e Lottomatica riutilizzati dalle rispettive recensioni della serie): un confronto indicativo, non un'istantanea unica. Goldbet e Lottomatica condividono oggi la stessa proprietà: la tabella li mette a confronto come prodotti distinti, non come alternative indipendenti.", size=9)
 divider()
 
 h1("IL NOSTRO GIUDIZIO")
-body("Goldbet arriva al 2026 con un percorso diverso dagli altri marchi già passati sotto questa lente: nasce online in Austria nel 2000, opera come concessionario indipendente in Italia dal 2015, e solo nel giugno 2022, con la fusione in GBO Italy S.p.A., entra nel Gruppo Lottomatica. Betflag la raggiunge a novembre dello stesso anno, Planetwin365 nel 2024.")
-body("Sul prodotto, la sintesi di questa recensione è positiva: reputazione solida, app tra le meglio valutate della serie (4,8/5 su circa 25.000 valutazioni), trattamento dei vincenti in linea con gli altri brand del gruppo secondo il giudizio raccolto. Il vero scarto rispetto ai fratelli di portafoglio è sull'assistenza (dettagli in Pro &amp; Contro): qui il divario tra qualità del prodotto e qualità del servizio al cliente è il più ampio registrato finora nella serie, e richiederebbe un investimento reale in fidelizzazione più che un intervento cosmetico.")
+body("Goldbet arriva al 2026 con un percorso diverso dagli altri marchi già recensiti in questa serie: nasce online in Austria nel 2000, opera come concessionario indipendente in Italia dal 2015, e solo nel giugno 2022, con la fusione in GBO Italy S.p.A., entra nel Gruppo Lottomatica. Betflag la raggiunge a novembre dello stesso anno, Planetwin365 nel 2024.")
+body("Sul prodotto, la sintesi di questa recensione è positiva: reputazione solida, app tra le meglio valutate della serie (4,8/5 su circa 25.000 valutazioni), trattamento dei vincenti in linea con gli altri brand del gruppo secondo il giudizio raccolto. Il vero scarto rispetto agli altri marchi del gruppo è sull'assistenza (dettagli in Pro &amp; Contro): qui il divario tra qualità del prodotto e qualità del servizio al cliente è il più ampio registrato finora nella serie, e richiederebbe un investimento reale in fidelizzazione più che un intervento cosmetico.")
 body("Chi cerca un'app solida, un gruppo affidabile alle spalle e un trattamento corretto sulle vincite trova in Goldbet una scelta valida. Chi mette l'assistenza e la rapidità di risoluzione dei problemi tra i criteri decisivi farebbe bene a mettere in conto che qui il margine di miglioramento resta il più ampio del gruppo.")
 body("Il voto finale è una sintesi editoriale e non una conversione meccanica della media delle valutazioni per categoria (7,4/10): pesa quanto l'assistenza incide sull'esperienza di chi scommette con regolarità, un fattore rilevante ma non tale da annullare la solidità del resto dell'offerta.")
 final_score_box("VOTO FINALE: 4 SU 5")
@@ -279,7 +279,7 @@ body("L'assistenza clienti: Trustpilot assegna un punteggio di 2,1/5, e chi oper
 divider()
 
 h1("LE MIGLIORI ALTERNATIVE")
-body("<b>Lottomatica</b>: stesso gruppo proprietario, unico brand con rete fisica capillare (oltre 4.000 agenzie, 1.100 sale gioco), bonus fino a 2.050€.")
+body("<b>Lottomatica</b>: stesso gruppo proprietario, la rete fisica più estesa del portafoglio (oltre 4.000 agenzie, 1.100 sale gioco), bonus fino a 2.050€.")
 body("<b>Planetwin365</b>: stesso gruppo dal 2024, casinò live con tavoli esclusivi Evolution, bonus fino a 2.100€ tra sport e slot.")
 body("<b>SNAI</b>: leadership storica nell'ippica, integrazione fisico-digitale con Snaipay, rollover x6 sul Bonus Gold tra i più accessibili del mercato.")
 

@@ -70,12 +70,14 @@ BGC: oltre 540 sale scommesse chiuse e circa 4.500 posti persi nel Regno Unito d
 
 ---
 
-## Scheda 3 — Chi risponde quando il gioco non è conforme: tre modelli europei
+## Scheda 3 — Chi risponde quando il gioco non è conforme: tre modelli europei [ESAURITA]
+
+⚠️ **Pubblicata come newsletter LinkedIn Jamma, edizione 4 (14/09/2026), non riutilizzabile.** Vedi registro delle uscite in fondo al file.
 
 **Cluster:** Responsabilità normativa e certificazione B2B.
 
-**Scadenza:** nessuna, tema strutturale. Da aggiornare se ADM o DGOJ intervengono sul perimetro di responsabilità.
-**Stato:** da sviluppare. La base spagnola è verificata, servono i riscontri su Italia e Malta.
+**Scadenza:** nessuna, tema strutturale. Da aggiornare se ADM, DGOJ o MGA intervengono sul perimetro di responsabilità.
+**Stato:** esaurita, non disponibile per la newsletter. Malta verificata (Gaming Act Chapter 583, Critical Gaming Supply Licence, Direttiva 3/2018) con ricerca web e fact-check Codex il 13/09/2026 su fonti primarie MGA.
 
 **Tesi.** L'Europa sta divergendo su una domanda che sembra tecnica e non lo è: se della non conformità di un gioco risponda l'operatore licenziato o il fornitore che glielo ha venduto. Tre mercati, tre risposte, e chi vende in più giurisdizioni si trova con lo stesso contratto esposto a tre regimi di responsabilità diversi.
 
@@ -93,3 +95,4 @@ BGC: oltre 540 sale scommesse chiuse e circa 4.500 posti persi nel Regno Unito d
 |---|---|---|---|
 | 20/08 | Scheda 1 — Malta/Italia | Consolidamento e fiscalità di mercato | Pubblicata come articolo Jamma.it (non come newsletter LinkedIn), confermato in `articoli-pubblicati.md`. POV Alberto raccolto con domande mirate prima del draft: Malta confermato filtro B2B già operativo nella pratica, Italia riletto come rischio non ancora bruciato ma reale abbastanza da cambiare priorità di qualifica in pipeline. Fact-check corretto un dato (calo netto società maltesi 13, non 15). `jamma/drafts/2026-08-20-malta-italia-consolidamento-licenze-concessioni-b2b.md`. **Scheda esaurita**: non riutilizzabile per la newsletter LinkedIn, stesso fatto già uscito in settimana (22/08, verificato da Alberto per l'edizione 1 del 24/08). |
 | 31/08 | Scheda 2 — Leva fiscale vs regolatoria | Consolidamento e fiscalità di mercato | Pubblicata come newsletter LinkedIn Jamma, edizione 2. Angolo A (crescita non protegge più il margine): Entain +7% NGR ma EBITDA -2%, Evoke EBITDA -9,5% con due material uncertainty, nesso italiano su aliquote 2025 e riordino concessioni. `jamma/drafts/2026-08-31-tassazione-gioco-online-margine-entain-evoke.md` |
+| 14/09 | Scheda 3 — Responsabilità fornitore, tre modelli europei | Responsabilità normativa e certificazione B2B | Pubblicata come newsletter LinkedIn Jamma, edizione 4. Italia/Spagna riprese dal pezzo dell'08/08 (riformulate, non copiate), Malta ricostruita da zero (Gaming Act Chapter 583, Critical Gaming Supply Licence, Direttiva 3/2018) con ricerca web e due giri di fact-check Codex: corretti lo stato della riforma spagnola (in consultazione, non in vigore), un dato sanzioni MGA non verificabile su fonte primaria (rimosso), un automatismo procedurale maltese non supportato dalla Direttiva 3/2018 art. 26. Nato da un errore di produzione: il file scritto venerdì 11/09 sulla Germania (GGL/canalizzazione) è risultato essere l'approfondimento del ciclo mer/ven, non l'edizione 4 della newsletter — le due uscite condividono lo stesso giorno di scrittura nei rispettivi piani, da qui la conflazione. `jamma/drafts/2026-09-14-responsabilita-fornitore-gioco-non-conforme-italia-spagna-malta.md` |

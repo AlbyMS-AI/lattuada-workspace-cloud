@@ -37,7 +37,7 @@ Pagina 1 | Contenuto editoriale indipendente
 
 Goldbet nasce in Austria nel 2000 come operatore specializzato in scommesse sportive, e nel 2015 sbarca in Italia ottenendo la concessione ADM per il gioco a distanza. Sette anni dopo, a metà giugno 2022, il marchio cambia pelle: la fusione per incorporazione di Lottomatica Scommesse in Goldbet dà vita a GBO Italy S.p.A., con sede a Roma, saldamente dentro il Gruppo Lottomatica.
 
-Betflag entra nello stesso portafoglio nel novembre 2022, Planetwin365 con il completamento dell'acquisizione di SKS365 nell'aprile 2024: tre marchi arrivati in momenti diversi, che il giocatore incontra come alternative distinte ma che oggi rispondono alla stessa proprietà, quotata su Euronext Milan e nel FTSE MIB. Rispetto ai fratelli di portafoglio, Goldbet si è costruita negli anni la reputazione di prodotto solido e giocabile, con un'app tra le più apprezzate della categoria e, diversamente da quanto talvolta si legge, una rete di agenzie fisiche che affianca l'online. Questa recensione analizza bonus, palinsesto, casinò e sicurezza di un operatore che il mercato conosce bene, insieme al punto su cui il gruppo ha ancora del lavoro da fare.
+Betflag entra nello stesso portafoglio nel novembre 2022, Planetwin365 con il completamento dell'acquisizione di SKS365 nell'aprile 2024: tre marchi arrivati in momenti diversi, che il giocatore incontra come alternative distinte ma che oggi rispondono alla stessa proprietà, quotata su Euronext Milan e nel FTSE MIB. Goldbet si è costruita negli anni la reputazione di prodotto solido e giocabile, con un'app tra le più apprezzate della categoria e, diversamente da quanto talvolta si legge, una rete di agenzie fisiche che affianca l'online. Questa recensione analizza bonus, palinsesto, casinò e sicurezza di un operatore che il mercato conosce bene, insieme al punto su cui il gruppo ha ancora del lavoro da fare.
 
 Pagina 2 | Contenuto editoriale indipendente
 
@@ -69,9 +69,9 @@ Pagina 3 | Contenuto editoriale indipendente
 
 Tra gli scommettitori, Goldbet gode di una buona reputazione: nel giudizio di chi segue il settore da anni è un prodotto solido su piazzabilità, giocabilità e affidabilità generale, anche in virtù del legame con uno dei gruppi più importanti del mercato italiano. Il legame con Lottomatica Group, quotato su Euronext Milan e nel FTSE MIB, colloca Goldbet in una struttura societaria più solida di quella di molti concessionari indipendenti.
 
-Sul trattamento dei giocatori vincenti e dei bonus abuser, secondo la stessa fonte Goldbet si colloca sulla linea degli altri brand del gruppo già passati sotto questa lente (Betflag, Planetwin365, Lottomatica), senza differenze sostanziali segnalate.
+Sul trattamento dei giocatori vincenti e dei bonus abuser, secondo la stessa fonte Goldbet si colloca sulla linea degli altri brand del gruppo già recensiti in questa serie (Betflag, Planetwin365, Lottomatica), senza differenze sostanziali segnalate.
 
-L'app, disponibile su App Store, raccoglie una valutazione media di 4,8/5 su circa 25.000 valutazioni: un risultato tra i migliori dell'intera serie, che conferma la reputazione del prodotto tra gli utenti più attivi.
+L'app, disponibile su App Store, raccoglie una valutazione media di 4,8/5 su circa 25.000 valutazioni (rilevazione dell'11/09/2026): un risultato tra i migliori dell'intera serie.
 
 Il casinò online supera i 3.000 giochi distribuiti su oltre 18 provider, tra cui Playtech, NetEnt, Spribe e Nolimit City. La sezione live si appoggia a Evolution Gaming, Playtech Live e MediaLive Casino su oltre 100 tavoli, e include tavoli brandizzati in esclusiva per Goldbet: Goldbet 21, Goldbet 21 VIP e Goldbet Sport Roulette.
 
@@ -79,9 +79,9 @@ Il bonus di benvenuto arriva fino a 2.050€ nominali, con la stessa struttura i
 
 ### Dove Goldbet può migliorare (Contro)
 
-Il dato più critico riguarda ancora una volta l'assistenza, ma qui il quadro pesa più che altrove nella serie: su Trustpilot, Goldbet raccoglie un punteggio di 2,1/5 su 1.129 recensioni, con l'82% dei giudizi a una stella. Secondo il giudizio editoriale di chi segue il settore da anni (dettagliato in nota fact-check, in fondo), qui il dato non è solo la distorsione tipica delle piattaforme di recensioni negative: riflette una superficialità reale nella gestione del cliente, con una struttura difficile da interfacciare anche per chi lavora all'interno dello stesso ecosistema Goldbet.
+Il dato più critico riguarda ancora una volta l'assistenza: su Trustpilot, Goldbet raccoglie un punteggio di 2,1/5 su 1.129 recensioni, con l'82% dei giudizi a una stella (rilevazione dell'11/09/2026). È un indicatore reputazionale, non una misura statisticamente rappresentativa della qualità del customer care: chi lascia una recensione negativa è strutturalmente sovrarappresentato rispetto alla base clienti complessiva. Detto questo, nel giudizio editoriale di chi segue il settore da anni (dettagliato in nota fact-check, in fondo), qui il segnale non si esaurisce nella distorsione tipica delle piattaforme di recensioni negative: riflette anche una gestione del cliente superficiale, con una struttura difficile da interfacciare anche per chi lavora all'interno dello stesso ecosistema Goldbet.
 
-Sempre secondo questo giudizio, negli ultimi mesi l'operatore avrebbe intensificato le procedure di verifica e blocco sui conti con attività ritenute sospette: una linea più rigorosa, percepita come un ulteriore ostacolo anche se coerente con una tendenza più ampia del comparto regolamentato.
+Sempre secondo questo giudizio editoriale, negli ultimi mesi l'operatore avrebbe intensificato le procedure di verifica e blocco sui conti con attività ritenute sospette: una linea più rigorosa, percepita come un ulteriore ostacolo anche se coerente con una tendenza più ampia del comparto regolamentato.
 
 La registrazione tramite SPID non è più disponibile dal 13 novembre 2025, in coincidenza con il nuovo regime di rilascio delle concessioni online varato da ADM, e la CIE non è un'alternativa attiva per la registrazione (resta valida come documento d'identità caricato a corredo). L'app, infine, non è disponibile su Google Play: su Android l'unica via è il download diretto di un APK dal sito.
 
@@ -203,7 +203,7 @@ Pagina 11 | Contenuto editoriale indipendente
 
 Il servizio clienti è raggiungibile tramite telefono (02 30453039 nei giorni feriali dalle 9:00 alle 20:00, oppure 06 40400860 tutti i giorni dalle 9:00 alle 22:00), live chat sul sito ed email (assistenza@goldbet.it, oltre a indirizzi dedicati per contratti e reclami).
 
-Su Trustpilot l'operatore raccoglie un punteggio di 2,1/5 su 1.129 recensioni, con l'82% dei giudizi a una stella: il dato più critico dell'intera recensione, discusso nel dettaglio in Pro & Contro.
+Su Trustpilot l'operatore raccoglie un punteggio di 2,1/5 su 1.129 recensioni, con l'82% dei giudizi a una stella (rilevazione dell'11/09/2026): un indicatore reputazionale più che una misura diretta della qualità del servizio, con la lettura completa in Pro & Contro.
 
 Pagina 12 | Contenuto editoriale indipendente
 
@@ -221,7 +221,7 @@ Pagina 13 | Contenuto editoriale indipendente
 
 ## FEEDBACK E RECENSIONI
 
-Sull'App Store, l'app Goldbet raggiunge una valutazione media di 4,8/5 su circa 25.000 recensioni: uno dei risultati migliori tra tutti gli operatori passati sotto questa lente.
+Sull'App Store, l'app Goldbet raggiunge una valutazione media di 4,8/5 su circa 25.000 valutazioni (rilevazione dell'11/09/2026): uno dei risultati migliori tra tutti gli operatori di questa serie.
 
 Il quadro cambia radicalmente su Trustpilot, dove Goldbet registra un punteggio di 2,1/5 su 1.129 recensioni, con l'82% dei giudizi a una stella. La divaricazione tra i due canali è ampia quanto quella già vista su altri brand del gruppo, ma qui il rilievo ha più sostanza: riflette un problema reale di gestione del cliente più che una distorsione del canale.
 
@@ -234,13 +234,13 @@ Pagina 14 | Contenuto editoriale indipendente
 | Caratteristica | Goldbet | SNAI | Lottomatica |
 |---|---|---|---|
 | Bonus sport | 100% fino a 50€ + 100% fino a 2.000€ = 2.050€ (rollover x6) | 500€ Gold (x6) + 500€ Game Bonus + 15€ free + 9€ extra = 1.024€ | 100% fino a 50€ + 100% fino a 2.000€ = 2.050€ (rollover x6) |
-| Deposito minimo bonus | 20€ | Non specificato in questa serie | 20€ |
+| Deposito minimo bonus | 20€ | Dato non verificato alla data di aggiornamento | 20€ |
 | Proprietà | GBO Italy S.p.A. (Gruppo Lottomatica) | Gruppo Flutter Entertainment (dal 2025) | Lottomatica Group (capofila) |
 | Prodotto distintivo | App tra le più valutate della categoria (4,8/5); rete di agenzie fisiche affiancata all'online | Ippica, Snaipay, integrazione fisico-digitale | Rete fisica capillare: oltre 4.000 agenzie, 1.100 sale gioco |
 | Registrazione SPID/CIE | Non disponibile dal 13/11/2025 | Sì | Non disponibile dal 13/11/2025 |
-| Licenza ADM | 16009 | Non riportata in questa serie | 16010 |
+| Licenza ADM | 16009 | Dato non verificato alla data di aggiornamento | 16010 |
 
-**Nota**: le cifre di tutti gli operatori rappresentano valori nominali massimi, soggetti a rollover e condizioni di sblocco spesso complesse. Goldbet e Lottomatica condividono oggi la stessa proprietà: la tabella li mette a confronto come prodotti distinti, non come alternative indipendenti.
+**Nota**: le cifre di tutti gli operatori rappresentano valori nominali massimi, soggetti a rollover e condizioni di sblocco spesso complesse, e rilevate in momenti diversi (dati Goldbet aggiornati al 12-13/09/2026, dati SNAI e Lottomatica riutilizzati dalle rispettive recensioni della serie): un confronto indicativo, non un'istantanea unica. Goldbet e Lottomatica condividono oggi la stessa proprietà: la tabella li mette a confronto come prodotti distinti, non come alternative indipendenti.
 
 Pagina 15 | Contenuto editoriale indipendente
 
@@ -248,9 +248,9 @@ Pagina 15 | Contenuto editoriale indipendente
 
 ## IL NOSTRO GIUDIZIO
 
-Goldbet arriva al 2026 con un percorso diverso dagli altri marchi già passati sotto questa lente: nasce online in Austria nel 2000, opera come concessionario indipendente in Italia dal 2015, e solo nel giugno 2022, con la fusione in GBO Italy S.p.A., entra nel Gruppo Lottomatica. Betflag la raggiunge a novembre dello stesso anno, Planetwin365 nel 2024.
+Goldbet arriva al 2026 con un percorso diverso dagli altri marchi già recensiti in questa serie: nasce online in Austria nel 2000, opera come concessionario indipendente in Italia dal 2015, e solo nel giugno 2022, con la fusione in GBO Italy S.p.A., entra nel Gruppo Lottomatica. Betflag la raggiunge a novembre dello stesso anno, Planetwin365 nel 2024.
 
-Sul prodotto, la sintesi di questa recensione è positiva: reputazione solida, app tra le meglio valutate della serie (4,8/5 su circa 25.000 valutazioni), trattamento dei vincenti in linea con gli altri brand del gruppo secondo il giudizio raccolto. Il vero scarto rispetto ai fratelli di portafoglio è sull'assistenza (dettagli in Pro & Contro): qui il divario tra qualità del prodotto e qualità del servizio al cliente è il più ampio registrato finora nella serie, e richiederebbe un investimento reale in fidelizzazione più che un intervento cosmetico.
+Sul prodotto, la sintesi di questa recensione è positiva: reputazione solida, app tra le meglio valutate della serie (4,8/5 su circa 25.000 valutazioni), trattamento dei vincenti in linea con gli altri brand del gruppo secondo il giudizio raccolto. Il vero scarto rispetto agli altri marchi del gruppo è sull'assistenza (dettagli in Pro & Contro): qui il divario tra qualità del prodotto e qualità del servizio al cliente è il più ampio registrato finora nella serie, e richiederebbe un investimento reale in fidelizzazione più che un intervento cosmetico.
 
 Chi cerca un'app solida, un gruppo affidabile alle spalle e un trattamento corretto sulle vincite trova in Goldbet una scelta valida. Chi mette l'assistenza e la rapidità di risoluzione dei problemi tra i criteri decisivi farebbe bene a mettere in conto che qui il margine di miglioramento resta il più ampio del gruppo.
 
@@ -259,6 +259,14 @@ Il voto finale è una sintesi editoriale e non una conversione meccanica della m
 ## VOTO FINALE: 4 SU 5
 
 Pagina 16 | Contenuto editoriale indipendente
+
+---
+
+## NOTA METODOLOGICA
+
+Dati raccolti e verificati tra il 12 e il 13 settembre 2026 da fonti pubbliche: sito ufficiale dell'operatore dove raggiungibile, App Store, Trustpilot, comunicati societari del Gruppo Lottomatica, siti di comparazione scommesse per i dettagli non reperibili su fonte primaria (indicati singolarmente nelle note fact-check). Non sono stati effettuati test diretti su conto di gioco, app o transazioni reali: i dati su bonus, pagamenti, palinsesto e casinò derivano da fonti documentali, non da verifica operativa sul campo. Il rating dell'app è rilevato sulla pagina App Store per iOS: Google Play non è coperto perché l'app non vi è distribuita. Bonus, condizioni di gioco, metodi di pagamento e limiti cambiano nel tempo: verificare sempre i T&C ufficiali aggiornati prima di ogni decisione di gioco.
+
+Pagina 17 | Contenuto editoriale indipendente
 
 ---
 
@@ -276,7 +284,7 @@ Stessa proprietà, ma un'app tra le più apprezzate della categoria. Ha anche un
 **Qual è il punto debole principale di Goldbet?**
 L'assistenza clienti: Trustpilot assegna un punteggio di 2,1/5, e chi opera nel settore conferma una struttura poco flessibile nella gestione dei problemi, anche per chi lavora all'interno dello stesso ecosistema.
 
-Pagina 17 | Contenuto editoriale indipendente
+Pagina 18 | Contenuto editoriale indipendente
 
 ---
 
@@ -290,13 +298,15 @@ Pagina 17 | Contenuto editoriale indipendente
 
 Il gioco è vietato ai minori di 18 anni • Bonus e T&C soggetti a modifica: verificare sempre su goldbet.it
 
-Pagina 18 | Contenuto editoriale indipendente
+Pagina 19 | Contenuto editoriale indipendente
 
 ---
 
 ## Note fact-check
 
 **Correzioni dopo un secondo check esterno (Astra, 12/09/2026), successivo al check Codex high-effort**: una prima stesura di questa recensione conteneva un errore fattuale rilevante e alcune imprecisioni, corrette prima della pubblicazione. Elenco sotto entrambi i round di verifica, non solo l'esito finale, per tracciabilità.
+
+**Terzo round (Astra, 13/09/2026, sulla versione già corretta)**: valutazione 7,5/10 come prodotto editoriale, margine a 8,5/10 con correzioni mirate. Punti recepiti in questa versione: (1) il dato Trustpilot ora è presentato esplicitamente come indicatore reputazionale non statisticamente rappresentativo, con il giudizio editoriale di Alberto separato e attribuito, non fuso nella stessa frase; (2) aggiunta una data di rilevazione (11-13/09/2026) alle cifre più esposte a variazione (rating app, Trustpilot, bonus); (3) le diciture interne "non specificato/non riportata in questa serie" nella tabella comparativa sostituite con "dato non verificato alla data di aggiornamento"; (4) aggiunta la sezione "Nota metodologica" con data di verifica, fonti, dichiarazione esplicita che non sono stati fatti test diretti su conto/app/transazioni, e avviso sulla natura dinamica di bonus e condizioni; (5) ridotte le formule ripetute segnalate ("questa lente", "fratelli di portafoglio"). **Punto compliance chiarito da Alberto (13/09/2026)**: sul rischio di pubblicità indiretta (AGCOM) legato a CTA "VAI SU GOLDBET", voto in evidenza e linguaggio come "scelta valida", il controllo è già nel processo editoriale esistente: ogni recensione della serie passa dal caporedattore prima della pubblicazione, e fin qui non ha sollevato obiezioni sul formato. Non è quindi un punto su cui intervenire in autonomia su questo singolo pezzo: resta la funzione di controllo prevista per l'intera serie. La verifica diretta del flusso di registrazione per la conferma SPID/CIE, richiesta da Astra, resta non fatta: nessuno strumento disponibile in questa sessione permette un test live sul sito, il dato resta quindi di fonte secondaria come già dichiarato sotto
 
 - **Rete fisica Goldbet — errore corretto**: la prima stesura affermava che Goldbet "non ha una rete fisica di punti vendita" e che Lottomatica fosse "l'unico brand del gruppo" con presenza fisica. Falso: Goldbet ha uno store locator ufficiale (goldbet.it/store-locator) e una rete di agenzie/centri scommesse in franchising. Le cifre trovate sul totale punti vendita sono troppo discordanti tra loro per essere pubblicate (da poco più di mille a oltre 18.000, a seconda che la fonte conteggi solo agenzie a marchio Goldbet o l'intera rete multi-brand GBO Italy/Better/Intralot): riportata solo l'esistenza della rete, non un numero. **Implicazione per la serie**: le recensioni Betflag, Planetwin365 e Lottomatica, già inviate al caporedattore, ripetono lo stesso claim di esclusività su Lottomatica senza che sia mai stato verificato per differenza — andrebbe controllato e corretto anche lì
 - Licenza ADM concessione n. 16009 in capo a GBO Italy S.p.A.: dato già verificato e riutilizzato nelle recensioni Betflag e Planetwin365 di questa serie, corroborato in questa sessione da tre fonti indipendenti convergenti (eurosport.it, tribuna.com, tech-insider.org). Il numero della concessione precedente, sostituita con il nuovo bando ADM, non è riportato: le fonti trovate (15226) non erano sufficientemente solide da pubblicare, a differenza del caso Betflag (GAD 15007 → 16008) dove la fonte era più solida

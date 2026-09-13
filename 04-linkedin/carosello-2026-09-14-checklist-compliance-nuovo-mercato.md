@@ -49,15 +49,11 @@ One regulated market entry we worked on stalled exactly here: unclear whether th
 
 ## Caption post (accompagna il carosello)
 
-Most market entry checklists list the same three items: licence, certification, technical integration. Almost none of them says which one the other two depend on.
+Most market entry checklists list licence, certification and technical integration as three equal items. They rarely say which one gates the others.
 
-In the entries we've worked on from the aggregator side, licensing is where things stall first, more often than product or price. The question that comes up early isn't which games you carry. It's who drafts the contract when there's no direct relationship with the licence holder.
+In the entries we've worked on, licensing is where things stall first, more often than product or price. Belgium makes the sequencing explicit by law: no online licence without a land-based one already in place.
 
-Belgium makes one version of this explicit in law: an online licence only exists as an add-on to a matching land-based one already in place.
-
-Certify your providers before that structure is settled, and you're certifying for an entry that might close differently, or not close at all.
-
-One entry we worked on stalled on exactly this question. Once the licence holder became the contracting party, with the technical partner operating under that licence, certification started moving, and the next operator on the same licence didn't have to repeat it.
+Certify providers before that structure is settled, and you're certifying for an entry that might close differently, or not at all.
 
 This week's edition of The Betting Edge goes deeper on the mechanism. In Italian, link in the newsletter.
 
