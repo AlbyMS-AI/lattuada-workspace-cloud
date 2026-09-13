@@ -75,8 +75,8 @@ Titolo PDF: `Market entry compliance checklist iGaming licensing Alberto Lattuad
 - [x] Fatto pubblico (modello belga) verificabile, non da fonte interna. Nessun numero di sentenza citato nel testo pubblico: non verificato a fonte primaria da Alberto/Claude, solo il meccanismo generale (confermato da più fonti indipendenti) resta in pubblicazione
 - [x] Check editoriale Codex (12/09/2026, effort high): risolta la contraddizione slide 1/7 (non più "l'ordine è sbagliato" ma "la dipendenza non è risolta"), scalati gli assoluti ("every", "operators" generico), tolte le tecniche di umanizzazione impilate (frammenti ripetuti, antitesi multiple), aggiunto un arco concreto (incertezza → decisione → sblocco) alla slide 8 invece del gloss "ha funzionato"
 - [ ] Autocontrollo anti-AI EN (`../01-tono-di-voce/anti-ai-checklist-en.md`) — ultima verifica prima della pubblicazione
-- [ ] Produzione grafica (Canva/NotebookLM) dopo conferma testo da Alberto
-- [ ] Rinominare il file PDF con il titolo SEO prima dell'upload
+- [x] Produzione grafica — **NotebookLM scartato dopo 2 tentativi (13/09/2026)**: entrambi con 0 font incorporati/testo non selezionabile (`pdffonts`/`pypdf`), il secondo anche con refusi nuovi e una slide con le frasi nell'ordine sbagliato. Prodotto invece con la pipeline locale HTML + `render.sh` (stessa usata per la copertina N5): sorgente `grafiche/src/2026-09-14-carosello-checklist-compliance.html`, verificato con `pdffonts`/`pypdf` — font veri incorporati, testo estratto identico parola per parola al testo approvato
+- [x] File finale: `grafiche/Market entry compliance checklist iGaming licensing Alberto Lattuada.pdf` (già nominato con il titolo SEO)
 
 ## Note pubblicazione
 
