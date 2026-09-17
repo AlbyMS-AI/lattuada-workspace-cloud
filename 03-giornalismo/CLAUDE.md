@@ -120,6 +120,8 @@ Linear in `task-list.md` (progetto Giornalismo), lette da ALDO ogni lunedì matt
 4. UMANIZZAZIONE — revisione tono, rimozione strutture AI, voce personale
 ```
 
+**Prima di iniziare la RICERCA:** verificare che il contesto sia esplicito, non assunto — cosa ha già scritto la testata su questo tema (guidelines, articoli precedenti), quali affermazioni sono sostenibili su fonte e quali no, cosa distingue l'angolo da uno già visto altrove. Se manca, si chiede o si cerca, non si inventa. Principio di metodo: `../00-contesto/09-metodo.md`, principio 6 ("Il contesto si costruisce prima").
+
 La fase di umanizzazione segue sempre la checklist anti-AI completa:
 `../01-tono-di-voce/anti-ai-checklist.md` (punteggiatura, aperture da formula, pattern
 "Non è X. È Y.", lessico da evitare, ritmo delle frasi, autocontrollo finale). Vale per

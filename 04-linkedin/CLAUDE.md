@@ -30,6 +30,8 @@ Obiettivi LinkedIn:
 
 **Regola fissa (sempre, dal 27/07/2026 — Lezione 7 MLR):** prima di scrivere un post, un sondaggio, o di sviluppare un blocco del piano editoriale, fare sempre le domande dinamiche di MLR — tema, posizione (favorevole/contraria/sfumata), dati/episodi personali o case study, CTA e verso cosa, angolo di lettura. Anche se il piano editoriale ha già un'idea per quello slot, quell'idea resta un riferimento, non un vincolo: il contenuto reale si decide a quel momento, non quando si è scritto il piano. Dettaglio del modello in `piano-editoriale-2026.md`, sezione "Modello operativo"; domande complete in `content-strategy/post-linkedin/istruzioni.md` e `content-strategy/sondaggi/istruzioni.md`.
 
+Le domande MLR raccolgono il brief del singolo pezzo, ma non sostituiscono il contesto di brand che deve già essere esplicito prima di scrivere: cosa Alberto può realmente sostenere su questo tema, quali dati/esperienze sul campo usare, cosa lo distingue da un altro che scrive sullo stesso argomento. Se manca, si chiede invece di far scrivere l'AI a vuoto. Principio di metodo: `../00-contesto/09-metodo.md`, principio 6 ("Il contesto si costruisce prima").
+
 - No hashtag — mai
 - No emoji — mai
 - No disclaimer o avvertenze
