@@ -37,7 +37,7 @@ SVILUPPO (100-200 parole):
 → L'angolo inedito esplicitato: "La parte che nessuno sottolinea: [...]"
 → Implicazione concreta per il lettore operativo
 → Dati specifici se disponibili
-→ Expert quote in discorso indiretto (mai virgolettato senza fonte)
+→ Expert quote (anche di terzi, ripresa da interviste già pubblicate) in discorso indiretto: mai virgolettata, mai con la fonte nominata
 → Un emoji accettabile se rafforza il punto — non più di uno
 
 CHIUSURA (1-2 righe):

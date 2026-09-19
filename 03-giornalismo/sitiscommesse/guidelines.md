@@ -64,7 +64,7 @@ Aggiungere 3-4 paragrafi extra da ~50-60 parole ciascuno all'unico blocco di tes
 - Nessun link a pagine 404 o redirect non pertinenti
 
 ## Regole su citazioni e dichiarazioni
-- **Nessuna dichiarazione virgolettata diretta** — se non si può linkare la fonte, non si cita testualmente
+- **Nessuna dichiarazione virgolettata diretta, mai** — anche quando la fonte è disponibile e linkabile, non si cita testualmente
 - Usa sempre il **discorso indiretto**: "secondo X", "come ha dichiarato Y a [testata]", "stando a quanto riportato da..."
 
 ## Regole sul grassetto
@@ -77,7 +77,7 @@ Aggiungere 3-4 paragrafi extra da ~50-60 parole ciascuno all'unico blocco di tes
 - Titoli clickbait
 - Paragrafi senza una conclusione del pensiero
 - Link non testati o a siti concorrenti
-- Citazioni dirette senza link alla fonte
+- Citazioni dirette, in qualsiasi forma (anche con fonte disponibile)
 - Testo sopra le 65 parole per paragrafo (rimani nei range)
 
 ## Checklist anti-AI

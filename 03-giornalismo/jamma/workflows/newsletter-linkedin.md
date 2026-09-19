@@ -64,6 +64,9 @@ Stesso rigore analitico, stesso meccanismo editoriale. Il tono è leggermente pi
 ### Step 1 — Trovare l'angolo della settimana
 Stessa logica dell'articolo: la domanda sotto la domanda.
 
+Stessa regola sulle interviste di terzi e sulle 5W dell'articolo standalone
+(`article-1000-1400.md`, Step 2): vale identica anche qui.
+
 Per la newsletter, l'angolo può essere costruito anche su:
 - Un dato che è circolato nei meeting di settore questa settimana ma che nessuno ha letto bene
 - Una sentenza/norma la cui implicazione reale è diversa da come è stata riportata

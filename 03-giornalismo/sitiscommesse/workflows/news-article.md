@@ -21,8 +21,8 @@
 
 ### Step 2 — Ricerca e verifica fatti
 - Verifica su fonti primarie: ADM, comunicati operatori, AGIPRO, AGIMEG
-- Raccogli: chi, cosa, quando, impatto pratico per il lettore
-- **Nessuna citazione diretta** senza link alla fonte — usa discorso indiretto
+- Raccogli le 5W: chi, cosa, quando, dove, perché — più l'impatto pratico per il lettore
+- **Nessuna citazione diretta, mai** (anche con fonte disponibile) — sempre discorso indiretto
 - Identifica un trust link (fonte istituzionale o autorevole) da inserire nel testo
 
 ### Step 3 — Scrittura
@@ -71,7 +71,7 @@ Controlla prima di chiudere:
 - [ ] Ogni paragrafo: 50-60 parole
 - [ ] Bold presente in ogni paragrafo (3-8 parole)
 - [ ] Trust link inserito (con target="_blank")
-- [ ] Nessuna citazione diretta senza fonte
+- [ ] Nessuna citazione diretta, in nessun caso
 - [ ] Nessuna opinione o commento
 
 ### Step 6 — Verifica link

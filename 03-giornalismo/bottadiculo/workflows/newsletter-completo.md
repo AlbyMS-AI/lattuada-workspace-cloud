@@ -39,6 +39,10 @@ Esempi di rotazione dell'angolo:
 
 **Checkpoint**: struttura prima, testo dopo. Proponi l'angolo e attendi conferma.
 
+Prima di chiudere l'angolo, verifica le 5W sul fatto di partenza (chi, cosa, quando,
+dove, perché — regola comune in `../../CLAUDE.md`) e se esiste un'intervista/dichiarazione
+già pubblicata da altri utilizzabile per sostenere la tesi dell'edizione.
+
 ---
 
 ## FASE 2 — Struttura
@@ -104,6 +108,8 @@ Fact-check:
 - [ ] Ogni dato è verificabile e ha una fonte
 - [ ] Nomi, date, titoli istituzionali sono corretti
 - [ ] Nessuna affermazione inventata o inferita senza base
+- [ ] Citazioni di terzi (persone): sempre in discorso indiretto, mai virgolettate, mai
+  con la fonte/testata di provenienza nominata nel testo
 
 Umanizzazione:
 - [ ] L'apertura entra subito nel vivo, senza premesse

@@ -120,6 +120,30 @@ Linear in `task-list.md` (progetto Giornalismo), lette da ALDO ogni lunedì matt
 4. UMANIZZAZIONE — revisione tono, rimozione strutture AI, voce personale
 ```
 
+**Le 5W in fase di RICERCA.** Prima di passare a SVILUPPO, ogni pezzo (eccetto le rubriche
+derivate da un articolo già pubblicato) deve poter rispondere a: chi, cosa, quando, dove,
+perché. Non è un formalismo da news breve: è il modo in cui un fatto raccontato a metà
+("è successo", senza dire a chi, con quali tempi, in quale sede) produce un pezzo debole
+anche quando l'angolo è giusto. Per Jamma e Bottadiculo le 5W sono il punto di partenza
+della ricerca, non il testo finale: il "perché" è spesso proprio la domanda sotto la
+domanda che genera l'angolo (Step 1 dei rispettivi workflow).
+
+**Interviste e dichiarazioni di terzi.** Alberto non fa sempre l'intervista diretta. Si può
+riprendere il contenuto di un'intervista o dichiarazione già pubblicata da altri (altri
+giornalisti, altre testate) per sostenere la tesi del pezzo, con due condizioni sempre
+valide:
+
+- mai in citazione diretta virgolettata
+- sempre in discorso indiretto, riformulato con parole proprie, mai la fonte/testata di
+  provenienza nominata nel testo
+
+Questo vale per Jamma e Bottadiculo. **Non vale per Sitiscommesse**, dove le citazioni
+dirette sono vietate sempre, indipendentemente dalla fonte (vedi guidelines e workflow
+di dominio) — il formato è solo fatti, non c'è tesi da sostenere con la voce di qualcun altro.
+Resta invece invariata la regola sulla citazione diretta di documenti scritti (norme,
+sentenze, comunicati): quella va sempre ancorata alla fonte, perché è verificabile da
+chiunque e non espone nessuno. La regola nuova riguarda solo le persone, non i testi.
+
 **Prima di iniziare la RICERCA:** verificare che il contesto sia esplicito, non assunto — cosa ha già scritto la testata su questo tema (guidelines, articoli precedenti), quali affermazioni sono sostenibili su fonte e quali no, cosa distingue l'angolo da uno già visto altrove. Se manca, si chiede o si cerca, non si inventa. Principio di metodo: `../00-contesto/09-metodo.md`, principio 6 ("Il contesto si costruisce prima").
 
 La fase di umanizzazione segue sempre la checklist anti-AI completa:
@@ -133,6 +157,27 @@ per il resto sì.
 - Il lettore è un addetto ai lavori: non spiegare l'ovvio
 - I numeri rendono un articolo credibile: cercali sempre
 - Il punto di vista personale è un valore, non un rischio (eccetto Sitiscommesse)
+- **Punto di vista privilegiato, diverso per testata.** Il vantaggio di Alberto rispetto a
+  chi scrive di iGaming senza il suo osservatorio non è lo stesso su Jamma e su Bottadiculo:
+  - **Jamma**: l'osservatorio B2B del lavoro quotidiano in Softswiss (dinamiche aggregator/
+    provider, meccanismi di deal, pattern di mercato osservati da dentro). Si applica la
+    stessa disciplina di rielaborazione già in vigore per LinkedIn
+    (`../04-linkedin/CLAUDE.md`, sezione "Fonti di contenuto" — fonte interna sì, dato
+    interno no): mai nomi, cifre o dettagli identificabili di deal/clienti/prospect, solo
+    il meccanismo o il pattern, mai competitive intelligence interna presentata come tale.
+  - **Bottadiculo**: la prossimità operativa al campo (rete PVR/sottocasse, esperienza
+    omnichannel terrestre/online di LasVegas) che un giornalista solo desk non ha. Qui non
+    c'è un vincolo di confidenzialità aziendale equivalente a quello Softswiss, ma la stessa
+    logica di fondo: raccontare cosa cambia per chi lavora sul campo con la credibilità di
+    chi quel campo lo conosce, non con l'osservazione generica di chi lo racconta da fuori.
+
+  Questo criterio non sostituisce il gate sul punto di vista personale già in uso
+  (`AskUserQuestion` prima di scrivere, vedi `jamma/SKILL.md` e `bottadiculo/SKILL.md`):
+  quel gate estrae il giudizio di Alberto su un fatto specifico, questo criterio riguarda
+  da dove viene il suo vantaggio informativo. Non è un requisito meccanico su ogni singolo
+  pezzo (la distinzione tra le due testate si affina pezzo per pezzo, non è una formula
+  fissa): è un criterio da tenere presente in fase di ricerca e di scelta dell'angolo,
+  soprattutto quando un tema rischia di restare una sintesi che chiunque potrebbe scrivere.
 - Titoli: H1 e H2 devono contenere le keyword del topic (SEO), non solo tesi editoriali
 - Apertura: entra subito nel vivo, nessuna premessa
 - No trattini (- o —) nel corpo del testo
