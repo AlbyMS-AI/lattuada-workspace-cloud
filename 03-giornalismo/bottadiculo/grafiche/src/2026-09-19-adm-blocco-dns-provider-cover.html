@@ -1,0 +1,129 @@
+<!--
+  Template fisso — main image "Gambling Insights" (Bottadiculo, newsletter LinkedIn lunedì 7:30)
+  Standardizzato il 06/09/2026. Uso: copiare in ../[data]-[slug]-cover.html, sostituire i 4
+  campi in fondo (kicker edizione+data, h1, sub, e nient'altro — il pannello sinistro non
+  cambia mai), poi:
+    ./render.sh png src/[data]-[slug]-cover.html [data]-[slug]-cover.png 1280x720
+  Formato 1280x720 (16:9) — corretto per copertina newsletter LinkedIn, non 4:5 (quello è per
+  i post con immagine). Palette Bottadiculo reale: vedi ../../palette-brand.md.
+-->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{
+    --indigo:#1C0F3A; --indigo2:#150a2c; --arancio:#F9511F; --viola:#6330C7; --bianco:#FFFFFF;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:1280px;height:720px;overflow:hidden}
+  body{
+    display:flex;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    background:var(--bianco);
+  }
+
+  /* Pannello sinistro — identità fissa della testata, non cambia mai */
+  .mark-panel{
+    width:38%;height:100%;
+    background:linear-gradient(160deg, var(--indigo) 0%, var(--indigo2) 100%);
+    position:relative;
+    display:flex;align-items:center;justify-content:center;
+    overflow:hidden;
+  }
+  .blob{position:absolute;border-radius:50%;filter:blur(1px)}
+  .blob1{width:260px;height:260px;background:var(--viola);opacity:.28;top:-90px;left:-90px}
+  .blob2{width:160px;height:160px;background:var(--viola);opacity:.22;bottom:-50px;right:-40px}
+
+  .crack-mark{position:relative;width:200px;height:200px;transform:rotate(-6deg)}
+  .wordmark-bottom{
+    position:absolute;bottom:48px;left:0;right:0;text-align:center;
+  }
+  .wordmark-bottom .brand{
+    font-size:15px;letter-spacing:.22em;text-transform:uppercase;
+    color:var(--bianco);font-weight:700;opacity:.85;
+  }
+
+  /* Pannello destro — testo, cambia a ogni edizione */
+  .text-panel{
+    width:62%;height:100%;
+    padding:48px 60px 0;
+    display:flex;flex-direction:column;
+    position:relative;
+  }
+
+  .masthead{margin-bottom:24px}
+  .masthead .label{
+    font-size:38px;font-weight:800;color:var(--indigo);letter-spacing:-.01em;line-height:1;
+  }
+  .masthead .sub-label{
+    font-size:17px;font-weight:600;color:var(--viola);letter-spacing:.02em;margin-top:4px;
+  }
+
+  .box{
+    flex:1;display:flex;flex-direction:column;justify-content:center;
+    border-top:2px solid rgba(99,48,199,.25);padding-top:22px;
+  }
+  .box .kicker{
+    display:inline-flex;align-items:center;
+    font-size:15px;letter-spacing:.08em;text-transform:uppercase;
+    color:var(--bianco);font-weight:700;margin-bottom:16px;
+    background:var(--arancio);
+    padding:6px 16px;border-radius:100px;
+    width:fit-content;
+  }
+  .box h1{
+    font-size:36px;line-height:1.18;font-weight:800;color:var(--indigo);
+    letter-spacing:-.01em;margin-bottom:14px;max-width:640px;
+  }
+  .box .sub{
+    font-size:19px;line-height:1.42;color:#3a2f57;font-weight:400;
+    max-width:600px;
+  }
+
+  .footer{
+    margin-top:22px;padding-bottom:30px;
+    display:flex;justify-content:space-between;align-items:center;gap:40px;
+    padding-top:16px;border-top:1px solid rgba(28,15,58,.12);
+  }
+  .byline{font-size:19px;font-weight:700;color:var(--indigo)}
+  .tagline{font-size:14px;color:var(--indigo);opacity:.65;text-align:right}
+</style>
+</head>
+<body>
+
+  <div class="mark-panel">
+    <div class="blob blob1"></div>
+    <div class="blob blob2"></div>
+    <div class="crack-mark">
+      <svg width="200" height="200" viewBox="0 0 200 200">
+        <rect x="0" y="0" width="200" height="200" rx="22" fill="#F9511F"/>
+        <polyline points="118,0 100,38 122,58 92,104 118,132 108,200"
+          fill="none" stroke="#1C0F3A" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <div class="wordmark-bottom">
+      <div class="brand">Bottadiculo.it</div>
+    </div>
+  </div>
+
+  <div class="text-panel">
+    <div class="masthead">
+      <div class="label">Gambling Insights</div>
+      <div class="sub-label">Newsletter LinkedIn</div>
+    </div>
+
+    <div class="box">
+      <div class="kicker">#82 · 21 settembre 2026</div>
+      <h1>Il blocco ADM non è uguale per tutti i provider</h1>
+      <div class="sub">Il sito è nella lista dei domini oscurati. Non significa che sia irraggiungibile ovunque, subito, per chiunque.</div>
+    </div>
+
+    <div class="footer">
+      <div class="byline">Bottadiculo</div>
+      <div class="tagline">Voce editoriale del settore iGaming italiano</div>
+    </div>
+  </div>
+
+</body>
+</html>

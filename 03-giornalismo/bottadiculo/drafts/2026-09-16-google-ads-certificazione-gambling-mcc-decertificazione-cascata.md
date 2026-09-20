@@ -21,4 +21,4 @@ Salva questo post e chiedilo oggi alla tua agenzia.
 
 **Fonti:** [SBC News, "Google sets unbreakable rules for all gambling advertisers"](https://sbcnews.co.uk/marketing/2026/09/15/google-rules-2026/); [Google Ads, aggiornamento policy certificazione gambling](https://support.google.com/adspolicy/answer/17199930?hl=en-GB); [European Gaming, "Google's updated gambling advertising rules place agencies in the firing line"](https://europeangaming.eu/portal/latest-news/2026/09/15/214114/googles-updated-gambling-advertising-rules-place-agencies-in-the-firing-line/).
 
-**Grafica:** `04-linkedin/grafiche/2026-09-16-google-ads-mcc-cascata-cover.png` (1080×1350, template fisso post singolo Bottadiculo). Kicker "Google Ads", H1 aggiornato dopo il fact-check: "Il tuo account è tuo. Non la sua certificazione."
+**Grafica:** `../grafiche/2026-09-16-google-ads-mcc-cascata-cover.png` (1080×1350, template fisso post singolo Bottadiculo). Kicker "Google Ads", H1 aggiornato dopo il fact-check: "Il tuo account è tuo. Non la sua certificazione."

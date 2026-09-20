@@ -63,8 +63,10 @@ CHIUSURA (1-2 righe):
 Aggiunta il 07/09/2026: ogni post di questo formato produce sempre una main image, nessuna
 eccezione salvo istruzione esplicita di Alberto.
 
-Template fisso: `../../../04-linkedin/grafiche/src/templates/bottadiculo-post-template.html`
-(1080×1350px, 4:5). Compilare solo due campi:
+Template fisso: `../grafiche/src/templates/bottadiculo-post-template.html`
+(1080×1350px, 4:5). Vive in `bottadiculo/grafiche/`, non in `04-linkedin/grafiche/`
+(riservata alle grafiche personali di Alberto, corretto il 20/09/2026). Compilare solo due
+campi:
 - **Kicker**: il tema del pezzo, non un numero di edizione (questo non è la newsletter)
 - **H1**: l'hook del post, la frase che ferma lo scroll
 
@@ -72,10 +74,10 @@ Tutto il resto (icona di marca, palette, layout, footer) resta fisso — non si 
 edizione. Poi:
 
 ```
-cd 04-linkedin/grafiche
-./render.sh png src/[data]-[slug]-cover.html [data]-[slug]-cover.png 1080x1350
+cd 03-giornalismo/bottadiculo/grafiche
+../../../04-linkedin/grafiche/render.sh png src/[data]-[slug]-cover.html [data]-[slug]-cover.png 1080x1350
 ```
 
 ## Output
 Post pronto (testo + eventuale emoji) da incollare su LinkedIn, più la main image
-in `04-linkedin/grafiche/[data]-[slug]-cover.png`
+in `bottadiculo/grafiche/[data]-[slug]-cover.png`

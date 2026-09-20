@@ -104,7 +104,7 @@ Differenze principali rispetto alle newsletter del lunedì:
 - **Nessuna rubrica fissa**, quelle restano un tratto distintivo solo della newsletter
 - **Jamma:** nessuna grafica, layer SEO nel workflow articolo
 - **Bottadiculo:** grafica sempre, template fisso per post singolo (diverso da quello della
-  newsletter — vedi `04-linkedin/grafiche/src/templates/`)
+  newsletter — vedi `bottadiculo/grafiche/src/templates/`)
 - **Valvola di sicurezza:** se la settimana è troppo piena, salta prima il pezzo di venerdì, la
   newsletter del lunedì non salta mai
 

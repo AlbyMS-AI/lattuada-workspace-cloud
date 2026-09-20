@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{
+    --indigo:#1C0F3A; --arancio:#F9511F; --viola:#6330C7; --bianco:#FFFFFF;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:1080px;height:1350px;overflow:hidden}
+  body{
+    position:relative;
+    background:var(--indigo) url("../inbox/invisible-funnel-onboarding-kyc-brand.png") center 8% / cover no-repeat;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color:var(--bianco);
+  }
+  .scrim{
+    position:absolute;left:0;right:0;bottom:0;height:62%;
+    background:linear-gradient(180deg, rgba(28,15,58,0) 0%, rgba(28,15,58,.55) 28%, rgba(28,15,58,.94) 62%, var(--indigo) 100%);
+  }
+  .content{
+    position:absolute;left:0;right:0;bottom:0;padding:0 76px 56px;
+  }
+  .kicker{
+    font-size:24px;letter-spacing:.18em;text-transform:uppercase;
+    color:var(--arancio);font-weight:600;margin-bottom:20px;
+  }
+  h1{
+    font-size:58px;line-height:1.14;font-weight:800;
+    letter-spacing:-.01em;margin-bottom:34px;max-width:900px;
+  }
+  h1 .accent{color:var(--arancio)}
+  .footer{
+    display:flex;justify-content:space-between;align-items:baseline;
+    border-top:2px solid rgba(249,81,31,.35);padding-top:22px;
+  }
+  .byline{font-size:26px;font-weight:700}
+  .byline span{color:var(--arancio);font-weight:400}
+  .tagline{font-size:22px;color:var(--arancio)}
+</style>
+</head>
+<body>
+  <div class="scrim"></div>
+  <div class="content">
+    <div class="kicker">Bottadiculo · Onboarding</div>
+    <h1>857 su 1000. <span class="accent">Nessun errore in vista.</span></h1>
+    <div class="footer">
+      <div class="byline">Bottadiculo</div>
+      <div class="tagline">Funnel KYC · luglio 2026</div>
+    </div>
+  </div>
+</body>
+</html>

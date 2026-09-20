@@ -1,0 +1,133 @@
+<!--
+  Infografica 2 — Gambling Insights #82. Checklist con icona propria per ogni azione
+  (non solo numeri): ogni punto ha un pittogramma disegnato ad hoc coerente col contenuto.
+  Render: ../../../04-linkedin/grafiche/render.sh png src/[questo file] [output].png 1080x1350
+-->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{
+    --indigo:#1C0F3A; --indigo2:#150a2c; --arancio:#F9511F; --viola:#6330C7; --bianco:#FFFFFF;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:1080px;height:1350px;overflow:hidden}
+  body{
+    position:relative;
+    background:linear-gradient(165deg, var(--indigo) 0%, var(--indigo2) 100%);
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color:var(--bianco);
+  }
+  .blob{position:absolute;border-radius:50%;filter:blur(1px)}
+  .blob1{width:280px;height:280px;background:var(--viola);opacity:.20;bottom:-100px;left:-100px}
+
+  .wrap{position:relative;padding:64px 64px 56px;height:100%;display:flex;flex-direction:column}
+
+  .kicker{
+    display:inline-flex;align-items:center;
+    font-size:19px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--bianco);font-weight:700;margin-bottom:22px;
+    background:var(--arancio);padding:7px 18px;border-radius:100px;width:fit-content;
+  }
+  h1{font-size:46px;line-height:1.18;font-weight:800;letter-spacing:-.01em;margin-bottom:40px;max-width:920px}
+
+  .list{display:flex;flex-direction:column;gap:22px;flex:1}
+  .item{
+    display:flex;align-items:flex-start;gap:24px;
+    background:rgba(255,255,255,.06);border:1.5px solid rgba(255,255,255,.14);
+    border-radius:20px;padding:26px 28px;
+  }
+  .item .icon-box{
+    flex-shrink:0;width:64px;height:64px;border-radius:16px;
+    display:flex;align-items:center;justify-content:center;
+    background:rgba(249,81,31,.16);
+  }
+  .item .text .role{
+    font-size:17px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;
+    color:var(--arancio);margin-bottom:8px;
+  }
+  .item .text .action{font-size:23px;line-height:1.35;font-weight:600}
+
+  .footer{
+    margin-top:34px;padding-top:24px;border-top:2px solid rgba(255,255,255,.18);
+    display:flex;justify-content:space-between;align-items:baseline;
+  }
+  .footer .byline{font-size:22px;font-weight:700}
+  .footer .tagline{font-size:18px;color:var(--arancio)}
+</style>
+</head>
+<body>
+  <div class="blob blob1"></div>
+  <div class="wrap">
+    <div class="kicker">Cosa cambia da domani</div>
+    <h1>Quattro azioni per chi lavora sul blocco ADM ogni giorno</h1>
+
+    <div class="list">
+      <div class="item">
+        <div class="icon-box">
+          <!-- lente di ingrandimento: verifica -->
+          <svg width="34" height="34" viewBox="0 0 34 34" fill="none">
+            <circle cx="14" cy="14" r="10" stroke="#F9511F" stroke-width="3"/>
+            <line x1="21.5" y1="21.5" x2="30" y2="30" stroke="#F9511F" stroke-width="3.2" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div class="text">
+          <div class="role">Brand protection</div>
+          <div class="action">Verifica il blocco sui principali provider italiani, non solo su quello che usi tu.</div>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="icon-box">
+          <!-- fumetto: comunicazione -->
+          <svg width="34" height="34" viewBox="0 0 34 34" fill="none">
+            <path d="M4 6h26v16H14l-6 6v-6H4z" stroke="#F9511F" stroke-width="3" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="text">
+          <div class="role">Gioco responsabile</div>
+          <div class="action">"Nella lista degli oscurati" non è lo stesso messaggio di "bloccato per tutti".</div>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="icon-box">
+          <!-- radar: monitoraggio varianti -->
+          <svg width="34" height="34" viewBox="0 0 34 34" fill="none">
+            <circle cx="17" cy="17" r="14" stroke="#F9511F" stroke-width="2.4"/>
+            <circle cx="17" cy="17" r="8" stroke="#F9511F" stroke-width="2"/>
+            <circle cx="17" cy="17" r="2.4" fill="#F9511F"/>
+            <line x1="17" y1="3" x2="17" y2="8" stroke="#F9511F" stroke-width="2.4"/>
+          </svg>
+        </div>
+        <div class="text">
+          <div class="role">Monitoraggio</div>
+          <div class="action">Tieni d'occhio le varianti di dominio, non solo l'originale già oscurato.</div>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="icon-box">
+          <!-- cronometro: tempi di propagazione -->
+          <svg width="34" height="34" viewBox="0 0 34 34" fill="none">
+            <circle cx="17" cy="19" r="12" stroke="#F9511F" stroke-width="3"/>
+            <line x1="17" y1="19" x2="17" y2="11" stroke="#F9511F" stroke-width="3" stroke-linecap="round"/>
+            <line x1="17" y1="19" x2="22" y2="19" stroke="#F9511F" stroke-width="3" stroke-linecap="round"/>
+            <line x1="13" y1="4" x2="21" y2="4" stroke="#F9511F" stroke-width="3" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div class="text">
+          <div class="role">Provider minori</div>
+          <div class="action">Verifica i tuoi tempi di propagazione delle regole ADM rispetto ai grandi operatori.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="byline">Bottadiculo</div>
+      <div class="tagline">Gambling Insights #82</div>
+    </div>
+  </div>
+</body>
+</html>

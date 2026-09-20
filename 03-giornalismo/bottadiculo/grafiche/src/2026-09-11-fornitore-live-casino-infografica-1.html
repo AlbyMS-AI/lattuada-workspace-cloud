@@ -1,0 +1,94 @@
+<!--
+  Infografica 1 — edizione #81 Gambling Insights. Timeline del caso.
+  Pipeline locale HTML (fallback verificato 13/09/2026, NotebookLM inaffidabile su testo selezionabile).
+  Render: ./render.sh png src/2026-09-11-fornitore-live-casino-infografica-1.html 2026-09-11-fornitore-live-casino-infografica-1.png 1080x1350
+-->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{
+    --indigo:#1C0F3A; --arancio:#F9511F; --viola:#6330C7; --bianco:#FFFFFF;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:1080px;height:1350px;overflow:hidden}
+  body{
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    background:var(--indigo);color:var(--bianco);
+    display:flex;flex-direction:column;
+  }
+  .pad{padding:80px 76px}
+
+  .kicker{
+    display:inline-flex;align-items:center;
+    font-size:22px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;
+    color:var(--bianco);background:var(--arancio);
+    padding:10px 22px;border-radius:100px;width:fit-content;
+  }
+  h1{
+    font-size:46px;line-height:1.22;font-weight:800;letter-spacing:-.01em;
+    margin-top:36px;max-width:880px;
+  }
+
+  .timeline{
+    flex:1;display:flex;flex-direction:column;justify-content:center;
+    gap:0;padding:0 76px;
+  }
+  .item{
+    display:flex;gap:32px;align-items:flex-start;
+    padding:28px 0;border-bottom:1px solid rgba(255,255,255,.14);
+  }
+  .item:last-child{border-bottom:none}
+  .item .date{
+    font-size:30px;font-weight:800;color:var(--arancio);min-width:210px;
+  }
+  .item .fact{
+    font-size:30px;line-height:1.34;font-weight:500;color:var(--bianco);
+  }
+  .item .fact b{color:var(--bianco);font-weight:800}
+
+  .footer{
+    padding:0 76px 64px;
+    display:flex;justify-content:space-between;align-items:center;
+    font-size:24px;font-weight:700;color:var(--viola);
+  }
+  .footer span{color:var(--bianco);opacity:.6;font-weight:400;font-size:20px}
+</style>
+</head>
+<body>
+
+  <div class="pad" style="padding-bottom:0">
+    <div class="kicker">Compliance</div>
+    <h1>Una causa, quasi cinque anni, tre regolatori</h1>
+  </div>
+
+  <div class="timeline">
+    <div class="item">
+      <div class="date">Dic 2021</div>
+      <div class="fact">Il fornitore di live casino avvia la causa contro la società di investigazione.</div>
+    </div>
+    <div class="item">
+      <div class="date">2024</div>
+      <div class="fact"><b>Due regolatori USA</b> chiudono una revisione sugli stessi fatti senza chiedere interventi correttivi.</div>
+    </div>
+    <div class="item">
+      <div class="date">Giu 2026</div>
+      <div class="fact">Il giudice respinge, senza pregiudizio, la richiesta di aggiungere il concorrente come convenuto diretto.</div>
+    </div>
+    <div class="item">
+      <div class="date">Lug 2026</div>
+      <div class="fact">Lo stesso fornitore raggiunge un accordo da quasi <b>5 milioni di sterline</b> con un'autorità europea, episodio distinto e non collegato alla causa.</div>
+    </div>
+    <div class="item">
+      <div class="date">Set 2026</div>
+      <div class="fact">Il report indipendente, tenuto riservato, diventa pubblico e riaccende la disputa.</div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div>Bottadiculo <span>· Gambling Insights #81</span></div>
+  </div>
+
+</body>
+</html>

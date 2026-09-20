@@ -77,7 +77,7 @@ Se dopo il rodaggio (checkpoint 12/10) il carico si rivela insostenibile, la pri
 
 ## Grafiche
 
-**Sempre.** Ogni post di questo ciclo produce una main image, nessuna eccezione salvo istruzione esplicita di Alberto — vedi `workflows/post-linkedin.md`, Step 5, e il template fisso `../../04-linkedin/grafiche/src/templates/bottadiculo-post-template.html`.
+**Sempre.** Ogni post di questo ciclo produce una main image, nessuna eccezione salvo istruzione esplicita di Alberto — vedi `workflows/post-linkedin.md`, Step 5, e il template fisso `grafiche/src/templates/bottadiculo-post-template.html`. Le grafiche Bottadiculo vivono in `grafiche/`, non in `04-linkedin/grafiche/` (riservata alle grafiche personali di Alberto, corretto il 20/09/2026).
 
 Cosa cambia a ogni post: kicker (il tema del pezzo), H1 (l'hook, la frase che ferma lo scroll). Cosa resta fisso: icona di marca, palette, layout. Stessa logica già validata il 06/09/2026 sulla main image della newsletter: nessuna illustrazione Gemini per-edizione, template compilabile in pochi minuti.
 
@@ -88,7 +88,7 @@ Cosa cambia a ogni post: kicker (il tema del pezzo), H1 (l'hook, la frase che fe
 | File | Quando |
 |---|---|
 | `drafts/AAAA-MM-GG-[slug].md` | Stesso giorno di pubblicazione |
-| `../../04-linkedin/grafiche/[data]-[slug]-cover.png` | Stesso giorno, dal template |
+| `grafiche/[data]-[slug]-cover.png` | Stesso giorno, dal template |
 
 Dopo la pubblicazione, confermata da Alberto: riga in `../articoli-pubblicati.md`, tabella unica ordinata per data decrescente.
 

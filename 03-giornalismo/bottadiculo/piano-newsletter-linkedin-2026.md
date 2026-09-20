@@ -170,7 +170,7 @@ CHIUSURA                          50-80 parole
 
 ## Output per edizione
 
-Quattro file, sempre. Regola già in vigore, qui codificata nel piano.
+Cinque output, sempre. Regola già in vigore, qui codificata nel piano.
 
 | File | Quando |
 |---|---|
@@ -178,6 +178,19 @@ Quattro file, sempre. Regola già in vigore, qui codificata nel piano.
 | `drafts/AAAA-MM-GG-[slug]-newsletter-linkedin-seo.md` | Domenica |
 | `drafts/AAAA-MM-GG-[slug]-post-supporto.md` | Domenica |
 | Versione blog WordPress Bottadiculo.it | Domenica — apertura inedita, non copia della newsletter (Google penalizza la duplicazione) |
+| Grafiche (main image + 2 infografiche) | Domenica, appena il testo finale è pronto — non un passo a parte da ricordare |
+
+**Le grafiche non sono opzionali e non aspettano una richiesta esplicita.** Appena la newsletter
+è nel testo finale, si esegue `bottadiculo/workflows/grafiche-workflow.md` nella stessa sessione:
+tutti e tre gli output (main image + 2 infografiche) fatti direttamente con la pipeline
+HTML/SVG, nessun tool esterno, nessun coinvolgimento di Alberto in fase di produzione — solo
+la conferma visiva finale. Le infografiche sono diagrammi/icone disegnati ad hoc, non
+tipografia isolata (corretto il 20/09/2026, vedi workflow). File in
+`bottadiculo/grafiche/` (non `04-linkedin/grafiche/`, riservata alle grafiche personali di
+Alberto), nota di produzione in `drafts/AAAA-MM-GG-[slug]-grafiche.md`. Prassi corretta il
+20/09/2026 dopo che due edizioni di fila (#81, #82) sono state consegnate a testo con le
+grafiche segnalate come "ancora da
+fare" invece di essere prodotte nella stessa sessione.
 
 Dopo la pubblicazione: riga in `../articoli-pubblicati.md`, tabella unica ordinata per data decrescente.
 

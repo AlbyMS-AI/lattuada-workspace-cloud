@@ -6,7 +6,7 @@
 **Topic:** BetCris integra ChatBet (conversational betting), impatto sull'attribuzione del funnel di affiliazione
 **Angolo:** B2C operativo — impatto su affiliati/performance marketing: sparisce il punto di attribuzione tracciabile
 **Fonte:** iGaming Business, 13 luglio 2026 (BetCris + ChatBet)
-**Grafica:** `../../../04-linkedin/grafiche/chatbet-betcris-funnel-attribution.png` — realizzata da Alberto autonomamente (prompt visivo sotto usato come riferimento), palette brand Bottadiculo (indigo #1C0F3A, arancio #F9511F)
+**Grafica:** `../grafiche/chatbet-betcris-funnel-attribution.png` — realizzata da Alberto autonomamente (prompt visivo sotto usato come riferimento), palette brand Bottadiculo (indigo #1C0F3A, arancio #F9511F)
 **Status:** Testo e grafica pronti — testo approvato da Alberto il 17/07/2026, grafica realizzata in autonomia il 17/07/2026
 
 ---

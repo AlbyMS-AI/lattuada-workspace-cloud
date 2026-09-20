@@ -1,0 +1,160 @@
+<!--
+  Infografica 1 — Gambling Insights #82. Diagramma del meccanismo di blocco DNS, non una
+  quote card: mostra perché lo stesso dominio può risultare bloccato per un utente e
+  raggiungibile per un altro, con icone disegnate ad hoc (nessuna icona stock/generica).
+  Render: ../../../04-linkedin/grafiche/render.sh png src/[questo file] [output].png 1080x1350
+-->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{
+    --indigo:#1C0F3A; --indigo2:#150a2c; --arancio:#F9511F; --viola:#6330C7; --bianco:#FFFFFF;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:1080px;height:1350px;overflow:hidden}
+  body{
+    position:relative;
+    background:linear-gradient(165deg, var(--indigo) 0%, var(--indigo2) 100%);
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color:var(--bianco);
+  }
+  .blob{position:absolute;border-radius:50%;filter:blur(1px)}
+  .blob1{width:300px;height:300px;background:var(--viola);opacity:.20;top:-100px;right:-100px}
+
+  .wrap{position:relative;padding:64px 64px 0;height:100%;display:flex;flex-direction:column;justify-content:space-between}
+  .diagram{display:flex;flex-direction:column;align-items:stretch}
+
+  .kicker{
+    display:inline-flex;align-items:center;
+    font-size:19px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--bianco);font-weight:700;margin-bottom:20px;
+    background:var(--arancio);padding:7px 18px;border-radius:100px;width:fit-content;
+  }
+  h1{font-size:42px;line-height:1.2;font-weight:800;letter-spacing:-.01em;margin-bottom:36px;max-width:920px}
+
+  /* nodo dominio in alto */
+  .node-top{display:flex;flex-direction:column;align-items:center;margin-bottom:22px}
+  .node-top .box{
+    background:rgba(255,255,255,.08);border:1.5px solid rgba(255,255,255,.25);
+    border-radius:18px;padding:24px 36px;display:flex;align-items:center;gap:18px;
+  }
+  .node-top .label{font-size:26px;font-weight:700}
+  .node-top .sub{font-size:18px;opacity:.7;margin-top:5px}
+
+  .connector{width:2px;height:44px;background:rgba(255,255,255,.35);margin:0 auto}
+  .fork{display:flex;justify-content:center;align-items:flex-start;gap:0;margin-bottom:0}
+  .fork .branch-line{width:44%;height:2px;background:rgba(255,255,255,.35);margin-top:22px}
+
+  .columns{display:flex;gap:32px;margin-top:0}
+  .col{
+    flex:1;border-radius:24px;padding:40px 28px 44px;
+    display:flex;flex-direction:column;align-items:center;text-align:center;
+  }
+  .col.grande{background:rgba(249,81,31,.14);border:1.5px solid rgba(249,81,31,.45)}
+  .col.minore{background:rgba(99,48,199,.20);border:1.5px solid rgba(99,48,199,.55)}
+
+  .col .tag{
+    font-size:18px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
+    margin-bottom:20px;
+  }
+  .col.grande .tag{color:var(--arancio)}
+  .col.minore .tag{color:#c9adf5}
+
+  .col .time{font-size:44px;font-weight:800;margin:10px 0 6px}
+  .col .time-note{font-size:18px;opacity:.75;margin-bottom:30px}
+
+  .result{
+    margin-top:10px;display:flex;flex-direction:column;align-items:center;gap:12px;
+  }
+  .result .result-label{font-size:19px;font-weight:700}
+
+  .footer-note{
+    margin-bottom:56px;
+    display:flex;align-items:center;gap:18px;
+    border-top:2px solid rgba(255,255,255,.18);padding-top:26px;
+  }
+  .footer-note .txt{font-size:21px;line-height:1.45;opacity:.9}
+  .footer-note .txt b{color:var(--bianco);opacity:1}
+</style>
+</head>
+<body>
+  <div class="blob blob1"></div>
+  <div class="wrap">
+    <div class="kicker">Come funziona davvero</div>
+    <h1>Un dominio nella lista ADM<br>non è bloccato allo stesso modo ovunque</h1>
+
+    <div class="node-top">
+      <div class="box">
+        <!-- icona: globo/dominio -->
+        <svg width="42" height="42" viewBox="0 0 34 34" fill="none">
+          <circle cx="17" cy="17" r="14" stroke="#FFFFFF" stroke-width="2.4"/>
+          <ellipse cx="17" cy="17" rx="6" ry="14" stroke="#FFFFFF" stroke-width="2"/>
+          <line x1="3" y1="17" x2="31" y2="17" stroke="#FFFFFF" stroke-width="2"/>
+        </svg>
+        <div>
+          <div class="label">Sito oscurato da ADM</div>
+          <div class="sub">stessa richiesta, stesso giorno</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="connector"></div>
+    <div class="fork">
+      <div class="branch-line"></div>
+      <div class="branch-line"></div>
+    </div>
+
+    <div class="columns">
+      <div class="col grande">
+        <!-- icona: orologio veloce -->
+        <svg width="58" height="58" viewBox="0 0 46 46" fill="none">
+          <circle cx="23" cy="23" r="19" stroke="#F9511F" stroke-width="3"/>
+          <path d="M23 12v11l8 5" stroke="#F9511F" stroke-width="3" stroke-linecap="round"/>
+        </svg>
+        <div class="tag">Provider grande</div>
+        <div class="time">Poche ore</div>
+        <div class="time-note">propagazione automatica</div>
+        <div class="result">
+          <!-- icona: pagina di stop -->
+          <svg width="64" height="64" viewBox="0 0 52 52" fill="none">
+            <rect x="6" y="6" width="40" height="40" rx="8" fill="#F9511F"/>
+            <line x1="17" y1="17" x2="35" y2="35" stroke="#1C0F3A" stroke-width="4" stroke-linecap="round"/>
+            <line x1="35" y1="17" x2="17" y2="35" stroke="#1C0F3A" stroke-width="4" stroke-linecap="round"/>
+          </svg>
+          <div class="result-label">Reindirizzato</div>
+        </div>
+      </div>
+      <div class="col minore">
+        <!-- icona: orologio lento -->
+        <svg width="58" height="58" viewBox="0 0 46 46" fill="none">
+          <circle cx="23" cy="23" r="19" stroke="#c9adf5" stroke-width="3"/>
+          <path d="M23 12v11l-6 8" stroke="#c9adf5" stroke-width="3" stroke-linecap="round"/>
+        </svg>
+        <div class="tag">Provider minore</div>
+        <div class="time">Anche giorni</div>
+        <div class="time-note">intervento manuale</div>
+        <div class="result">
+          <!-- icona: sito ancora online -->
+          <svg width="64" height="64" viewBox="0 0 52 52" fill="none">
+            <rect x="6" y="6" width="40" height="40" rx="8" fill="none" stroke="#c9adf5" stroke-width="3.5"/>
+            <circle cx="26" cy="26" r="6" fill="#c9adf5"/>
+          </svg>
+          <div class="result-label">Ancora raggiungibile</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-note">
+      <svg width="34" height="34" viewBox="0 0 30 30" fill="none" style="flex-shrink:0">
+        <rect x="4" y="3" width="22" height="10" rx="2.5" stroke="#FFFFFF" stroke-width="2"/>
+        <rect x="4" y="17" width="22" height="10" rx="2.5" stroke="#FFFFFF" stroke-width="2"/>
+        <circle cx="9" cy="8" r="1.6" fill="#FFFFFF"/>
+        <circle cx="9" cy="22" r="1.6" fill="#FFFFFF"/>
+      </svg>
+      <div class="txt">In entrambi i casi <b>il server estero resta online</b>: il blocco agisce sull'indirizzamento, non sul contenuto.</div>
+    </div>
+  </div>
+</body>
+</html>

@@ -12,9 +12,9 @@ testo bianco `#FFFFFF`.
 ## MAIN IMAGE — prompt Gemini (nessun testo nell'immagine)
 
 Genera tu il visual su Gemini con il prompt sotto, poi salvalo in
-`04-linkedin/grafiche/inbox/lottomatica-cirsa-rete-fisica-brand.png`. Una volta lì compongo
+`../grafiche/inbox/lottomatica-cirsa-rete-fisica-brand.png`. Una volta lì compongo
 il testo sopra via template HTML e `render.sh`, stessa pipeline di
-`04-linkedin/grafiche/src/2026-07-13-invisible-funnel-onboarding-kyc.html`, e ti mostro il
+`../grafiche/src/2026-07-13-invisible-funnel-onboarding-kyc.html`, e ti mostro il
 risultato prima di darlo per definitivo.
 
 ```
@@ -111,18 +111,18 @@ Formato: 4:5 (1080x1350px)
 
 | File | Nome | Dove | Stato |
 |---|---|---|---|
-| Immagine Gemini grezza (utente) | `lottomatica-cirsa-rete-fisica-brand.png` | `04-linkedin/grafiche/inbox/` | fatto (05/09) |
-| Main image composta (Claude) | `2026-09-07-lottomatica-cirsa-cover.png` | `04-linkedin/grafiche/` | **definitiva, approvata da Alberto (05/09)** |
-| Infografica 1 (NotebookLM, utente) | `2026-09-07-lottomatica-cirsa-infografica-1.png` | `04-linkedin/grafiche/inbox/` poi spostata | da fare |
-| Infografica 2 (NotebookLM, utente) | `2026-09-07-lottomatica-cirsa-infografica-2.png` | `04-linkedin/grafiche/inbox/` poi spostata | da fare |
+| Immagine Gemini grezza (utente) | `lottomatica-cirsa-rete-fisica-brand.png` | `../grafiche/inbox/` | presente |
+| Main image composta (Claude) | `2026-09-07-lottomatica-cirsa-cover.png` | `../grafiche/` | ⚠️ non trovata su disco (verificato 20/09/2026), nonostante segnata qui come definitiva e approvata il 05/09 |
+| Infografica 1 (stat card, "100 negozi sotto revisione") | `2026-09-07-lottomatica-cirsa-infografica-1.png` | `../grafiche/` | ⚠️ non trovata su disco (verificato 20/09/2026) |
+| Infografica 2 (before/after, "Stesso meccanismo, tempi diversi") | `2026-09-04-lottomatica-cirsa-rete-fisica-paddy-power-infografica-2.png` | `../grafiche/` | **trovata il 20/09/2026** con nome file generico ("la logica di chi siede nel board..."), non nella posizione né col nome previsti da questa tabella — rinominata e spostata qui |
 
-Sorgente HTML della main image: `04-linkedin/grafiche/src/2026-09-07-lottomatica-cirsa-cover.html`
-(kicker + headline in alto su sfondo pieno, illustrazione intera visibile sotto compreso il
-tassello arancio che si stacca, byline in basso — nessuno scrim sopra l'illustrazione, evita
-la sovrapposizione testo/immagine del primo tentativo).
+Sorgente HTML della main image: `../grafiche/src/2026-09-07-lottomatica-cirsa-cover.html` — anche questa non trovata su disco il 20/09/2026.
 
 Alt text per tutte e tre: schema [soggetto] + [dato/contesto] + [2026], vedi il file
 `...-newsletter-linkedin-seo.md`.
 
-**Prossimo passo:** genera le due infografiche su NotebookLM con i brief sopra e falle
-arrivare, poi le sposto/rinomino secondo la tabella.
+**Nota del 20/09/2026:** durante il riordino delle grafiche Bottadiculo in `bottadiculo/grafiche/`
+(prima vivevano miste a quelle personali in `04-linkedin/grafiche/`), main image e infografica 1
+di questa edizione non sono risultate presenti da nessuna parte nel workspace, nonostante la
+tabella le segnasse come fatte/approvate. Non ricostruite qui: edizione già pubblicata il 04/09,
+fuori dallo scopo di questo riordino. Segnalazione per Alberto, non un'azione presa in autonomia.

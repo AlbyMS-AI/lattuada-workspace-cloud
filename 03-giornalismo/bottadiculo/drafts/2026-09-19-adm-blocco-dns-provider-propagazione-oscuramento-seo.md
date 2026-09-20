@@ -92,7 +92,7 @@ Infografica 1: come funziona il blocco DNS ADM, dalla segnalazione alla propagaz
 Infografica 2: checklist brand protection per verificare un blocco su più provider
 ```
 
-Nota: grafiche non ancora prodotte in questa sessione, da generare in fase di finalizzazione domenicale.
+Nota: grafiche fatte, in `bottadiculo/grafiche/` — vedi `...-grafiche.md`.
 
 ---
 
@@ -135,7 +135,7 @@ blocco ADM, oscuramento siti illegali, DNS gioco online, brand protection iGamin
 | Lunghezza testo | ✓ | circa 970 parole |
 | Link in uscita | ✗ | nessun link inserito nel corpo, fonte Mondo3.com citata solo testualmente |
 | Link interni | ⚠️ | verificare `articoli-pubblicati.md`: il pezzo del 18/08 su Brasile/oscuramento tratta un angolo diverso ma collegabile |
-| Immagine con alt text | ✗ | grafiche da produrre |
+| Immagine con alt text | ✓ | grafiche fatte, alt text sopra |
 | Leggibilità | ✓ | paragrafi brevi, seconda persona, ritmo variato |
 
 ---
@@ -145,4 +145,4 @@ blocco ADM, oscuramento siti illegali, DNS gioco online, brand protection iGamin
 1. **Link in uscita**: aggiungere link a Mondo3.com (08/09/2026) e, se disponibile, alla pagina ADM sui siti web inibiti
 2. **Link interno**: valutare link al pezzo del 18/08 sul blocco domini Brasile/Italia, angolo diverso ma stesso argomento generale
 3. **Fact-check**: verificare su fonte ADM primaria il meccanismo DNS e l'assenza di uno standard di propagazione uniforme, oggi sostenuto solo da una fonte secondaria
-4. **Grafiche**: main image + due infografiche da produrre con la pipeline HTML locale, template fisso newsletter
+4. **Grafiche**: fatte (main image + due infografiche), in `bottadiculo/grafiche/` — resta la conferma visiva di Alberto

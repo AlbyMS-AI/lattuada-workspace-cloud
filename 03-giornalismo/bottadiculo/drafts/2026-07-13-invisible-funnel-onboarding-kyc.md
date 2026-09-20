@@ -6,7 +6,7 @@
 **Topic:** Multiplicative friction nel funnel di onboarding, KYC come product design non solo compliance
 **Angolo:** B2C operativo — impatto su affiliati e chi gestisce il funnel di registrazione/deposito
 **Fonte:** analisi citata dall'iGaming Pulse podcast (episodio del 9 luglio 2026, Casino Rank) — calcolo numerico ripreso testualmente
-**Grafica:** `../../../04-linkedin/grafiche/bottadiculo-funnel-onboarding-kyc.png` — imbuto che perde gocce a ogni giuntura, palette brand Bottadiculo (indigo #1C0F3A, arancio #F9511F)
+**Grafica:** `../grafiche/bottadiculo-funnel-onboarding-kyc.png` — imbuto che perde gocce a ogni giuntura, palette brand Bottadiculo (indigo #1C0F3A, arancio #F9511F)
 **Status:** Pubblicato — uscita programmata 16/07/2026, confermata in anticipo da Alberto il 13/07/2026
 
 ---
