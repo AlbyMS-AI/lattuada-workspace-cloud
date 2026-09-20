@@ -40,6 +40,7 @@ Non si schedulano più DM Slack singoli per le scadenze puntuali: era la regola 
 | 31/08 | Post con immagine | IT | Caso "True Data" Serie A — mancanza di coordinamento tra Lega Serie A, ADM e AGCOM, angolo ACCA agganciato al precedente "spazi quote" (AGCOM 132/19/CONS) | [~] Testo confermato — `post-2026-08-31-true-data-serie-a.md`. Main image Gemini+HTML in produzione, in attesa del file in `grafiche/inbox/` |
 | 02/09 | Post testo | IT | Fusione Lottomatica-CIRSA — newsjacking, angolo mercato aggregator/provider IT (non solo lettura finanziaria del deal) | [x] **Pubblicato il 02/09** (confermato da Alberto il 03/09) — `post-2026-09-02-lottomatica-cirsa-merger.md`. Nessuna grafica. Ripreso in LinkedIn Notizie il 03/09 |
 | 08/09 | Post testo | IT | Inter senza sponsor sulla maglia contro il Real Madrid (Champions) — newsjacking, angolo: il decreto dignità è più severo della norma spagnola, non il contrario come raccontato dalla stampa | [x] **Pubblicato l'08/09** (confermato da Alberto) — `post-2026-09-08-inter-decreto-dignita.md`. Nessuna grafica |
+| 20/09 | Post con immagine | IT | Partecipazione (pubblico) a SiGMA World Roma 2026, presentazione ufficiale in Campidoglio — Open Mic Vision 2030, angolo: dalle parole ai fatti, chi mette insieme il puzzle tra attori diversi, agganciato al lavoro di Game Aggregator | [~] Testo confermato — `post-2026-09-20-gioco-legale-2030.md`. Foto di gruppo già disponibile, nessuna grafica da produrre. Da pubblicare: oggi è domenica, prossimo slot B2B utile martedì 22/09 |
 
 ---
 
