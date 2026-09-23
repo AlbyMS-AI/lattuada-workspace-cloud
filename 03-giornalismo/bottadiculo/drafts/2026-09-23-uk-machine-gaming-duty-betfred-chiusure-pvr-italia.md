@@ -22,12 +22,18 @@ Se il regime dopo il 2026 rendesse più caro mantenere la tua rete, sapresti gi�
 
 ## Grafica
 
-Template fisso Bottadiculo (post singolo). Suggerimento contenuto: confronto numerico UK — 132 chiusi / 495 a rischio / 1.094 totali, con dato jobs (2.575) in evidenza.
-File name: `bottadiculo-uk-machine-gaming-duty-chiusure-negozi.png`
+Prodotta il 22/09/2026 con il template fisso post singolo (`grafiche/src/templates/bottadiculo-post-template.html`), palette Bottadiculo reale.
+
+- Kicker: "Tasse rete fisica"
+- H1: "132 negozi chiusi in UK. Il conto per altri 495 è già fatto."
+- File: `bottadiculo/grafiche/2026-09-23-uk-machine-gaming-duty-cover.png` (1080×1350)
+- Sorgente: `bottadiculo/grafiche/src/2026-09-23-uk-machine-gaming-duty-cover.html`
+
+Tag alt: "Tasse rete fisica scommesse UK Betfred chiusura negozi 2026 — Bottadiculo"
 
 ## Stato
 
 - [x] Corretto dopo check Astra (21/09/2026) — chiusure Betfred erano "annunciate" non già avvenute, causa multifattoriale non solo fiscale, MGD non uniforme al 20% ma variabile per fascia, cifre 495/2.575/67M dichiarate come stime dell'operatore non valutazioni indipendenti, sponsorizzazione Super League correttamente "non rinnovata dopo il 2026" non "lasciata ora", British Classics non ancora ritirato. **Riscritto il parallelo Italia**: concessioni terrestri già prorogate al 31/12/2026 (non "senza data certa" come nella prima bozza), e i PVR appartengono alla filiera online, non vanno confusi con le concessioni terrestri.
-- [ ] Checklist anti-AI + spot-check Pangram/QuillBot
-- [ ] Grafica da produrre
-- [ ] Conferma pubblicazione di Alberto
+- [x] Checklist anti-AI + spot-check Pangram/QuillBot ok
+- [x] Grafica prodotta: `bottadiculo/grafiche/2026-09-23-uk-machine-gaming-duty-cover.png` (sorgente in `grafiche/src/`), template fisso post singolo 1080×1350
+- [x] Pubblicato, confermato da Alberto il 23/09/2026

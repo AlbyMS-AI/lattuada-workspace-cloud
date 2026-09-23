@@ -50,4 +50,4 @@ Chi nel tuo team ha già verificato se un sistema AI modifica bonus, promozioni 
 
 ---
 
-**Stato:** [x] Corretto dopo check Astra (21/09/2026, #638) — 4 semplificazioni giuridiche sistemate (esempio Art.5 non è gambling-specifico ma analogico; Annex III non è automatico per il gaming; Art.50 non impone etichetta su ogni copy promozionale; provider/deployer non coincide con B2B/B2C), titolo e chiusura riscritti, SEO aggiornata. In attesa di spot-check Pangram/QuillBot e conferma di pubblicazione da Alberto.
+**Stato:** [x] Corretto dopo check Astra (21/09/2026, #638) — 4 semplificazioni giuridiche sistemate (esempio Art.5 non è gambling-specifico ma analogico; Annex III non è automatico per il gaming; Art.50 non impone etichetta su ogni copy promozionale; provider/deployer non coincide con B2B/B2C), titolo e chiusura riscritti, SEO aggiornata. [x] Spot-check QuillBot ok. [x] Pubblicato, confermato da Alberto il 23/09/2026.
