@@ -44,6 +44,8 @@ Tradotto: la mappa dei partner con cui puoi lavorare cambia da un Paese all'altr
 
 Il metodo che uso è semplice da descrivere e lungo da fare. Una scheda per mercato, con i quattro livelli in riga. Per ognuno quattro colonne: la norma di riferimento, la regola ordinaria, le deroghe con le loro condizioni, le scadenze.
 
+[IMMAGINE INLINE: `grafiche/alberto-lattuada-newsletter-n7-scheda-mercato-germania.png`. Didascalia: "La scheda per mercato compilata sulla Germania: prodotto, limiti al giocatore, fiscalità e filiera". Tag alt: "Scheda mercato regolamentato iGaming Germania: norma, regola ordinaria, deroghe e scadenze per slot virtuali, depositi LUGAS, imposta e fornitori"]
+
 **Le ultime due colonne sono quelle che fanno la differenza.** La regola ordinaria la trovi in qualsiasi guida. Le deroghe e le date di scadenza cambiano di continuo, e sono quelle che decidono cosa puoi fare davvero nel trimestre in cui entri. La deroga tedesca sulle puntate ne è un esempio: letta come titolo sembra un allentamento generale, letta per condizioni riguarda solo alcuni giocatori, dopo un certo periodo, con un'autorizzazione, fino a una data precisa.
 
 Un confronto tra mercati che si ferma alla licenza ti dice dove puoi andare. Quello che ti serve prima di partire è sapere cosa ti aspetta una volta arrivato.
@@ -65,5 +67,7 @@ Chi sono e di cosa mi occupo lo trovi sul mio profilo LinkedIn. Oppure scrivimi.
 - **Riusato dalla v2 già verificata (24/09):** tutti i fatti su IT/DE/BE e le correzioni del fact-check esterno (deroga GGL, §22a c.1/6/7, §37-38, Schleswig-Holstein come esempio, categorie belghe, 200 euro aumentabili, 21 anni circoscritti, Italia "per la fornitura di software per il gioco online")
 - **Nuovo in questa versione:** soglie LUGAS oltre i 1.000 euro (fino a 10.000, fascia 10.000-30.000 per max 1% dei giocatori attivi), verificate sulla FAQ GGL del 25/08/2026. Scartata l'affermazione "a differenza di altri Paesi europei la Germania tassa le puntate": non trovata nello studio Handelsblatt Research Institute 2025 da cui sembrava provenire
 - **Footer bio (25/09, decisione di Alberto):** senza qualifica né azienda, solo il nome e il rimando al profilo. Sostituisce il blocco fisso del 13/08 per questa edizione
+- **Infografica inline (25/09):** scheda per mercato compilata sulla Germania, unico dei tre Paesi con fonti verificate su tutti e quattro i livelli. Va inserita dopo il paragrafo che descrive la scheda (segnaposto nel testo). Sorgente `grafiche/src/2026-09-25-n7-scheda-mercato-germania.html`
+- **Post di accompagnamento:** `post-2026-09-25-newsletter-n7-accompagnamento.md` (IT, testo del campo post al momento della pubblicazione). Il post EN ALB-126 esce dopo e non lo sostituisce
 - **Copertina:** `grafiche/alberto-lattuada-newsletter-n7-mercati-regolamentati-cover.png`, hook diverso dall'H1. Didascalia: "Mercati regolamentati iGaming: prodotto, limiti al giocatore, fiscalità e filiera in Italia, Germania e Belgio"
 - **Fonti primarie:** GGL FAQ limiti; GlüStV 2021 §22a; RennwLottG §37-38; sito del Land Schleswig-Holstein. **Commentari professionali:** Chambers 2025 Italia; Legal500 Germania e Belgio
