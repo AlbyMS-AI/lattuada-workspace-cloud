@@ -1,5 +1,30 @@
 # Analytics performance — LinkedIn Alberto Lattuada
 
+## Metriche lifetime (da Tutte le attività)
+
+> **Sezione principale dal 25/09/2026.** Una riga per pezzo, **aggiornata in place**: un valore lifetime sostituisce il precedente, non si somma. Impression, reazioni, commenti e repost vengono dalla pagina "Tutte le attività" del profilo (fonte A). Salvataggi, visite al profilo e follower vengono da "Visualizza analisi" sul singolo post (fonte B). Si aggiorna ogni lunedì con `/linkedin-settimana`. Regole in `linkedin-aggiorna-analytics`, Fase 1 e Fase 3.
+>
+> **Stato di partenza:** le righe sotto vengono dal dettaglio per singolo post del 30/08/2026 (fonte B, valori lifetime), ancora senza fonte A. In quella vista reazioni, commenti e repost non sono separati: il totale "Interazioni social" è riportato nella colonna Reazioni con la dicitura "tot.". Le tabelle a finestra da "AnalisiAggregate", più sotto, restano come storico e non vanno sommate a queste.
+
+| Data pubbl. | Formato | Lingua | Titolo/Tema | Impression lifetime | Reazioni | Commenti | Repost | Salvataggi | Visite profilo | Follower | Rilevato il | File |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 03/08 | Sondaggio | EN | In betting, who really creates value? | 431 | 1 tot. | n/d | n/d | 0 | 2 | 0 | 30/08 | `sondaggio-2026-08-03-chi-crea-valore.md` |
+| 10/08 | Post testo | EN | Tony Bloom non scommette | 30.154 | 33 tot. | n/d | n/d | 4 | 22 | 2 | 30/08 | `post-2026-08-10-tony-bloom-liquidita.md` |
+| 12/08 | Carosello | EN | Portfolio giochi | 897 | 3 tot. | n/d | n/d | 0 | 1 | 1 | 30/08 | `carosello-2026-08-12-portfolio-giochi.md` |
+| 14/08 | Newsletter N2 | IT | Delibera AGCOM 85/26/CONS | 2.654 | 30 tot. | n/d | n/d | 1 | 8 | 0 | 30/08 | `newsletter-2026-07-24-n2-agcom-85-26-cons.md` |
+| 18/08 | Post testo | IT | Varenne | 287 | 3 tot. | n/d | n/d | 0 | 1 | 0 | 30/08 | `post-2026-08-18-varenne-morte.md` |
+| 21/08 | Newsletter N3 | IT | Certificazione provider | 562 | 3 tot. | n/d | n/d | 0 | 2 | 0 | 30/08 | `newsletter-2026-08-21-n3-certificazione-provider.md` |
+| 21/08 | Carosello | IT | Certificazione provider | 290 | 3 tot. | n/d | n/d | 0 | 1 | 0 | 30/08 | `carosello-2026-08-21-certificazione-provider.md` |
+| 22/08 | Post testo | EN | Paul Gauselmann | 5.586 | 92 tot. | n/d | n/d | 2 | 14 | 6 | 30/08 | `post-2026-08-22-paul-gauselmann.md` |
+| 24/08 | Sondaggio | IT | Proroga concessioni fisico | 665 | 3 tot. | n/d | n/d | 0 | 1 | 0 | 30/08 | `sondaggio-2026-08-24-proroga-concessioni-fisico.md` |
+| 28/08 | Post testo | IT | Lo stallo non è neutrale | 473 | 3 tot. | n/d | n/d | 0 | 3 | 0 | 30/08 | `post-2026-08-28-stallo-non-neutrale.md` |
+
+**Da coprire al primo giro della fonte A:** tutti i pezzi dal 31/08 in poi (`task-list.md`), più il post del 11/08 e il post di accompagnamento N3 del 21/08, mai rilevati.
+
+---
+
+## Storico — export "AnalisiAggregate" a finestra (14/08 e 30/08/2026)
+
 > Fonte: 3 export "AnalisiAggregate" LinkedIn incrociati — periodo pieno 18/07/2026-14/08/2026 (due estrazioni, numeri quasi identici) e finestra ristretta 08/08/2026-14/08/2026. Prima compilazione, 14/08/2026.
 > Rendimento complessivo periodo pieno: ~31.950 impressioni, ~21.970 utenti raggiunti. Follower totali al 14/08: 11.424 (+92 nel periodo). Solo gli ultimi 7 giorni (8-14/08) valgono 29.481 impressioni — **92% del totale delle 4 settimane** è arrivato nell'ultima settimana.
 

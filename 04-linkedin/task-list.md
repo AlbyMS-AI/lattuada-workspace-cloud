@@ -28,6 +28,20 @@ Non si schedulano più DM Slack singoli per le scadenze puntuali: era la regola 
 
 ---
 
+## Ricorrenze
+
+> **Sezione letta da ALDO ogni lunedì mattina.** Per ogni riga sotto, se la ricorrenza cade nella settimana corrente e non esiste già una issue aperta con quel titolo e quella data, ALDO la crea su Linear (progetto **Contenuti LinkedIn**, label `ricorrente` + `admin`).
+>
+> **Formato vincolante:** stesse colonne delle altre task list. Le cadenze stanno solo qui, mai dentro un prompt di agente.
+
+| Titolo issue | Cadenza | Giorno | Cosa controllare |
+| --- | --- | --- | --- |
+| Revisione settimanale LinkedIn | settimanale | lunedì | Lanciare `/linkedin-settimana`. Quindici minuti: metriche lifetime, archivio, confronto bozze/pubblicato. Se la settimana salta, salta: la successiva copre anche quella |
+
+Aggiunta il 25/09/2026 (piano `../plans/2026-09-25-linkedin-archivio-metriche-apprendimento-bozze.md`). Una sola ricorrenza di proposito: è il pezzo che fa imparare le skill, e un rito che si somma ad altri riti viene abbandonato. Se il tempo effettivo supera i quindici minuti si taglia (prima la fonte B, poi lo scroll), non si allarga.
+
+---
+
 ## Fuori piano — reattivo a stimoli del momento
 
 | Data | Formato | Lingua | Contenuto | Stato |

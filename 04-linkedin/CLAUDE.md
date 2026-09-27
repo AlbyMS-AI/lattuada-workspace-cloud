@@ -87,6 +87,8 @@ l'incoerenza tra chi interagisce e di cosa tratta il contenuto.
 - Salvataggi dei contenuti
 - Richieste di call o DM inbound
 
+**Dove si leggono (dal 25/09/2026):** impression lifetime di tutti i post dalla pagina "Tutte le attività" del profilo, in un solo incolla. Salvataggi, visite al profilo e follower da "Visualizza analisi", un post alla volta, sui pezzi usciti da 7-14 giorni. L'export "AnalisiAggregate" dà impression a finestra, non lifetime: resta utile solo per la demografia. Dettaglio in `linkedin-aggiorna-analytics`.
+
 **Strategia verticale:** 3-4 topic fissi. La specializzazione viene premiata sul generalismo.
 500 visualizzazioni di qualità dal target battono 5.000 casuali.
 
@@ -286,7 +288,9 @@ Per sviluppare un contenuto: indicare il blocco + formato, Claude legge la fonte
 | `about-linkedin.md` | Testo About LinkedIn ottimizzato |
 | `swot-linkedin.md` | Analisi SWOT posizionamento LinkedIn |
 | `content-strategy/` | Istruzioni per formato (post, newsletter, carosello, analytics, sales navigator, insight competitor B2B, interazione commenti, benchmark esterni, AI search visibility/GEO) + **metodo outbound** (`lead-generation-outbound.md`, `outreach-domanda-ricerca.md`, `lead-tracker-outbound.md`) |
-| `analytics-performance.md` | Performance dei contenuti sui KPI reali — input del checkpoint di fine agosto |
+| `analytics-performance.md` | Performance dei contenuti sui KPI reali. Dal 25/09/2026 la sezione principale è "Metriche lifetime", aggiornata in place ogni lunedì da `/linkedin-settimana` |
+| `archivio/` | Tutti i post di Alberto dal primo a oggi: `indice-post.md` (una riga per post, si legge per intero) e `testi/AAAA.md` (testi integrali per anno). Serve al controllo "l'ho già scritto?" nelle skill di scrittura, **non** a ripubblicare. Storico da export LinkedIn, poi alimentato dal rito settimanale |
+| `apprendimento/` | Bozze congelate dalle skill (`bozze/`) e `registro-correzioni.md`: cosa Alberto corregge nei testi prodotti, con la regola della seconda occorrenza. Sottocartella di proposito, per restare fuori dal repo cloud pubblico |
 | `contenuti/jamma/` | Articoli Jamma pubblicati → base per post e caroselli |
 | `contenuti/bottadiculo/` | Articoli Bottadiculo pubblicati → base per post |
 
@@ -334,6 +338,12 @@ Tutte e 4 applicano il modello "formato fisso, contenuto dinamico" deciso in Lez
 Quinta skill, costruita da zero (non da MLR, mai arrivata la sua):
 
 - **`linkedin-aggiorna-analytics`** — unisce gli export analytics LinkedIn in un unico file di performance, classificando sui KPI reali (salvataggi, visite profilo, nuove connessioni) invece delle impression grezze
+
+Sesta skill, 25/09/2026 (piano `../plans/2026-09-25-linkedin-archivio-metriche-apprendimento-bozze.md`, dal workflow di Luca Mastella/Learnn):
+
+- **`linkedin-settimana`** — rito del lunedì, massimo quindici minuti: metriche lifetime da "Tutte le attività", pezzi usciti in `archivio/`, confronto fra bozza consegnata e testo pubblicato con aggiornamento di `apprendimento/registro-correzioni.md`. Non produce contenuti. Ricorrenza in `task-list.md`, sezione "Ricorrenze"
+
+Dalla stessa data le tre skill `linkedin-crea-*` leggono in Fase 0 i pattern attivi del registro, controllano l'archivio prima di scrivere e congelano la prima versione completa in `apprendimento/bozze/`.
 
 ## File trasversali utili
 
