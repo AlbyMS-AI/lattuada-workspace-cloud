@@ -90,7 +90,7 @@ Infografica 1: percorso di chiusura del conto di gioco, canali previsti dallo sc
 Infografica 2: checklist compliance per la chiusura del conto di gioco
 ```
 
-Nota: grafiche ancora da produrre, vedi file `-grafiche.md` quando creato.
+Nota: grafiche fatte, in `bottadiculo/grafiche/` — vedi `2026-09-28-chiusura-conto-gioco-ksa-retention-customer-care-grafiche.md`.
 
 ---
 
@@ -140,5 +140,5 @@ chiusura conto di gioco, recesso conto gioco, Kansspelautoriteit, schema contrat
 | Lunghezza testo | ✓ | circa 1.000 parole |
 | Link in uscita | ⚠️ | da inserire nel corpo in fase di impaginazione (KSA, schema ADM) |
 | Link interni | ⚠️ | URL della #79 da recuperare |
-| Immagine con alt text | ⚠️ | grafiche da produrre |
+| Immagine con alt text | ✓ | grafiche fatte, alt text sopra |
 | Leggibilità | ✓ | paragrafi brevi, seconda persona, ritmo variato |

@@ -7,6 +7,7 @@
 **Keyword target:** regulated market, regulatory change
 **CTA:** newsletter N8 di venerdì 02/10 (confronto cinque mercati)
 **Orario:** lun 28/09, 11:00-12:00
+**Stato:** pubblicato il 28/09 alle 11:00 e **rimosso lo stesso giorno** su richiesta di Gretta Kockonan (Softswiss). DM Slack del 28/09 alle 12:34, con il link al post: "I think this is not the moment, we should write about this". Alberto l'ha tolto subito. Il rimando a N8 è caduto con il post
 
 ## Testo
 

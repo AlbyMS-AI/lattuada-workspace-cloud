@@ -7,7 +7,7 @@
 **Angolo:** una licenza quinquennale non garantisce cinque anni di accesso al mercato (riformulato il 28/09 dopo il fact-check esterno: "non dice per quanto tempo" era contestabile, la durata nella licenza c'è). Seguito del post del 25/09 ("where, not what") e ponte verso quello GGL ("the rules keep moving")
 **Keyword target:** Brazil's betting ban (corpo), gambling licence (chiusura)
 **CTA:** salvataggio
-**Orario:** lun 28/09, 13:30 (ora italiana). Il post GGL già programmato per il 28/09 alle 11:00 va spostato a mar 29/09, 11:00
+**Stato:** pubblicato il 28/09/2026 (confermato da Alberto). **Orario previsto:** lun 28/09, 13:30 (ora italiana). Il post GGL è rimasto il 28/09 alle 11:00 (scelta di Alberto: il 29/09 esce un post richiesto da Softswiss)
 
 ## Testo
 
