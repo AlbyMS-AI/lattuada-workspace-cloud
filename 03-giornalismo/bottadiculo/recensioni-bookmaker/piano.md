@@ -13,7 +13,7 @@
 | 2 | Planetwin365 | Bozza pronta, da inviare al caporedattore (14/08/2026) | — | `planetwin365/recensione-planetwin365-2026.{md,docx,pdf}` |
 | 3 | Lottomatica | Inviata al caporedattore (02/09/2026) | — | `lottomatica/recensione-lottomatica-2026.{md,docx,pdf}` |
 | 4 | Goldbet | Inviata al caporedattore (14/09/2026), dopo tre round di check (Codex + 2x Astra, 12-13/09/2026) | — | `goldbet/recensione-goldbet-2026.{md,docx,pdf}` |
-| 5 | My Lotteries Play | Da fare | — | — |
+| 5 | My Lotteries Play | Bozza pronta (28/09/2026), da passare a check Codex + Astra prima dell'invio al caporedattore. Non è del Gruppo Lottomatica: controllata da Brightstar Lottery (ex IGT Lottery) | — | `mylotteriesplay/recensione-mylotteriesplay-2026.{md,docx,pdf}`; testo unico in `mylotteriesplay/content.py` |
 
 ## Generazione docx/pdf nello stile approvato (SNAI)
 

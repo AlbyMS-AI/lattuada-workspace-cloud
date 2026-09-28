@@ -50,7 +50,8 @@ Lato del campo, non lato C-level. Lettore: operatori, affiliati, addetti ai lavo
 Focus news e notizie del settore scommesse. Zero opinioni, solo fatti.
 
 - Tono: neutro, informativo, zero commento personale
-- Formato: struttura HTML fissa — intro + 6 paragrafi in due blocchi h2
+- Formato: struttura HTML fissa, intro + 6 paragrafi (massimo 7) in blocco unico, niente h2.
+  Cosa controlla il caporedattore: `sitiscommesse/checklist-caporedattore.md`
 - Lunghezza body: 450-550 parole (esclusi titoli e sottotitoli)
 - Link interni: solo a sezioni news, mai a pagine operatori
 - Linee guida: `sitiscommesse/guidelines.md`
