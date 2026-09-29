@@ -60,7 +60,7 @@ Caption: [max 10 parole — descrive il topic principale]
 **Trust link** (con target blank):
 - Formato: `<a href="https://fonte.it" target="_blank">anchor</a>`
 - Uno per articolo, in uno dei paragrafi del secondo blocco
-- Fonti: ADM, AGIPRO, AGIMEG, operatori ADM, siti istituzionali
+- Fonti: ADM, operatori ADM, siti istituzionali italiani. Mai testate concorrenti (AGIPRO, AGIMEG e simili), siti esteri solo se in italiano non c'è nulla di pertinente (vedi `../checklist-caporedattore.md`)
 
 ### Step 5 — Conteggio e verifica struttura
 Controlla prima di chiudere:
@@ -69,7 +69,7 @@ Controlla prima di chiudere:
 - [ ] Caption: max 10 parole
 - [ ] Intro: 35-40 parole
 - [ ] Ogni paragrafo: 50-60 parole
-- [ ] Bold presente in ogni paragrafo (3-8 parole)
+- [ ] Bold presente in ogni paragrafo (3-8 parole), mai in apertura: parte dopo almeno 2-3 parole
 - [ ] Trust link inserito (con target="_blank")
 - [ ] Nessuna citazione diretta, in nessun caso
 - [ ] Nessuna opinione o commento

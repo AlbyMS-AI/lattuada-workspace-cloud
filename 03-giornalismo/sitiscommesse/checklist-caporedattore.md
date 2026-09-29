@@ -20,15 +20,25 @@ contrasto con `guidelines.md` o con la skill `news-sitiscommesse`, vale questa c
 - [ ] **Lunghezza**: intro 35-40 parole, paragrafi 50-60, corpo 450-550 parole (tollerati i
   pezzi da 408-456 già approvati)
 - [ ] **Grassetto** solo sul tema del paragrafo, 3-8 parole, uno per paragrafo
+- [ ] **Grassetto mai in apertura di paragrafo**: parte almeno dopo 2 o 3 parole. Sì
+  `Da lunedì <strong>i nuovi depositi sono vietati</strong>`, no
+  `<strong>I nuovi depositi sono vietati</strong> da lunedì` (29/09, già ricordato in passato: il caporedattore lo ha
+  corretto a mano)
 
 ## Link
 
 - [ ] **Un solo link interno**, obbligatorio, verso un articolo della sezione `/news/` del sito
   (mai pagine operatori, mai altre sezioni), formato `<a href="/news/...">` senza
   `target="_blank"`, aperto e verificato davvero (09/09: il link interno non è mai opzionale)
-- [ ] **Un solo link esterno**, verso una fonte istituzionale: ADM, regolatore o governo del
-  Paese di cui si parla, Gazzetta Ufficiale. Pagina specifica, mai la home. Con
-  `target="_blank"`
+- [ ] **Link interno scelto per pertinenza**, non il primo che si trova: l'articolo di `/news/`
+  più vicino al tema del paragrafo che lo ospita (29/09: sostituito dal caporedattore con uno
+  più idoneo)
+- [ ] **Un solo link esterno**, verso una fonte istituzionale **italiana**: ADM, MEF, Governo,
+  Gazzetta Ufficiale, Parlamento. Pagina specifica, mai la home. Con `target="_blank"`
+- [ ] **Siti esteri da evitare**, anche quando la notizia è estera: si cerca prima una pagina
+  italiana pertinente. Il sito istituzionale straniero solo se in italiano non esiste nulla
+  di pertinente, e va segnalato ad Alberto (29/09: articolo sul Brasile, il link al portale
+  della Presidenza brasiliana sostituito dal caporedattore con un sito italiano)
 - [ ] **Mai testate concorrenti**, né come link né nominate come fonte: AGIMEG, Jamma, AGIPRO,
   PressGiochi, iGaming Business e simili (04/08, 10/08, 14/09). Se l'unica fonte è una
   testata, si scrive "secondo indiscrezioni di stampa" senza nominarla

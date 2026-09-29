@@ -57,6 +57,7 @@ Aggiungere 3-4 paragrafi extra da ~50-60 parole ciascuno all'unico blocco di tes
 - Formato: `<a href="https://url-fonte" target="_blank">anchor text</a>` — **con** `target="_blank"`
 - Inserire **uno** per articolo, in uno dei paragrafi del secondo blocco
 - Fonti accettabili: **solo** ADM, siti istituzionali (MEF, Governo, Gazzetta Ufficiale) e operatori con licenza ADM
+- **Preferire sempre siti italiani**, anche su notizie estere: il sito istituzionale straniero solo se in italiano non esiste nulla di pertinente (caporedattore, 29/09/2026)
 - **Mai testate di settore/competitor** (AGIMEG, Jamma, AGIPRO e simili) — sono concorrenti editoriali di sitiscommesse.com, non fonti primarie da linkare (corretto 10/08/2026, la versione precedente di questa riga era sbagliata)
 
 ### Verifica link
@@ -71,6 +72,7 @@ Aggiungere 3-4 paragrafi extra da ~50-60 parole ciascuno all'unico blocco di tes
 - Bold (`<strong>`) solo sul topic principale del paragrafo
 - 3-8 parole per volta, massimo
 - Non usare il bold per decorazione o enfasi generica
+- **Mai in apertura di paragrafo**: il grassetto parte almeno dopo 2 o 3 parole (caporedattore, 29/09/2026)
 
 ## Cose da evitare
 - Opinioni, commenti, punti di vista personali

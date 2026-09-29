@@ -9,21 +9,21 @@ TITLE = "RECENSIONE MY LOTTERIES PLAY 2026"
 SUBTITLE = "Analisi completa dell'operatore"
 RATING = (
     "⭐ 3,5/5",
-    "Fino a 2.000€ di benvenuto", "Slot (200% della prima ricarica, rollover 45x)",
-    "Oltre 10 giochi di lotteria", "Lotto, Gratta e Vinci, SuperEnalotto, Lotteria Italia",
+    "Fino a 2.000€ di benvenuto", "Slot: 200% della prima ricarica, moltiplicatore 45x, non prelevabile",
+    "Oltre 10 tra lotterie e giochi numerici", "Lotto, Gratta e Vinci, SuperEnalotto, Lotteria Italia",
 )
 CTA = "VAI SU MY LOTTERIES PLAY"
-FOOTER = "Il gioco è vietato ai minori di 18 anni • Bonus e T&C soggetti a modifica: verificare sempre su mylotteriesplay.it"
+FOOTER = "Il gioco è vietato ai minori di 18 anni e può causare dipendenza patologica • Bonus e T&C soggetti a modifica: verificare sempre su mylotteriesplay.it"
 
 # Ogni blocco: (tipo, argomenti). Tipi: h1, h2, body, small, info, callout, table, avg, note, final, divider
 BLOCKS = [
     ("h1", "INFORMAZIONI ESSENZIALI"),
     ("info", [
-        ("Licenza operativa", "ADM, concessione n. 16049 (subentrata alla GAD n. 15478 con il nuovo regime delle concessioni online, in vigore dal 13 novembre 2025)"),
-        ("Proprietà", "MyLotteries S.r.l., Roma, società a socio unico soggetta a direzione e coordinamento di Brightstar Lottery S.p.A. Il gruppo è distinto dall'attuale Lottomatica Group"),
+        ("Licenza operativa", "ADM, concessione n. 16049, in vigore dal 13 novembre 2025 con il nuovo regime delle concessioni online; in precedenza l'operatore aveva la concessione GAD n. 15478"),
+        ("Proprietà", "MyLotteries S.r.l., Roma, società a socio unico soggetta a direzione e coordinamento di Brightstar Lottery S.p.A."),
         ("Bonus benvenuto", "Tre offerte online, una sola per persona, da scegliere nel modulo di registrazione: Slot, 200% della prima ricarica fino a 2.000€; Slot e Lotterie, 100% fino a 50€; Lotterie, 100% fino a 25€. Tre offerte dedicate, fino a 40€, per chi apre il conto in ricevitoria"),
-        ("Requisito di puntata", "Slot: Fun Bonus da giocare 45 volte, convertibile al massimo per metà in Real Bonus Slot. Slot e Lotterie: Fun Bonus da giocare 10 volte. Il Real Bonus Slot ottenuto va rigiocato almeno una volta prima del prelievo. Per il Real Bonus Lotterie online il regolamento non indica requisiti di giocata"),
-        ("App disponibili", "My Lotteries PLAY su App Store, con l'offerta completa; My Lotteries, dedicata alle lotterie, per iOS e Android"),
+        ("Requisito di puntata", "Slot: moltiplicatore di giocata 45x sui Fun Bonus erogati, massimale di conversione in Real Bonus Slot del 50%. Slot e Lotterie: moltiplicatore 10x, massimale di conversione del 100%. Il Real Bonus Slot ottenuto va rigiocato almeno una volta prima del prelievo. Per il Real Bonus Lotterie online il regolamento non indica requisiti di giocata"),
+        ("App disponibili", "My Lotteries PLAY, con l'offerta completa, su App Store (disponibilità su Android non verificata); My Lotteries, dedicata alle lotterie, per iOS e Android"),
         ("Metodi di pagamento", "Carte di credito e debito, PayPal, bonifico ordinario e istantaneo"),
         ("Servizio clienti", "Numero verde 800.900.500, email supporto@mylotteriesplay.it e contogioco@mylotteriesplay.it"),
         ("Deposito minimo", "10€ con carte e PayPal, nessun minimo indicato per il bonifico; 20€ per attivare i bonus Slot e Slot e Lotterie"),
@@ -31,26 +31,26 @@ BLOCKS = [
     ]),
     ("callout", "PERCHÉ MY LOTTERIES PLAY POTREBBE NON FARE AL CASO TUO", [
         "Le scommesse sportive sono l'area più recente dell'offerta e nelle pagine bonus consultate non abbiamo individuato un bonus di benvenuto dedicato allo sport",
-        "Il bonus più alto, fino a 2.000€ sulle slot, chiede di giocare l'importo 45 volte e si converte al massimo per metà: condizioni impegnative",
+        "Il bonus più alto, fino a 2.000€ sulle slot, ha un moltiplicatore di giocata di 45x e un massimale di conversione del 50%: condizioni impegnative",
         "Si ricarica solo con carte, PayPal e bonifico, con un massimo di 1.000€ per operazione su carta e di 950€ su PayPal",
     ]),
     ("divider",),
 
     ("h1", "PREFAZIONE"),
     ("body", "My Lotteries Play è la piattaforma di gioco online di MyLotteries S.r.l., società romana controllata da Brightstar Lottery S.p.A. Brightstar Lottery è il nome annunciato il 17 giugno 2025 dalla divisione lotterie di IGT, in vista della cessione delle attività Gaming e Digital del gruppo a una società controllata da fondi Apollo, prevista dal 1° luglio 2025."),
-    ("body", "In Italia le società del gruppo sono concessionarie dello Stato per il Gioco del Lotto, il Gratta e Vinci e la Lotteria Italia, e LottoItalia, il consorzio di cui Brightstar detiene il 61,5%, gestisce anche 10eLotto, MillionDAY e FAI3 FAI4. Da qui nasce l'identità del prodotto: le lotterie sono la base, a cui la piattaforma ha aggiunto casinò, slot, giochi di carte, scommesse virtuali e, da febbraio 2026, scommesse sportive. Questa recensione analizza un operatore diverso dai bookmaker tradizionali, con i suoi punti forti e quelli ancora da costruire."),
+    ("body", "Il gruppo è concessionario dello Stato per le lotterie istantanee e differite, cioè Gratta e Vinci e Lotteria Italia, e, attraverso LottoItalia, consorzio di cui detiene il 61,5%, per Gioco del Lotto, 10eLotto, MillionDAY e FAI3 FAI4. Da qui nasce l'identità del prodotto: le lotterie sono la base, a cui la piattaforma ha aggiunto casinò, slot, giochi di carte, scommesse virtuali e, da febbraio 2026, scommesse sportive."),
     ("divider",),
 
     ("h1", "VALUTAZIONI"),
     ("table", ["Categoria", "Voto", "Nota sintetica"], [
-        ["Lotterie e Gratta e Vinci", "8,5/10", "Oltre 10 giochi, dal Lotto alla Lotteria Italia, più di 100 Gratta e Vinci online"],
+        ["Lotterie e Gratta e Vinci", "8,5/10", "Oltre 10 tra lotterie e giochi numerici, più di 100 Gratta e Vinci online"],
         ["Scommesse sportive", "6/10", "Campionati principali e mercati standard, offerta recente senza bonus di benvenuto dedicato"],
-        ["Casinò e slot", "6,5/10", "Slot, tavoli, live e giochi di carte italiani, senza un conteggio pubblico dei titoli"],
+        ["Casinò e slot", "6,5/10", "Slot, tavoli, live e giochi di carte italiani; numero aggiornato dei giochi non trovato"],
         ["Bonus e promozioni", "7/10", "Da 25€ a 2.000€ secondo il gioco, condizioni che vanno lette offerta per offerta"],
         ["App e mobile", "6/10", "App completa recente, 3,6/5 su 24 valutazioni"],
         ["Metodi di pagamento", "6,5/10", "Tre metodi, prelievi senza commissioni, massimi di ricarica bassi per operazione"],
         ["Assistenza clienti", "6/10", "Numero verde ed email, nessuna live chat indicata nella pagina contatti"],
-        ["Sicurezza e compliance", "8,5/10", "Licenza ADM 16049, società del gruppo concessionario di Lotto e Gratta e Vinci"],
+        ["Sicurezza e compliance", "8,5/10", "Concessione ADM 16049, gruppo concessionario di Lotto e Gratta e Vinci"],
     ], 1),
     ("avg", "Valutazione media complessiva: 6,9/10"),
     ("divider",),
@@ -61,9 +61,9 @@ BLOCKS = [
     ("body", "L'offerta di benvenuto copre profili diversi: 25€ per chi vuole solo le lotterie, 50€ divisi tra slot e lotterie, fino a 2.000€ per chi punta sulle slot. Il bonus Lotterie online è il più semplice da usare: si spende su Gratta e Vinci, Lotto, 10eLotto, FAI3 FAI4, MillionDAY e SuperEnalotto entro 5 giorni, senza requisiti di giocata indicati nel regolamento."),
     ("body", "Sui prelievi con carta, PayPal e bonifico non si paga commissione, e il programma fedeltà My Club assegna sulle lotterie il doppio dei punti riconosciuti su slot, scommesse e giochi di carte."),
     ("h2", "Dove My Lotteries Play può migliorare (Contro)"),
-    ("body", "Nel nostro giudizio editoriale, basato sull'esperienza diretta nel settore, il limite principale riguarda la notorietà più che il prodotto: My Lotteries Play è un marchio che deve ancora farsi conoscere dal pubblico che gioca online."),
+    ("body", "Nel nostro giudizio editoriale, basato sull'esperienza diretta nel settore, il limite principale riguarda la notorietà più che il prodotto: il gruppo ha una lunga storia nelle lotterie, ma My Lotteries Play, come marchio di gioco online, deve ancora farsi conoscere dal pubblico che gioca in rete."),
     ("body", "Le scommesse sportive sono l'area più giovane dell'offerta. Il palinsesto copre i campionati principali, ma nelle pagine bonus consultate non abbiamo individuato un bonus di benvenuto dedicato allo sport: per le scommesse è attivo il Bonus Multipla, descritto nella sezione Promozioni."),
-    ("body", "Il bonus Slot da 2.000€ va letto per intero: arriva in cinque tranche da massimo 400€, ognuna valida 2 giorni, va giocato 45 volte e si converte in Real Bonus al massimo per metà del suo importo. Le poche recensioni lasciate online dagli utenti sono in gran parte negative (dettaglio in Feedback e recensioni)."),
+    ("body", "Il bonus Slot da 2.000€ va letto per intero: arriva in cinque tranche da massimo 400€, ognuna valida 2 giorni, con un moltiplicatore di giocata di 45x e un massimale di conversione del 50%."),
     ("divider",),
 
     ("h1", "LOTTERIE, LOTTO E GRATTA E VINCI"),
@@ -78,7 +78,7 @@ BLOCKS = [
     ("divider",),
 
     ("h1", "CASINÒ, SLOT E GIOCHI DI CARTE"),
-    ("body", "**Casinò e slot**: slot, roulette, blackjack e tavoli live con croupier. La scheda App Store parla di centinaia di slot; nelle pagine consultate non abbiamo trovato un conteggio dei titoli né l'elenco dei fornitori."),
+    ("body", "**Casinò e slot**: slot, roulette, blackjack e tavoli live con croupier. La scheda App Store parla di centinaia di slot; non abbiamo trovato un catalogo completo con il numero aggiornato dei giochi né l'elenco dei fornitori."),
     ("body", "**Giochi di carte**: titoli della tradizione italiana come Briscola, Tresette, Scopa, Burraco e Scala 40."),
     ("divider",),
 
@@ -89,14 +89,14 @@ BLOCKS = [
         ("Percentuale e massimale", "Fun Bonus del 200% della prima ricarica, fino a 2.000€: il massimale si raggiunge con una prima ricarica di 1.000€"),
         ("Deposito minimo qualificante", "20€, entro 7 giorni dall'apertura del conto"),
         ("Erogazione", "Cinque tranche, una ogni 48 ore, da massimo 400€ ciascuna; ogni tranche vale 2 giorni dall'attivazione"),
-        ("Requisito di puntata", "45 volte, su dieci slot indicate nel regolamento"),
-        ("Conversione", "Al massimo il 50% dell'importo diventa Real Bonus Slot, accreditato entro 72 ore; va rigiocato almeno una volta sulle slot prima del prelievo ed è valido 72 ore"),
+        ("Requisito di puntata", "Moltiplicatore di giocata di 45x sui Fun Bonus erogati, su dieci slot indicate nel regolamento"),
+        ("Conversione", "Massimale di conversione del 50%. Il saldo convertito diventa Real Bonus Slot entro 72 ore, va rigiocato almeno una volta sulle slot prima del prelievo e resta valido 72 ore"),
     ]),
     ("h2", "Benvenuto Slot e Lotterie, fino a 50€"),
     ("info", [
         ("Percentuale e massimale", "100% della prima ricarica, fino a 50€, diviso in due quote da massimo 25€: Fun Bonus Slot e Real Bonus Lotterie. Con la ricarica minima di 20€ le quote sono 10€ + 10€"),
         ("Deposito minimo qualificante", "20€, entro 7 giorni dall'apertura del conto; le ricariche con bonifico non attivano il bonus"),
-        ("Fun Bonus Slot", "Da giocare 10 volte entro 2 giorni, con puntate da 0,10€ a 10€ su dieci slot indicate; si converte fino al 100% in Real Bonus Slot, da rigiocare almeno una volta prima del prelievo, valido 5 giorni"),
+        ("Fun Bonus Slot", "Moltiplicatore di giocata di 10x entro 2 giorni, con puntate da 0,10€ a 10€ su dieci slot indicate; massimale di conversione del 100% in Real Bonus Slot, da rigiocare almeno una volta prima del prelievo, valido 5 giorni"),
         ("Real Bonus Lotterie", "Su Gratta e Vinci, Lotto, 10eLotto, FAI3 FAI4 e MillionDAY, valido 5 giorni"),
     ]),
     ("h2", "Benvenuto Lotterie, fino a 25€"),
@@ -114,7 +114,7 @@ BLOCKS = [
     ], None),
     ("small", "Offerte riservate a chi apre il conto in uno dei punti vendita aderenti, con prima ricarica entro 7 giorni; ogni bonus vale 5 giorni dall'attivazione."),
     ("h2", "Bonus Multipla (scommesse sportive)"),
-    ("body", "Aggiunge alla vincita delle multiple con almeno 4 eventi a quota minima 1,25 una percentuale che cresce con il numero di eventi, dal 3% con 4 eventi fino al 650% con 30. Promozione valida fino al 31/12/2026."),
+    ("body", "Sulle multiple vincenti con almeno 4 eventi a quota minima 1,25 riconosce un importo aggiuntivo calcolato in percentuale sulla vincita netta, che cresce con il numero di eventi: 3% con 4 eventi, 25% con 10, 89% con 20, 650% con 30. Promozione valida fino al 31/12/2026, modificabile o sospendibile dall'operatore."),
     ("note", "Nota importante", "I bonus non sono prelevabili né convertibili in denaro in modo diretto: si usano per giocare, secondo le condizioni di ciascun regolamento. Le offerte di benvenuto online sono valide fino al 31/12/2026. Condizioni verificate il 29/09/2026 sulle pagine ufficiali dell'operatore e soggette a cambiamento: verificare sempre i T&C aggiornati prima dell'attivazione."),
     ("divider",),
 
@@ -133,8 +133,8 @@ BLOCKS = [
     ("divider",),
 
     ("h1", "SICUREZZA"),
-    ("body", "**Licenza ADM**: concessione n. 16049, in capo a MyLotteries S.r.l. Garanzia di legalità e tracciabilità delle operazioni secondo la normativa italiana."),
-    ("body", "**Struttura societaria**: MyLotteries S.r.l. è soggetta a direzione e coordinamento di Brightstar Lottery S.p.A. e fa parte del suo gruppo IVA. Il gruppo dichiara quasi cinquant'anni di attività nelle lotterie, e in Italia le sue società sono concessionarie dello Stato per Lotto, Gratta e Vinci e Lotteria Italia."),
+    ("body", "**Licenza ADM**: concessione n. 16049, in capo a MyLotteries S.r.l. La concessione attesta l'autorizzazione al gioco a distanza in Italia; non è una garanzia sull'esperienza di gioco o sui risultati."),
+    ("body", "**Struttura societaria**: MyLotteries S.r.l. è soggetta a direzione e coordinamento di Brightstar Lottery S.p.A. e fa parte del suo gruppo IVA. Il gruppo dichiara quasi cinquant'anni di attività nelle lotterie ed è concessionario dello Stato per Gratta e Vinci, Lotteria Italia e, attraverso LottoItalia, Gioco del Lotto."),
     ("body", "**Gioco responsabile**: limite di ricarica settimanale scelto in fase di registrazione, strumenti di autoesclusione e le altre misure di protezione previste da ADM, aggiornate con il nuovo contratto di conto gioco."),
     ("divider",),
 
@@ -147,8 +147,8 @@ BLOCKS = [
     ("divider",),
 
     ("h1", "FEEDBACK E RECENSIONI"),
-    ("body", "Sull'App Store, My Lotteries PLAY raccoglie una valutazione media di 3,6/5 su 24 valutazioni (rilevazione del 29/09/2026): un'app recente, alla versione 1.0.1, con una base di giudizi ancora piccola."),
-    ("body", "Su Trustpilot, nel profilo associato al dominio e non reclamato dall'azienda, il TrustScore è 1,7/5 su 23 recensioni, quasi tutte a una stella (rilevazione del 29/09/2026). Trustpilot segnala che l'azienda non ha inviato inviti a lasciare recensioni. Il campione è piccolo e autoselezionato: segnala insoddisfazione tra chi ha recensito, senza consentire generalizzazioni sull'insieme dei clienti."),
+    ("body", "Sull'App Store, My Lotteries PLAY raccoglie una valutazione media di 3,6/5 su 24 valutazioni (rilevazione del 29/09/2026): un'app pubblicata ad aprile 2026, alla versione 1.0.1, con una base di giudizi ancora piccola."),
+    ("body", "Su Trustpilot il profilo, non reclamato dall'azienda, raccoglie 1,7/5 su 23 recensioni (rilevazione del 29/09/2026): un campione troppo piccolo e autoselezionato per dire qualcosa sull'insieme dei clienti."),
     ("divider",),
 
     ("h1", "TABELLA COMPARATIVA: MY LOTTERIES PLAY VS SISAL VS LOTTOMATICA"),
@@ -156,27 +156,26 @@ BLOCKS = [
         ["Proprietà", "MyLotteries S.r.l. (Brightstar Lottery)", "Flutter Entertainment (dal 4 agosto 2022)", "Lottomatica Group"],
         ["Prodotto distintivo", "Lotterie del gruppo concessionario di Lotto, Gratta e Vinci e Lotteria Italia", "Concessionario del SuperEnalotto e dei giochi numerici a totalizzatore nazionale", "Rete fisica del gruppo: oltre 4.000 punti vendita scommesse e 1.100 sale gioco"],
         ["Scommesse sportive", "Da febbraio 2026", "Sì", "Sì"],
-        ["Licenza ADM", "16049", "Dato non verificato alla data di aggiornamento", "16010"],
     ], None),
-    ("small", "**Nota**: i tre operatori hanno un'origine diversa e il confronto va letto di conseguenza: My Lotteries Play e Sisal partono dalle lotterie, Lottomatica dalle scommesse e dalla rete fisica. I dati My Lotteries Play sono verificati il 29/09/2026 sulle pagine ufficiali; per Sisal e Lottomatica sono riportati solo dati societari e di concessione. I bonus di Sisal e Lottomatica non compaiono perché non è stato possibile verificarne le condizioni in vigore alla data di aggiornamento."),
+    ("small", "**Nota**: i tre operatori hanno un'origine diversa e il confronto va letto di conseguenza: My Lotteries Play e Sisal partono dalle lotterie, Lottomatica dalle scommesse e dalla rete fisica. I dati My Lotteries Play sono verificati il 29/09/2026 sulle pagine ufficiali; per Sisal e Lottomatica sono riportati solo dati societari. Bonus e numeri di concessione di Sisal e Lottomatica non compaiono perché non è stato possibile verificarli su fonte ufficiale alla data di aggiornamento."),
     ("divider",),
 
     ("h1", "IL NOSTRO GIUDIZIO"),
-    ("body", "My Lotteries Play nasce dalle lotterie e lì resta il suo punto di forza: in un solo conto ci sono i giochi del gruppo concessionario di Lotto, Gratta e Vinci e Lotteria Italia, insieme a SuperEnalotto, Eurojackpot e agli altri giochi numerici. L'offerta di benvenuto va dal bonus Lotterie da 25€, semplice da usare, al bonus Slot da 2.000€, più alto e più impegnativo. Lo sport copre i campionati principali ma è l'area più giovane, ancora senza un bonus di benvenuto dedicato nelle pagine consultate."),
-    ("body", "Il limite indicato nei Contro resta il più rilevante: il marchio deve ancora farsi conoscere online, e per lo stesso motivo la possibilità di aprire il conto in ricevitoria, nella nostra valutazione, sposta poco. Chi gioca soprattutto a Lotto, 10eLotto, Gratta e Vinci e SuperEnalotto trova qui un'offerta ampia; chi mette lo sport al centro trova un'offerta ancora in costruzione."),
-    ("body", "La media per categoria è 6,9/10 (6,875 prima dell'arrotondamento), pari a 3,44 su 5 in scala lineare. Il voto finale è una sintesi editoriale e non una conversione di quella media: tiene conto dell'ampiezza dell'offerta lotterie e della concessione ADM, di uno sport ancora giovane e di un marchio poco conosciuto online."),
+    ("body", "My Lotteries Play nasce dalle lotterie e lì resta il suo punto di forza: in un solo conto ci sono i giochi del gruppo concessionario di Lotto, Gratta e Vinci e Lotteria Italia, insieme a SuperEnalotto, Eurojackpot e agli altri giochi numerici. L'offerta di benvenuto va dal bonus Lotterie da 25€, semplice da usare, al bonus Slot da 2.000€, più alto e più impegnativo."),
+    ("body", "Il limite indicato nei Contro resta il più rilevante: il marchio deve ancora farsi conoscere online, e per questo, secondo noi, la possibilità di aprire il conto in ricevitoria incide poco. Chi gioca soprattutto a Lotto, 10eLotto, Gratta e Vinci e SuperEnalotto trova qui un'offerta ampia; chi mette lo sport al centro trova un'offerta ancora in costruzione."),
+    ("body", "Come si arriva al voto: la media per categoria è 6,875/10, arrotondata a 6,9, pari a 3,44 su 5. Il 3,5 finale è una sintesi editoriale, non una conversione di quella media, e tiene conto dell'ampiezza dell'offerta lotterie e della concessione ADM, di uno sport ancora giovane e di un marchio poco conosciuto online."),
     ("final", "VOTO FINALE: 3,5 SU 5"),
     ("divider",),
 
     ("h1", "NOTA METODOLOGICA"),
-    ("body", "Dati raccolti e verificati tra il 28 e il 29 settembre 2026 da fonti pubbliche. Concessione, proprietà, bonus, pagamenti, registrazione, contatti, programma fedeltà e lancio delle scommesse sportive vengono dalle pagine ufficiali di mylotteriesplay.it; palinsesto, mercati, giochi e rating dell'app dalla scheda App Store per iOS; il punteggio Trustpilot dal profilo associato al dominio; le concessioni del gruppo dai siti di Brightstar Lottery e LottoItalia; i dati Sisal da comunicati e fonti di stampa; i dati Lottomatica dalla nostra recensione di settembre 2026 e dal sito del gruppo. Non sono stati effettuati test diretti su conto di gioco, app o transazioni reali: i voti per categoria valutano l'offerta come risulta dalle fonti documentali, non da una verifica operativa sul campo. La disponibilità di My Lotteries PLAY su Android non è stata verificata. Bonus, condizioni di gioco, metodi di pagamento e limiti cambiano nel tempo: verificare sempre i T&C ufficiali aggiornati prima di ogni decisione di gioco."),
+    ("body", "Dati raccolti e verificati tra il 28 e il 29 settembre 2026 da fonti pubbliche. Concessione, proprietà, bonus, pagamenti, registrazione, contatti, programma fedeltà e lancio delle scommesse sportive vengono dalle pagine ufficiali di mylotteriesplay.it; palinsesto, mercati, giochi e rating dell'app dalla scheda App Store per iOS; il punteggio Trustpilot dal profilo della piattaforma; le concessioni del gruppo dai siti di Brightstar Lottery e LottoItalia; i dati Sisal e Lottomatica da comunicati societari e fonti di stampa. Non sono stati effettuati test diretti su conto di gioco, app o transazioni reali: i voti per categoria valutano l'offerta come risulta dalle fonti documentali, non da una verifica operativa sul campo. La disponibilità dell'app My Lotteries PLAY su Android non è stata verificata. Bonus, condizioni di gioco, metodi di pagamento e limiti cambiano nel tempo: verificare sempre i T&C ufficiali aggiornati prima di ogni decisione di gioco."),
     ("divider",),
 
     ("h1", "FAQ"),
     ("h2", "My Lotteries Play è sicuro?"),
-    ("body", "Opera con concessione ADM n. 16049, in capo a MyLotteries S.r.l., società soggetta a direzione e coordinamento di Brightstar Lottery S.p.A., il gruppo concessionario in Italia di Lotto, Gratta e Vinci e Lotteria Italia."),
+    ("body", "Opera con la concessione ADM n. 16049 per il gioco a distanza, in capo a MyLotteries S.r.l., società soggetta a direzione e coordinamento di Brightstar Lottery S.p.A. La concessione attesta che l'operatore è autorizzato in Italia; per valutare l'esperienza di gioco vanno lette anche le sezioni su pagamenti, assistenza e recensioni degli utenti."),
     ("h2", "My Lotteries Play fa parte del Gruppo Lottomatica?"),
-    ("body", "No. MyLotteries S.r.l. è soggetta a direzione e coordinamento di Brightstar Lottery S.p.A., gruppo distinto dall'attuale Lottomatica Group."),
+    ("body", "No. MyLotteries S.r.l. è soggetta a direzione e coordinamento di Brightstar Lottery S.p.A., non di Lottomatica Group."),
     ("h2", "Su My Lotteries Play si può scommettere sullo sport?"),
     ("body", "Sì. Le scommesse sportive, prima dell'evento e live, sono disponibili dal sito e dall'app My Lotteries PLAY su App Store. Ci sono anche le scommesse virtuali."),
     ("h2", "Si possono ricevere più bonus di benvenuto?"),

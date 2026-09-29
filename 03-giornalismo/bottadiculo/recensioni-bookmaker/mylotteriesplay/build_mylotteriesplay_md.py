@@ -12,9 +12,44 @@ OUT = os.path.join(HERE, "recensione-mylotteriesplay-2026.md")
 
 FACT_CHECK = """## Note fact-check
 
-Prima stesura del 28/09/2026, revisionata il 29/09/2026 dopo un check Codex high-effort (voto 5,5/10 sulla prima stesura). Ogni punto segnalato da Codex è stato riverificato sulle pagine live prima di correggerlo: Codex aveva lavorato in parte su copie indicizzate, perché molte pagine del sito andavano in timeout. Manca ancora il check Astra.
+Prima stesura del 28/09/2026, revisionata il 29/09/2026 dopo un check Codex high-effort (voto 5,5/10 sulla prima stesura) e poi dopo il check Astra (#527, stesso giorno). Ogni punto segnalato è stato riverificato sulle pagine live prima di correggerlo.
+
+### Correzioni dopo il check Astra (29/09/2026)
+
+Astra non conosce le regole della serie: i punti sono stati filtrati. Applicati:
+
+- **Concessione**: riformulata come "16049, in vigore dal 13/11/2025 con il nuovo regime; in precedenza GAD n. 15478", per non far sembrare incerta l'attuale. 16049 confermata anche nel footer di mylotteriesplay.it (curl diretto) e, secondo Astra, nell'elenco ADM dei concessionari (la pagina ADM non restituisce l'elenco al mio fetch)
+- **Concessioni del gruppo precisate**: la formula "le società del gruppo sono concessionarie" era ambigua. Ora: concessionario per le lotterie istantanee e differite (Gratta e Vinci e Lotteria Italia), testo di brightstarlottery.it/chi-siamo (fetch diretto), e per Lotto, 10eLotto, MillionDAY e FAI3 FAI4 attraverso LottoItalia, 61,5% (lotto-italia.it, fetch diretto). Non nominata Lotterie Nazionali S.r.l., trovata solo in risultati di ricerca
+- **Rollover**: ora riportato con la formula del regolamento, "moltiplicatore di giocata 45x sui Fun Bonus erogati" e "massimale di conversione del 50%". La prima revisione interpretava il 50% come "metà dell'importo": due letture della stessa pagina davano formulazioni diverse, quindi resta la dicitura contrattuale
+- **Bonus Multipla**: percentuale calcolata sulla vincita netta (esempio nel regolamento), scaglioni 3% con 4 eventi, 25% con 10, 89% con 20, 650% con 30; riserva di modifica o sospensione. Il regolamento non dice se l'importo è in denaro o bonus, né indica un tetto in euro: non scritto
+- **App Store**: Astra e Codex vedono 3,7/5 su 23. L'API ufficiale iTunes (lookup, country=it, 29/09/2026) dà averageUserRating 3,58333 e userRatingCount 24, e i dati strutturati della pagina dicono 3,6 e 24: mantenuto 3,6 su 24. Dalla stessa API: versione 1.0 del 27/04/2026, 1.0.1 del 17/06/2026, anno ora nel testo. **Da ricontrollare il giorno della pubblicazione**, come Trustpilot
+- **Android**: le info essenziali ora dicono esplicitamente che la disponibilità di My Lotteries PLAY su Android non è verificata; l'app per iOS e Android è My Lotteries, quella solo lotterie
+- **Comparativa**: tolta la riga licenze, perché lasciare "dato non verificato" la rendeva incompleta. Sisal 16020 compare in due fonti secondarie, ma sisal.it non risponde (timeout) e lottomatica.it risponde 403: nessun numero di concessione dei concorrenti pubblicato
+- **"Garanzia di legalità"** sostituita: la concessione attesta l'autorizzazione, non garantisce esperienza o risultati. Stessa logica nella FAQ "è sicuro?"
+- **Bonus e condizioni vicini**: il rating box ora dice "moltiplicatore 45x, non prelevabile" accanto ai 2.000€
+- **Avvertenza**: il footer aggiunge "può causare dipendenza patologica". Vale la pena estenderla alle altre quattro recensioni
+- **Notorietà**: precisato che riguarda My Lotteries Play come marchio di gioco online, non il gruppo
+- **Trustpilot nei Contro**: "nel piccolo campione consultato prevalgono i giudizi negativi, che non rappresentano necessariamente l'esperienza di tutti i clienti"
+- **Ripetizioni**: tolto dal giudizio finale il bonus sport mancante (resta nel box iniziale, nei Contro e nella sezione sport); tolta la chiusura generica della Prefazione; spiegazione del voto resa riconoscibile ("Come si arriva al voto")
+- **Formule**: "sposta poco" diventa "incide poco"; "senza un conteggio pubblico dei titoli" diventa "numero aggiornato dei giochi non trovato"; "oltre 10 giochi di lotteria" diventa "oltre 10 tra lotterie e giochi numerici"
+- **Nomi dei giochi**: controllati, "Super Win for Life", "FAI3 FAI4", "MillionDAY" e "Play Your Date" come nelle pagine ufficiali, usati in modo uniforme
+
+Non applicati, con il motivo:
+
+- **Revisione legale di CTA, link affiliati e natura promozionale** (Decreto Dignità art. 9, AGCOM): decisione di Alberto del 13/09/2026, il presidio per l'intera serie è il caporedattore. La dichiarazione di un eventuale rapporto di affiliazione dipende da un fatto che non conosco: da chiedere al caporedattore
+- **Indice navigabile, link alle fonti nelle singole sezioni, tabelle per mobile, metadati SEO nel documento**: il formato della serie è il docx/pdf sul modello SNAI consegnato al caporedattore, che impagina sul CMS. Proposta SEO qui sotto, fuori dal testo
+- **Riscrivere per i rilevatori AI**: coerente con la regola del workspace, si interviene su precisione e ritmo, non per battere un rilevatore
+- **Ricontrollo il giorno della pubblicazione** (rating, Trustpilot, bonus): passaggio di processo, non modifica al testo. Va fatto quando il caporedattore fissa la data
+
+### Proposta SEO per il caporedattore
+
+- **SEO title**: Recensione My Lotteries Play 2026: bonus, lotterie e scommesse
+- **Meta description**: My Lotteries Play, concessione ADM 16049: bonus di benvenuto da 25€ a 2.000€, Lotto, Gratta e Vinci, SuperEnalotto, scommesse sportive e pagamenti. Voto 3,5/5.
+- **Slug**: recensione-my-lotteries-play
 
 ### Correzioni dopo il check Codex (29/09/2026)
+
+Ogni punto segnalato da Codex è stato riverificato sulle pagine live prima di correggerlo: Codex aveva lavorato in parte su copie indicizzate, perché molte pagine del sito andavano in timeout.
 
 - **Bonus di benvenuto, errore sostanziale corretto**: la prima stesura parlava di "tre offerte attive, fino a 50€". Il censimento completo della categoria "Bonus Benvenuto" su /bonus (fetch diretto) mostra tre offerte online: Slot 200% fino a 2.000€, Slot e Lotterie 100% fino a 50€, Lotterie 100% fino a 25€. La categoria "Bonus Benvenuto in Ricevitoria" ne mostra altre tre: Slot 50% fino a 20€, Lotterie 100% fino a 30€, Slot e Lotterie 50% fino a 40€. La prima stesura aveva letto solo le pagine uscite nei risultati di ricerca. Crollata la tesi dei "bonus piccoli": rivisti rating box, info essenziali, Pro, Contro, voto Bonus (da 6,5 a 7) e giudizio. I benvenuti Gratta e Vinci (15€) e Lotto (15€) sono ancora linkati dalla pagina bonus ma scaduti il 31/03/2026: esclusi
 - **Regolamenti completati (fetch diretto su ogni pagina)**: Slot 2.000€, cinque tranche ogni 48 ore da massimo 400€, ognuna valida 2 giorni, rollover 45x su dieci slot, conversione massima del 50% in Real Bonus Slot entro 72 ore, da rigiocare almeno una volta, valido 72 ore, iniziativa 16/04 al 31/12/2026. Slot e Lotterie: Fun Bonus 10x con conversione fino al 100% in Real Bonus Slot da rigiocare una volta, valido 5 giorni. Bonus in ricevitoria: tutti "da rigiocare integralmente almeno una volta prima del prelievo", tutti validi 5 giorni, iniziative dal 27/05/2026 (Slot, Slot e Lotterie) e dal 18/08/2026 (Lotterie) al 31/12/2026. Scelta nel modulo di registrazione e unicità del benvenuto: FAQ bonus e regolamenti (fetch diretto). Non trovata sulla pagina Slot 2.000€ l'esclusione del bonifico, quindi non è scritta per quell'offerta
@@ -42,11 +77,13 @@ Prima stesura del 28/09/2026, revisionata il 29/09/2026 dopo un check Codex high
 - Contatti: numero verde e due email, nessuna chat né orari nella pagina contatti
 - Sisal acquisita da Flutter il 04/08/2022; Lottomatica concessione 16010; Goldbet 4,8/5 su circa 25.000 valutazioni (fetch dell'11/09/2026, riconfermato da Codex)
 
-### Punti aperti
+### Decisioni di Alberto sui punti aperti (29/09/2026)
 
-- **Compliance AGCOM** (delibera 132/19/CONS): Codex segnala di nuovo il rischio di pubblicità indiretta legato a CTA, voto, "Perché scegliere" e "Le migliori alternative". Come deciso da Alberto il 13/09/2026 per la serie, il presidio è il passaggio dal caporedattore prima della pubblicazione: nessuna modifica in autonomia
-- **Temi delle recensioni Trustpilot** (conti bloccati dopo vincite, prelievi lenti, accesso al conto, giochi "truccati"): verificati come presenti nelle recensioni, non come fatti. Non riportati nel testo perché Alberto non ne ha riscontro diretto e riguardano soldi degli utenti: da decidere con Alberto se citarli in forma neutra
-- **Non verificati**: disponibilità di My Lotteries PLAY su Android, streaming, bonus attuali di Sisal e Lottomatica
+- **Compliance AGCOM e Decreto Dignità** (segnalati di nuovo da Codex e Astra): presidio del caporedattore, come deciso il 13/09/2026 per la serie
+- **Eventuale accordo di affiliazione**: non rilevante per il pezzo, nessuna dichiarazione da aggiungere
+- **Ricontrollo dei dati prima dell'invio** (previsto a inizio ottobre): non necessario, i dati non dovrebbero cambiare in pochi giorni
+- **Trustpilot**: poco peso. Tolto il richiamo dai Contro; in Feedback resta solo punteggio e dimensione del campione. I temi delle recensioni (conti bloccati, prelievi lenti) restano fuori
+- **Non verificati**: disponibilità di My Lotteries PLAY su Android, streaming, bonus e concessioni attuali di Sisal e Lottomatica
 
 **Giudizio personale di Alberto (28/09/2026)**: su domande mirate, il giudizio raccolto è il seguente. Reputazione: brand che deve ancora emergere, non "chiacchierato" dai giocatori, soprattutto online. Trattamento di vincenti e bonus abuser: nessun riscontro diretto. Apertura del conto in ricevitoria: conta poco. Il vero neo: non è un brand molto conosciuto, deve farsi conoscere online. Dopo la revisione del 29/09 questo giudizio compare in un solo passaggio attribuito (primo paragrafo dei Contro) e in un richiamo nel giudizio finale. Sul trattamento dei vincenti la recensione non dice nulla, né in positivo né in negativo, per assenza di riscontro. È opinione editoriale basata sull'esperienza diretta di Alberto nel settore, non un dato verificato su fonte primaria terza: va trattata come tale se il caporedattore ne chiede conto.
 """
