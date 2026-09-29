@@ -89,10 +89,18 @@ Il blocco minimo è di 30 minuti.
 In ordine:
 
 1. **Candidate:** issue non completate, non annullate e non duplicate, con due date entro oggi+3, arretrati compresi. Escluse quelle che ALDO mette in "Fermo su altri". Le issue senza due date non si piazzano.
-2. **Ordine:** due date crescente, poi priorità (Urgent, High, Medium, Low, nessuna).
+2. **Ordine, in due gruppi (corretto il 29/09/2026 dopo la prima prova):**
+   1. **Prima le vive:** due date fra oggi e oggi+3, oppure titolo con `[pubb. GG/MM]` e data di pubblicazione non ancora passata. In ordine di data di pubblicazione se c'è, altrimenti di due date, poi priorità (Urgent, High, Medium, Low, nessuna).
+   2. **Poi gli arretrati:** due date passata e nessuna data di pubblicazione futura. In ordine di priorità, poi due date **più recente** prima.
+
+   Perché: con due date crescente e basta, un arretrato di luglio passa davanti alla newsletter che esce lunedì e si prende i pochi spazi liberi. Il più vecchio non è il più urgente.
 3. **Già piazzata:** se esiste un blocco `[TB]` futuro per quell'ID, si salta.
 4. **Dove:**
-   - la prima fascia libera, entro la due date compresa, in cui entra tutta la durata
+   - la prima fascia libera in cui entra tutta la durata, entro il **limite** della issue:
+     - per le vive con data di pubblicazione: il giorno prima della pubblicazione (la due date è il momento in cui iniziare, non il limite oltre cui il pezzo è perso)
+     - per le altre vive: la due date
+     - per gli arretrati: oggi+7
+   - mai oltre oggi+7, per nessuna issue
    - mai spezzare un task
    - nessuna sovrapposizione con eventi a orario già presenti; gli eventi di un'intera giornata segnati "libero", come i promemoria, non contano
    - il tetto giornaliero va rispettato
@@ -100,8 +108,9 @@ In ordine:
    - BD e Affiliation nelle fasce fra le 09:00 e le 18:00 dei giorni feriali, quando le persone rispondono
    - Communication nelle fasce di almeno 2h
 6. **Se non entra:**
-   - si può spostare un blocco `[TB]` futuro con due date più lontana
+   - si può spostare un blocco `[TB]` futuro di un arretrato, per far posto a una viva
    - se non basta, niente blocco e una riga nell'email: "Non entra: ALB-NNN, servono Xh, prima di GG/MM ce ne sono Yh"
+   - gli arretrati che non entrano vanno in una riga sola a parte: "Arretrati senza spazio: N (ALB-..., ...)". Decidere se recuperarli o chiuderli spetta ad Alberto con `/agenda`, non ad ALDO
 7. **Pulizia:** se una issue è chiusa e ha un blocco `[TB]` futuro, il blocco si cancella. I blocchi passati non si cancellano mai, servono per la calibrazione.
 
 ## Email di ALDO: sezione "Calendario"
