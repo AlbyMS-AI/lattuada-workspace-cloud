@@ -49,5 +49,4 @@ Tag alt: "Finlandia legge sul gioco 2027, divieto di marketing di affiliazione, 
 - [x] Struttura approvata il 29/09
 - [x] Checklist anti-AI
 - [x] Grafica prodotta
-- [ ] Spot-check Pangram/QuillBot (consigliato, non bloccante)
-- [ ] Conferma pubblicazione di Alberto
+- [x] Pubblicato, confermato da Alberto il 30/09/2026 («tutto pubblicato ok»). Check Astra e spot-check non riportati in sessione. Se il testo è stato modificato in pubblicazione, le modifiche vanno riportate qui

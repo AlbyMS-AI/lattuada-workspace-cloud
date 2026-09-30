@@ -81,4 +81,4 @@ La domanda da portare al prossimo comitato è semplice. Chi, nel tuo gruppo o ne
 
 ---
 
-**Stato:** [x] 5W. [x] Gate POV (AskUserQuestion 29/09: rischio MiCA reale da presidiare ora; decisione "farsi sentire a Bruxelles"; test Softswiss ok). [x] Struttura approvata il 29/09. [x] Checklist anti-AI. [ ] Spot-check Pangram/QuillBot. [ ] URL live del link interno. [ ] Conferma pubblicazione di Alberto.
+**Stato:** [x] 5W. [x] Gate POV (AskUserQuestion 29/09: rischio MiCA reale da presidiare ora; decisione "farsi sentire a Bruxelles"; test Softswiss ok). [x] Struttura approvata il 29/09. [x] Checklist anti-AI. [x] Pubblicato, confermato da Alberto il 30/09/2026 («tutto pubblicato ok»). Check Astra, spot-check e URL live del link interno: non riportati in sessione. Se il testo è stato modificato in pubblicazione, le modifiche vanno riportate qui.
