@@ -504,6 +504,38 @@ Le due tabelle si leggono insieme: un contenuto può salvare bene (KPI algoritmi
 
 ---
 
+**Aggiornamento 02/10/2026: Blocco 6 chiuso senza N8 e senza carosello.** I due pezzi di chiusura (ALB-129, ALB-130) erano pronti ma sono stati sospesi da Alberto il 02/10: confrontavano proprio i cinque mercati che segue come BDM Softswiss (IT, DE, BE, CZ, IE) e rischiavano di sembrare il suo lavoro aziendale reso pubblico. Testi salvati, nessuna data. Il percorso Atto 1/2/3 si chiude con N7 e il post del 25/09.
+
+---
+
+## Blocco 7 — Come far rendere un casinò online (dal 05/10/2026)
+
+**Nata dal brainstorming del 02/10/2026** (decisioni di Alberto, memoria `project_linkedin_nuova_linea_head_of_casino`). Sostituisce l'arco "mercati regolamentati a confronto".
+
+- **Lettore:** Head of Casino/Product, chi decide il catalogo giochi e ne risponde sui numeri.
+- **Obiettivo:** chi legge percepisce di riflesso che Alberto sa scegliere il partner, i giochi e i prodotti giusti e farli rendere, account management compreso. Mai pitch, mai Softswiss nominata.
+- **Tre temi:** catalogo giochi; promo e retention (tornei, jackpot, missioni, free spin); numeri del casinò (GGR per titolo e per fornitore, concentrazione, RTP, report).
+- **Mercati negli esempi:** Italia sì, raccontata da giornalista italiano. Germania, Belgio, Repubblica Ceca e Irlanda mai, né come esempio né come confronto.
+- **Prove:** dati pubblici, pattern dal lavoro BDM solo come meccanismo, archivio giornalistico, campo LasVegas senza nomi né cifre dei conti.
+- **Titoli:** dicono tema e beneficio, con la keyword (casinò online, catalogo giochi, Head of Casino). Niente metafore.
+- **Gancio fisso:** ogni pezzo chiude con "le domande da fare al tuo fornitore" sul tema.
+- **Rischi noti:** tornei e jackpot sono strumenti che Softswiss vende, quindi l'angolo è "come farli rendere", mai "sono un costo". I giochi su misura per l'Italia sono un progetto interno Softswiss: non si anticipano.
+- **Cadenza:** newsletter IT il venerdì, due post a settimana (uno EN, uno IT).
+
+| Pubblica | Formato | Lingua | Titolo | Creare entro |
+|---|---|---|---|---|
+| Mar 06/10 | Post con immagine (fuori piano, già pronto) | EN | Brazil gave its football clubs ten days to take betting sponsors off their shirts | lun 05/10 (check fatti) |
+| Ven 09/10 | **Newsletter N8** | IT | Casinò online: le 5 metriche del catalogo giochi da controllare ogni mese | mer 07/10 |
+| Ven 09/10 | Carosello | EN | 5 casino catalogue metrics every Head of Casino should check monthly | mer 07/10 |
+| Mar 13/10 | Post | IT | Catalogo del casinò online: come decidere quali giochi togliere | ven 09/10 |
+| Ven 16/10 | **Newsletter N9** | IT | Tornei e jackpot nel casinò online: come capire se portano giocatori nuovi o spostano solo spesa | mer 14/10 |
+| Mar 20/10 | Post | EN | New game releases: how many are still played 90 days later? | ven 16/10 |
+| Ven 23/10 | **Newsletter N10** | IT | Dalla sala al casinò online: cosa cercano i giocatori di AWP e VLT | mer 21/10 |
+
+Idee in riserva, stessa linea: il bonus visto dalla sala (chi entra con il bonus e chi resta); il casinò online italiano nei dati pubblici ADM; i report che il fornitore dovrebbe darti e quasi nessuno chiede (riflesso più diretto, da scrivere con attenzione).
+
+---
+
 ## Note operative
 
 **Newsletter:** "The Betting Edge" — unica newsletter attiva, 1.023 iscritti, 17 edizioni pubblicate. Bisettimanale fino a N4, **settimanale dal 11/09/2026** (deciso post Lezione 10 MLR, 01/09/2026) e indipendente dai blocchi post. Sempre IT, sempre linea market intelligence, mai lead gen esplicita. Dal 01/09/2026 ogni post/carosello del blocco chiude con rimando esplicito all'edizione della settimana (pivot). Sequenza aggiornata il 01/09/2026: N1 10/07 · N2 14/08 · N3 21/08 · N4 04/09 · N5 11/09 · N6 18/09 · N7 25/09 · N8 02/10.

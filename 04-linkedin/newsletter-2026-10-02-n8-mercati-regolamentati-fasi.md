@@ -4,7 +4,7 @@ META DESCRIPTION: Nel 2026 Italia, Germania, Belgio, Repubblica Ceca e Irlanda s
 
 ---
 
-Il 1° luglio 2026 l'Irlanda ha rilasciato le prime licenze del suo nuovo regime. Entro il 31 dicembre la Germania deve consegnare il rapporto complessivo sul proprio trattato sul gioco. In mezzo, l'Italia ha spostato di sei mesi una scadenza tecnica del riordino, il Belgio applica una stretta con date già scritte fino al 2028 e la Repubblica Ceca quest'anno non ha toccato la sua legge.
+Il 1° luglio 2026 l'Irlanda ha rilasciato le prime licenze del suo nuovo regime. Entro il 31 dicembre la Germania deve consegnare il rapporto complessivo sul proprio trattato sul gioco. In mezzo, l'Italia ha messo in vigore metà del suo riordino e ha visto fermarsi l'altra, il Belgio applica una stretta con date già scritte fino al 2028 e la Repubblica Ceca quest'anno non ha toccato la sua legge.
 
 Cinque mercati regolamentati, lo stesso semestre, cinque momenti diversi.
 
@@ -26,13 +26,13 @@ Il rapporto non è la prima occasione di intervento. Nel 2025 la Conferenza dei 
 
 In valutazione la regola in vigore pesa meno delle domande che il legislatore si è dato. Quando un trattato dichiara che misurerà quanto gioco resta fuori dall'offerta legale e quanto sono protetti i giocatori, sono quelle le aree da tenere d'occhio per prime.
 
-## Italia: il riordino dell'online in attuazione
+## Italia: il riordino in attuazione, a metà
 
-In Italia le nuove concessioni per il gioco a distanza sono attive dal 13 novembre 2025. Il passaggio successivo era la verifica di conformità dei nuovi sistemi dei concessionari, fissata al 13 maggio 2026. ADM l'ha spostata al 13 novembre 2026, dopo aver constatato che al 23 febbraio agli organismi di verifica erano arrivate pochissime richieste ([PressGiochi](https://www.pressgiochi.it/giochi-online-adm-proroga-il-nuovo-sistema-del-concessionario-certificazione-slitta-al-13-novembre-2026/146611)).
+In Italia la riforma dell'online è in vigore. Le nuove concessioni per il gioco a distanza sono attive dal 13 novembre 2025, e dal 13 maggio 2026 vale il limite di 100 euro a settimana per le ricariche in contanti dei conti gioco nei punti vendita ricariche, con un controllo automatico che blocca le ricariche oltre la soglia ([Sky TG24](https://tg24.sky.it/economia/2026/05/14/gioco-online-ricariche-contanti-limite)).
 
-La proroga copre però solo gli aspetti tecnici della certificazione. Le misure di tutela del giocatore previste dalla convenzione sono obbligatorie dal 13 maggio, con l'eccezione dello strumento legato al nuovo sistema informatico ([Italian Gaming Expo](https://italiangamingexpo.com/2026/02/27/adm-ai-concessionari-di-gioco-online-processo-di-verifica-di-conformita-slittato-al-13-novembre-2026/)).
+L'altra metà del riordino, quella del gioco fisico, si è fermata. La delega fiscale che doveva ridisegnare la rete terrestre è scaduta il 29 agosto 2026 senza il decreto ([Agimeg](https://www.agimeg.it/riordino-gioco-fisico-delega-fiscale-scade-oggi-29-agosto-2026/)). Le concessioni di scommesse, apparecchi e bingo arrivano a fine 2026, e la stampa di settore dà per probabile una nuova proroga tecnica ([Italian Gaming News](https://italiangamingnews.it/2026/08/31/delega-fiscale-scaduta-il-riordino-del-gioco-fisico-resta-al-palo-ora-si-va-verso-una-nuova-proroga/)).
 
-In attuazione capita spesso. Slitta la scadenza che dipende dalla tecnologia, resta ferma quella che dipende dal giocatore. **Chi legge solo il titolo della proroga rischia di spostare anche obblighi che non si sono mossi.**
+In attuazione conviene guardare anche dove la riforma non è arrivata. **È nella metà che manca che cadrà la prossima decisione.**
 
 ## Belgio: una stretta con il calendario già scritto
 
@@ -52,9 +52,9 @@ In una fase quieta il rischio cambia indirizzo. **Quando il legislatore del gioc
 
 ## La riga che manca nella scheda di un mercato regolamentato
 
-Rimetti insieme i cinque casi e ottieni cinque fasi: apertura, valutazione, attuazione, stretta, stabilità. Ognuna ti dice qualcosa che la regola in vigore tace. In apertura può mancare proprio la licenza che ti serve. In valutazione conta l'agenda del legislatore. In attuazione le scadenze tecniche scivolano e gli obblighi restano. In stretta il calendario è già pubblico. In stabilità il rischio passa al fisco.
+Rimetti insieme i cinque casi e ottieni cinque fasi: apertura, valutazione, attuazione, stretta, stabilità. Ognuna ti dice qualcosa che la regola in vigore tace. In apertura può mancare proprio la licenza che ti serve. In valutazione conta l'agenda del legislatore. In attuazione conta anche la parte di riforma che manca. In stretta il calendario è già pubblico. In stabilità il rischio passa al fisco.
 
-Per questo alla scheda della settimana scorsa aggiungo una riga sola: **fase del ciclo e prossima data da guardare**. Sui cinque mercati di oggi sono il 13 novembre 2026 per l'Italia, il 1° dicembre 2026 per l'Irlanda, il 31 dicembre 2026 per la Germania, il 1° gennaio 2028 per il Belgio. Per la Repubblica Ceca la data da guardare è la prossima manovra sui conti pubblici, più di qualsiasi riforma del gioco.
+Per questo alla scheda della settimana scorsa aggiungo una riga sola: **fase del ciclo e prossima data da guardare**. Sui cinque mercati di oggi sono il 1° dicembre 2026 per l'Irlanda, il 31 dicembre 2026 per l'Italia e per la Germania, il 1° gennaio 2028 per il Belgio. Per la Repubblica Ceca la data da guardare è la prossima manovra sui conti pubblici, più di qualsiasi riforma del gioco.
 
 [IMMAGINE INLINE: `grafiche/alberto-lattuada-newsletter-n8-fasi-mercati-regolamentati.png`. Didascalia: "Cinque mercati regolamentati, cinque fasi del ciclo: la prossima data da guardare". Tag alt: "Mercati iGaming regolamentati Europa 2026: Irlanda in apertura, Germania in valutazione, Italia in attuazione, Belgio in stretta, Repubblica Ceca in stabilità, con la prossima scadenza per ciascuno"]
 
@@ -76,9 +76,10 @@ Chi sono e di cosa mi occupo lo trovi sul mio profilo LinkedIn. Oppure scrivimi.
 - **Tesi (scelta da Alberto il 30/09):** cinque mercati, cinque fasi del ciclo regolatorio (Irlanda apertura, Germania valutazione, Italia attuazione, Belgio stretta, Repubblica Ceca stabilità). Evoluzione della colonna "scadenze" della scheda di N7: si aggiunge la riga "fase del ciclo e prossima data"
 - **Test Softswiss (punto 8):** nessuna lettura della deroga GGL sulle puntate (post del 28/09 rimosso); licenze B2B irlandesi 2027/28 escluse perché toccano i fornitori; nessun marchio nominato nei blocchi belgi; nessuna previsione sull'esito della valutazione tedesca
 - **Fatti con fonte solo secondaria (da confermare nel fact-check esterno):** estensione degli ordini di blocco belgi agli intermediari (European Gaming, 05/05/2026: decisione del 23/04/2026); seconda modifica del GlüStV approvata dalla IMK nel 2025, stato della ratifica non verificato. Se il paragrafo belga non regge si toglie senza toccare il resto
-- **Fonti primarie:** GlüStV 2021 §32; Celní správa (vigilanza). **Commentari e stampa:** McCann FitzGerald 09/02/2026 (calendario GRAI), Daily Business 09/2026 (watershed non ancora attivo, gaming "later phase"), PressGiochi e Italian Gaming Expo 27/02/2026 (proroga ADM al 13/11/2026, tutele dal 13/05), PowerPlay (calendario divieti Belgio, RD 27/02/2023 e RD 12/08/2024), BDO e Kurzy.cz (aliquote ceche 2024), Encyklopedie Hazardu (nessuna modifica 2026)
+- **Fonti primarie:** GlüStV 2021 §32; Celní správa (vigilanza). **Commentari e stampa:** McCann FitzGerald 09/02/2026 (calendario GRAI), Daily Business 09/2026 (watershed non ancora attivo, gaming "later phase"), Sky TG24 14/05/2026 (limite 100 euro ricariche contanti PVR dal 13/05), Agimeg 29/08/2026 e Italian Gaming News 31/08/2026 (delega sul gioco fisico scaduta, concessioni a fine 2026, proroga attesa), PowerPlay (calendario divieti Belgio, RD 27/02/2023 e RD 12/08/2024), BDO e Kurzy.cz (aliquote ceche 2024), Encyklopedie Hazardu (nessuna modifica 2026)
 - **Scartati:** "2026 primo grande ciclo di rinnovi" in Repubblica Ceca (solo fonti commerciali); "27 casinò online con licenza al 11/05/2026" (fonte non primaria); "2026 Gambling Reforms sostituiscono la legge del 2011" in Belgio (falso: la legge belga è del 1999)
 - **Footer:** senza qualifica, come N7
 - **Accompagnamento:** `post-2026-10-02-newsletter-n8-accompagnamento.md`
 - **Grafiche:** copertina `grafiche/alberto-lattuada-newsletter-n8-fasi-mercati-cover.png` + infografica inline `grafiche/alberto-lattuada-newsletter-n8-fasi-mercati-regolamentati.png`
+- **Revisione del 01/10 (decisione di Alberto):** tolti dal paragrafo italiano la certificazione dei sistemi e la proroga ADM al 13/11/2026, perché sono il tema dell'articolo LI Pulse per Softswiss in attesa di pubblicazione. Al loro posto: metà online del riordino in vigore, metà fisica ferma. Stesse modifiche su infografica, carosello e post di accompagnamento
 - **Pangram:** da fare (Alberto)
