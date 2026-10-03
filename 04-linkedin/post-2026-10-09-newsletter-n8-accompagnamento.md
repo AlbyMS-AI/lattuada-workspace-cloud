@@ -1,6 +1,6 @@
-In Pennsylvania, nel 2025, circa un dollaro su cinque dei ricavi lordi del casinò online è tornato ai giocatori come promozione.
+In Pennsylvania, nel 2025, fra quanto il casinò online ha trattenuto dalle puntate e il ricavo dichiarato al regolatore c'è una differenza di circa un quinto. Buona parte passa dalle promozioni.
 
-Una voce così pesante andrebbe controllata ogni mese. Eppure, quando si parla di promo, la domanda è quasi sempre quali strumenti ci sono, quasi mai quanto rendono.
+Una voce di quel peso andrebbe controllata ogni mese. Eppure, nelle conversazioni con gli operatori, le domande riguardano quasi sempre gli strumenti promo, molto meno come misurarne il contributo al risultato.
 
 Nella nuova edizione di The Betting Edge ti mostro le cinque metriche con cui leggere il catalogo di un casinò online, come si calcolano e cosa ti dicono quando le metti insieme. In fondo, le domande da fare al tuo fornitore.
 
