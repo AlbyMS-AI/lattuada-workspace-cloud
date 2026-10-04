@@ -1,0 +1,133 @@
+<!--
+  Infografica 2 — Gambling Insights #84. "Cosa cambia da domani": quattro azioni per chi
+  gestisce un PVR o un internet point, ognuna con un pittogramma disegnato ad hoc.
+  Render: ../../../04-linkedin/grafiche/render.sh png src/[questo file] [output].png 1080x1350
+-->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{
+    --indigo:#1C0F3A; --indigo2:#150a2c; --arancio:#F9511F; --viola:#6330C7; --bianco:#FFFFFF;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:1080px;height:1350px;overflow:hidden}
+  body{
+    position:relative;
+    background:linear-gradient(165deg, var(--indigo) 0%, var(--indigo2) 100%);
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color:var(--bianco);
+  }
+  .blob{position:absolute;border-radius:50%;filter:blur(1px)}
+  .blob1{width:280px;height:280px;background:var(--viola);opacity:.20;bottom:-100px;left:-100px}
+
+  .wrap{position:relative;padding:60px 64px 52px;height:100%;display:flex;flex-direction:column}
+
+  .kicker{
+    display:inline-flex;align-items:center;
+    font-size:19px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--bianco);font-weight:700;margin-bottom:20px;
+    background:var(--arancio);padding:7px 18px;border-radius:100px;width:fit-content;
+  }
+  h1{font-size:44px;line-height:1.18;font-weight:800;letter-spacing:-.01em;margin-bottom:34px;max-width:920px}
+
+  .list{display:flex;flex-direction:column;gap:28px;flex:1;justify-content:center}
+  .item{
+    display:flex;align-items:flex-start;gap:24px;
+    background:rgba(255,255,255,.06);border:1.5px solid rgba(255,255,255,.14);
+    border-radius:20px;padding:36px 30px;
+  }
+  .item .icon-box{
+    flex-shrink:0;width:64px;height:64px;border-radius:16px;
+    display:flex;align-items:center;justify-content:center;
+    background:rgba(249,81,31,.16);
+  }
+  .item .text .role{
+    font-size:19px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;
+    color:var(--arancio);margin-bottom:9px;
+  }
+  .item .text .action{font-size:28px;line-height:1.35;font-weight:600}
+
+  .footer{
+    margin-top:30px;padding-top:22px;border-top:2px solid rgba(255,255,255,.18);
+    display:flex;justify-content:space-between;align-items:baseline;
+  }
+  .footer .byline{font-size:22px;font-weight:700}
+  .footer .tagline{font-size:18px;color:var(--arancio)}
+</style>
+</head>
+<body>
+  <div class="blob blob1"></div>
+  <div class="wrap">
+    <div class="kicker">Cosa cambia da domani</div>
+    <h1>Quattro cose da fare al banco dopo la sentenza sull'Albo PVR</h1>
+
+    <div class="list">
+      <div class="item">
+        <div class="icon-box">
+          <!-- stretta di mano: accordo scritto con il concessionario -->
+          <svg width="38" height="36" viewBox="0 0 38 36" fill="none">
+            <path d="M3 14l7-6 7 3 4-2 7 0 7 6" stroke="#F9511F" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M10 8v14l7 6c1.5 1.2 3.5 1 4.6-.4L30 18" stroke="#F9511F" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M17 11l-4 5c-.8 1 0 2.5 1.3 2.4L21 17" stroke="#F9511F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="text">
+          <div class="role">Internet point</div>
+          <div class="action">Prima di riaccendere le postazioni, un sì scritto dal concessionario.</div>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="icon-box">
+          <!-- carta di pagamento con spunta: carta validata -->
+          <svg width="38" height="36" viewBox="0 0 38 36" fill="none">
+            <rect x="3" y="7" width="28" height="19" rx="3" stroke="#F9511F" stroke-width="2.6"/>
+            <line x1="3" y1="13" x2="31" y2="13" stroke="#F9511F" stroke-width="2.6"/>
+            <circle cx="29" cy="26" r="7" fill="#F9511F"/>
+            <path d="M25.5 26l2.5 2.5 4.5-5" stroke="#1C0F3A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="text">
+          <div class="role">100 euro</div>
+          <div class="action">Smetti di aspettare: porta il cliente del contante sulla carta validata, che si usa anche al PVR.</div>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="icon-box">
+          <!-- fumetto con freccia verso uno schermo: la risposta pronta sul prelievo -->
+          <svg width="38" height="36" viewBox="0 0 38 36" fill="none">
+            <path d="M3 5h22v14H12l-6 5v-5H3z" stroke="#F9511F" stroke-width="2.6" stroke-linejoin="round"/>
+            <rect x="22" y="20" width="13" height="10" rx="1.5" stroke="#F9511F" stroke-width="2.4"/>
+            <path d="M14 12h6m0 0l-2.5-2.5M20 12l-2.5 2.5" stroke="#F9511F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="text">
+          <div class="role">Prelievi</div>
+          <div class="action">Due righe pronte per chi vuole incassare al banco: si preleva online.</div>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="icon-box">
+          <!-- cornetta del telefono: richiamare i clienti -->
+          <svg width="36" height="36" viewBox="0 0 36 36" fill="none">
+            <path d="M8 4l6 1 2 7-4 3c2 4.5 5 7.5 9 9l3-4 7 2 1 6c-1 2-3 3-5 3C15 30 6 21 5 9c0-2 1-4 3-5z" stroke="#F9511F" stroke-width="2.6" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="text">
+          <div class="role">Clienti del contante</div>
+          <div class="action">Richiama quelli che non vedi da maggio. Al banco li conosci per nome, il sistema no.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="byline">Bottadiculo</div>
+      <div class="tagline">Gambling Insights #84</div>
+    </div>
+  </div>
+</body>
+</html>
