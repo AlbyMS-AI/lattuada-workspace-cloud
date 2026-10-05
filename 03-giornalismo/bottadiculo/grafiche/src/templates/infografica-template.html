@@ -1,0 +1,67 @@
+<!--
+  Template — infografica Bottadiculo 1080×1350 costruita sui componenti (dal 05/10/2026)
+  Piano: plans/2026-10-05-upgrade-grafiche-main-image-infografiche.md
+
+  Prima di compilare: scrivi la frase che la grafica dimostra e scegli la struttura
+  (04-linkedin/grafiche/lib/quality-gate.md, sezione 1). Il componente segue la struttura, non il gusto.
+
+  Uso: copiare in ../[data]-[slug]-infografica-N.html, poi:
+    1. ETICHETTA, TITOLO (Anton, una parola in <em>), CATENACCIO (una o due frasi)
+    2. DATI nel blocco JSON e componente nell'.area (data-componente / data-dati / data-opzioni)
+       Componenti e formato dei dati: 04-linkedin/grafiche/lib/componenti.js (commento in testa a ogni funzione)
+       Più componenti: dividere .area con una griglia, ogni contenitore con altezza in px
+    3. FONTE: sempre, se ci sono cifre (check-grafica.py blocca). Mappa Italia → aggiungere "Confini: ISTAT"
+    4. Mappe: scommentare lo script della mappa usata, prima di componenti.js
+  Render e controllo (da 03-giornalismo/bottadiculo/grafiche):
+    ../../../04-linkedin/grafiche/render.sh png src/[file].html [file].png 1080x1350
+    python3 ../../../04-linkedin/grafiche/lib/check-grafica.py src/[file].html --formato infografica --testata bottadiculo --png [file].png
+  Le due infografiche della newsletter non usano lo stesso scheletro (gate, criterio "originalità nel lotto").
+-->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../../04-linkedin/grafiche/lib/base.css">
+<style>
+  html,body{width:1080px;height:1350px}
+  body{background:linear-gradient(170deg,#1C0F3A 0%,#140A2C 100%);
+    display:grid;grid-template-rows:auto 1fr auto;padding:64px 72px 48px}
+  .etichetta{font-size:28px;margin-bottom:22px}
+  h1{font-size:84px;margin-bottom:16px}
+  .catenaccio{font-size:30px;line-height:1.3;color:var(--testo2);max-width:900px}
+  .catenaccio b{color:var(--testo);font-weight:600}
+  .area{width:936px;height:780px;margin-top:40px}
+  .piede{display:flex;align-items:flex-end;gap:22px;padding-top:20px;border-top:1px solid var(--linea)}
+  .piede .mark{flex:none;width:52px;height:52px;transform:rotate(-6deg)}
+  .piede .fonte{flex:1}
+</style>
+</head>
+<body class="tema-bottadiculo">
+<script type="application/json" id="dati">{
+  "principale": { "unita": "[unità]", "voci": [
+    { "label": "[Voce 1]", "valore": 100 },
+    { "label": "[Voce 2]", "valore": 60 },
+    { "label": "[Voce 3]", "valore": 25 }
+  ]}
+}</script>
+  <header>
+    <div class="etichetta">[Tema]</div>
+    <h1 class="titolo-display">[Titolo con una <em>parola</em>]</h1>
+    <p class="catenaccio">[Una o due frasi: cosa guardare e perché conta]</p>
+  </header>
+  <div class="area" data-componente="barreClassifica" data-dati="principale" data-opzioni='{"evidenzia":0,"fs":34}'></div>
+  <footer class="piede">
+    <div class="mark" data-brand>
+      <svg width="52" height="52" viewBox="0 0 200 200">
+        <rect x="0" y="0" width="200" height="200" rx="22" fill="#F9511F"/>
+        <polyline points="118,0 100,38 122,58 92,104 118,132 108,200"
+          fill="none" stroke="#1C0F3A" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <p class="fonte">Fonte: <b>[documento o ente, data]</b></p>
+  </footer>
+  <!-- <script src="../../../../04-linkedin/grafiche/lib/mappe/italia-regioni.js"></script> -->
+  <!-- <script src="../../../../04-linkedin/grafiche/lib/mappe/europa.js"></script> -->
+  <script src="../../../../04-linkedin/grafiche/lib/componenti.js"></script>
+</body>
+</html>

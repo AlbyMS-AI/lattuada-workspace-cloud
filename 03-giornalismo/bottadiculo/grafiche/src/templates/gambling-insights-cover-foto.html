@@ -1,0 +1,80 @@
+<!--
+  Template — copertina newsletter "Gambling Insights" con pannello sinistro a foto (dal 05/10/2026)
+  Piano: plans/2026-10-05-upgrade-grafiche-main-image-infografiche.md (domanda aperta 1:
+  variante da confermare da Alberto contro gambling-insights-cover-template.html del 06/09).
+  Il pannello destro è identico al template del 06/09: masthead, kicker #N · data, h1, sub, footer.
+  Cambia solo il pannello sinistro: la foto del pezzo sotto una sfumatura indigo, con il logo B
+  sovrapposto in basso a sinistra e il wordmark. La foto deve avere il soggetto nella metà sinistra
+  (template 16:9 in 04-linkedin/grafiche/lib/prompt-gemini.md).
+
+  Uso: copiare in ../[data]-[slug]-cover.html, compilare FOTO, #N · data, h1, sub. Poi:
+    ../../../04-linkedin/grafiche/render.sh png src/[data]-[slug]-cover.html [data]-[slug]-cover.png 1280x720
+    python3 ../../../04-linkedin/grafiche/lib/check-grafica.py src/[data]-[slug]-cover.html --formato cover --testata bottadiculo --png [data]-[slug]-cover.png
+  Nota sul tetto di parole: masthead, kicker e footer sono marcati data-brand e non contano;
+  contano h1 e sub.
+-->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../../04-linkedin/grafiche/lib/base.css">
+<style>
+  html,body{width:1280px;height:720px}
+  body{display:grid;grid-template-columns:44% 56%;background:#fff}
+
+  .foto{
+    /* FOTO ↓ cambiare solo il percorso dentro url() */
+    background-image:
+      linear-gradient(200deg, rgba(28,15,58,.05) 30%, rgba(28,15,58,.78) 78%, #1C0F3A 100%),
+      url("../inbox/FOTO.png");
+    background-size:cover;background-position:center;
+    display:flex;flex-direction:column;justify-content:flex-end;padding:0 0 40px 44px;
+  }
+  .foto .mark{width:96px;height:96px;transform:rotate(-6deg);filter:drop-shadow(0 6px 16px rgba(0,0,0,.5))}
+  .foto .brand{margin-top:22px;font-family:var(--f-cond);font-weight:700;font-size:20px;letter-spacing:.2em;
+    text-transform:uppercase;color:#fff}
+
+  .testo{padding:48px 56px 0;display:flex;flex-direction:column;color:#1C0F3A}
+  .masthead .label{font-family:var(--f-testo);font-size:38px;font-weight:800;letter-spacing:-.01em;line-height:1}
+  .masthead .sub-label{font-size:17px;font-weight:600;color:#6330C7;margin-top:6px}
+  .box{flex:1;display:flex;flex-direction:column;justify-content:center;
+    border-top:2px solid rgba(99,48,199,.25);margin-top:24px;padding-top:22px}
+  .kicker{font-family:var(--f-cond);font-weight:700;font-size:20px;letter-spacing:.06em;text-transform:uppercase;
+    color:#fff;background:#F9511F;padding:7px 14px 6px;width:fit-content;margin-bottom:16px}
+  h1{font-family:var(--f-testo);font-size:36px;line-height:1.16;font-weight:800;letter-spacing:-.015em;
+    margin-bottom:14px;max-width:620px}
+  .sub{font-size:19px;line-height:1.42;color:#3a2f57;max-width:590px}
+  .footer{margin-top:22px;padding:16px 0 30px;display:flex;justify-content:space-between;align-items:center;
+    border-top:1px solid rgba(28,15,58,.12)}
+  .byline{font-size:19px;font-weight:700}
+  .tagline{font-size:14px;opacity:.65}
+</style>
+</head>
+<body class="tema-bottadiculo">
+  <div class="foto" data-brand>
+    <div class="mark">
+      <svg width="96" height="96" viewBox="0 0 200 200">
+        <rect x="0" y="0" width="200" height="200" rx="22" fill="#F9511F"/>
+        <polyline points="118,0 100,38 122,58 92,104 118,132 108,200"
+          fill="none" stroke="#1C0F3A" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <div class="brand">Bottadiculo.it</div>
+  </div>
+  <div class="testo">
+    <div class="masthead" data-brand>
+      <div class="label">Gambling Insights</div>
+      <div class="sub-label">Newsletter LinkedIn</div>
+    </div>
+    <div class="box">
+      <div class="kicker" data-brand>#[N] · [data edizione]</div>
+      <h1>[H1 dell'edizione]</h1>
+      <div class="sub">[Una frase che riprende l'angolo, non riassume tutto]</div>
+    </div>
+    <div class="footer" data-brand>
+      <div class="byline">Bottadiculo</div>
+      <div class="tagline">Voce editoriale del settore iGaming italiano</div>
+    </div>
+  </div>
+</body>
+</html>
