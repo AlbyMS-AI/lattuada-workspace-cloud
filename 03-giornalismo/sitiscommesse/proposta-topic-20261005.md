@@ -4,6 +4,11 @@ Email di proposta al caporedattore, flusso del lunedì, tre opzioni. **Inviata i
 versione breve (stesse tre opzioni, stesso ordine, consegna entro mercoledì 7 se passa la prima),
 in attesa di risposta.** La versione lunga qui sotto resta come riferimento per il taglio.
 
+**Esito, 05/10/2026:** nessuna delle tre. Il caporedattore ha chiesto un pezzo sulle sentenze del
+Consiglio di Stato sull'Albo PVR (spunto da un articolo Agimeg del 02/10, testata da non citare).
+Articolo in `albo-pvr-consiglio-stato-internet-point-100-euro-20261005.html`. Brasile e Win for
+Italia Team restano disponibili per la settimana prossima, se ancora attuali.
+
 ---
 
 **A:** [caporedattore]
