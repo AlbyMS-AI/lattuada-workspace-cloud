@@ -19,19 +19,19 @@ La sentenza lascia però ad ADM il potere di scrivere una soluzione diversa, che
 
 ## Cosa resta: il limite di 100 euro e il divieto di prelievo
 
-Gli stessi ricorrenti hanno perso sugli altri due punti. Il limite di 100 euro a settimana sulle ricariche in contanti è confermato. E resta vietato prelevare al PVR, perché prelevare dopo l'accredito di una vincita equivale, per il collegio, a farsi pagare la vincita al banco.
+Gli stessi ricorrenti hanno perso sugli altri due punti. Il limite di 100 euro a settimana sulle ricariche in contanti, previsto dal decreto legislativo 41 del 2024, è confermato. E resta vietato prelevare al PVR qualunque somma del conto: per il collegio, prelevare dopo l'accredito di una vincita equivarrebbe a farsi pagare la vincita al banco.
 
 La novità sta nella motivazione. Il collegio lega il limite sul contante alla **tutela della salute**, uno dei principi della legge delega sul riordino del gioco. Il contante viene distinto dagli altri strumenti per la sua capacità di influire su come gioca il cliente a rischio. **Per chi gestisce un PVR, il limite va trattato come strutturale.**
 
 ## Cosa fare al banco nei PVR
 
-Se hai postazioni, prima di riaccenderle parla con il concessionario: la sentenza toglie un divieto, non scrive le condizioni del tuo contratto.
+Se hai postazioni, prima di riaccenderle parla con il concessionario: la sentenza toglie un divieto generale, non scrive le condizioni del tuo contratto, e lascia fuori tutto ciò che è organizzare o intermediare il gioco al posto del cliente.
 
-Il cliente del contante va portato sulla carta. La carta validata dal concessionario si usa anche al PVR, perché il tetto riguarda i contanti e gli strumenti non ancora validati.
+Il cliente del contante va portato sulla carta. Al PVR si può ricaricare oltre il limite con uno strumento tracciabile indicato dal titolare del conto e validato dal concessionario, se il concessionario e il punto vendita supportano quel metodo.
 
 Prepara una risposta per chi chiede di incassare: **il prelievo al banco resta vietato**, il percorso è online.
 
-E i clienti del contante che dopo maggio non hai più visto, al banco li conosci per nome. Sono i primi da richiamare.
+E quando un cliente del contante torna al banco e trova il limite, spiegagli come ricaricare con la carta, secondo le procedure del concessionario. Informare sì, sollecitare no.
 
 L'analisi completa, con il numero della settimana e le quattro azioni nel dettaglio, è nella newsletter Gambling Insights #84 su LinkedIn: [LINK NEWSLETTER DA INSERIRE DOPO LE 7:30].
 

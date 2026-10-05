@@ -36,8 +36,10 @@ File: `bottadiculo/grafiche/2026-10-05-albo-pvr-internet-point-infografica-1.png
 ## INFOGRAFICA 2 — fatta, checklist con icone
 
 "Cosa cambia da domani", quattro azioni con icona propria: stretta di mano (internet point, sì
-scritto del concessionario), carta con spunta (100 euro, carta validata anche al PVR), fumetto
-verso schermo (prelievi, si preleva online), cornetta (clienti del contante da richiamare).
+scritto del concessionario), carta con spunta (100 euro, verificare con il concessionario quali carte validate si usano al
+banco), fumetto verso schermo (prelievi, si preleva online), fumetto con «i» (clienti del contante:
+spiega, non sollecitare). Rifatta il 04/10 dopo check Astra: la versione precedente invitava a
+richiamare i clienti (problema privacy e pubblicità del gioco).
 
 File: `bottadiculo/grafiche/2026-10-05-albo-pvr-internet-point-infografica-2.png` (1080×1350)
 
