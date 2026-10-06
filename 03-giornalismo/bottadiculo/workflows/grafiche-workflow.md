@@ -1,6 +1,8 @@
 # Workflow Grafiche — Newsletter Bottadiculo.it
 # 1 main image + 2 infografiche interne
 
+> **Pilota in corso dal 05/10/2026** (`../../../plans/2026-10-05-upgrade-grafiche-main-image-infografiche.md`). La prossima edizione usa i template nuovi al posto di quelli descritti sotto: `../grafiche/src/templates/infografica-template.html` per le due infografiche (componenti in `../../../04-linkedin/grafiche/lib/`, gate in `lib/quality-gate.md`, `check-grafica.py` prima della consegna); per la copertina **le due varianti** affiancate, il template fisso del 06/09 e `gambling-insights-cover-foto.html`, così Alberto sceglie. Foto: prompt Gemini da `lib/prompt-gemini.md`, chiesto ad Alberto subito dopo il testo. Confronto con la versione vecchia e approvazione di Alberto prima di riscrivere questo workflow.
+
 **Sempre, non su richiesta (dal 20/09/2026).** Appena il testo finale della newsletter è pronto,
 questo workflow si esegue nella stessa sessione, tutti e tre gli output. Non è un passo che
 aspetta un "prepara le grafiche" separato — vedi `../piano-newsletter-linkedin-2026.md`,

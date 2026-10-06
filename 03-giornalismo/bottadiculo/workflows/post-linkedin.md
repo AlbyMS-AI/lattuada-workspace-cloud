@@ -63,6 +63,8 @@ CHIUSURA (1-2 righe):
 Aggiunta il 07/09/2026: ogni post di questo formato produce sempre una main image, nessuna
 eccezione salvo istruzione esplicita di Alberto.
 
+> **Pilota in corso dal 05/10/2026** (`../../../plans/2026-10-05-upgrade-grafiche-main-image-infografiche.md`). Il prossimo post usa `../grafiche/src/templates/bottadiculo-post-foto.html` al posto del template qui sotto: foto da prompt Gemini (`../../../04-linkedin/grafiche/lib/prompt-gemini.md`, template 4:5) chiesta ad Alberto subito dopo il testo, poi `check-grafica.py --formato cover --testata bottadiculo`. Confronto con la versione vecchia e approvazione di Alberto prima di riscrivere questo step.
+
 Template fisso: `../grafiche/src/templates/bottadiculo-post-template.html`
 (1080×1350px, 4:5). Vive in `bottadiculo/grafiche/`, non in `04-linkedin/grafiche/`
 (riservata alle grafiche personali di Alberto, corretto il 20/09/2026). Compilare solo due
