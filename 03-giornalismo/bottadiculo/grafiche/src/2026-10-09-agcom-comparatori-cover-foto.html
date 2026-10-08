@@ -1,0 +1,62 @@
+<!--
+  Template — main image post Bottadiculo mer/ven, a foto piena (dal 05/10/2026)
+  Piano: plans/2026-10-05-upgrade-grafiche-main-image-infografiche.md
+  Sostituisce bottadiculo-post-template.html (07/09). La riconoscibilità sta nella cornice fissa
+  (logo B in alto a sinistra, etichetta arancio, titolo Anton maiuscolo, riga Bottadiculo · data),
+  la foto cambia a ogni pezzo.
+
+  Uso: copiare in ../[data]-[slug]-cover.html e compilare quattro cose:
+    1. FOTO: percorso dell'immagine (banca-visivi/ o inbox/), riga segnata qui sotto nello <style>
+    2. ETICHETTA: il tema del pezzo, due-quattro parole
+    3. TITOLO: l'hook del post (mai il titolo/H1 del pezzo), una sola parola in <em> per l'accento
+    4. DATA: GG mese AAAA
+  Render e controllo (da 03-giornalismo/bottadiculo/grafiche):
+    ../../../04-linkedin/grafiche/render.sh png src/[data]-[slug]-cover.html [data]-[slug]-cover.png 1080x1350
+    python3 ../../../04-linkedin/grafiche/lib/check-grafica.py src/[data]-[slug]-cover.html --formato cover --testata bottadiculo --png [data]-[slug]-cover.png
+  Titolo: oltre tre righe a 112px si scala con la classe .lungo (96px). Oltre quattro, l'hook è troppo lungo.
+  Layout senza livelli assoluti sovrapposti: foto e sfumatura sono lo sfondo del body (scala 2 sicura).
+-->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../../04-linkedin/grafiche/lib/base.css">
+<style>
+  html,body{width:1080px;height:1350px}
+  body{
+    /* FOTO ↓ cambiare solo il percorso dentro url() */
+    background-image:
+      linear-gradient(180deg, rgba(28,15,58,.55) 0%, rgba(28,15,58,0) 22%, rgba(28,15,58,0) 40%,
+                      rgba(28,15,58,.86) 64%, #1C0F3A 84%),
+      url("../inbox/2026-10-09-agcom-comparatori.png");
+    background-size:104%;background-position:center 30%;
+    display:grid;grid-template-rows:auto 1fr auto;
+    padding:64px 72px 54px;
+  }
+  .mark{width:104px;height:104px;transform:rotate(-6deg);filter:drop-shadow(0 6px 18px rgba(0,0,0,.45))}
+  .basso{display:flex;flex-direction:column;align-items:flex-start}
+  .etichetta{font-size:34px;margin-bottom:26px}
+  h1{font-size:112px;max-width:940px;text-shadow:0 2px 24px rgba(0,0,0,.35)}
+  h1.lungo{font-size:96px}
+  .piede{width:100%;display:flex;justify-content:space-between;align-items:baseline;
+    margin-top:34px;padding-top:20px;border-top:2px solid rgba(249,81,31,.55);
+    font-family:var(--f-cond);font-weight:700;font-size:30px;text-transform:uppercase;letter-spacing:.04em}
+  .piede .data{color:var(--accento)}
+</style>
+</head>
+<body class="tema-bottadiculo">
+  <div class="mark" data-brand>
+    <svg width="104" height="104" viewBox="0 0 200 200">
+      <rect x="0" y="0" width="200" height="200" rx="22" fill="#F9511F"/>
+      <polyline points="118,0 100,38 122,58 92,104 118,132 108,200"
+        fill="none" stroke="#1C0F3A" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+    </svg>
+  </div>
+  <div></div>
+  <div class="basso">
+    <div class="etichetta">Pubblicità e affiliazione</div>
+    <h1 class="titolo-display lungo">Il comma che tiene in piedi l’<em>affiliazione</em></h1>
+    <div class="piede" data-brand><span>Bottadiculo</span><span class="data">9 ottobre 2026</span></div>
+  </div>
+</body>
+</html>

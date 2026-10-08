@@ -1,0 +1,55 @@
+# Pubblicità del gioco illegale online: in Svizzera la piattaforma diventa un alleato, in Italia resta un bersaglio
+
+Paf, l'operatore delle isole Åland, ha presentato allo SBC Summit di Lisbona un progetto pilota con Meta in Svizzera. Passerà alla piattaforma documenti di licenza e indirizzi dei siti di chi è autorizzato, operatori e affiliati, perché Meta possa distinguere chi può fare pubblicità di gioco nel paese da chi la fa senza titolo. Se la prova regge, l'obiettivo dichiarato è portare il modello in altri mercati.
+
+La notizia è circolata come una storia di collaborazione fra un operatore e un gigante tecnologico. La domanda che porta con sé è un'altra: chi deve dare alle piattaforme le informazioni per riconoscere un annuncio illegale? In Svizzera, almeno in questa prova, le dà un operatore con licenza. In Italia la domanda non ha nemmeno un destinatario, perché il sistema ha costruito l'enforcement sulla piattaforma come soggetto da sanzionare, e il concessionario, che quei dati li ha e avrebbe tutto l'interesse a usarli, non ha alcun ruolo.
+
+## Pubblicità del gioco in Svizzera: vietata quella dell'illegale, quindi serve sapere chi è autorizzato
+
+La legge federale sui giochi in denaro, in vigore dal 2019, non vieta la pubblicità del gioco. Chiede agli organizzatori di evitare quella importuna o ingannevole e di non rivolgerla a minorenni o a persone escluse dal gioco, poi all'articolo 74 fissa il punto che conta qui: «è vietata la pubblicità di giochi in denaro non autorizzati in Svizzera». L'articolo 131 punisce chi la fa con una multa fino a 500.000 franchi. L'articolo 86 obbliga i fornitori di servizi di telecomunicazione a bloccare l'accesso alle offerte che compaiono negli elenchi della Commissione federale delle case da gioco e dell'autorità intercantonale.
+
+Con regole così il problema di una piattaforma è pratico. Deve lasciar passare gli annunci di chi è autorizzato e fermare gli altri, e per farlo deve sapere chi è chi. Meta già oggi accetta annunci di gioco solo con un'autorizzazione scritta preventiva, e chiede all'inserzionista la prova che l'attività abbia una licenza nei paesi in cui vuole fare pubblicità. Il pilota aggiunge una verifica dall'esterno, affidata a chi conosce il mercato e ha un interesse diretto a non dividere il pubblico con chi la licenza non ce l'ha. Nelle ricostruzioni disponibili il regolatore svizzero non figura tra i partecipanti.
+
+## In Italia il divieto di pubblicità del gioco è totale, e la piattaforma è chi paga
+
+L'articolo 9 del decreto Dignità parte dal presupposto opposto. È vietata «qualsiasi forma di pubblicità, anche indiretta», relativa a giochi e scommesse con vincite in denaro, «comunque effettuata e su qualunque mezzo», social media compresi. Il divieto non distingue fra concessionario e sito senza titolo. La sanzione, il 20% del valore della pubblicità e comunque almeno 50.000 euro per violazione, colpisce il committente e anche «il proprietario del mezzo o del sito di diffusione». A contestarla e irrogarla è AGCOM.
+
+Su questa base l'Autorità ha sanzionato le piattaforme più di una volta. Meta Platforms Ireland ha ricevuto 750.000 euro a dicembre 2022 e 5.850.000 euro a dicembre 2023, per contenuti su Facebook e Instagram. Google Ireland, per YouTube, 750.000 euro nel 2022, e un'altra sanzione nel 2023. Il criterio delle delibere è costante: la piattaforma risponde quando non si limita a ospitare i contenuti «con modalità puramente tecniche, passive ed automatiche» e offre un servizio pubblicitario, oppure ha una partnership commerciale con chi pubblica. Il 16 luglio la Corte di giustizia dell'Unione europea, sul caso YouTube rinviato dal Consiglio di Stato, ha dato a quel criterio una cornice europea: l'esenzione di responsabilità di chi ospita i contenuti viene meno se la piattaforma ha esaminato il canale in vista di una partnership commerciale.
+
+Contro il gioco illegale in senso stretto gli strumenti sono altri, e passano da altre porte. La legge 401 del 1989 punisce chi in qualsiasi modo dà pubblicità a giochi e scommesse esercitati senza concessione. ADM tiene l'elenco dei siti non autorizzati che i fornitori di connettività devono oscurare. Nelle norme esaminate nessuno di questi strumenti passa dalla piattaforma su cui l'annuncio gira: né l'elenco dei concessionari né quello dei siti inibiti arrivano a chi vende lo spazio pubblicitario come base per filtrare prima.
+
+## Il divieto totale colpisce chi ha la concessione e lascia sola la caccia all'illegale
+
+Il limite di questo impianto sta nel bersaglio. Una sanzione da milioni di euro richiede una catena di responsabilità ricostruibile: un committente, un contratto, un rapporto commerciale fra piattaforma e inserzionista. È la parte del mercato che si fa trovare. Il sito clone che compra un'inserzione con un'identità di comodo e la sostituisce con un'altra appena viene rimossa offre molti meno appigli a un procedimento che si chiude, come mostrano le date delle delibere, a un anno o più dai fatti. Il divieto totale mette concessionario e operatore senza titolo nella stessa colonna, e l'enforcement si concentra dove la responsabilità si ricostruisce, che non è il punto in cui il giocatore incontra l'offerta illegale.
+
+In questo schema il concessionario ha soltanto obblighi. Eppure è lui a vedere per primo i siti clone del proprio marchio, a ricevere le segnalazioni dei clienti che hanno giocato altrove credendo di giocare da lui, ad avere un interesse economico diretto a togliere di mezzo chi raccoglie senza pagare imposta e senza le tutele che la concessione impone. Il modello del pilota svizzero gli darebbe un compito preciso: segnalare alla piattaforma, senza intermediari, gli annunci che rimandano a siti fuori dall'elenco dei concessionari, con un accordo bilaterale come quello di Paf, senza aspettare una norma.
+
+L'obiezione prevedibile è il conflitto d'interessi, perché un concessionario che segnala annunci finirebbe per segnalare anche i concorrenti. Il criterio però è binario: un sito ha la concessione oppure no, e l'elenco lo pubblica ADM. Una segnalazione fondata su un dato pubblico e verificabile lascia poco spazio alla concorrenza sleale. In Italia, anzi, la questione di quali annunci dei concessionari siano leciti nemmeno si pone, dato che non lo è nessuno: un annuncio di gioco su una piattaforma è già fuori legge, e quello di un sito non autorizzato lo è due volte.
+
+Per chi volesse dare a questo canale una veste istituzionale, la norma c'è già. Il Digital Services Act, all'articolo 22, prevede i segnalatori attendibili: soggetti con competenze specifiche, indipendenti dai fornitori di piattaforme, a cui la qualifica viene riconosciuta dal coordinatore nazionale dei servizi digitali, che in Italia è AGCOM. Le loro segnalazioni le piattaforme devono trattarle con priorità. Un'associazione di concessionari con quella qualifica, o un canale concordato fra ADM, operatori e piattaforme, porterebbe in Italia lo schema svizzero senza toccare il divieto.
+
+Se lavori nella compliance o nel marketing di un concessionario, alla prossima riunione chiedi chi ha oggi il compito di segnalare un annuncio che porta a un sito clone del tuo marchio, a chi lo manda e in quanto tempo l'annuncio sparisce. Se nessuno sa rispondere, il pilota di Paf mostra da dove si comincia.
+
+---
+
+**Meta title:** Pubblicità gioco illegale: piattaforme alleate o bersagli
+
+**Meta description:** Pubblicità del gioco illegale: in Svizzera Paf passa a Meta i dati di chi è autorizzato, in Italia la piattaforma si sanziona e il concessionario resta fuori.
+
+**Keyword target:** pubblicità del gioco illegale / pubblicità del gioco / divieto di pubblicità del gioco / piattaforme
+
+**Fonti:**
+
+- Pilota Paf-Meta: [SBC News, 06/10/2026](https://sbcnews.co.uk/igaming/2026/10/06/meta-paf-pilot-partnership); [SCCG, 06/10/2026](https://sccgmanagement.com/sccg-articles/2026/10/06/paf-agrees-pilot-terms-with-meta-to-share-data-on-unlicensed-operators/) («Paf will share licence documents, URLs, and related information to help the platform better identify illegal operators and affiliates»; presentato da Jesper Eliasson, Chief Business Development Officer); European Gaming, 07/10/2026
+- Svizzera: Legge federale sui giochi in denaro (LGD, RS 935.51), artt. 74, 86, 131: [fedlex.admin.ch](https://www.fedlex.admin.ch/eli/cc/2018/795/it)
+- Meta, policy sugli annunci di gioco online (autorizzazione scritta preventiva, prova della licenza): [transparency.meta.com](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/gambling-games)
+- Italia: DL 12 luglio 2018, n. 87, art. 9: [normattiva.it](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-07-12;87~art9)
+- AGCOM, delibera 275/22/CONS (Google, 750.000 euro): [comunicato 02/08/2022](https://www.agcom.it/sites/default/files/migration/article/Comunicato%20stampa%2002-08-2022.pdf); delibera 422/22/CONS (Meta, 750.000 euro): [comunicato 13/01/2023](https://www.agcom.it/sites/default/files/migration/article/Comunicato%20stampa%2013-01-2023.pdf); delibere 317/23 e 318/23/CONS: [comunicato 12/12/2023](https://www.agcom.it/sites/default/files/migration/article/Comunicato%20stampa%2012-12-2023.pdf); delibera 331/23/CONS (Meta, 5.850.000 euro): [comunicato 22/12/2023](https://www.agcom.it/sites/default/files/migration/article/Comunicato%20stampa%2022-12-2023.pdf)
+- Corte di giustizia UE, sentenza C-421/24 del 16/07/2026: [comunicato stampa CURIA 109/26](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260109it.pdf)
+- Legge 13 dicembre 1989, n. 401, art. 4
+- Regolamento (UE) 2022/2065 (Digital Services Act), art. 22: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32022R2065)
+- Link interno: [Jamma.it, «Pubblicità del gioco, caso Vincitù-AGCOM: il Consiglio di Stato rinvia ancora, nuova udienza il 15 aprile 2027»](https://www.jamma.it/attualita/pubblicita-del-gioco-caso-vincitu-agcom-il-consiglio-di-stato-rinvia-ancora-nuova-udienza-il-15-aprile-2027-360382)
+
+---
+
+**Nota di produzione (non pubblicare):** articolo mer/ven, secondo della settimana 5, pubblicazione venerdì 09/10/2026, Linear ALB-185. Tema dalla rassegna PIERO dell'08/10 (European Gaming, 07/10), scelto da Alberto. Angolo provvisorio «in Italia chi vende gli annunci non è coinvolto» smentito dal ricercatore-regolatorio (art. 9 c. 2, sanzioni AGCOM a Meta e Google, Corte UE C-421/24): angolo cambiato in «alleato contro bersaglio», scelto da Alberto l'08/10. POV raccolto con domande mirate: i concessionari dovrebbero segnalare direttamente, come Paf; le multe colpiscono il bersaglio sbagliato. Nessun operatore italiano nominato. Differenziazione: Bottadiculo dello stesso giorno sulla revisione delle linee guida AGCOM (comparatori), fatto distinto; Bottadiculo del 31/08 su annunci Meta di casinò illegali in Olanda, altro angolo (autoesclusione). Esclusi perché non verificati su fonte primaria: il ruolo di Paf in Svizzera, la quota attuale dei siti inibiti, gli esiti dei ricorsi al TAR, le segnalazioni della KSA olandese a Meta.
