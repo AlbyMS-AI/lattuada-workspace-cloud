@@ -42,6 +42,15 @@ contrasto con `guidelines.md` o con la skill `news-sitiscommesse`, vale questa c
 - [ ] **Mai testate concorrenti**, né come link né nominate come fonte: AGIMEG, Jamma, AGIPRO,
   PressGiochi, iGaming Business e simili (04/08, 10/08, 14/09). Se l'unica fonte è una
   testata, si scrive "secondo indiscrezioni di stampa" senza nominarla
+- [ ] **Anchor che dice dove porta il link**, per entrambi i link: chi legge l'anchor deve
+  sapere cosa si apre. Sì `come riportato nel <a href="...">d.d. 20c</a>, gli operatori
+  devono...`, no `il testo integrale del d.d. si legge <a href="...">sul sito dell'ADM</a>`.
+  Mai anchor generici ("sul sito dell'ADM", "qui", "la pagina ufficiale", il solo nome
+  dell'ente): l'anchor è il nome dell'atto, del documento o del tema dell'articolo linkato,
+  dentro la frase (08/10: "i tuoi risultano sempre molto generici"). Per il link interno
+  questo vuol dire che l'articolo di `/news/` si sceglie tra quelli correlati a qualcosa che
+  il testo dice già, così l'anchor ci si aggancia in modo naturale: mai una frase aggiunta
+  apposta per ospitare il link
 
 ## Testo
 

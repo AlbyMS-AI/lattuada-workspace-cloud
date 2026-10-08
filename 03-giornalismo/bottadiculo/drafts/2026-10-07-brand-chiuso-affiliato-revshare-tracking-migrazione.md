@@ -41,4 +41,4 @@ Tag alt: "Affiliazione e migrazione dei brand: il giocatore cambia insegna, la r
 - [x] Fact-check verificatore-fatti 07/10: corretti «app aggiornate» (refreshed), «un solo sito per concessione» (art. 6 c. 5 lett. o, fino a cinque concessioni per gruppo), skin «raccolta fermata lo stesso giorno» (deroga RTI fino al 31/12/2025 solo per reindirizzamenti), esperienza degli affiliati riformulata come osservazione dal campo, staccato l'inciso dal caso belga
 - [x] Check Codex high 07/10: 7/10. Applicati: tolto il parallelismo logo/revshare, «prova generale» sostituita (cause diverse, problema contrattuale comparabile), tolti «nessuno immaginava» e l'età del contratto come criterio, urgenza senza certezze, tolta la chiusa sul report
 - [x] Grafica: scelta da Alberto la versione A FOTO il 07/10 ("molto meglio la A"), primo esito positivo del pilota grafiche
-- [ ] Conferma pubblicazione
+- [x] Pubblicato, confermato da Alberto il 07/10/2026
