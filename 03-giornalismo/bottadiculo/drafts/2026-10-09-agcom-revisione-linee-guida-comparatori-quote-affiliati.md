@@ -7,7 +7,7 @@
 
 ## Testo
 
-Dal 2019, a certe condizioni, confrontare quote e bonus non è pubblicità. Questa settimana AGCOM l'ha rimessa in discussione.
+Dal 2019, a certe condizioni, confrontare quote e bonus non è pubblicità. Questa settimana AGCOM ha rimesso in discussione la regola.
 
 Le linee guida sul divieto del decreto Dignità la scrivono nel sesto comma dell'articolo 5: i servizi informativi di comparazione di quote o offerte non sono pubblicità, se rispettano continenza, non ingannevolezza e trasparenza. Gli spazi quote sono l'esempio messo nel testo.
 
