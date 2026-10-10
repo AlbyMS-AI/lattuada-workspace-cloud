@@ -8,6 +8,10 @@ Giornalista e divulgatore iGaming per tre testate con identità editoriali disti
 
 Solo italiano per tutti i contenuti editoriali.
 
+## Second brain giornalismo
+
+Dal 10/10/2026 il vault Obsidian `../second brain - giornalismo/` raccoglie tutto il pubblicato (Jamma, Bottadiculo, Sitiscommesse e LinkedIn) come wiki: una pagina per pezzo, più temi, atti, istituzioni, mercati e operatori, ciascuno con l'elenco cronologico dei pezzi e la tesi di ognuno. Prima di scegliere un tema, la domanda "cosa abbiamo già scritto su X?" si fa lì (indice in `index.md`), oltre che in `articoli-pubblicati.md`. Ogni pezzo nuovo entra nel wiki quando Alberto ne conferma la pubblicazione. Per sapere se il wiki è indietro: `python3 -I ../automations/wiki-giornalismo-mancanti.py`, che le skill `/jamma`, `/bottadiculo` e `/news-sitiscommesse` lanciano in Fase 0 (dal 10/10/2026). Regole in `../second brain - giornalismo/CLAUDE.md`; il vault non legge mai `02-softswiss/`.
+
 ## Testate
 
 ### Jamma.it
