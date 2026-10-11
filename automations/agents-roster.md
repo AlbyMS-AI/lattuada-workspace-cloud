@@ -1,5 +1,7 @@
 # Agenti Workspace — Roster e Stato
 
+> **Aggiornato: 11/10/2026** — spento il `Linear-deadline-reminder` (dismissione decisa il 01/09 e mai eseguita), nuovo job locale di lint settimanale dei due second brain. Dettaglio nella sezione "Lint settimanale dei second brain".
+
 > **Aggiornato: 01/09/2026** — ALDO riscritto in v2, nuova routine Check serale, `Linear-deadline-reminder` in dismissione. Registro task unificato su Linear, convenzioni in `linear-convenzioni.md`. Dettaglio nella sezione "ALDO v2 e il registro unico su Linear". Terzo caso della stessa classe di errore (elenco di progetti hardcoded dentro il prompt di ALDO), da cui la regola generalizzata: **mai un elenco di entità mutevoli dentro un prompt**.
 >
 > Aggiornato in precedenza: 12/08/2026 (check completo workspace — stato verificato su `launchctl list`, `crontab -l`, `RemoteTrigger list`, log locali e chiamate live ai connettori, non dichiarato a memoria). Questo è il file operativo di riferimento: la memoria di Claude punta qui.
@@ -20,8 +22,30 @@
 | **ALDO v2** | **Assistente personale / Agenda giornaliera** (Calendar + Gmail + Linear) | Cloud cron | **Tutti i giorni 08:30 Roma** (`30 6 * * *` UTC) | ✅ Attivo — `trig_01Li3P6YAkhP2gLGb5VzsDsm`. **Riscritto il 01/09/2026** (vedi sezione dedicata sotto): non è più un aggregatore di tre fonti ma un assistente bidirezionale. Sequenzia al massimo cinque azioni ordinate, ha orizzonte a 72 ore, chiude le issue leggendo la risposta di Alberto al check serale, e il lunedì genera le ricorrenze LasVegas. Resta a 7 giorni su 7 con versione leggera nel weekend (deciso 12/08). Modello Sonnet 5. **Canale passato da Slack a email Gmail il 17/09/2026**, vedi sezione dedicata sotto. **Dal 29/09/2026 gestisce anche il calendario**: legge i segnali `ok` / `+` di Alberto e piazza i blocchi di lavoro, vedi "Calendario come interfaccia" sotto |
 | **Check serale** | Chiede ad Alberto cosa ha chiuso oggi (e dal 29/09 quanto tempo gli ha preso) | Cloud cron | **Lun-ven 18:30 Roma** (`30 16 * * 1-5` UTC) | ✅ Attivo dal 01/09/2026 — `trig_01J3Go9PV537sbW6qanj9Gvc`. **Non scrive su Linear**: chiede e basta, la scrittura la fa ALDO il mattino dopo leggendo il thread. Se non ci sono issue scadute o in scadenza oggi non manda niente, per non diventare rumore quotidiano. Prende il posto nel bilancio del `Linear-deadline-reminder`. **Canale passato da Slack a email Gmail il 17/09/2026**, vedi sezione dedicata sotto |
 | **OTTO** | Check workspace del sabato | **Solo cloud** | Sab 08:30 Roma (`30 6 * * 6` UTC) | ✅ Attivo — `trig_01LRGJfc8rvJb3SGnMLbWqDf`, verificato via `RemoteTrigger list_runs` il 31/08: run regolari 01, 08, 15, 22, 29/08, nessun buco. Output solo via DM Slack dal 20/07 (non più su `automations/check-sabato/`, che resta ferma all'08/08 come residuo pre-migrazione: normale, non un guasto). Regola di onestà dell'08/08 invariata |
-| **Linear-deadline-reminder** | Scadenze Linear a 3 giorni → bozza Gmail + DM Slack | Cloud cron | Ogni giorno 08:00 Roma (`0 6 * * *` UTC) | ⏳ **Attivo ma in dismissione dal 01/09/2026** — `trig_01KPMhuagKVioGPGeaEkwf4k`. La sua funzione (orizzonte a 3 giorni) è ora dentro ALDO v2, sezione "Entro [giorno]", incrociata con calendario ed email. **Va disattivato dopo due giorni di ALDO v2 verificato, non prima**: se v2 avesse un problema, nel frattempo l'orizzonte resta coperto. La rete di sicurezza sul fallimento del connettore Linear, decisa il 09/08, è già replicata in ALDO con lo stesso testo. La bozza Gmail che produce non va preservata, Alberto non la apre |
+| **Linear-deadline-reminder** | Scadenze Linear a 3 giorni → bozza Gmail + DM Slack | Cloud cron | — | ⏸ **Disattivato l'11/10/2026** — `trig_01KPMhuagKVioGPGeaEkwf4k`, non cancellato. La dismissione era decisa dal 01/09 "dopo due giorni di ALDO v2 verificato" e non era mai stata eseguita: per quaranta giorni le scadenze a tre giorni sono arrivate due volte, alle 08:00 qui e alle 08:30 in ALDO, più una bozza Gmail e un DM Slack mai aperti. Si riaccende in un clic se ALDO v2 avesse un problema |
+| **Lint second brain** | Lint settimanale dei due vault, solo report | **Locale** (launchd `com.albertol.lint-secondbrain`, script `automations/lint-second-brain.sh`) | Domenica 21:30, o al risveglio del Mac | ✅ Attivo dall'11/10/2026, primo giro fatto a mano lo stesso giorno (giornalismo 19 rilievi, 1,47 $; Softswiss 15 rilievi, 1,72 $). Vedi sezione dedicata sotto |
 | TONY | LasVegas (campagne + community) | — | — | ⏸ Bloccato: serve allineamento con Luigi + nessun connector LasVegas. Non costruire prima |
+
+### Lint settimanale dei second brain (11/10/2026)
+
+Piano `plans/2026-10-11-routine-gaito-lint-second-brain.md`, dal modulo 4 del corso Gaito ("Fai lavorare Claude mentre non ci sei"), materiale in `07-formazione/gaito-claude-code/`.
+
+- **Perché in locale e non nel cloud:**
+  - le routine cloud clonano il mirror pubblico, che non contiene i vault
+  - il vault Softswiss non può andare in nessun repo esterno
+  - il vault giornalismo arriva sul repo privato solo con un push su richiesta, quindi la copia cloud sarebbe vecchia
+
+  È la "strada 2" di Gaito: il lavoro deve leggere i file veri del Mac.
+- **Come funziona:**
+  - ogni domenica alle 21:30 lo script copia ciascun vault in `/private/tmp/lint-secondbrain-<vault>/` e ci lancia `claude -p` con `automations/lint-second-brain-prompt.md`, scritto nei sette blocchi di Gaito
+  - modello `sonnet`, tetto di 2 $ per vault, `--permission-mode dontAsk` con un elenco chiuso di permessi: lettura solo nella copia, scrittura solo in `lint/` e su `log.md` della copia, comandi `date`, `ls`, `wc`, `grep` e `rg`
+  - alla fine riporta nel vault vero solo il report `lint/AAAA-MM-GG.md` e le righe aggiunte in coda a `log.md`
+  - il vault Softswiss committa il report nel suo Git locale; il vault giornalismo no, perché il workspace si committa su richiesta
+  - se il report della settimana ISO esiste già, salta
+- **Solo report:** nessuna pagina del wiki viene toccata, nemmeno per le correzioni meccaniche (verificato con le impronte di pagine e indice prima e dopo). Le correzioni si applicano in sessione: "applica il lint di domenica del vault X"
+- **Perché la copia:** le regole di permesso per percorso (`Read(//...)`, `Edit(//...)`) non si applicano sotto `/Users/albertol./`. Il punto finale del nome utente le rompe: verificato l'11/10, mentre in `/private/tmp` funzionano. Le regole `Write(...)` per percorso non funzionano da nessuna parte: si usa `Edit(...)`, che copre anche la scrittura. In questa versione di Claude Code non esistono strumenti Grep e Glob separati, e la ricerca passa da Bash
+- **Log:** `automations/logs/lint-second-brain.log`, più un JSON per vault e giro
+- **Da rivalutare a quattro settimane, cioè l'08/11:** se i report non vengono mai letti, il job si spegne
 
 ### Calendario come interfaccia: time blocking di ALDO (29/09/2026)
 

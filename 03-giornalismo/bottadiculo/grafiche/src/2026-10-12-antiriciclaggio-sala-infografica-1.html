@@ -1,0 +1,52 @@
+<!-- Infografica 1, Gambling Insights #85: confronto binario soglia/comportamento. Frase: la soglia vede la singola cifra, il riciclo sta nel comportamento ripetuto. -->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../../04-linkedin/grafiche/lib/base.css">
+<style>
+  html,body{width:1080px;height:1350px}
+  body{background:linear-gradient(170deg,#1C0F3A 0%,#140A2C 100%);
+    display:grid;grid-template-rows:auto 1fr auto;padding:64px 72px 48px}
+  .etichetta{font-size:28px;margin-bottom:22px}
+  h1{font-size:84px;margin-bottom:16px}
+  .catenaccio{font-size:30px;line-height:1.3;color:var(--testo2);max-width:900px}
+  .catenaccio b{color:var(--testo);font-weight:600}
+  .area{width:936px;height:720px;margin-top:48px}
+  .piede{display:flex;align-items:flex-end;gap:22px;padding-top:20px;border-top:1px solid var(--linea)}
+  .piede .mark{flex:none;width:52px;height:52px;transform:rotate(-6deg)}
+  .piede .fonte{flex:1}
+</style>
+</head>
+<body class="tema-bottadiculo">
+<script type="application/json" id="dati">{
+  "principale": {
+    "sinistra": { "titolo": "Cosa fa scattare la soglia", "sotto": "Una cifra, una volta",
+      "voci": ["Giocata da 2.000 euro in su", "Ticket VLT da 500 euro in su", "Ogni operazione guardata da sola, senza le precedenti"],
+      "esito": "Identificazione del cliente" },
+    "destra": { "titolo": "Cosa la soglia non vede", "sotto": "Un comportamento, ripetuto",
+      "voci": ["Contante che gira sotto i 2.000 euro, visita dopo visita", "Ticket di qualunque importo con poche o nessuna vincita", "Il sospetto: lì si identifica «quale che sia l'importo»"],
+      "esito": "Qui serve il controllo, con il perché scritto" }
+  }
+}</script>
+  <header>
+    <div class="etichetta">Antiriciclaggio in sala</div>
+    <h1 class="titolo-display">La soglia guarda la <em>cifra</em></h1>
+    <p class="catenaccio">Il contante che gira si vede nel <b>comportamento ripetuto</b>. La legge italiana chiede di guardare anche lì.</p>
+  </header>
+  <div class="area" data-componente="confrontoBinario" data-dati="principale" data-opzioni='{"evidenzia":"destra"}'></div>
+  <footer class="piede">
+    <div class="mark" data-brand>
+      <svg width="52" height="52" viewBox="0 0 200 200">
+        <rect x="0" y="0" width="200" height="200" rx="22" fill="#F9511F"/>
+        <polyline points="118,0 100,38 122,58 92,104 118,132 108,200"
+          fill="none" stroke="#1C0F3A" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <p class="fonte">Fonte: <b>D.lgs. 231/2007, art. 53, commi 6 e 7</b></p>
+  </footer>
+  <!-- <script src="../../../../04-linkedin/grafiche/lib/mappe/italia-regioni.js"></script> -->
+  <!-- <script src="../../../../04-linkedin/grafiche/lib/mappe/europa.js"></script> -->
+  <script src="../../../../04-linkedin/grafiche/lib/componenti.js"></script>
+</body>
+</html>

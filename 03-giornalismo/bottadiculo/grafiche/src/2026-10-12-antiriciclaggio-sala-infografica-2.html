@@ -1,0 +1,48 @@
+<!-- Infografica 2, Gambling Insights #85: Cosa cambia da domani, quattro azioni con icona propria, griglia 2x2 (scheletro diverso dall'infografica 1). -->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../../04-linkedin/grafiche/lib/base.css">
+<style>
+  html,body{width:1080px;height:1350px}
+  body{background:linear-gradient(170deg,#1C0F3A 0%,#140A2C 100%);
+    display:grid;grid-template-rows:auto 1fr auto;padding:64px 72px 48px}
+  .etichetta{font-size:28px;margin-bottom:22px}
+  h1{font-size:84px;margin-bottom:16px}
+  .catenaccio{font-size:30px;line-height:1.3;color:var(--testo2);max-width:900px}
+  .catenaccio b{color:var(--testo);font-weight:600}
+  .area{width:936px;height:780px;margin-top:40px}
+  .piede{display:flex;align-items:flex-end;gap:22px;padding-top:20px;border-top:1px solid var(--linea)}
+  .piede .mark{flex:none;width:52px;height:52px;transform:rotate(-6deg)}
+  .piede .fonte{flex:1}
+  .area{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:26px}
+  .az{background:var(--pannello);border-top:6px solid var(--accento);padding:34px 30px 30px;display:flex;flex-direction:column;gap:16px}
+  .az .ic{width:84px;height:84px;border-radius:50%;background:rgba(249,81,31,.14);display:flex;align-items:center;justify-content:center}
+  .az .ruolo{font-family:var(--f-cond);font-weight:700;font-size:30px;text-transform:uppercase;letter-spacing:.03em;color:var(--accento)}
+  .az .testo{font-size:31px;line-height:1.3;font-weight:600}
+</style>
+</head>
+<body class="tema-bottadiculo">
+
+  <header>
+    <div class="etichetta">Cosa cambia da domani</div>
+    <h1 class="titolo-display">Il controllo che <em>reggerebbe</em></h1>
+    <p class="catenaccio">Quattro verifiche per chi gestisce una sala, prima che le faccia qualcun altro.</p>
+  </header>
+  <div class="area"><div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><circle cx="20" cy="20" r="12" stroke="#F9511F" stroke-width="3.5"/><line x1="29" y1="29" x2="42" y2="42" stroke="#F9511F" stroke-width="4" stroke-linecap="round"/><path d="M14 20h12M14 15h8M14 25h10" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></svg></div><div class="ruolo">Ultimi tre mesi</div><div class="testo">Traccia per ogni giocata da 2.000 euro e ticket da 500. E i ticket con poche vincite?</div></div><div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><rect x="4" y="12" width="28" height="20" rx="2" stroke="#F9511F" stroke-width="3.2"/><path d="M4 14l14 10 14-10" stroke="#F9511F" stroke-width="3" stroke-linejoin="round"/><circle cx="35" cy="33" r="10" fill="#1C0F3A" stroke="#fff" stroke-width="2.6"/><path d="M35 27v6l4 2.5" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg></div><div class="ruolo">Entro 10 giorni</div><div class="testo">Dati inviati al concessionario e conservati per 2 anni, con la data.</div></div><div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><rect x="9" y="5" width="26" height="34" rx="2" stroke="#F9511F" stroke-width="3.2"/><path d="M15 14h14M15 20h14M15 26h9" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/><circle cx="34" cy="36" r="5" stroke="#F9511F" stroke-width="2.8"/><path d="M27 46c0-4 3-6.5 7-6.5s7 2.5 7 6.5" stroke="#F9511F" stroke-width="2.8" stroke-linecap="round"/></svg></div><div class="ruolo">Tutti i turni</div><div class="testo">La procedura sulle anomalie la legge anche chi chiude la sala.</div></div><div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><path d="M8 40l4-12L32 8l8 8-20 20z" stroke="#F9511F" stroke-width="3.2" stroke-linejoin="round"/><line x1="28" y1="12" x2="36" y2="20" stroke="#F9511F" stroke-width="3"/><path d="M8 44h32" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg></div><div class="ruolo">Sotto soglia</div><div class="testo">Se chiedi un documento, scrivi perché: cliente, comportamento, decisione.</div></div></div>
+  <footer class="piede">
+    <div class="mark" data-brand>
+      <svg width="52" height="52" viewBox="0 0 200 200">
+        <rect x="0" y="0" width="200" height="200" rx="22" fill="#F9511F"/>
+        <polyline points="118,0 100,38 122,58 92,104 118,132 108,200"
+          fill="none" stroke="#1C0F3A" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <p class="fonte">Fonte: <b>D.lgs. 231/2007, artt. 52 e 53</b></p>
+  </footer>
+  <!-- <script src="../../../../04-linkedin/grafiche/lib/mappe/italia-regioni.js"></script> -->
+  <!-- <script src="../../../../04-linkedin/grafiche/lib/mappe/europa.js"></script> -->
+  <script src="../../../../04-linkedin/grafiche/lib/componenti.js"></script>
+</body>
+</html>
