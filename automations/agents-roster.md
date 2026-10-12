@@ -242,7 +242,7 @@ Il set attuale copre bene: rassegna stampa (PIERO), pipeline commerciale (MARCO)
 | VERA | trig_011zLYAjZLmCnbYTNhcmjVvo | Attiva |
 | VERA (ID storico, non usare) | trig_01DA1gYJLFTNbqUwcG4rw1uA | Disattivata |
 | Doppione PIERO via Gmail | trig_01SDsLJnhYQcxE4p2tUGSCto | Disattivata l'08/08/2026 |
-| Linear deadline reminder (3gg) | trig_01KPMhuagKVioGPGeaEkwf4k | ⏳ Attiva, da spegnere dopo 2 giorni di ALDO v2 verificato |
+| Linear deadline reminder (3gg) | trig_01KPMhuagKVioGPGeaEkwf4k | Disattivata l'11/10/2026 (verificato via RemoteTrigger list il 12/10) |
 | Check serale | trig_01J3Go9PV537sbW6qanj9Gvc | Attiva dal 01/09/2026 |
 | ALB-17 Weekly Review Reminder | trig_01L2wP4nyxfp1UHhkqGrBmvg | Disattivata 02/08 |
 | LinkedIn Post Reminder 24h | trig_01WyDwxbxyNBTmET6Qc3KmtK | Disattivata 02/08 |

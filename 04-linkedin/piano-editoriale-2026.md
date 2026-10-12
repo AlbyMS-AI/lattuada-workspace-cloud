@@ -527,12 +527,14 @@ Le due tabelle si leggono insieme: un contenuto può salvare bene (KPI algoritmi
 | Mar 06/10 | Post con immagine (fuori piano, già pronto) | EN | Brazil gave its football clubs ten days to take betting sponsors off their shirts | lun 05/10 (check fatti) |
 | Ven 09/10 | **Newsletter N8** | IT | Casinò online: le 5 metriche del catalogo giochi da controllare ogni mese | mer 07/10 |
 | Ven 09/10 | Carosello | EN | 5 casino catalogue metrics every Head of Casino should check monthly | mer 07/10 |
-| Mar 13/10 | Post | IT | Catalogo del casinò online: come decidere quali giochi togliere | ven 09/10 |
+| Mar 13/10 | Post | IT | ~~Catalogo del casinò online: come decidere quali giochi togliere~~ → Il bonus visto dalla sala: chi entra con il bonus e chi resta (titolo definitivo alla creazione) | ~~ven 09/10~~ → lun 12/10 |
 | Ven 16/10 | **Newsletter N9** | IT | Tornei e jackpot nel casinò online: come capire se portano giocatori nuovi o spostano solo spesa | mer 14/10 |
 | Mar 20/10 | Post | EN | New game releases: how many are still played 90 days later? | ven 16/10 |
 | Ven 23/10 | **Newsletter N10** | IT | Dalla sala al casinò online: cosa cercano i giocatori di AWP e VLT | mer 21/10 |
 
-Idee in riserva, stessa linea: il bonus visto dalla sala (chi entra con il bonus e chi resta); il casinò online italiano nei dati pubblici ADM; i report che il fornitore dovrebbe darti e quasi nessuno chiede (riflesso più diretto, da scrivere con attenzione).
+**Cambio del 12/10/2026 (decisione di Alberto):** il post del 13/10 "come decidere quali giochi togliere" esce dal calendario perché si sovrappone all'idea interna del 30/09 (sostituzione della coda che non rende), non ancora presentata a Forni e a Softswiss. Al suo posto va la prima idea in riserva, il bonus visto dalla sala. Il tema "giochi da togliere" torna disponibile solo dopo che l'idea interna avrà avuto il suo esito.
+
+Idee in riserva, stessa linea: ~~il bonus visto dalla sala (chi entra con il bonus e chi resta)~~ (usata il 13/10); il casinò online italiano nei dati pubblici ADM; i report che il fornitore dovrebbe darti e quasi nessuno chiede (riflesso più diretto, da scrivere con attenzione).
 
 ---
 
