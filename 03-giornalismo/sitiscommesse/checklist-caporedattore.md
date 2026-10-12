@@ -14,11 +14,11 @@ contrasto con `guidelines.md` o con la skill `news-sitiscommesse`, vale questa c
 
 ## Struttura
 
-- [ ] **Introduzione più 6 paragrafi**, al massimo 7 se il tema lo richiede davvero. Mai di più,
-  anche se il conteggio parole ci starebbe (respinti 08/07 con 11 paragrafi e 22/07 con 9)
+- [ ] **Introduzione più 6 paragrafi**, alla lettera, come chiede il caporedattore (Alberto, 12/10). Mai di più, anche se il conteggio parole ci starebbe (respinti
+  08/07 con 11 paragrafi e 22/07 con 9)
 - [ ] **Nessun h2**: un unico blocco di paragrafi (07/07)
-- [ ] **Lunghezza**: intro 35-40 parole, paragrafi 50-60, corpo 450-550 parole (tollerati i
-  pezzi da 408-456 già approvati)
+- [ ] **Lunghezza**: intro 35-40 parole, paragrafi 50-60. Il totale è quello che ne risulta, senza
+  obiettivi di parole da raggiungere (Alberto, 12/10)
 - [ ] **Grassetto** solo sul tema del paragrafo, 3-8 parole, uno per paragrafo
 - [ ] **Grassetto mai in apertura di paragrafo**: parte almeno dopo 2 o 3 parole. Sì
   `Da lunedì <strong>i nuovi depositi sono vietati</strong>`, no

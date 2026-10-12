@@ -5,7 +5,7 @@
 - **Blocco:** 7, "Come far rendere un casinò online". Lettore: Head of Casino/Product
 - **Issue Linear:** ALB-175
 - **Keyword target:** bonus casinò online
-- **Immagine:** `grafiche/2026-10-13-bonus-visto-dalla-sala-cover.png` (file da caricare: `alberto-lattuada-bonus-casino-online.png`)
+- **Immagine:** versione a foto `grafiche/2026-10-13-bonus-visto-dalla-sala-cover.png`, già copiata con il nome da caricare `grafiche/alberto-lattuada-bonus-casino-online.png` (foto generata con Gemini, `grafiche/inbox/2026-10-13-bonus-visto-dalla-sala.png`). Alternativa classica: `grafiche/2026-10-13-bonus-visto-dalla-sala-cover-classica.png`
 - **Tag alt:** "Bonus casinò online — copertina con il titolo «Il bonus sceglie chi ti arriva» — Alberto Lattuada"
 - **Fonte normativa:** linee guida AGCOM sul divieto di pubblicità del gioco, allegato A alla delibera 132/19/CONS, art. 5 c. 5, terzo periodo: "le informazioni che sono rese disponibili nei siti di gioco o nei punti fisici di gioco, riguardanti [...] gli eventuali bonus offerti, purché effettuate nel rispetto dei principi di continenza, non ingannevolezza, trasparenza nonché assenza di enfasi promozionale" (letto sul PDF ufficiale il 12/10/2026). Attenzione: AGCOM valuta caso per caso (art. 2 c. 5) e a ottobre 2026 ha in agenda una consultazione per rivedere le linee guida, da cui "oggi" nel testo
 - **Prova di tenuta:** avvocato del diavolo il 12/10, giudizio "regge se". Applicate le tre condizioni: gancio "si spiega, non si promuove", nessun dettaglio che riconduca alla promo o al concessionario, rateizzazione solo come ipotesi da misurare

@@ -272,10 +272,11 @@ La due date su Linear è la colonna **"Creare entro"**, mai "Pubblica": la data 
 
 Quando il piano cambia: prima `piano-editoriale-2026.md`, poi `task-list.md`, poi `/agenda` per riallineare Linear. Le skill `linkedin-crea-post`, `linkedin-crea-newsletter` e `linkedin-crea-sondaggio` chiudono da sole la issue del pezzo che producono.
 
-Piano ristrutturato il 09/07/2026: `piano-editoriale-2026.md`
+Piano: `piano-editoriale-2026.md`. Stato al 12/10/2026:
 Due linee BDM distinte: **nutrimento Italia** (IT, account già chiusi) e **lead gen estero** (EN, Sales Navigator/InMail).
-Post 3/settimana (Lun/Mer/Ven) a blocchi da 2 settimane alternati IT/EN — non più blocchi mensili.
-Newsletter "The Betting Edge" (già attiva, 1.023 iscritti, 17 edizioni) sempre IT, bisettimanale, **indipendente** dal blocco post — solo linea market intelligence su mercati regolamentati europei, mai AI/thought leadership.
+**Blocco 7 (dal 05/10/2026), "Come far rendere un casinò online":** un post a settimana, il martedì, alternato EN/IT, più la newsletter IT del venerdì (deciso da Alberto il 12/10/2026). Lettore unico: Head of Casino/Product. Temi: catalogo, promozioni, numeri del casinò. Italia sì negli esempi; i cinque mercati del perimetro BDM (IT/DE/BE/CZ/IE) mai come market intelligence (decisione del 02/10). Ogni pezzo chiude con le domande da fare al fornitore.
+Newsletter "The Betting Edge" sempre IT, **settimanale** dal 11/09/2026 e pivot dei post della settimana. Dal 09/10 segue la linea del Blocco 7, non più la market intelligence sui mercati europei; mai AI/thought leadership.
+La cadenza "3 post/settimana a blocchi alternati IT/EN" del 09/07 è superata: dal 13/07 il ritmo è sceso a due post a settimana, e il Blocco 7 è passato a un post a settimana con l'alternanza EN/IT settimana per settimana invece che a blocchi di due settimane.
 Per sviluppare un contenuto: indicare il blocco + formato, Claude legge la fonte e produce il testo.
 
 ## File di contesto in questa cartella

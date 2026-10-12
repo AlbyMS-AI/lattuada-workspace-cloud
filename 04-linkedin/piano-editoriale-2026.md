@@ -39,6 +39,8 @@ Il piano non ha più un obiettivo unico. Segue due linee editoriali separate, ci
 
 **Buyer persona:** Marco (CDO/compliance) e Giulia (Marketing Director) restano ipotesi di lavoro su entrambe le linee — non ancora validate sui dati reali. Validazione prevista a metà piano (task Lezione 6, checkpoint con MLR).
 
+**Dal Blocco 7 (05/10/2026):** le due linee restano, ma non si alternano più a blocchi di due settimane. Ogni settimana esce un post EN e un post IT, più la newsletter IT del venerdì. Il lettore è uno solo per tutte e due le lingue: l'Head of Casino/Product, chi decide catalogo e promozioni e ne risponde sui numeri. Per i contenuti del Blocco 7 prende il posto di Marco e Giulia, che restano il riferimento per i blocchi precedenti e per l'outbound (in pausa dal 01/09). Il riflesso commerciale passa dal dimostrare di sapere cosa funziona, mai dal pitch.
+
 ---
 
 ## Territori di competenza e cluster
@@ -51,8 +53,9 @@ Il piano non ha più un obiettivo unico. Segue due linee editoriali separate, ci
 | **Certificazione e integrità del prodotto** | Contraffazione dei giochi, certificazione provider, verifica prima dell'integrazione | Blocco 3 (post contraffazione, carosello + N3 certificazione provider) | 21/08 |
 | **AI nel processo BDM** | Uso operativo dell'AI nel lavoro BDM quotidiano — non thought leadership generica sull'AI | Blocco 2 (carosello "Claude per una proposta commerciale", Atto 3) — grafica "5 usi AI nel BDM" e post "L'AI non sta togliendo lavori" restano in backlog, mai pubblicati | 14/08 — cluster più scoperto: un solo pezzo live su tre pianificati |
 | **Economics della filiera e dell'integrazione** | Chi crea valore nella catena operatore/affiliato/provider/giocatore, costo reale di un'integrazione unica vs multipla | Blocco 2 (sondaggio Rich List "chi crea valore", post Tony Bloom), Blocco 4 (post costo integrazioni, N4, post "5 mercati, 3 dinamiche identiche") | 07/09 |
-| **Mercati Europa multi-market** | Confronto normativo/operativo tra IT/DE/BE/CZ/IE, scelta aggregator multi-mercato, chiusura del percorso Atto 1/2/3 | Blocco 4 (checklist compliance, N5), Blocco 6 (intero blocco — scelta aggregator, post-firma, chiusura ciclo, N7, N8) | In corso — Blocco 6 chiude il 02/10 |
+| **Mercati Europa multi-market** | Confronto normativo/operativo tra IT/DE/BE/CZ/IE, scelta aggregator multi-mercato, chiusura del percorso Atto 1/2/3 | Blocco 4 (checklist compliance, N5), Blocco 6 (intero blocco — scelta aggregator, post-firma, chiusura ciclo, N7) | 28/09 — **chiuso il 02/10/2026**: N8 e carosello sui cinque mercati sospesi, il perimetro BDM (IT/DE/BE/CZ/IE come market intelligence) non è più soggetto dei contenuti personali |
 | **Prodotto e vertical** | Strategia di catalogo/portfolio giochi, nuovi verticali di prodotto | Blocco 2 (carosello portfolio giochi, framework PAS), Blocco 5 (esports betting, carosello integrazione esports, N6) | 18/09 |
+| **Casinò online: catalogo, promo, numeri** (dal 05/10) | Come far rendere un casinò online visto dall'Head of Casino: catalogo, bonus e promozioni, metriche e report. Italia sì negli esempi | Blocco 7 (N8 e carosello sulle metriche del catalogo 09/10, post sul bonus visto dalla sala 13/10, N9 tornei e jackpot 16/10, post EN 20/10, N10 23/10) | 13/10 — cluster attivo |
 
 **Criterio per la scelta dei temi dopo Blocco 6 (chiusura del percorso Atto 1/2/3, prevista 02/10/2026):** prima di aprire un nuovo arco narrativo, guardare quale cluster non riceve un contenuto nuovo da più tempo, invece di procedere solo per successione cronologica — è il criterio che oggi manca per "cosa viene dopo Blocco 6" (vedi "Chiusura del piano" sotto Blocco 6, che oggi rimanda solo alla validazione buyer persona). Allo stato attuale i due cluster più scoperti sono **"AI nel processo BDM"** (un solo pezzo pubblicato, due mai usciti) e **"Certificazione e integrità del prodotto"** (fermo dal 21/08): candidati naturali per il primo blocco dopo il checkpoint buyer persona.
 
@@ -102,7 +105,7 @@ Chi segue i 5 blocchi vede lo stesso schema ripetersi — apertura sul terreno o
 
 **Stato reale (09/07/2026):** newsletter già attiva — **1.023 iscritti**, **17 edizioni pubblicate**. Non è un lancio, è la prosecuzione di qualcosa che già funziona.
 
-**Linea precisa:** solo intelligence su mercati regolamentati europei (normativa, licenze, dati di mercato). Nessun contenuto AI/thought leadership internazionale — quel filone resta esclusivamente sui post EN.
+**Linea precisa:** ~~solo intelligence su mercati regolamentati europei (normativa, licenze, dati di mercato)~~ → **dal 09/10/2026 (N8), come far rendere un casinò online**: catalogo, promozioni, numeri, per l'Head of Casino, con l'Italia negli esempi e mai i cinque mercati del perimetro BDM come market intelligence (decisione del 02/10, sezione "Blocco 7"). Nessun contenuto AI/thought leadership internazionale — quel filone resta esclusivamente sui post EN.
 
 **Obiettivo:** veicolo di nutrimento per gli account italiani già chiusi — non lead gen.
 
@@ -157,7 +160,8 @@ Chi segue i 5 blocchi vede lo stesso schema ripetersi — apertura sul terreno o
 | 17/08 – 28/08 | **IT** — Contraffazione giochi, certificazione provider, proroga fisico | Nutrimento Italia |
 | 31/08 – 14/09 | **EN** — Costo integrazioni multiple, 5 mercati EU (posizionale Softswiss) | Lead gen estero |
 | 14/09 – 18/09 | **IT** — Esports betting, angolo ADM | Nutrimento Italia |
-| 21/09 – 02/10 | **EN** — Chiusura ciclo, 5 mercati regolamentati (provvisorio) | Lead gen estero |
+| 21/09 – 02/10 | **EN** — Chiusura ciclo, 5 mercati regolamentati (chiuso il 02/10 senza N8 e carosello) | Lead gen estero |
+| dal 05/10 | **EN + IT ogni settimana** — Come far rendere un casinò online (Blocco 7, lettore Head of Casino) | Entrambe, senza alternanza a blocchi |
 
 **Priorità IT (deciso 01/09/2026, post Lezione 10 MLR):** dal Blocco 5 in poi la scelta dei temi privilegia IT/nutrimento — non perché l'EN non renda (Tony Bloom e Gauselmann, entrambi EN, restano gli unici due contenuti con segnale reale nel checkpoint di fine agosto), ma perché il motore che dovrebbe sostenere l'EN (outbound Sales Navigator) è fermo a zero risposte dal 17/08. Blocco 6 resta comunque EN: è la chiusura del percorso narrativo Atto 1/2/3 sui 5 mercati, non uno slot EN generico — ma il suo sondaggio d'apertura (Lun 21/09) diventa Post, vedi sezione Blocco 6.
 
@@ -520,7 +524,7 @@ Le due tabelle si leggono insieme: un contenuto può salvare bene (KPI algoritmi
 - **Titoli:** dicono tema e beneficio, con la keyword (casinò online, catalogo giochi, Head of Casino). Niente metafore.
 - **Gancio fisso:** ogni pezzo chiude con "le domande da fare al tuo fornitore" sul tema.
 - **Rischi noti:** tornei e jackpot sono strumenti che Softswiss vende, quindi l'angolo è "come farli rendere", mai "sono un costo". I giochi su misura per l'Italia sono un progetto interno Softswiss: non si anticipano.
-- **Cadenza:** newsletter IT il venerdì, due post a settimana (uno EN, uno IT).
+- **Cadenza (decisa da Alberto il 12/10/2026):** un post a settimana, il martedì, alternato EN/IT, più la newsletter IT del venerdì. La formula iniziale "due post a settimana (uno EN, uno IT)" non è mai stata applicata dal calendario ed è superata.
 
 | Pubblica | Formato | Lingua | Titolo | Creare entro |
 |---|---|---|---|---|
@@ -528,19 +532,21 @@ Le due tabelle si leggono insieme: un contenuto può salvare bene (KPI algoritmi
 | Ven 09/10 | **Newsletter N8** | IT | Casinò online: le 5 metriche del catalogo giochi da controllare ogni mese | mer 07/10 |
 | Ven 09/10 | Carosello | EN | 5 casino catalogue metrics every Head of Casino should check monthly | mer 07/10 |
 | Mar 13/10 | Post | IT | ~~Catalogo del casinò online: come decidere quali giochi togliere~~ → Il bonus visto dalla sala: chi entra con il bonus e chi resta (titolo definitivo alla creazione) | ~~ven 09/10~~ → lun 12/10 |
-| Ven 16/10 | **Newsletter N9** | IT | Tornei e jackpot nel casinò online: come capire se portano giocatori nuovi o spostano solo spesa | mer 14/10 |
-| Mar 20/10 | Post | EN | New game releases: how many are still played 90 days later? | ven 16/10 |
-| Ven 23/10 | **Newsletter N10** | IT | Dalla sala al casinò online: cosa cercano i giocatori di AWP e VLT | mer 21/10 |
+| Ven 16/10 | **Newsletter N9** | IT | ~~Tornei e jackpot nel casinò online: come capire se portano giocatori nuovi o spostano solo spesa~~ → Tornei e jackpot nel casinò online: come capire se stanno lavorando per te (12/10) | mer 14/10 |
+| Mar 20/10 | Post | EN | ~~New game releases: how many are still played 90 days later?~~ → New game releases: what to measure in the first 90 days (12/10) | ven 16/10 |
+| Ven 23/10 | **Newsletter N10** | IT | ~~Dalla sala al casinò online: cosa cercano i giocatori di AWP e VLT~~ → Il casinò online italiano nei dati pubblici ADM: cosa può leggerci un Head of Casino (12/10) | mer 21/10 |
 
-**Cambio del 12/10/2026 (decisione di Alberto):** il post del 13/10 "come decidere quali giochi togliere" esce dal calendario perché si sovrappone all'idea interna del 30/09 (sostituzione della coda che non rende), non ancora presentata a Forni e a Softswiss. Al suo posto va la prima idea in riserva, il bonus visto dalla sala. Il tema "giochi da togliere" torna disponibile solo dopo che l'idea interna avrà avuto il suo esito.
+**Fine e checkpoint (proposta del 12/10/2026, da confermare con Alberto):** il calendario del Blocco 7 arriva a N10 del 23/10. Il checkpoint si fa lunedì 26/10 con `/linkedin-settimana`: metriche lifetime e KPI reali ("Visualizza analisi", pezzi di 7-14 giorni) della N8 e del carosello del 09/10, del post del 13/10 e di N9. La domanda è una sola: la linea Head of Casino porta salvataggi, visite al profilo e connessioni dal target meglio dei Blocchi 4-6? Se sì, il blocco continua con le idee in riserva; se no, si ripensa prima di riempire novembre.
 
-Idee in riserva, stessa linea: ~~il bonus visto dalla sala (chi entra con il bonus e chi resta)~~ (usata il 13/10); il casinò online italiano nei dati pubblici ADM; i report che il fornitore dovrebbe darti e quasi nessuno chiede (riflesso più diretto, da scrivere con attenzione).
+**Cambio del 12/10/2026 (decisione di Alberto):** il post del 13/10 "come decidere quali giochi togliere" esce dal calendario perché si sovrappone all'idea interna del 30/09 (sostituzione della coda che non rende), non ancora presentata a Forni e a Softswiss. Al suo posto va la prima idea in riserva, il bonus visto dalla sala. Il tema "giochi da togliere" torna disponibile solo dopo che l'idea interna avrà avuto il suo esito. Stesso giorno, titoli nuovi approvati da Alberto per N9 (angolo "come farli rendere"), post EN del 20/10 (misurare le uscite, non sceglierle) e N10 (dati pubblici ADM al posto di "AWP e VLT", che anticipava l'idea interna sul giocatore italiano).
+
+Idee in riserva, stessa linea: ~~il bonus visto dalla sala (chi entra con il bonus e chi resta)~~ (usata il 13/10); ~~il casinò online italiano nei dati pubblici ADM~~ (usata per N10 del 23/10); i report che il fornitore dovrebbe darti e quasi nessuno chiede (riflesso più diretto, da scrivere con attenzione).
 
 ---
 
 ## Note operative
 
-**Newsletter:** "The Betting Edge" — unica newsletter attiva, 1.023 iscritti, 17 edizioni pubblicate. Bisettimanale fino a N4, **settimanale dal 11/09/2026** (deciso post Lezione 10 MLR, 01/09/2026) e indipendente dai blocchi post. Sempre IT, sempre linea market intelligence, mai lead gen esplicita. Dal 01/09/2026 ogni post/carosello del blocco chiude con rimando esplicito all'edizione della settimana (pivot). Sequenza aggiornata il 01/09/2026: N1 10/07 · N2 14/08 · N3 21/08 · N4 04/09 · N5 11/09 · N6 18/09 · N7 25/09 · N8 02/10.
+**Newsletter:** "The Betting Edge" — unica newsletter attiva, 1.023 iscritti, 17 edizioni pubblicate. Bisettimanale fino a N4, **settimanale dal 11/09/2026** (deciso post Lezione 10 MLR, 01/09/2026) e indipendente dai blocchi post. Sempre IT, mai lead gen esplicita; dal 09/10/2026 linea Blocco 7 (casinò online per l'Head of Casino) al posto della market intelligence sui mercati europei. Dal 01/09/2026 ogni post/carosello del blocco chiude con rimando esplicito all'edizione della settimana (pivot). Sequenza aggiornata il 12/10/2026: N1 10/07 · N2 14/08 · N3 21/08 · N4 04/09 · N5 14/09 · N6 18/09 (non uscita, arretrato chiuso il 30/09) · N7 25/09 · N8 09/10 (la N8 del 02/10 sui cinque mercati è stata sospesa e il numero riassegnato) · N9 16/10 · N10 23/10.
 **Post — cadenza (deciso 13/07/2026, slittato 2 settimane il 14/07/2026):** **2 post/settimana**, luglio-agosto-settembre-ottobre compresi — non solo per le ferie. **Unica eccezione (01/08):** mercoledì 05/08 riattivato per il carosello portfolio giochi/PAS (Blocco 2) — contenuto specifico legato allo spunto di Lezione 8, non un cambio di ritmo strutturale. **Confermato 30/08/2026:** il checkpoint analytics di fine agosto non ha trovato segnali che giustifichino tornare a 3 post/settimana — Blocco 5 e Blocco 6 restano a 2 post/settimana come i blocchi precedenti, mercoledì sempre saltato. Blocchi da 2 settimane alternati IT/EN. IT = nutrimento account italiani già chiusi. EN = lead gen estero, CTA verso Sales Navigator/InMail.
 **Strumenti grafica:** Napkin (veloce) o Canva (qualità) — palette brand in `palette-brand.md`
 **Sondaggio:** dal 01/09/2026 non più slot fisso del lunedì, ma occasionale — solo quando il tema si presta a una domanda secca. Framing generico di mercato (mai seconda persona/possesso), una sola CTA, **DM via Sales Navigator prima della pubblicazione non è più opzionale**: i due sondaggi EN pubblicati senza (03/08, 31/08) sono rimasti sotto i 3 voti — regole complete in `content-strategy/sondaggi/istruzioni.md`
