@@ -101,7 +101,7 @@ Dove possibile, ogni contenuto derivato da materiale interno va anche verificato
 
 La due date su Linear è la colonna **"Creare entro"**, mai "Pubblica": la data di pubblicazione sta nel titolo della issue, formato `[pubb. GG/MM]`. Convenzioni complete in `../automations/linear-convenzioni.md`.
 
-Quando il piano cambia: prima `piano-editoriale-2026.md`, poi `task-list.md`, poi `/agenda` per riallineare Linear. Le skill `linkedin-crea-post`, `linkedin-crea-newsletter` e `linkedin-crea-sondaggio` chiudono da sole la issue del pezzo che producono.
+Quando il piano cambia: prima `piano-editoriale-2026.md`, poi `task-list.md`, poi `/agenda` per riallineare Linear. Le skill `linkedin-crea-post` e `linkedin-crea-newsletter` chiudono da sole la issue del pezzo che producono.
 
 Piano: `piano-editoriale-2026.md`. Stato al 12/10/2026:
 Due linee BDM distinte: **nutrimento Italia** (IT, account già chiusi) e **lead gen estero** (EN, Sales Navigator/InMail).
@@ -118,24 +118,18 @@ Corso di personal branding e content strategy LinkedIn con Maria Letizia Russo, 
 
 ## Skill Claude Code disponibili (dal 28/07/2026)
 
-MLR ha condiviso 4 sue skill (originali in `../07-formazione/mlr-linkedin-2026/Lezione 7/skill-mlr-originali/`), adattate alla voce e al workspace di Alberto e installate in `.claude/skills/`:
+MLR ha condiviso 4 sue skill (originali in `../07-formazione/mlr-linkedin-2026/Lezione 7/skill-mlr-originali/`), adattate alla voce e al workspace di Alberto e installate in `.claude/skills/`. Due sono state archiviate il 15/10/2026 per zero usi dal 31/08 (`linkedin-analizza-post`, `linkedin-aggiorna-analytics` — superata da `/linkedin-settimana`; dettaglio in `archive/legacy-skill-drafts/`), così come `linkedin-crea-sondaggio` (ultimo sondaggio pubblicato il 31/08: se torna, si chiede a `linkedin-crea-post`). Restano attive:
 
 - **`linkedin-crea-post`** — post generico (testo/immagine/carosello), domande dinamiche (tema/posizione/angolo/dati/CTA)
-- **`linkedin-crea-sondaggio`** — 5 ipotesi di sondaggio con framing generico di mercato, poi post di lancio
 - **`linkedin-crea-newsletter`** — edizione di "The Betting Edge" da brief (tesi/fonte/dato/CTA) con layer SEO
-- **`linkedin-analizza-post`** — analisi criticità + riscrittura di un post prima di pubblicare, mantenendo la voce di Alberto
 
-Tutte e 4 applicano il modello "formato fisso, contenuto dinamico" deciso in Lezione 7: le idee già presenti nel piano editoriale sono riferimento, non vincolo — le domande si fanno al momento della creazione.
-
-Quinta skill, costruita da zero (non da MLR, mai arrivata la sua):
-
-- **`linkedin-aggiorna-analytics`** — unisce gli export analytics LinkedIn in un unico file di performance, classificando sui KPI reali (salvataggi, visite profilo, nuove connessioni) invece delle impression grezze
+Applicano il modello "formato fisso, contenuto dinamico" deciso in Lezione 7: le idee già presenti nel piano editoriale sono riferimento, non vincolo — le domande si fanno al momento della creazione.
 
 Sesta skill, 25/09/2026 (piano `../plans/2026-09-25-linkedin-archivio-metriche-apprendimento-bozze.md`, dal workflow di Luca Mastella/Learnn):
 
 - **`linkedin-settimana`** — rito del lunedì, massimo quindici minuti: metriche lifetime da "Tutte le attività", pezzi usciti in `archivio/`, confronto fra bozza consegnata e testo pubblicato con aggiornamento di `apprendimento/registro-correzioni.md`. Non produce contenuti. Ricorrenza in `task-list.md`, sezione "Ricorrenze"
 
-Dalla stessa data le tre skill `linkedin-crea-*` leggono in Fase 0 i pattern attivi del registro, controllano l'archivio prima di scrivere e congelano la prima versione completa in `apprendimento/bozze/`.
+Dalla stessa data le skill `linkedin-crea-*` leggono in Fase 0 i pattern attivi del registro, controllano l'archivio prima di scrivere e congelano la prima versione completa in `apprendimento/bozze/`.
 
 ## File di contesto
 

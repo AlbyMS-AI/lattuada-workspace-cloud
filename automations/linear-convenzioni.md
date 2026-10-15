@@ -107,7 +107,7 @@ Davanti a una issue con due date passata, **non spostare la data e basta**. Prim
 | **ALDO** (cron, 08:30) | Chiude le issue leggendo i blocchi segnati `ok` sul calendario e la risposta di Alberto al check serale, con commento `Tempo reale`. Crea issue dagli eventi `+ testo` e imposta due date dagli eventi `+ ALB-NNN`. Scrive e sposta i blocchi `[TB]` sul calendario. Il lunedì crea le issue `ricorrente` mancanti. Regole in `time-blocking-regole.md` |
 | **Check serale** (cron, lun-ven 18:30) | Non scrive nulla su Linear. Chiede e basta |
 | **`/agenda`** (on demand) | Sincronizza piani e registro, propone e applica solo dopo conferma di Alberto |
-| **Skill di contenuto** (`linkedin-crea-post`, `linkedin-crea-newsletter`, `linkedin-crea-sondaggio`, `jamma`, `bottadiculo`, `news-sitiscommesse`) | Chiudono la issue del pezzo che hanno appena prodotto |
+| **Skill di contenuto** (`linkedin-crea-post`, `linkedin-crea-newsletter`, `jamma`, `bottadiculo`, `news-sitiscommesse`) | Chiudono la issue del pezzo che hanno appena prodotto |
 | **`post-call`** | Crea le issue dai task emersi in call (invariato) |
 | **MARCO** (cron, lun 07:00) | Solo lettura, incrocia Linear con Pipedrive |
 
