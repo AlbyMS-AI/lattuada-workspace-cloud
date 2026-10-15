@@ -341,7 +341,7 @@ Le colonne sopra su Blocchi 1-5 sono una verifica leggera (i contenuti sono già
 
 ## Misurazione per scopo
 
-**Aggiunto:** 12 settembre 2026 — metodo Copelli: non tutti i contenuti si misurano sul traffico o sulle interazioni grezze, ma sullo scopo per cui sono stati pensati. Tabella complementare ai KPI algoritmici già in `04-linkedin/CLAUDE.md` ("KPI reali da monitorare"): quella tabella dice quale segnale pesa per l'algoritmo, questa dice cosa deve succedere perché quel contenuto specifico abbia funzionato.
+**Aggiunto:** 12 settembre 2026 — metodo Copelli: non tutti i contenuti si misurano sul traffico o sulle interazioni grezze, ma sullo scopo per cui sono stati pensati. Tabella complementare ai KPI algoritmici già in `04-linkedin/content-strategy/algoritmo-distribuzione.md` ("KPI reali da monitorare"): quella tabella dice quale segnale pesa per l'algoritmo, questa dice cosa deve succedere perché quel contenuto specifico abbia funzionato.
 
 | Scopo del contenuto | Esempio nel piano | Cosa misuro |
 |---|---|---|
@@ -351,7 +351,7 @@ Le colonne sopra su Blocchi 1-5 sono una verifica leggera (i contenuti sono già
 | Lead gen esplicita (linea EN) | Sondaggi/post EN con DM Sales Navigator di supporto | Richieste di contatto/DM inbound, conversazioni Sales Navigator aperte dopo la pubblicazione — non il numero di voti o di like |
 | Case study/prova (Atto 3, esperienza diretta anonimizzata) | Carosello "Claude per una proposta commerciale" (cluster AI nel processo BDM) | Click verso il profilo, richieste di approfondimento in DM — segnale che il meccanismo raccontato genera curiosità reale, non solo interazione superficiale |
 
-Le due tabelle si leggono insieme: un contenuto può salvare bene (KPI algoritmico) senza aver raggiunto lo scopo per cui è stato pensato — es. un post di lead gen molto salvato ma zero DM inbound ha funzionato per l'algoritmo, non per l'obiettivo commerciale. Vedi `04-linkedin/CLAUDE.md`, sezione "KPI reali da monitorare".
+Le due tabelle si leggono insieme: un contenuto può salvare bene (KPI algoritmico) senza aver raggiunto lo scopo per cui è stato pensato — es. un post di lead gen molto salvato ma zero DM inbound ha funzionato per l'algoritmo, non per l'obiettivo commerciale. Vedi `04-linkedin/content-strategy/algoritmo-distribuzione.md`, sezione "KPI reali da monitorare".
 
 ---
 

@@ -42,124 +42,13 @@ Le domande MLR raccolgono il brief del singolo pezzo, ma non sostituiscono il co
 - Scrivi al "tu" singolare — ogni lettore riceve il contenuto individualmente
 - CTA in chiusura: cosa deve fare chi ha letto?
 
-## Best practice ufficiali LinkedIn (11/07/2026)
+## Algoritmo, orari e formati
 
-LinkedIn indica sei criteri per "avviare conversazioni significative e generare interazioni di qualità", validi per ogni membro indipendentemente dal programma Top Voice. Si affiancano al framework 360Brew sotto, non lo sostituiscono.
+Meccanica di distribuzione (fasi, dwell time, 360Brew, KPI reali, strategia verticale): `content-strategy/algoritmo-distribuzione.md`. Best practice ufficiali, orari di pubblicazione e formati di contenuto: `contesto/algoritmo-e-formati.md`. Interazione nei commenti dopo la pubblicazione: `content-strategy/interazione-commenti.md`.
 
-| Criterio | Dove è già coperto | Cosa mancava (chiuso l'11/07/2026) |
-|---|---|---|
-| Coerenza — pubblica regolarmente | Cadenza a blocchi, piano editoriale | — |
-| Mostra le tue conoscenze | Obiettivo 1 (thought leadership), percorso Atto 1/2/3 | — |
-| Aggiungi valore, non promozionale | Regola 70/20/10 (`obiettivi.md`) | — |
-| Diversifica argomenti e formati (video, newsletter) | Newsletter già attiva; sondaggio/testo/grafica/carosello | Video — aggiunto sopra, primo test 02/09 |
-| Interagisci con la community nei commenti | — | Regole in `content-strategy/interazione-commenti.md` |
-| Contenuti sicuri, affidabili, professionali | Hard limits workspace (no promesse vincita, no hashtag/emoji) | — |
+## E-E-A-T, GEO e autorevolezza
 
-## Algoritmo LinkedIn — 360Brew (2026)
-
-LinkedIn ha sostituito il vecchio sistema a moduli con **360Brew**: un unico modello LLM
-(150 miliardi di parametri, distillato a 8B/3B/1B per la produzione) che gestisce ranking
-di feed, persone, job, messaggi. Non è più divisionale — è un unico cervello.
-
-**Come legge il profilo**
-Il profilo è una mappa semantica: headline + about + competenze + esperienze devono parlare
-la stessa lingua dei contenuti che pubblichi. Se scrivi di AI nel gaming e il profilo non lo
-rispecchia, 360Brew penalizza la distribuzione.
-
-**Come decide chi vede il tuo contenuto**
-Non basta l'engagement — verifica la coerenza tra chi interagisce e il contenuto. Un like
-da chi non è nel settore conta meno di un salvataggio da un profilo rilevante. I POD
-(gruppi di engagement reciproco) sono diventati inefficaci perché l'algoritmo rileva
-l'incoerenza tra chi interagisce e di cosa tratta il contenuto.
-
-**Peso decrescente delle interazioni:**
-
-1. Salvataggi e inoltri privati — pesano più di tutto il resto
-2. Visite al profilo dopo la lettura del post
-3. "Diffondi con le tue idee" — riparte da zero ma genera molte visualizzazioni
-4. "Diffondi" — meno impatto del precedente
-5. Commenti e like — visibili ma i meno valorizzati
-
-**KPI reali da monitorare (non impressions):**
-
-- Nuove connessioni nel target negli ultimi 30 giorni
-- Visite al profilo da profili rilevanti
-- Salvataggi dei contenuti
-- Richieste di call o DM inbound
-
-**Dove si leggono (dal 25/09/2026):** impression lifetime di tutti i post dalla pagina "Tutte le attività" del profilo, in un solo incolla. Salvataggi, visite al profilo e follower da "Visualizza analisi", un post alla volta, sui pezzi usciti da 7-14 giorni. L'export "AnalisiAggregate" dà impression a finestra, non lifetime: resta utile solo per la demografia. Dettaglio in `linkedin-aggiorna-analytics`.
-
-**Strategia verticale:** 3-4 topic fissi. La specializzazione viene premiata sul generalismo.
-500 visualizzazioni di qualità dal target battono 5.000 casuali.
-
-Implicazione: crea contenuti che le persone vogliono **salvare o condividere privatamente**.
-
-Questi sono i segnali che pesano per l'algoritmo. Per verificare se un contenuto ha raggiunto lo scopo per cui è stato scritto (posizionamento, lead gen, evergreen, reattivo...), vedi la tabella complementare "Misurazione per scopo" in `piano-editoriale-2026.md`: le due letture vanno incrociate, non sostituite l'una con l'altra.
-
-## Orari di pubblicazione
-
-Nessun orario universale, ma indicazioni di base per il target iGaming B2B:
-
-| Giorno | Orario | Note |
-| --- | --- | --- |
-| Martedì | 11:00-17:00 | Picco principale |
-| Mercoledì | 11:00-16:00 | Ottimo per caroselli |
-| Giovedì | 13:00-17:00 | Post-pranzo efficace |
-| Lunedì | Con cautela | Agenda mattutina |
-| Venerdì | Con cautela | Attenzione cala nel pomeriggio |
-| Sabato/Domenica | Evitare | Minima visibilità B2B |
-
-Per tipo di contenuto:
-
-- Newsletter / post lungo: mattino presto (7:00-9:00)
-- Caroselli / infografiche / sondaggi: fascia 11:00-14:00 (pausa pranzo)
-
-## Formati di contenuto
-
-**Post solo testo** — funziona con incipit forte e struttura ritmica (frasi brevi + frasi di respiro)
-
-**Post con immagine / infografica** — infografiche con testo piccolo aumentano il dwell time
-(le persone zoomano = segnale positivo per l'algoritmo)
-
-**Sondaggio** — una domanda semplice e chiara, max 4 opzioni. Dal 01/09/2026 non più formato ricorrente fisso ma occasionale (priorità al carosello) — vedi `piano-editoriale-2026.md`, sezione "Modello operativo". Il DM via Sales Navigator prima della pubblicazione non è opzionale: i due sondaggi EN pubblicati senza (03/08, 31/08/2026) sono rimasti sotto i 3 voti
-
-**Newsletter LinkedIn** — il contenuto pivot: tutto converge qui. Ogni post può rimandare
-alla newsletter come CTA. Ogni nuovo collegamento target riceve l'invito automaticamente.
-Benchmark: ~20% della rete si iscrive al primo invio (segnale di interesse reale).
-Titolo newsletter: descrittivo > creativo — deve contenere keyword e chiarire il target.
-Istruzioni complete (setup, SEO, crescita, Sales Navigator): `content-strategy/newsletter-linkedin/istruzioni.md`
-
-**PDF / carosello** — guide step-by-step, sintesi visive di articoli già pubblicati. Il titolo del documento determina la URL del post (prevale su incipit e hashtag) e, se il PDF ha testo selezionabile (non screenshot), tutto il contenuto interno viene indicizzato da Google/Bing — non solo la copertina. Dettaglio: `content-strategy/caroselli/istruzioni.md`
-
-**Video** — introdotto l'11/07/2026 su indicazione best practice LinkedIn ("diversifica formati"). Verticale 9:16, 30-90 secondi, hook nei primi 3 secondi, sottotitoli sempre integrati. Primo test in Blocco 5 (02/09) — sostituisce uno slot esistente, non aggiunge volume. Cadenza fissa solo se il test funziona.
-
-## Interazione dopo la pubblicazione
-
-LinkedIn segnala esplicitamente "interagisci con la community" come criterio per raggiungere una vasta audience. Regole complete (tempistica, tono per linea, cosa fare quando commenta un profilo target): `content-strategy/interazione-commenti.md`.
-
-## Ciclo editoriale (modello MLR)
-
-Per ogni argomento:
-
-1. **Sondaggio** — apri la discussione, raccogli segnali
-2. **Post lungo o newsletter** — analisi approfondita
-3. **Carosello / infografica** — sintesi visiva, riutilizzabile
-
-## E-E-A-T e autorevolezza
-
-Google valuta **chi pubblica**, non solo cosa pubblica. LinkedIn, avendo altissima domain authority,
-è costantemente indicizzato da Google come fonte di segnali E-E-A-T sull'autore.
-"Dalla SEO delle pagine alla SEO delle persone."
-
-| Dimensione | Cosa fare su LinkedIn |
-| --- | --- |
-| **Experience** | Sezione esperienze dettagliata con risultati concreti e dati. Post su behind-the-scenes del lavoro quotidiano. |
-| **Expertise** | Contenuti di nicchia di qualità. Commenti tecnici approfonditi. Certificazioni visibili nel profilo. |
-| **Authoritativeness** | Essere citati/taggati da altri. Ruoli da speaker. Collaborazioni con brand noti del settore iGaming. |
-| **Trustworthiness** | Profilo coerente, identità reale, pubblicazione regolare, testimonianze scritte (referenze LinkedIn), endorsement competenze. |
-
-Implicazione pratica: ogni articolo pubblicato su Jamma e Bottadiculo, quando ripreso su LinkedIn
-con rimando al profilo dell'autore, crea un segnale incrociato che rafforza l'autorevolezza su entrambi i canali.
+Google e le AI valutano chi pubblica, non solo cosa. Dettaglio E-E-A-T: `contesto/eeat.md`. Estensione al canale delle risposte AI (ChatGPT, Perplexity, Google AI Mode): `content-strategy/ai-search-visibility.md`.
 
 ## Priorità sui temi rispetto alle testate (dal 17/08/2026)
 
@@ -176,67 +65,9 @@ diversi, in ordine di priorità.
 Regola completa nei due piani gemelli: `../03-giornalismo/jamma/piano-newsletter-linkedin-2026.md`
 e `../03-giornalismo/bottadiculo/piano-newsletter-linkedin-2026.md`.
 
-## AI Search Visibility (GEO)
-
-Estensione dell'E-E-A-T sopra al canale delle risposte AI (ChatGPT, Perplexity, Google AI Mode): LinkedIn è il secondo dominio più citato in queste risposte (11% media), e il 95% dei buyer B2B che usa AI la impiega per cercare fornitori. Principi, regole di scrittura per citabilità AI e metodo di verifica manuale: `content-strategy/ai-search-visibility.md`.
-
 ## Lead Generation e Lead Nurturing
 
-### Inbound vs Outbound
-
-- Inbound: profilo ottimizzato SEO + contenuti + newsletter. Il prospect trova Alberto.
-- Outbound: Sales Navigator + InMail + richieste di connessione mirate. Alberto trova il prospect.
-- Newsletter LinkedIn è ibrida: outbound (notifica email agli iscritti) + inbound (indicizzata da Google, appare nel feed).
-
-### Lead Nurturing: cosa è e cosa non è
-
-Non è una sequenza di messaggi automatici. È la relazione che si costruisce nel tempo attraverso:
-contenuti coerenti, interazioni autentiche, commenti pubblici, DM privati.
-Il lead può osservare per settimane o mesi prima di manifestarsi — il contenuto lavora per Alberto nel frattempo.
-
-Allineamento con il buyer journey:
-
-- Awareness: educare senza vendere
-- Consideration: costruire autorità e fiducia
-- Decision: accompagnare alla scelta
-- Post-purchase: fidelizzare
-
-Errori da evitare: trattare il nurturing come mass messaging, parlare di sé invece del problema del lead,
-mancanza di coerenza tematica nel contenuto.
-
-### Metodo outbound (dal 17/08/2026)
-
-**Principio: l'outreach qualifica, il contenuto converte.** L'outbound porta le persone giuste dentro il bacino e lascia lavorare il contenuto. Nessuna CTA commerciale nel primo messaggio, nessuna proposta di call finché non c'è un segnale esplicito.
-
-**Ciclo a cinque passi:** DM con una domanda di ricerca sul tema del blocco editoriale in corso → la risposta entra in `../02-softswiss/intelligence/buyer-voice.md` anonimizzata → il tema diventa contenuto pubblico senza citazioni → ritorno a chi ha risposto con il pezzo uscito → conversazione commerciale **solo** su segnale esplicito.
-
-**Ritmo:** un batch di 20-30 DM per blocco editoriale (due settimane). Non aggiunge slot di contenuto, si innesta sui blocchi esistenti. Se il ritmo editoriale rallenta, rallenta anche l'outbound.
-
-**Bacini in ordine di temperatura:** rete già collegata di 1° grado → iscritti newsletter (1.023, autoqualificati) → follower pagina Softswiss + 2° grado (57 isolati) → pubblico UK/finance del post Tony Bloom (decisione a sé) → 17 lead ricerca per qualifica.
-
-**Confine sui dati:** prima del segnale il contatto vive nel workspace (tracker + liste Sales Navigator); dal segnale è un lead Softswiss e passa in CRM. La rete LinkedIn di Alberto è l'asset di un freelance, non del committente.
-
-**Esclusione esplicita:** il cappello da giornalista non si usa come tecnica di apertura. Un contatto nato da una richiesta giornalistica resta giornalistico e non entra nel sistema — usarlo come grimaldello commerciale brucerebbe sia il rapporto sia la credibilità della testata.
-
-| File | Cosa contiene |
-| --- | --- |
-| `content-strategy/lead-generation-outbound.md` | Il metodo: principio, bacini, ciclo, definizione di "segnale esplicito", ritmo, KPI |
-| `content-strategy/outreach-domanda-ricerca.md` | I testi dei messaggi per bacino e lingua |
-| `content-strategy/lead-tracker-outbound.md` | Stato dei contatti e riepilogo per batch (non spostare in radice: sync cloud) |
-| `content-strategy/sales-navigator.md` | Guida allo strumento (ricerche, liste, InMail, Account IQ) |
-| `content-strategy/sales-navigator-richieste-collegamento.md` | Testi per i bacini freddi, 2°/3° grado |
-
-## Piano editoriale con Claude
-
-Processo:
-
-1. Fornire obiettivo e buyer persona per il ciclo di contenuti
-2. Claude legge tutto il contesto workspace
-3. Chiedere piano macro: argomenti, non post singoli
-4. Su ogni argomento approvato: 5 idee sondaggio + 5 idee post + 5 newsletter
-5. Approvare, eliminare le scarti, sviluppare le approvate
-
-Output atteso: tabella con colonne Obiettivo / Argomento / Formato / CTA
+Inbound vs outbound, lead nurturing e il metodo outbound a cinque passi (principio, bacini, ciclo, "segnale esplicito", ritmo, KPI): `content-strategy/lead-generation-outbound.md`. Testi dei messaggi: `content-strategy/outreach-domanda-ricerca.md`. Stato dei contatti: `content-strategy/lead-tracker-outbound.md`. Guida allo strumento: `content-strategy/sales-navigator.md`.
 
 ## Fonti di contenuto
 
@@ -279,51 +110,11 @@ Newsletter "The Betting Edge" sempre IT, **settimanale** dal 11/09/2026 e pivot 
 La cadenza "3 post/settimana a blocchi alternati IT/EN" del 09/07 è superata: dal 13/07 il ritmo è sceso a due post a settimana, e il Blocco 7 è passato a un post a settimana con l'alternanza EN/IT settimana per settimana invece che a blocchi di due settimane.
 Per sviluppare un contenuto: indicare il blocco + formato, Claude legge la fonte e produce il testo.
 
-## File di contesto in questa cartella
+Processo con Claude: fornire obiettivo e buyer persona per il ciclo di contenuti → Claude legge tutto il contesto workspace → chiedere piano macro (argomenti, non post singoli) → su ogni argomento approvato: 5 idee sondaggio + 5 idee post + 5 newsletter → approvare, eliminare gli scarti, sviluppare le approvate. Output atteso: tabella Obiettivo / Argomento / Formato / CTA.
 
-| File | Contenuto |
-| --- | --- |
-| `bio-professionale.md` | Chi è Alberto, punto di vista unico — input per il profilo |
-| `obiettivi.md` | Obiettivi, target audience, equilibrio contenuti, ciclo editoriale |
-| `palette-brand.md` | Palette colori (5 hex), istruzioni uso grafico |
-| `about-linkedin.md` | Testo About LinkedIn ottimizzato |
-| `swot-linkedin.md` | Analisi SWOT posizionamento LinkedIn |
-| `content-strategy/` | Istruzioni per formato (post, newsletter, carosello, analytics, sales navigator, insight competitor B2B, interazione commenti, benchmark esterni, AI search visibility/GEO) + **metodo outbound** (`lead-generation-outbound.md`, `outreach-domanda-ricerca.md`, `lead-tracker-outbound.md`) |
-| `analytics-performance.md` | Performance dei contenuti sui KPI reali. Dal 25/09/2026 la sezione principale è "Metriche lifetime", aggiornata in place ogni lunedì da `/linkedin-settimana` |
-| `archivio/` | Tutti i post di Alberto dal primo a oggi: `indice-post.md` (una riga per post, si legge per intero) e `testi/AAAA.md` (testi integrali per anno). Serve al controllo "l'ho già scritto?" nelle skill di scrittura, **non** a ripubblicare. Storico da export LinkedIn, poi alimentato dal rito settimanale |
-| `apprendimento/` | Bozze congelate dalle skill (`bozze/`) e `registro-correzioni.md`: cosa Alberto corregge nei testi prodotti, con la regola della seconda occorrenza. Sottocartella di proposito, per restare fuori dal repo cloud pubblico |
-| `contenuti/jamma/` | Articoli Jamma pubblicati → base per post e caroselli |
-| `contenuti/bottadiculo/` | Articoli Bottadiculo pubblicati → base per post |
+## Corso MLR
 
-## Corso MLR (Maria Letizia Russo)
-
-Corso di personal branding e content strategy LinkedIn in corso.
-Materiali e riassunti sessioni: `../07-formazione/mlr-linkedin-2026/`
-
-Sessioni completate: 1 (27/05) · 2 (03/06) · 3 (08/06) · 4 (15/06) · 5 (19/06) · 6 (08/07) · 7 (27/07) · 8 (31/07)
-Webinar Newsletter LinkedIn MLR guardato il 20/06/2026 — note in `content-strategy/newsletter-linkedin/istruzioni.md`
-Sessione 13 luglio (17:00): saltata — non tenuta.
-Lezione 7 tenuta il 27 luglio — riassunto in `../07-formazione/mlr-linkedin-2026/Lezione 7/riassunto-sessione7-2026-07-27.md`.
-Lezione 8 tenuta il 31 luglio (quasi interamente Sales Navigator operativo, revisione piano editoriale di nuovo rimandata) — riassunto in `../07-formazione/mlr-linkedin-2026/Lezione 8/riassunto-sessione8-2026-07-31.md`. Prossima sessione: **mercoledì 5 agosto, 8:30-10:30 (MLR #9)**; sessione aggiuntiva fissata per il 31 agosto.
-
-Task aperti (lezione 8, 31/07) — stato al 01/08:
-
-- [ ] **Sales Navigator** — salvare/rinominare ricerche, inviare richieste di collegamento ai 17 lead qualificati, liste "lead spontanei da Newsletter" e "da ricontattare a settembre", ricerca "follower pagina + secondo grado". Manuale su Sales Navigator, non automatizzabile da Claude
-- [ ] Contattare il team marketing aziendale sulla content strategy — manuale
-- [x] Sviluppare contenuto gaming/casinò (framework PAS) — **fatto 01/08**, in `piano-editoriale-2026.md` Blocco 2, carosello Mer 05/08 "Portfolio giochi: perché più titoli non significa più revenue" (idea di riferimento, testo alla creazione). Attenzione: la cifra "6 titoli dominano il mercato" va verificata su fonte pubblica prima di scrivere il post
-- [x] **Revisione riga per riga del piano editoriale** — piano preparato e pronto per Lezione 9 (01/08, vedi changelog in `piano-editoriale-2026.md`); la revisione vera con MLR resta da fare, terzo tentativo dopo Lezione 7 e 8
-- [ ] Validazione framing sondaggi riformulato (già applicato) + checkpoint buyer persona Marco/Giulia (richiede dati reali, non disponibili)
-
-Ancora aperti da Lezione 6:
-
-- [x] ~~Mettere in pausa una delle due newsletter attive~~ — **chiuso 28/07**: confermato da Alberto, esiste una sola newsletter attiva, "The Betting Edge". Nessuna seconda newsletter da mettere in pausa
-- [x] Impostare skill Claude Code "analizza post" — **fatto 28/07**: MLR ha mandato 4 skill sue via email, adattate al contesto di Alberto e installate come skill Claude Code (vedi sotto)
-- [x] Skill "aggiorna analytics post" — **costruita da zero il 28/07** (mai arrivata da MLR nonostante segnata come condivisa): `linkedin-aggiorna-analytics` installata in `.claude/skills/`, unisce gli export su KPI reali. Resta da fare l'esportazione vera e propria dei dati quando Alberto vuole aggiornare il file
-- [x] Eseguire 3 ricerche account su Sales Navigator e salvarle come liste denominate — da Lezione 6, completato entro 09/07/2026
-- [x] Newsletter — decisione presa (08/07) e confermata (28/07): un'unica newsletter attiva, **"The Betting Edge"**. "Regulated iGaming Europe" era un'ipotesi valutata e scartata (terza newsletter, stessa audience → frammentazione, sconsigliato da MLR) — non esiste una seconda newsletter da gestire
-- [x] Completare profilo EN — fatto
-- [x] Aggiungere "gaming" (senza "i") in punti strategici del profilo
-- [~] Creare account SlideShare — **deprioritizzato (28/07)**: Alberto non lo fa per ora, non più un task attivo
+Corso di personal branding e content strategy LinkedIn con Maria Letizia Russo, in corso dal 27/05/2026. Ciclo editoriale del modello e stato sessioni/task: `contesto/corso-mlr.md`.
 
 ## Skill Claude Code disponibili (dal 28/07/2026)
 
@@ -346,10 +137,21 @@ Sesta skill, 25/09/2026 (piano `../plans/2026-09-25-linkedin-archivio-metriche-a
 
 Dalla stessa data le tre skill `linkedin-crea-*` leggono in Fase 0 i pattern attivi del registro, controllano l'archivio prima di scrivere e congelano la prima versione completa in `apprendimento/bozze/`.
 
-## File trasversali utili
+## File di contesto
 
-| File | Perché leggerlo |
+| File | Contenuto |
 | --- | --- |
+| `bio-professionale.md` | Chi è Alberto, punto di vista unico — input per il profilo |
+| `obiettivi.md` | Obiettivi, target audience, equilibrio contenuti, ciclo editoriale |
+| `palette-brand.md` | Palette colori (5 hex), istruzioni uso grafico |
+| `about-linkedin.md` | Testo About LinkedIn ottimizzato |
+| `swot-linkedin.md` | Analisi SWOT posizionamento LinkedIn |
+| `content-strategy/` | Istruzioni per formato (post, newsletter, carosello, analytics, sales navigator, insight competitor B2B, interazione commenti, benchmark esterni, AI search visibility/GEO, lead generation outbound) |
+| `contesto/` | Algoritmo/orari/formati, E-E-A-T, Corso MLR — materiale spostato dal CLAUDE.md il 15/10/2026 |
+| `analytics-performance.md` | Performance dei contenuti sui KPI reali. Dal 25/09/2026 la sezione principale è "Metriche lifetime", aggiornata in place ogni lunedì da `/linkedin-settimana` |
+| `archivio/` | Tutti i post di Alberto dal primo a oggi: `indice-post.md` (una riga per post, si legge per intero) e `testi/AAAA.md` (testi integrali per anno). Serve al controllo "l'ho già scritto?" nelle skill di scrittura, **non** a ripubblicare. Storico da export LinkedIn, poi alimentato dal rito settimanale |
+| `apprendimento/` | Bozze congelate dalle skill (`bozze/`) e `registro-correzioni.md`: cosa Alberto corregge nei testi prodotti, con la regola della seconda occorrenza. Sottocartella di proposito, per restare fuori dal repo cloud pubblico |
+| `contenuti/jamma/` | Articoli Jamma pubblicati → base per post e caroselli |
+| `contenuti/bottadiculo/` | Articoli Bottadiculo pubblicati → base per post |
 | `../01-tono-di-voce/master-tov.md` | Tono di voce — sezione LinkedIn |
 | `../02-softswiss/intelligence/buyer-personas.md` | Marco e Giulia — prospect da attrarre |
-| `../07-formazione/mlr-linkedin-2026/Lezione 6/riassunto-sessione6-2026-07-08.md` | Ultima sessione MLR — analisi post, newsletter, Sales Navigator |
