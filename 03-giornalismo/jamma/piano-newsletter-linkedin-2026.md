@@ -205,7 +205,7 @@ Keyword research prima di ogni edizione (SEOZoom, box domande e correlate) per v
 
 ---
 
-## Calendario slot — 24/08 → 12/10
+## Calendario slot — 24/08 → 30/11
 
 Il piano fissa gli slot, non i temi. Ogni riga si riempie al lock del giovedì precedente, dopo la scelta di Bottadiculo.
 
@@ -219,6 +219,15 @@ Il piano fissa gli slot, non i temi. Ogni riga si riempie al lock del giovedì p
 | 6 | Lun 28/09 | Gio 24/09 | Ven 25/09 | |
 | 7 | Lun 05/10 | **Mer 30/09** | Ven 02/10 | Venerdì occupato da The Betting Edge N6 — lock anticipato |
 | 8 | Lun 12/10 | Gio 08/10 | Ven 09/10 | Checkpoint: revisione del piano sui dati reali |
+| 9 | Lun 19/10 | Sab 17/10 – Dom 18/10 | (stesso weekend) | Weekend |
+| 10 | Lun 26/10 | Sab 24/10 – Dom 25/10 | (stesso weekend) | Weekend |
+| 11 | Lun 02/11 | Sab 31/10 – Dom 01/11 | (stesso weekend) | Weekend |
+| 12 | Lun 09/11 | Sab 07/11 – Dom 08/11 | (stesso weekend) | Weekend |
+| 13 | Lun 16/11 | Sab 14/11 – Dom 15/11 | (stesso weekend) | Weekend |
+| 14 | Lun 23/11 | Sab 21/11 – Dom 22/11 | (stesso weekend) | Weekend |
+| 15 | Lun 30/11 | Sab 28/11 – Dom 29/11 | (stesso weekend) | Weekend |
+
+**Regola dal 16/10/2026 (Alberto):** la newsletter si prepara nel weekend precedente (lock e scrittura sab-dom). Il venerdì occupato da The Betting Edge non conta più.
 
 > Date ricalcolate il 17/08/2026 dall'ancora nota (01/07/2026 = mercoledì). La prima stesura aveva
 > giovedì e venerdì spostati avanti di un giorno.

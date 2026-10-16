@@ -38,7 +38,7 @@ Prima di scegliere il tema, controllo in due punti:
 
 ---
 
-## Calendario slot — 09/09 → 12/10
+## Calendario slot — 09/09 → 27/11
 
 Il piano fissa i giorni, non i temi: si scelgono la mattina stessa dalla rassegna PIERO.
 
@@ -49,6 +49,15 @@ Il piano fissa i giorni, non i temi: si scelgono la mattina stessa dalla rassegn
 | 3 | 23/09 | 25/09 |
 | 4 | 30/09 | 02/10 |
 | 5 | 07/10 | 09/10 |
+| 6 | 14/10 | 16/10 |
+| 7 | 21/10 | 23/10 |
+| 8 | 28/10 | 30/10 |
+| 9 | 04/11 | 06/11 |
+| 10 | 11/11 | 13/11 |
+| 11 | 18/11 | 20/11 |
+| 12 | 25/11 | 27/11 |
+
+**Cadenza confermata il 16/10/2026 (Alberto):** 2 uscite a settimana, mercoledì e venerdì, per tutti i giorni del calendario.
 
 **Checkpoint: lunedì 12/10/2026**, insieme al checkpoint già fissato nel piano newsletter — un'unica sessione di revisione su tutto il sistema Jamma (newsletter + mer/ven), non due controlli separati.
 

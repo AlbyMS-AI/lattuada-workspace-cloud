@@ -161,7 +161,7 @@ Chi segue i 5 blocchi vede lo stesso schema ripetersi — apertura sul terreno o
 | 31/08 – 14/09 | **EN** — Costo integrazioni multiple, 5 mercati EU (posizionale Softswiss) | Lead gen estero |
 | 14/09 – 18/09 | **IT** — Esports betting, angolo ADM | Nutrimento Italia |
 | 21/09 – 02/10 | **EN** — Chiusura ciclo, 5 mercati regolamentati (chiuso il 02/10 senza N8 e carosello) | Lead gen estero |
-| dal 05/10 | **EN + IT ogni settimana** — Come far rendere un casinò online (Blocco 7, lettore Head of Casino) | Entrambe, senza alternanza a blocchi |
+| dal 05/10 | **Un post a settimana il martedì, alternato EN/IT, più la newsletter IT del venerdì** — Come far rendere un casinò online (Blocco 7, lettore Head of Casino; cadenza decisa il 12/10) | Entrambe, alternate settimana per settimana |
 
 **Priorità IT (deciso 01/09/2026, post Lezione 10 MLR):** dal Blocco 5 in poi la scelta dei temi privilegia IT/nutrimento — non perché l'EN non renda (Tony Bloom e Gauselmann, entrambi EN, restano gli unici due contenuti con segnale reale nel checkpoint di fine agosto), ma perché il motore che dovrebbe sostenere l'EN (outbound Sales Navigator) è fermo a zero risposte dal 17/08. Blocco 6 resta comunque EN: è la chiusura del percorso narrativo Atto 1/2/3 sui 5 mercati, non uno slot EN generico — ma il suo sondaggio d'apertura (Lun 21/09) diventa Post, vedi sezione Blocco 6.
 

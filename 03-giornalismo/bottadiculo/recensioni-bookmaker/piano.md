@@ -14,6 +14,8 @@
 | 3 | Lottomatica | Inviata al caporedattore (02/09/2026) | — | `lottomatica/recensione-lottomatica-2026.{md,docx,pdf}` |
 | 4 | Goldbet | Inviata al caporedattore (14/09/2026), dopo tre round di check (Codex + 2x Astra, 12-13/09/2026) | — | `goldbet/recensione-goldbet-2026.{md,docx,pdf}` |
 | 5 | My Lotteries Play | Bozza pronta (28/09/2026), check Codex high (5,5/10) e check Astra (#527), entrambi recepiti il 29/09/2026. Pronta per l'invio al caporedattore, dopo l'ok di Alberto; il giorno della pubblicazione vanno ricontrollati rating App Store, Trustpilot e bonus. Non è del Gruppo Lottomatica: controllata da Brightstar Lottery (ex IGT Lottery) | — | `mylotteriesplay/recensione-mylotteriesplay-2026.{md,docx,pdf}`; testo unico in `mylotteriesplay/content.py` |
+| 6 | Sisal | Da produrre entro ottobre 2026 (richiesta di Alberto, 16/10) | — | `sisal/recensione-sisal-2026.{md,docx,pdf}` |
+| 7 | Eurobet | Da produrre entro ottobre 2026 (richiesta di Alberto, 16/10) | — | `eurobet/recensione-eurobet-2026.{md,docx,pdf}` |
 
 ## Generazione docx/pdf nello stile approvato (SNAI)
 
