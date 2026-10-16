@@ -232,5 +232,7 @@ Tutti in `../drafts/`, con lo stesso prefisso `[data]-[slug]`.
 | Versione blog WordPress | `[data]-[slug]-versione-blog.md` |
 | Brief grafiche (se serve) | `[data]-[slug]-grafiche.md` |
 
+**Grafiche (dal 16/10/2026):** copertina e infografiche col logo ufficiale di `../grafiche/brand/` tramite i template fissi, mai foto generate. Dettaglio in `grafiche-workflow.md`.
+
 Dopo la pubblicazione, confermata da Alberto: una riga in `../../articoli-pubblicati.md`,
 tabella unica ordinata per data decrescente.

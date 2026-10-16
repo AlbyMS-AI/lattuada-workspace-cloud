@@ -32,7 +32,8 @@
   .catenaccio b{color:var(--testo);font-weight:600}
   .area{width:936px;height:780px;margin-top:40px}
   .piede{display:flex;align-items:flex-end;gap:22px;padding-top:20px;border-top:1px solid var(--linea)}
-  .piede .mark{flex:none;width:52px;height:52px;transform:rotate(-6deg)}
+  /* Logo ufficiale da ../brand/logo-whitetypo.svg (16/10/2026): mai ridisegnato, ricolorato o deformato */
+  .piede .logo{flex:none;width:300px;height:auto;display:block}
   .piede .fonte{flex:1}
 </style>
 </head>
@@ -51,13 +52,7 @@
   </header>
   <div class="area" data-componente="barreClassifica" data-dati="principale" data-opzioni='{"evidenzia":0,"fs":34}'></div>
   <footer class="piede">
-    <div class="mark" data-brand>
-      <svg width="52" height="52" viewBox="0 0 200 200">
-        <rect x="0" y="0" width="200" height="200" rx="22" fill="#F9511F"/>
-        <polyline points="118,0 100,38 122,58 92,104 118,132 108,200"
-          fill="none" stroke="#1C0F3A" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
-      </svg>
-    </div>
+    <img class="logo" data-brand src="../brand/logo-whitetypo.svg" alt="Bottadiculo">
     <p class="fonte">Fonte: <b>[documento o ente, data]</b></p>
   </footer>
   <!-- <script src="../../../../04-linkedin/grafiche/lib/mappe/italia-regioni.js"></script> -->

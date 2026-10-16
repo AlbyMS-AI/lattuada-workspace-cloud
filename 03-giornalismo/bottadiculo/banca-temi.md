@@ -22,6 +22,12 @@
 
 ---
 
+## Famiglie (dal 16/10/2026)
+
+Ogni scheda porta ora la **famiglia** (1 grandi marchi che si muovono, 2 casi e persone, 3 curiosità che dicono qualcosa del settore) e la **categoria /gambling/** del sito. Regola: almeno una scheda pronta per famiglia. Stato al 16/10: famiglia 1 ha la Scheda 2 (Entain, scade 31/12); famiglia 2 ha solo schede esaurite; famiglia 3 ha le Schede 1 e 5. **Mancano schede pronte per la famiglia 2 (casi e persone)**: da proporre dalla rassegna PIERO e dalle sezioni "Cosa non abbiamo ancora scritto" del second brain giornalismo. Ogni scheda nuova deve anche riportare il possibile **contributo dal campo** di Alberto (da confermare con lui al gate POV).
+
+---
+
 ## Territori di competenza e cluster
 
 **Aggiunto:** 12 settembre 2026 — metodo Laura Copelli, masterclass "Piano editoriale SEO + GEO" (SEOZoom Academy, 09/09/2026). Cluster ricostruiti da ciò che la banca ha già prodotto — nomi di lavoro, correggibili quando non rispecchiano il punto di vista reale di Alberto.
@@ -42,6 +48,8 @@ Cluster più scoperto: "Certificazione fornitori" ha una sola scheda, per di pi�
 ## Scheda 1 — Come si verifica davvero un fornitore prima di integrarlo
 
 **Cluster:** Certificazione fornitori — lato affiliato/operatore.
+**Famiglia:** famiglia 3 (curiosità che dicono qualcosa del settore).
+**Categoria /gambling/:** operatori-aziende / tecnologia-innovazione.
 
 **Scadenza:** nessuna, tema strutturale. Rivedere i dati a gennaio 2027.
 **Lettore:** operatore, affiliato che valuta con chi lavorare, chi gestisce palinsesto prodotti.
@@ -59,6 +67,8 @@ Cluster più scoperto: "Certificazione fornitori" ha una sola scheda, per di pi�
 ## Scheda 2 — Il free to play come canale di acquisizione dove la pubblicità non si può fare
 
 **Cluster:** Prodotto e acquisizione.
+**Famiglia:** famiglia 1 (grandi marchi che si muovono: Entain).
+**Categoria /gambling/:** marketing-affiliazione.
 
 **Scadenza:** 31/12/2026. Oltre, il caso Entain non è più recente abbastanza per reggere l'apertura.
 **Lettore:** affiliato, chi gestisce acquisizione e campagne, marketing operativo.
@@ -76,6 +86,8 @@ Cluster più scoperto: "Certificazione fornitori" ha una sola scheda, per di pi�
 ⚠️ **Pubblicata come Gambling Insights #79 (31/08/2026), non riutilizzabile.** Vedi registro delle uscite in fondo al file. Angolo finale diverso da quello originale della scheda: non targeting su liste di autoesclusi (il registro resta protetto), ma targeting su intenzione di ricerca di chi cerca di aggirare il proprio blocco (caso olandese Cruks/BNR), con nesso italiano costruito sul canale già documentato dall'Osservatorio Data Room Nexus per i siti clone, non su un caso RUA diretto (non trovato in fonti).
 
 **Cluster:** Compliance operativa e campagne.
+**Famiglia:** famiglia 2 (casi e persone: caso olandese Cruks/BNR).
+**Categoria /gambling/:** gioco-responsabile.
 
 **Scadenza:** nessuna, tema strutturale. Da riscrivere se ADM interviene sul RUA.
 **Lettore:** compliance operativa, chi gestisce liste e campagne, affiliati con modelli a performance.
@@ -93,6 +105,8 @@ Cluster più scoperto: "Certificazione fornitori" ha una sola scheda, per di pi�
 ⚠️ **Pubblicata come Gambling Insights #78 (24/08/2026), non riutilizzabile.** Vedi registro delle uscite in fondo al file.
 
 **Cluster:** Solidità e rischio operatore.
+**Famiglia:** famiglia 1 (grandi marchi che si muovono: Evoke, Bally's Intralot).
+**Categoria /gambling/:** operatori-aziende.
 
 **Scadenza:** 31/01/2027, quando escono i risultati di fine esercizio e i numeri vanno rifatti.
 **Stato:** esaurita, non disponibile per la newsletter.
@@ -126,6 +140,8 @@ prassi, applicata qui alla contabilità.
 ## Scheda 5 — Il giocatore acquisito durante il picco non resta, e il palinsesto lo dimostra
 
 **Cluster:** Prodotto e acquisizione.
+**Famiglia:** famiglia 3 (curiosità che dicono qualcosa del settore).
+**Categoria /gambling/:** mercato-dati.
 
 **Scadenza:** 30/11/2026, prima che i dati sul post Mondiale smettano di essere leggibili come recenti.
 **Stato:** pronta. Un dato solo, verificato, e un meccanismo che si regge da sé.

@@ -14,14 +14,14 @@ Le regole che valgono per entrambe:
 - **Gerarchia di priorità (17/08/2026): LinkedIn personale di Alberto, poi Jamma, poi Bottadiculo.**
   È priorità di scelta del tema, non di pubblicazione. Sostituisce la regola del 16/08 in cui
   Bottadiculo sceglieva per primo
-- **Regola mista sul fatto della settimana.** Al lock del giovedì si chiede se il fatto più forte
+- **Regola mista sul fatto della settimana.** Al lock del weekend (dal 16/10/2026; prima il giovedì) si chiede se il fatto più forte
   regge tre letture: serve una tesi personale di Alberto, una decisione da board nominabile, e
   un'azione da campo entro trenta giorni. Tre sì → fatto condiviso, tre angoli distinti sui tre
   canali. Anche un solo no → tre fatti separati, assegnati in ordine di priorità
 - **Tocco personale su ogni angolo.** Su LinkedIn personale con la prima persona; su Jamma e
   Bottadiculo, dove la prima persona resta vietata, attraverso il POV raccolto con domande mirate
-  **al lock del giovedì**, non in fase di scrittura
-- **Lock giovedì, scrittura venerdì, rifinitura domenica.** Il lunedì è solo giorno di pubblicazione
+  **al lock del weekend**, non in fase di scrittura
+- **Lock e scrittura nel weekend (sab-dom), dal 16/10/2026.** Prima era lock giovedì, scrittura venerdì, rifinitura domenica; il venerdì ora è occupato ogni settimana da The Betting Edge. Il lunedì è solo giorno di pubblicazione
 - **Banca temi** (`*/banca-temi.md`): se la settimana non produce un fatto abbastanza forte si pesca
   da lì, non si salta l'uscita. Tre schede per Jamma, **quattro per Bottadiculo**, che pescando per
   ultimo dal bacino più stretto è il canale che si scopre per primo. Entrambe le banche hanno una

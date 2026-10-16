@@ -18,7 +18,7 @@
 
 ## Fonte dei temi
 
-**Primaria: PIERO.** Stessa rassegna che alimenta il ciclo Jamma, angoli già filtrati per Bottadiculo. Si lancia la mattina stessa della pubblicazione: rassegna → scelta angolo → verifica non sovrapposizione → scrittura → fact-check → umanizzazione → grafica, in un'unica sessione.
+**Primaria: PIERO.** Stessa rassegna che alimenta il ciclo Jamma, angoli già filtrati per Bottadiculo. **Dal 16/10/2026 il filtro è: quale famiglia (grandi marchi, casi e persone, curiosità) e quale contributo dal campo di Alberto** (`guidelines.md`, "Le tre famiglie" e "Il contributo dal campo"). La banca si pesca per famiglia. Si lancia la mattina stessa della pubblicazione: rassegna → scelta angolo → verifica non sovrapposizione → scrittura → fact-check → umanizzazione → grafica, in un'unica sessione.
 
 **Riserva: banca temi.** Se la rassegna del giorno non produce nulla di utilizzabile, si pesca da `banca-temi.md` (target 5 schede, vedi nota lì). **Aggiunto 12/09/2026:** `banca-temi.md` ha una sezione "Territori di competenza e cluster" — a parità di validità, quando si pesca una scheda di riserva preferire quella su un cluster meno rappresentato nella settimana (vedi terzo punto di controllo sotto).
 
@@ -33,6 +33,8 @@ Prima di scegliere il tema, controllo in due punti:
 1. **`../articoli-pubblicati.md`, ultimi 7 giorni**, tutte le testate — compresa la newsletter LinkedIn personale di Alberto.
 2. **Il tema scelto per il pezzo Jamma dello stesso giorno**, quando entrambi i cicli pescano dalla rassegna PIERO della stessa mattina: mai lo stesso fatto sui due canali nello stesso giorno, stessa regola già in vigore tra le due newsletter del lunedì.
 3. **Aggiunto 12/09/2026 — equilibrio cluster nella settimana.** Verificare a quale cluster (`banca-temi.md`, sezione "Territori di competenza e cluster") appartengono già gli altri output della settimana, incluso il pezzo Jamma dello stesso giorno quando entrambi i cicli pescano dalla rassegna PIERO della stessa mattina. Non vieta di ripetere un cluster nella settimana, rende la scelta consapevole invece che casuale.
+
+4. **Aggiunto 16/10/2026 — famiglie diverse nella settimana.** Le due uscite mer/ven sono di famiglie diverse (grandi marchi, casi e persone, curiosità).
 
 ---
 
@@ -49,7 +51,7 @@ Prima di scegliere il tema, controllo in due punti:
 
 ## Calendario slot — 09/09 → 27/11
 
-Il piano fissa i giorni, non i temi: si scelgono la mattina stessa dalla rassegna PIERO.
+Il piano fissa i giorni, non i temi: si scelgono la mattina stessa dalla rassegna PIERO. **Dal 16/10/2026** i temi proposti per 21/10-27/11, con famiglia e categoria del sito, stanno in `piano-editoriale-condiviso-2026-q4.md` e si confermano la settimana prima.
 
 | Settimana | Mercoledì | Venerdì |
 |---|---|---|
@@ -88,7 +90,7 @@ Se dopo il rodaggio (checkpoint 12/10) il carico si rivela insostenibile, la pri
 
 **Sempre.** Ogni post di questo ciclo produce una main image, nessuna eccezione salvo istruzione esplicita di Alberto — vedi `workflows/post-linkedin.md`, Step 5, e il template fisso `grafiche/src/templates/bottadiculo-post-template.html`. Le grafiche Bottadiculo vivono in `grafiche/`, non in `04-linkedin/grafiche/` (riservata alle grafiche personali di Alberto, corretto il 20/09/2026).
 
-Cosa cambia a ogni post: kicker (il tema del pezzo), H1 (l'hook, la frase che ferma lo scroll). Cosa resta fisso: icona di marca, palette, layout. Stessa logica già validata il 06/09/2026 sulla main image della newsletter: nessuna illustrazione Gemini per-edizione, template compilabile in pochi minuti.
+Cosa cambia a ogni post: kicker (il tema del pezzo), H1 (l'hook, la frase che ferma lo scroll). Cosa resta fisso: logo ufficiale (`grafiche/brand/`, mai ridisegnato), palette, layout. **Dal 16/10/2026 nessuna foto generata** per Bottadiculo: template tipografico col logo vero, foto vera solo se esiste (Wikimedia Commons o scattata da Alberto).
 
 ---
 

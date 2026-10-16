@@ -1,7 +1,7 @@
 # Workflow Grafiche — Newsletter Bottadiculo.it
 # 1 main image + 2 infografiche interne
 
-> **Pilota in corso dal 05/10/2026** (`../../../plans/2026-10-05-upgrade-grafiche-main-image-infografiche.md`). La prossima edizione usa i template nuovi al posto di quelli descritti sotto: `../grafiche/src/templates/infografica-template.html` per le due infografiche (componenti in `../../../04-linkedin/grafiche/lib/`, gate in `lib/quality-gate.md`, `check-grafica.py` prima della consegna); per la copertina **le due varianti** affiancate, il template fisso del 06/09 e `gambling-insights-cover-foto.html`, così Alberto sceglie. Foto: prompt Gemini da `lib/prompt-gemini.md`, chiesto ad Alberto subito dopo il testo. Confronto con la versione vecchia e approvazione di Alberto prima di riscrivere questo workflow.
+> **Dal 16/10/2026 (feedback del caporedattore):** logo ufficiale di `../grafiche/brand/` su tutte le grafiche, mai ridisegnato; pilota foto Gemini chiuso per Bottadiculo (restano ammesse foto vere: Wikimedia Commons o scattate da Alberto). Copertina: solo `gambling-insights-cover-template.html`; infografiche: `../grafiche/src/templates/infografica-template.html` (componenti in `../../../04-linkedin/grafiche/lib/`, gate in `lib/quality-gate.md`, `check-grafica.py` prima della consegna).
 
 **Sempre, non su richiesta (dal 20/09/2026).** Appena il testo finale della newsletter è pronto,
 questo workflow si esegue nella stessa sessione, tutti e tre gli output. Non è un passo che
@@ -73,8 +73,8 @@ cd 03-giornalismo/bottadiculo/grafiche
 ../../../04-linkedin/grafiche/render.sh png src/[data]-[slug]-cover.html [data]-[slug]-cover.png 1280x720
 ```
 
-Il pannello sinistro (identità fissa: tassello arancio spezzato su sfondo indigo, wordmark
-"Bottadiculo.it") non si tocca mai. Palette e struttura: vedi commento in testa al file
+Il pannello sinistro (identità fissa: logo ufficiale `../grafiche/brand/logo-whitetypo.svg` su sfondo indigo)
+non si tocca mai. Palette e struttura: vedi commento in testa al file
 template.
 
 ---
@@ -139,6 +139,8 @@ cd 03-giornalismo/bottadiculo/grafiche
 - [ ] Main image leggibile a 300px di larghezza (anteprima mobile WordPress)
 - [ ] Infografiche leggibili a 540px (feed LinkedIn mobile)
 - [ ] Ogni infografica ha almeno un elemento grafico reale (diagramma o icona), non solo testo su sfondo colorato
+- [ ] Logo ufficiale da `grafiche/brand/` presente, mai ridisegnato né ricolorato
+- [ ] Nessuna foto generata (Gemini) per Bottadiculo
 - [ ] Nessuna icona stock, nessuna emoji, nessun logo di terzi
 - [ ] Nessun giorno/orario di pubblicazione nel testo della grafica
 - [ ] Nessun testo troncato o tagliato dai bordi

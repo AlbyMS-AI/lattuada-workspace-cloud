@@ -22,8 +22,8 @@ Prese in sessione il 16/08/2026, valide per entrambe le newsletter del lunedì.
 ## Identità
 
 **Nome:** Gambling Insights (numerata — l'edizione di lunedì 17/08/2026 è la **#77**, confermato da Alberto)
-**Lettore:** affiliato iGaming, addetto compliance e controllo giocatori, operatore PVR, operatore di sala, professionista mid-level. Chi sta sul campo, non chi sta nel board.
-**Registro:** diretto, operativo, senza filtri. Nessuna prima persona, il "tu" è consentito e sostituisce la prima persona.
+**Lettore:** chi lavora nel gioco (affiliato, compliance operativa, PVR, sala, professionista mid-level) e l'appassionato informato. Chi sta sul campo, non chi sta nel board. Bottadiculo.it è un sito B2C con una sezione di settore (`/gambling/`): vedi `guidelines.md`.
+**Registro:** diretto, operativo, senza filtri. Nessuna prima persona; il "tu" è consentito ma non è il motore fisso (16/10/2026). Il contributo dal campo di Alberto entra in terza persona, con la scena concreta.
 **Lunghezza:** 1000-1400 parole.
 **Riferimenti:** `guidelines.md` · `workflows/newsletter-completo.md` · `../../01-tono-di-voce/anti-ai-checklist.md`
 
@@ -70,7 +70,7 @@ il fatto residuo che supera i suoi tre filtri:
 
 1. **Orizzonte** — il lettore lo sente nel suo lavoro entro trenta giorni?
 2. **Azionabilità** — può fare qualcosa a riguardo? Verificare, cambiare un processo, aspettare consapevolmente?
-3. **Prossimità** — riguarda il mercato italiano o un operatore attivo in Italia?
+3. **Prossimità** — riguarda il mercato italiano o un operatore attivo in Italia? **Dal 16/10/2026** sono ammessi anche i grandi marchi esteri quando c'è un nesso italiano (stessa logica di `feedback_jamma_nesso_italia.md`).
 
 **Nessun residuo passa i tre filtri → si pesca dalla banca.** Non si salta l'uscita, non si prende in
 prestito il tema di Jamma, non si riscrive il pezzo LinkedIn personale in versione operativa.
@@ -88,7 +88,7 @@ modo diverso perché le regole di voce non sono le stesse.
 |---|---|
 | LinkedIn personale | Prima persona ammessa. Tesi propria, esperienza diretta come prova a supporto, mai come apertura |
 | Jamma | **Nessuna prima persona.** Il tocco è il POV raccolto in sessione con domande mirate, che diventa la tesi che il mercato non sta articolando |
-| Bottadiculo | **Nessuna prima persona.** Il "tu" è il sostituto operativo. Il tocco è il POV più l'esempio concreto scelto da chi scrive, non il dato verificabile |
+| Bottadiculo | **Nessuna prima persona** (confermato il 16/10/2026). Il tocco è il POV più il **contributo dal campo** obbligatorio, in terza persona, con la scena concreta (orario, gesto, numero visto), non il dato verificabile |
 
 Su Jamma e Bottadiculo il POV va raccolto **al lock del giovedì**, non in fase di scrittura: è quello
 che decide la struttura, non una rifinitura da aggiungere sopra a un pezzo già fatto.
@@ -111,6 +111,8 @@ IL FATTO                          200-250 parole
 
 LA PARTE CHE NESSUNO SOTTOLINEA   250-350 parole
   L'angolo inedito reso esplicito.
+  Qui va il contributo dal campo di Alberto (dal 16/10/2026,
+  obbligatorio, terza persona, scena concreta).
   È la sezione che giustifica l'edizione: se manca,
   il pezzo è una notizia riscritta e non esce.
 
@@ -135,6 +137,8 @@ CHIUSURA                          50-80 parole
 **Totale:** 930-1250 parole. Il margine fino a 1400 sta nella sezione "La parte che nessuno sottolinea", l'unica che può espandersi.
 
 **Le due rubriche fisse non si saltano mai.** Sono il segnale di riconoscimento del prodotto. Se una settimana "Il numero" non si trova, si cerca meglio: non si toglie la casella.
+
+*Nota del 16/10/2026:* le rubriche fisse sono da rivedere con Francesco (proposta nel piano condiviso); invariate fino a decisione.
 
 ---
 
@@ -249,6 +253,8 @@ Non le impression. Gli stessi indicatori che l'algoritmo 360Brew valorizza davve
 2. Iscritti netti alla newsletter, settimana su settimana
 3. Visite al profilo dopo la lettura
 4. Commenti che rispondono alla domanda di chiusura (segnale che la chiusura funziona)
+
+**Baseline (16/10/2026):** non esiste. Da chiedere a Francesco: statistiche della pagina LinkedIn Bottadiculo degli ultimi tre mesi ed export Search Console (query e pagine). Primo confronto a quattro settimane, il 16/11.
 
 Al checkpoint del 12/10 si confrontano i numeri di Gambling Insights con quelli di Gioco & Business: se una delle due cannibalizza l'altra nonostante i temi separati, si rivede il giorno di uscita.
 

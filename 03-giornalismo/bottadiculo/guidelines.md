@@ -1,7 +1,7 @@
 # Linee Guida Editoriali — Bottadiculo.it
 
 ## Identità della testata
-Bottadiculo.it è un sito B2C del settore iGaming italiano. Il lavoro editoriale su questa testata è ibrido: si parla a un pubblico di professionisti operativi del settore — non il top management (quello è Jamma) — mostrando loro la realtà dall'altra parte della barricata: il giocatore, il mercato reale, le implicazioni operative che i comunicati non dicono.
+Bottadiculo.it è un sito B2C di scommesse (pronostici, quote, recensioni) che dal 2026 sta costruendo una sezione di settore, `/gambling/`, con otto categorie: normativa-regolamentazione, mercato-dati, operatori-aziende, marketing-affiliazione, rete-fisica-pvr, tecnologia-innovazione, gioco-responsabile, mercati-esteri. Su LinkedIn la testata parla a chi lavora nel gioco (affiliati, PVR, sale, compliance, professionisti mid-level) e all'appassionato informato, non al top management (quello è Jamma). Mostra la realtà dall'altra parte della barricata: il giocatore, il mercato reale, le implicazioni operative che i comunicati non dicono. Dal 16/10/2026 (feedback del caporedattore) il pezzo parte da un fatto riconoscibile e contiene sempre un contributo dal campo: vedi le due sezioni sotto.
 
 ## Buyer persona
 - **Affiliato iGaming**: content, SEO, performance marketing, gestione traffic verso operatori ADM
@@ -24,6 +24,26 @@ Esempi concreti:
 
 **L'angolo diverso dalla concorrenza**: gli altri siti B2C sono affiliazione camuffata da giornalismo. Bottadiculo dà a chi lavora nel settore la lettura strutturale che non trovano né nei comunicati degli operatori né nelle guide per giocatori.
 
+## Le tre famiglie (dal 16/10/2026)
+
+Ogni post e ogni newsletter parte da un fatto che il lettore riconosce al primo sguardo (un marchio, una persona, un caso, una curiosità), non da una norma. La norma resta, ma come conseguenza del fatto. Tre famiglie, con un esempio d'archivio ciascuna:
+
+1. **Grandi marchi che si muovono**: Lottomatica-Cirsa (04/09), PokerStars-Betfair (11/08)
+2. **Casi e persone**: Polymarket-Lazio (02/08), Juventus-bet365 (24/07)
+3. **Curiosità che dicono qualcosa del settore**: Netflix-Kalshi (26/07), NordVPN (28/07)
+
+Nella settimana le due uscite mer/ven sono di famiglie diverse. Il titolo contiene il nome del marchio, della persona o del caso quando c'è.
+
+## Il contributo dal campo (dal 16/10/2026, bloccante)
+
+Ogni pezzo contiene almeno un'osservazione che viene dall'esperienza di Alberto: la sala, il PVR, il conto aperto, la conversazione con un operatore. Senza, il pezzo non esce: se Alberto non ha niente da aggiungere su un fatto, il fatto non è da Bottadiculo e si cambia tema.
+
+La prima persona resta vietata (decisione del 16/10/2026). Il contributo entra in terza persona, con la scena concreta: l'orario, il gesto, il numero visto ("in una sala di provincia il sabato sera, al banco, la domanda più frequente è..."). Mai la formula generica "chi lavora sul campo sa che". Mai il nome della sala o dati della rete LasVegas.
+
+## Marchi (dal 16/10/2026)
+
+I marchi si nominano. Eccezione: se l'operatore è parte in una sentenza, sanzione o contenzioso, si usa il riferimento all'atto e il ruolo (es. "il concessionario destinatario del provvedimento"). Su Jamma la regola resta invariata (`feedback_jamma_botta_no_nomi_bookmaker.md`).
+
 ## Tono e voce
 - **Nessuna prima persona**: stessa regola di Jamma — l'autorità viene dall'analisi
 - **Registro più accessibile di Jamma**: meno gergo top management, più vicino alla realtà operativa. Chi legge conosce il settore ma non necessariamente la strategia d'azienda
@@ -38,7 +58,8 @@ Lo stesso meccanismo si applica a tutti i format — compresso nel post, svilupp
 ```
 APERTURA:
 - 2-3 frasi brevi e nette che enunciano il fatto e la sua implicazione reale
-- "Non è un'iperbole, sta scritto nel dispositivo della sentenza." Contrasto dentro una frase sola come default. La versione spezzata ("Non è un'iperbole. È il dispositivo della sentenza.") resta ammessa **una volta per pezzo**, nel punto di svolta vero: a contare per i classificatori è la densità, non l'occorrenza singola. Punto 3 della checklist anti-AI
+- Si apre dal fatto riconoscibile (marchio, persona, caso), non da una formula. Aperture vere d'archivio (post di luglio-agosto): "Juventus e bet365 Scores hanno firmato una partnership, annunciata il 23 luglio: risultati live, statistiche in tempo reale, notifiche personalizzate sulle partite del club. [...] Il comunicato non cita mai le scommesse." (24/07); "Il 2 settembre nasce un colosso da 2 miliardi di euro di EBITDA. Lottomatica più CIRSA, secondo operatore quotato al mondo nel gaming e nel betting dopo Flutter." (04/09)
+- Contrasto a specchio ("Non è X. È Y.") al massimo una volta per pezzo, nel punto di svolta vero, e mai nel titolo. Punto 3 della checklist anti-AI
 - Nessuna premessa, nessun contesto introduttivo
 
 SVILUPPO:
@@ -78,9 +99,10 @@ Il divieto di prima persona toglie il segnale umano più forte, quindi vanno usa
 canali, almeno tre per pezzo. Elenco completo con esempi nell'appendice della checklist
 anti-AI (`../../01-tono-di-voce/anti-ai-checklist.md`):
 
-1. **Seconda persona come motore** — "se hai il primo livello appaltato fuori", non "chi ha
-   il primo livello appaltato fuori". Il "tu" è consentito e sostituisce operativamente la
-   prima persona, che resta vietata
+1. **Seconda persona, quando serve** — "se hai il primo livello appaltato fuori", non "chi ha
+   il primo livello appaltato fuori". Il "tu" è consentito ma non è più il motore fisso
+   (16/10/2026): mai rivolto per default all'affiliato, il destinatario cambia col tema
+   (sala, PVR, compliance, appassionato). Il segnale umano più forte è il contributo dal campo
 2. **Digressione e rimando** — "ma ci arriviamo tra poco", l'inciso tra parentesi. Un testo
    in cui ogni frase avanza è troppo efficiente per essere umano
 3. **Esempio concreto imprevedibile** — l'immagine scelta da chi scrive, diversa dal dato
@@ -91,6 +113,18 @@ anti-AI (`../../01-tono-di-voce/anti-ai-checklist.md`):
 
 Vincolo del formato: un post da 300 parole ha poco spazio per queste tecniche, vanno
 concentrate. La newsletter da 1.000-1.400 parole è dove funzionano meglio.
+
+## Titoli (dal 16/10/2026)
+
+Vietati gli schemi "Il tuo X non è Y", "Tutti possono... Tranne", "X dice A. Y decide B." (e varianti): sono le formule che hanno reso i post riconoscibili come AI. Il titolo nomina il marchio, la persona o il caso. Keyword del topic sempre presente.
+
+## Recensioni bookmaker (dal 16/10/2026)
+
+Nascono da una prova diretta del conto fatta da Alberto e dai T&C del sito ufficiale, non da siti di affiliazione. Metodo e checklist: `recensioni-bookmaker/_template/prova-sul-campo.md`. Nessuna voce "n.d.", "non verificato", "non specificato": il dato non verificato si toglie. Tono da partner, mai contro il book.
+
+## Grafiche (dal 16/10/2026)
+
+Logo ufficiale da `grafiche/brand/`, mai ridisegnato. Niente foto generate: grafica tipografica attorno al logo; foto vera solo se esiste (Wikimedia Commons o scattata da Alberto).
 
 ## Lunghezza
 - Post LinkedIn: 150-300 parole
