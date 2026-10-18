@@ -37,7 +37,8 @@ parts.append(f'''
   <td><span class="col-title">{t2}</span><span class="col-sub">{s2}</span></td>
   <td><span class="col-title">{t3}</span><span class="col-sub">{s3}</span></td>
 </tr></table>''')
-parts.append(f'<div class="cta-bar">{fmt(c.CTA)}</div>')
+if c.CTA:
+    parts.append(f'<div class="cta-bar">{fmt(c.CTA)}</div>')
 parts.append('<hr class="divider">')
 
 

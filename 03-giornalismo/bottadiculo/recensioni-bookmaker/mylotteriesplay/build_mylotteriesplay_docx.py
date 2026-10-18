@@ -15,7 +15,8 @@ doc = b.new_document()
 b.set_header_footer(doc, c.HEADER)
 b.add_title(doc, c.TITLE, c.SUBTITLE)
 b.add_rating_box(doc, *c.RATING)
-b.add_cta_bar(doc, c.CTA)
+if c.CTA:
+    b.add_cta_bar(doc, c.CTA)
 b.add_divider(doc)
 
 for block in c.BLOCKS:

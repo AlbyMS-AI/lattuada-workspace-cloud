@@ -43,6 +43,7 @@ Lato del campo, non lato C-level. Lettore: operatori, affiliati, addetti ai lavo
 - **Due post LinkedIn a settimana, mercoledì e venerdì** (dal 07/09/2026): cadenza fissa, non più
   occasionale, sempre con grafica (template fisso, vedi sotto). Piano dedicato:
   `bottadiculo/piano-post-linkedin-2026.md`
+- **Dal 16/10/2026** (feedback del caporedattore): tre famiglie di contenuto (grandi marchi, casi e persone, curiosità), contributo dal campo obbligatorio in terza persona, marchi nominabili, logo ufficiale da `bottadiculo/grafiche/brand/` e niente foto generate, recensioni da prova diretta (`bottadiculo/recensioni-bookmaker/_template/prova-sul-campo.md`). Dettaglio in `bottadiculo/guidelines.md`; piano condiviso: `bottadiculo/piano-editoriale-condiviso-2026-q4.md`
 - Linee guida: `bottadiculo/guidelines.md`
 - Piano newsletter: `bottadiculo/piano-newsletter-linkedin-2026.md`
 - Piano post mer/ven: `bottadiculo/piano-post-linkedin-2026.md`

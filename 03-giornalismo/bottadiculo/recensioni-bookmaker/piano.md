@@ -13,9 +13,19 @@
 | 2 | Planetwin365 | Bozza pronta, da inviare al caporedattore (14/08/2026) | — | `planetwin365/recensione-planetwin365-2026.{md,docx,pdf}` |
 | 3 | Lottomatica | Inviata al caporedattore (02/09/2026) | — | `lottomatica/recensione-lottomatica-2026.{md,docx,pdf}` |
 | 4 | Goldbet | Inviata al caporedattore (14/09/2026), dopo tre round di check (Codex + 2x Astra, 12-13/09/2026) | — | `goldbet/recensione-goldbet-2026.{md,docx,pdf}` |
-| 5 | My Lotteries Play | Bozza pronta (28/09/2026), check Codex high (5,5/10) e check Astra (#527), entrambi recepiti il 29/09/2026. Pronta per l'invio al caporedattore, dopo l'ok di Alberto; il giorno della pubblicazione vanno ricontrollati rating App Store, Trustpilot e bonus. Non è del Gruppo Lottomatica: controllata da Brightstar Lottery (ex IGT Lottery) | — | `mylotteriesplay/recensione-mylotteriesplay-2026.{md,docx,pdf}`; testo unico in `mylotteriesplay/content.py` |
-| 6 | Sisal | Da produrre entro ottobre 2026 (richiesta di Alberto, 16/10) | — | `sisal/recensione-sisal-2026.{md,docx,pdf}` |
-| 7 | Eurobet | Da produrre entro ottobre 2026 (richiesta di Alberto, 16/10) | — | `eurobet/recensione-eurobet-2026.{md,docx,pdf}` |
+| 5 | My Lotteries Play | **Pilota col metodo nuovo (16/10/2026).** Bozza del 28/09 (check Codex high 5,5/10 e Astra #527) da rifare con la prova sul campo di Alberto, vedi sotto. Non è del Gruppo Lottomatica: controllata da Brightstar Lottery (ex IGT Lottery) | — | `mylotteriesplay/recensione-mylotteriesplay-2026.md` e `content.py` in workspace; docx e pdf in `~/Desktop/recensione-mylotteriesplay-2026/` (fuori workspace) |
+| 6 | Sisal | Da produrre entro ottobre 2026 (richiesta di Alberto, 16/10), direttamente col metodo nuovo | — | `sisal/recensione-sisal-2026.{md,docx,pdf}` |
+| 7 | Eurobet | Da produrre entro ottobre 2026 (richiesta di Alberto, 16/10), direttamente col metodo nuovo | — | `eurobet/recensione-eurobet-2026.{md,docx,pdf}` |
+
+## Metodo dal 16/10/2026: prova sul campo
+
+Feedback del caporedattore del 16/10: le recensioni devono nascere da una prova diretta del conto, non da siti di affiliazione. Checklist di 12 voci, regole e domande in `_template/prova-sul-campo.md`. In sintesi: T&C solo dal sito ufficiale (se non si apre, la recensione non esce), nessuna voce "n.d." / "non verificato" / "non specificato", prove datate, blocco autore in testa, tono da partner.
+
+**Ordine di ripasso delle recensioni già online**, prima quelle con più "n.d." in tabella: Goldbet, Planetwin365, Lottomatica, poi Betflag e SNAI. Il "n.d." online l'ha prodotto il CMS dalle nostre voci "non specificato": nel ripasso si tolgono le righe, non si sostituiscono con un trattino. Correzioni SEO da proporre a Francesco: `note-seo-caporedattore.md`.
+
+**Pilota MyLotteries:** serve che Alberto abbia aperto il conto e fatto deposito, prelievo e contatto con l'assistenza. Risposte in `mylotteriesplay/prova-sul-campo-2026-10.md`; testo in `mylotteriesplay/content.py` con sezione nuova "La prova" dopo la prefazione.
+
+**Regola file (16/10/2026):** in workspace restano solo i file leggeri (md, content.py, builder, prova sul campo). Docx, pdf e html generati vanno fuori dal workspace (Desktop), come per le proposte GA.
 
 ## Generazione docx/pdf nello stile approvato (SNAI)
 
