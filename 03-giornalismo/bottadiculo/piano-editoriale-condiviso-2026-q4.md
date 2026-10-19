@@ -81,7 +81,7 @@ Temi in corsivo sono proposte da confermare. Famiglia: **M** grandi marchi, **C*
 
 | Giorno | Famiglia | Categoria | Note |
 | --- | --- | --- | --- |
-| mer 21/10 | M | operatori-aziende | *Sisal tra i siti e-commerce più visitati in Italia*, apre la strada alla recensione Sisal |
+| gio 22/10 (spostato da mer 21/10) | M | operatori-aziende | *Sisal tra i siti e-commerce più visitati in Italia*, apre la strada alla recensione Sisal |
 | ven 23/10 | C | gioco-responsabile | *bet365 tiene le licenze svedesi dopo il caso dei depositi senza limite*, nesso: limiti di deposito sul conto italiano |
 | mer 28/10 | K | tecnologia-innovazione | |
 | ven 30/10 | M | mercato-dati | |

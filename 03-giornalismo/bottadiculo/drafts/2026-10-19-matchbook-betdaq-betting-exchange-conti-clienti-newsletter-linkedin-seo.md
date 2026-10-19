@@ -66,7 +66,7 @@ Dal 21 ottobre chi gioca su Betdaq riparte da zero. Saldi, scommesse antepost an
 - Nel betting exchange la liquidità sono i giocatori
 - Conto di gioco in Italia: cosa succede se il sito cambia o chiude
 - Cosa cambia da domani per chi gioca e lavora sul betting exchange
-- Il numero della settimana: +47%, le puntate sportive online in Francia a giugno
+- Il numero della settimana: 44 milioni di corone a bet365 per i limiti di deposito
 
 Domande PAA coperte: «Betdaq chiude?», «cosa succede al mio conto se il bookmaker chiude?», «le scommesse antepost vengono rimborsate?», «quanti betting exchange ci sono in Italia?».
 

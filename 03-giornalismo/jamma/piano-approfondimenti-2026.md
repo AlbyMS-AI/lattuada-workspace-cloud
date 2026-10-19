@@ -50,7 +50,7 @@ Il piano fissa i giorni, non i temi: si scelgono la mattina stessa dalla rassegn
 | 4 | 30/09 | 02/10 |
 | 5 | 07/10 | 09/10 |
 | 6 | 14/10 | 16/10 |
-| 7 | 21/10 | 23/10 |
+| 7 | 22/10 (gio, spostato dal 21/10: Alberto in trasferta a Roma 20-21/10) | 23/10 |
 | 8 | 28/10 | 30/10 |
 | 9 | 04/11 | 06/11 |
 | 10 | 11/11 | 13/11 |
