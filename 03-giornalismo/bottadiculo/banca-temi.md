@@ -45,7 +45,9 @@ Cluster più scoperto: "Certificazione fornitori" ha una sola scheda, per di pi�
 
 ---
 
-## Scheda 1 — Come si verifica davvero un fornitore prima di integrarlo
+## Scheda 1 — Come si verifica davvero un fornitore prima di integrarlo [NON UTILIZZABILE dal 18/10]
+
+⚠️ Rehash: carosello e newsletter N3 del 21/08, Bottadiculo 14/09 e 21/09, Jamma 14/09. In più tocca il perimetro B2B di Alberto (aggregatore). Tolta dal piano il 18/10/2026.
 
 **Cluster:** Certificazione fornitori — lato affiliato/operatore.
 **Famiglia:** famiglia 3 (curiosità che dicono qualcosa del settore).
@@ -64,7 +66,9 @@ Cluster più scoperto: "Certificazione fornitori" ha una sola scheda, per di pi�
 
 ---
 
-## Scheda 2 — Il free to play come canale di acquisizione dove la pubblicità non si può fare
+## Scheda 2 — Il free to play come canale di acquisizione dove la pubblicità non si può fare [NON UTILIZZABILE dal 18/10]
+
+⚠️ Rehash del Jamma del 28/08 (Angstrom e Seven come funnel fuori dal decreto Dignità). Tolta dal piano il 18/10/2026.
 
 **Cluster:** Prodotto e acquisizione.
 **Famiglia:** famiglia 1 (grandi marchi che si muovono: Entain).
@@ -160,6 +164,25 @@ già fuori classifica a poche settimane dalla fine (European Gaming, 13/08/2026)
 **Da verificare prima di scrivere.** Se l'Italia sia tra i dieci mercati dell'analisi Blask. È il
 perno del nesso italiano: se c'è, il pezzo si apre da lì; se non c'è, va costruito con i titoli a
 tema distribuiti sul mercato ADM durante il torneo.
+
+---
+
+---
+
+## Schede del 18/10/2026 (riserve del piano rivisto)
+
+Ricostruite il 18/10/2026 dopo la revisione del piano (#87-#92), dalle rassegne PIERO del 13-17/10, controllate sul second brain (nessun pezzo precedente sullo stesso fatto). Vincolo nuovo: ogni scheda sta in uno dei tre territori dove Alberto ha materiale dal campo (sala e PVR, conto online e app, scommesse al banco). Il contributo dal campo si conferma con Alberto al lock. Le fonti sono riprese di stampa: vanno portate alla fonte primaria prima di scrivere.
+
+| # | Scheda | Fam. | Territorio | Categoria | Fatto di partenza | Scadenza |
+|---|---|---|---|---|---|---|
+| 6 | Scommesse sospette: MGA, 48 segnalazioni nel terzo trimestre, calcio e tennis | K | Banco | gioco-responsabile | MGA, report Q3 2026 (rassegna 16/10) | 31/12/2026 |
+| 7 | Jack Doherty e Shuffle: lo streamer che non può pubblicare per sei mesi | C | Conto online | marketing-affiliazione | Rassegna 15/10 | 30/11/2026 |
+| 8 | Machine Games Duty britannica: 16.000 posti a rischio secondo la BGC | M | Sala | mercati-esteri | BGC, rassegne 13-18/10 | Budget UK di novembre |
+| 9 | Entain, Brasile a -36% dopo il divieto: cosa resta di un mercato chiuso | M | Conto online | mercati-esteri | Entain Q3 2026 trading update (16/10) | 31/12/2026 |
+| 10 | Il caso della settimana per #91 | C | Banco | da definire | Rassegna 16-20/11 | n.d. |
+| 11 | Hacksaw e i prediction market con licenza MGA Type 3 | K | Conto online | tecnologia-innovazione | Rassegne 16-17/10 | 31/12/2026 |
+
+Copertura famiglie: M (8, 9), C (7, 10), K (6, 11). Le schede 6-11 sono anche le riserve degli slot #87-#92 in `piano-editoriale-condiviso-2026-q4.md`.
 
 ---
 

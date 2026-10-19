@@ -18,6 +18,7 @@ Versione del 16/10/2026: rifatta col metodo "prova sul campo" (`../_template/pro
 - **Pagine ufficiali discordanti**: prelievi (tabella generale 24-48 ore carta / 24 ore PayPal; pagine dedicate 3-5 giorni lavorativi carta / evasione entro 3 PayPal): scelta di Alberto, valgono le pagine dedicate. Ricarica massima carta: 1.000€ tabella generale, 950€ pagina dedicata: scritte entrambe.
 - **Affiliazione**: Bottadiculo è in affiliazione (Alberto, 17/10). Tolti il pulsante "VAI SU" e il bonus in copertina, formule descrittive al posto degli inviti alla scelta (rischio AGCOM 132/19/CONS). Da segnalare a Francesco per le cinque recensioni già uscite.
 - **Bonus di benvenuto e Bonus Multipla**: riverificati il 17/10/2026 sulle pagine ufficiali (validi fino al 31/12/2026).
+- **Welcome Bonus Scommesse (aggiunto il 18/10/2026)**: visto da Alberto sul canale Telegram di MyLotteries; T&C letti sulla landing ufficiale `mylotteriesplay.it/landing/sports` (si apre anche senza codice affiliato), non elencato nella pagina `/bonus`. Valido 29/09-31/10/2026: dopo il 31/10 la recensione va aggiornata (rinnovo o rimozione). Voti sport e bonus non toccati. Da dire a Francesco nel messaggio.
 - **Dati di reputazione**: App Store 3,3 su 27 (API iTunes, 16/10); Trustpilot 1,7 su 23 (16/10); Goldbet 25.766 valutazioni (API, 17/10). Rimisurare il giorno dell'invio.
 - **Voti**: decisi con Alberto il 17/10 (lotterie 8, il resto confermato); media 7/10 = 3,5/5.
 - **Android**: app distribuita come APK dal sito ufficiale.

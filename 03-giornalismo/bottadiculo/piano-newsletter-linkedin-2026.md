@@ -230,15 +230,17 @@ Il piano fissa gli slot, non i temi. Ogni riga si riempie al lock del giovedì p
 | #83 | Lun 28/09 | Gio 24/09 | Ven 25/09 | |
 | #84 | Lun 05/10 | **Mer 30/09** | Ven 02/10 | Venerdì occupato da The Betting Edge N6 — lock anticipato |
 | #85 | Lun 12/10 | Gio 08/10 | Ven 09/10 | Checkpoint: revisione del piano sui dati reali |
-| #86 | Lun 19/10 | Sab 17/10 – Dom 18/10 | (stesso weekend) | Weekend |
-| #87 | Lun 26/10 | Sab 24/10 – Dom 25/10 | (stesso weekend) | Weekend |
-| #88 | Lun 02/11 | Sab 31/10 – Dom 01/11 | (stesso weekend) | Weekend |
-| #89 | Lun 09/11 | Sab 07/11 – Dom 08/11 | (stesso weekend) | Weekend |
-| #90 | Lun 16/11 | Sab 14/11 – Dom 15/11 | (stesso weekend) | Weekend |
-| #91 | Lun 23/11 | Sab 21/11 – Dom 22/11 | (stesso weekend) | Weekend |
-| #92 | Lun 30/11 | Sab 28/11 – Dom 29/11 | (stesso weekend) | Weekend |
+| #86 | Lun 19/10 | Dom 18/10 | Dom 18/10 | Tema: Matchbook acquisisce il marchio Betdaq ma non i conti (famiglia M, operatori-aziende). Lock slittato a domenica |
+| #87 | Lun 26/10 | Sab 24/10 – Dom 25/10 | (stesso weekend) | Weekend. Tema: sport di nicchia e giocatore a rischio (ANJ), K, scommesse al banco. Riserva: MGA 48 segnalazioni |
+| #88 | Lun 02/11 | Sab 31/10 – Dom 01/11 | (stesso weekend) | Weekend. Tema: New Jersey multa BetMGM, bet365, FanDuel, C, conto online. Riserva: Doherty/Shuffle |
+| #89 | Lun 09/11 | Sab 07/11 – Dom 08/11 | (stesso weekend) | Weekend. Tema: skill games illegali in Pennsylvania e totem in Italia, K, sala e PVR. Riserva: MGD posti a rischio |
+| #90 | Lun 16/11 | Sab 14/11 – Dom 15/11 | (stesso weekend) | Weekend. Tema: Rank e Genting contro la Machine Games Duty, M, sala. Riserva: Entain Brasile |
+| #91 | Lun 23/11 | Sab 21/11 – Dom 22/11 | (stesso weekend) | Weekend. Tema: X Factor in quota, eventi non sportivi in Italia, C, banco. Riserva: caso dalla rassegna |
+| #92 | Lun 30/11 | Sab 28/11 – Dom 29/11 | (stesso weekend) | Weekend. Tema: test sui chatbot AI e operatori senza licenza, K, conto online. Riserva: Hacksaw prediction market |
 
 **Regola dal 16/10/2026 (Alberto):** la newsletter si prepara nel weekend precedente (lock e scrittura sab-dom). Il venerdì occupato da The Betting Edge non conta più.
+
+**Revisione del 18/10/2026 (approvata da Alberto):** i temi di #87-#92 sono stati rifatti. Usciti: Seven (rehash Jamma 28/08), lotterie e Gratta e Vinci (nessun contributo dal campo), verifica del fornitore (rehash 21/08, 14/09, 21/09 e perimetro Softswiss), 13/11 (bacino Jamma, filone B2B di Alberto, esito non ancora noto), giocatore del Mondiale (rehash 20/08). Ogni tema ora sta in uno dei tre territori dove Alberto ha materiale dal campo: sala e PVR, conto online e app, scommesse al banco. Candidato e riserva si confermano il sabato del weekend di scrittura.
 
 > Date ricalcolate il 17/08/2026 dall'ancora nota (01/07/2026 = mercoledì). La prima stesura aveva
 > giovedì e venerdì spostati avanti di un giorno.

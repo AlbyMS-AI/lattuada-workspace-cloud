@@ -1,6 +1,6 @@
 # Bottadiculo: piano editoriale 19 ottobre - 30 novembre 2026
 
-**Per:** Francesco · **Da:** Alberto Lattuada · **Data:** 16 ottobre 2026
+**Per:** Francesco · **Da:** Alberto Lattuada · **Data:** 16 ottobre 2026, aggiornato il 18 ottobre
 
 Risposta nei fatti al tuo feedback del 16/10: meno volume uguale a se stesso, più contenuti che si riconoscono come scritti da chi il settore lo fa. Una pagina di sintesi, il calendario in fondo.
 
@@ -69,20 +69,20 @@ Temi in corsivo sono proposte da confermare. Famiglia: **M** grandi marchi, **C*
 
 | # | Data | Tema proposto | Fam. | Categoria |
 | --- | --- | --- | --- | --- |
-| 86 | lun 19/10 | *Da scegliere entro sabato 17/10 tra: Matchbook-Betdaq (due exchange che diventano uno), Rank e la tassa sulle sale britanniche, prelievi bloccati in Spagna ai clienti non verificati* | M / C | operatori-aziende, rete-fisica-pvr o mercati-esteri |
-| 87 | lun 26/10 | *Entain lancia "Seven", un gioco gratuito per acquisire dove la pubblicità non si può fare* | M | marketing-affiliazione |
-| 88 | lun 02/11 | *Lotterie e Gratta e Vinci: il prodotto che il settore online guarda poco* (da costruire su un caso reale) | K | rete-fisica-pvr |
-| 89 | lun 09/11 | *Come si verifica davvero un fornitore prima di integrarlo, oltre il bollino* | K | tecnologia-innovazione |
-| 90 | lun 16/11 | *Slot aperto, famiglia casi e persone. Candidato: le concessioni fisiche in scadenza al 31/12* | C | rete-fisica-pvr |
-| 91 | lun 23/11 | *Dopo il 13/11: cosa è cambiato per i concessionari con la verifica del sistema* | M | normativa-regolamentazione |
-| 92 | lun 30/11 | *Slot aperto, famiglia curiosità. Il giocatore acquisito sul Mondiale è rimasto?* | K | mercato-dati |
+| 86 | lun 19/10 | Matchbook compra Betdaq ma non i suoi clienti: cosa resta di un betting exchange | M | operatori-aziende |
+| 87 | lun 26/10 | *Sport di nicchia e giocatore a rischio: l'ANJ lo misura, al banco si vede* (riserva: MGA, 48 segnalazioni di scommesse sospette) | K | gioco-responsabile |
+| 88 | lun 02/11 | *New Jersey multa BetMGM, bet365 e FanDuel: lo stesso controllo su un conto italiano* (riserva: Jack Doherty e Shuffle) | C | operatori-aziende |
+| 89 | lun 09/11 | *La Pennsylvania mette fuori legge gli skill games: in Italia sono i totem nei bar* (riserva: Machine Games Duty, posti a rischio) | K | rete-fisica-pvr |
+| 90 | lun 16/11 | *Rank e Genting contro la Machine Games Duty: la slot in sala sotto pressione fiscale* (riserva: Entain e il Brasile dopo il divieto) | M | mercati-esteri |
+| 91 | lun 23/11 | *X Factor in quota: cosa si può scommettere in Italia sugli eventi non sportivi* (riserva: un caso dalla rassegna) | C | mercato-dati |
+| 92 | lun 30/11 | *Dove scommettere? Lo abbiamo chiesto ai chatbot AI, e cosa rispondono* (riserva: Hacksaw e i prediction market MGA) | K | tecnologia-innovazione |
 
 ## Post LinkedIn (mercoledì e venerdì)
 
 | Giorno | Famiglia | Categoria | Note |
 | --- | --- | --- | --- |
-| mer 21/10 | M | operatori-aziende | dalla rassegna del giorno |
-| ven 23/10 | C | gioco-responsabile | |
+| mer 21/10 | M | operatori-aziende | *Sisal tra i siti e-commerce più visitati in Italia*, apre la strada alla recensione Sisal |
+| ven 23/10 | C | gioco-responsabile | *bet365 tiene le licenze svedesi dopo il caso dei depositi senza limite*, nesso: limiti di deposito sul conto italiano |
 | mer 28/10 | K | tecnologia-innovazione | |
 | ven 30/10 | M | mercato-dati | |
 | mer 04/11 | C | rete-fisica-pvr | |
@@ -94,4 +94,4 @@ Temi in corsivo sono proposte da confermare. Famiglia: **M** grandi marchi, **C*
 | mer 25/11 | C | mercati-esteri | |
 | ven 27/11 | K | mercato-dati | |
 
-Il tema di ogni post si fissa la settimana precedente, sul fatto del momento, dopo aver verificato che ci sia un contributo dal campo.
+Il tema di ogni post si fissa la settimana precedente, sul fatto del momento, dopo aver verificato che ci sia un contributo dal campo. Dal 18/10 i temi si scelgono solo in tre territori dove c'è esperienza diretta: sala e punto vendita, conto online e app, scommesse al banco. Nessun tema già trattato da Bottadiculo, Jamma o LinkedIn personale.

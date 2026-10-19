@@ -1,4 +1,4 @@
-# Recensione My Lotteries Play 2026 | Aggiornata il 17/10/2026
+# Recensione My Lotteries Play 2026 | Aggiornata il 18/10/2026
 
 **RECENSIONE MY LOTTERIES PLAY 2026: BONUS, APP E PRELIEVI**
 Recensione di Alberto Lattuada · prova del 16/10/2026
@@ -17,7 +17,7 @@ Recensione di Alberto Lattuada · prova del 16/10/2026
 | Assistenza | Chat con attesa di pochi minuti, risposte chiare su domande semplici |
 | App | Su App Store 3,3 su 27 valutazioni (16/10/2026) |
 | Licenza | ADM, concessione n. 16049, MyLotteries S.r.l. (Brightstar Lottery) |
-| Bonus di benvenuto | Fino a 25€, 50€ o 2.000€ secondo il gioco, una sola offerta per persona: condizioni nella sezione Promozioni |
+| Bonus di benvenuto | Fino a 25€, 50€ o 2.000€ secondo il gioco, una sola offerta per persona; per le scommesse sportive un'offerta a parte, fino a 300€, valida fino al 31/10/2026: condizioni nella sezione Promozioni |
 
 ---
 
@@ -27,7 +27,7 @@ Recensione di Alberto Lattuada · prova del 16/10/2026
 |---|---|
 | Licenza operativa | ADM, concessione n. 16049, in vigore dal 13 novembre 2025 con il nuovo regime delle concessioni online; in precedenza l'operatore aveva la concessione GAD n. 15478 |
 | Proprietà | MyLotteries S.r.l., Roma, società a socio unico soggetta a direzione e coordinamento di Brightstar Lottery S.p.A. |
-| Bonus benvenuto | Tre offerte online, una sola per persona, da scegliere nel modulo di registrazione: Slot, 200% della prima ricarica fino a 2.000€; Slot e Lotterie, 100% fino a 50€; Lotterie, 100% fino a 25€. Tre offerte dedicate, fino a 40€, per chi apre il conto in ricevitoria |
+| Bonus benvenuto | Tre offerte online, una sola per persona, da scegliere nel modulo di registrazione: Slot, 200% della prima ricarica fino a 2.000€; Slot e Lotterie, 100% fino a 50€; Lotterie, 100% fino a 25€. Per le scommesse sportive, Welcome Bonus Scommesse: 50% del primo deposito fino a 300€, dal 29/09/2026 al 31/10/2026. Tre offerte dedicate, fino a 40€, per chi apre il conto in ricevitoria |
 | Requisito di puntata | Slot: moltiplicatore di giocata 45x sui Fun Bonus erogati, massimale di conversione in Real Bonus Slot del 50%. Slot e Lotterie: moltiplicatore 10x, massimale di conversione del 100%. Il Real Bonus Slot ottenuto va rigiocato almeno una volta prima del prelievo. Per il Real Bonus Lotterie online il regolamento non indica requisiti di giocata: è credito di gioco, non prelevabile |
 | App disponibili | My Lotteries PLAY, con l'offerta completa (lotterie, casinò, giochi di carte e scommesse), per iPhone su App Store e per Android tramite file APK distribuito dal sito ufficiale; My Lotteries, dedicata alle lotterie, che permette anche di giocare online |
 | Metodi di pagamento | Carte di credito e debito, PayPal, MyBank, bonifico ordinario e istantaneo |
@@ -37,7 +37,7 @@ Recensione di Alberto Lattuada · prova del 16/10/2026
 
 ### PERCHÉ MY LOTTERIES PLAY POTREBBE NON FARE AL CASO TUO
 
-- Le scommesse sportive sono l'area più recente dell'offerta: per lo sport la promozione attiva è il Bonus Multipla, non un bonus di benvenuto dedicato
+- Le scommesse sportive sono l'area più recente dell'offerta
 - Il bonus più alto, fino a 2.000€ sulle slot, ha un moltiplicatore di giocata di 45x e un massimale di conversione del 50%: condizioni impegnative
 - Si ricarica con carte, PayPal, MyBank e bonifico, con un massimo per operazione tra 950€ e 1.000€ su carta, secondo le pagine ufficiali, e di 950€ su PayPal
 
@@ -76,7 +76,7 @@ Nella nostra esperienza, chi gioca con continuità si trova meglio se ha un punt
 | Categoria | Voto | Nota sintetica |
 |---|---|---|
 | Lotterie e Gratta e Vinci | 8/10 | Oltre 10 tra lotterie e giochi numerici, catalogo di oltre 100 Gratta e Vinci online; nella prova abbiamo giocato la linea Il Miliardario: comodità e scelta |
-| Scommesse sportive | 6/10 | Campionati principali e mercati standard, offerta recente, promozione attiva Bonus Multipla |
+| Scommesse sportive | 6/10 | Campionati principali e mercati standard, offerta recente, promozioni attive Welcome Bonus Scommesse e Bonus Multipla |
 | Casinò e slot | 6,5/10 | Slot, tavoli, live e giochi di carte italiani |
 | Bonus e promozioni | 7/10 | Fino a 25€, 50€ o 2.000€ secondo il gioco, condizioni che vanno lette offerta per offerta |
 | App e mobile | 7/10 | App veloce su iPhone, Gratta e Vinci in pochi tocchi; App Store 3,3/5 su 27 valutazioni |
@@ -102,7 +102,7 @@ Il programma fedeltà My Club assegna sulle lotterie il doppio dei punti riconos
 
 Nel nostro giudizio editoriale, basato sull'esperienza diretta nel settore, il limite principale riguarda la notorietà più che il prodotto: il gruppo ha una lunga storia nelle lotterie, ma My Lotteries Play, come marchio di gioco online, deve ancora farsi conoscere dal pubblico che gioca in rete. Per chi gioca significa meno recensioni ed esperienze di altri utenti su cui orientarsi prima di aprire il conto.
 
-Le scommesse sportive sono l'area più giovane dell'offerta. Il palinsesto copre i campionati principali; per lo sport è attivo il Bonus Multipla, descritto nella sezione Promozioni, fino al 31/12/2026.
+Le scommesse sportive sono l'area più giovane dell'offerta. Il palinsesto copre i campionati principali; per lo sport sono attivi il Welcome Bonus Scommesse, fino al 31/10/2026, e il Bonus Multipla, fino al 31/12/2026, descritti nella sezione Promozioni.
 
 Il bonus Slot da 2.000€ va letto per intero: arriva in cinque tranche da massimo 400€, ognuna valida 2 giorni, con un moltiplicatore di giocata di 45x e un massimale di conversione del 50%.
 
@@ -136,7 +136,7 @@ Le scommesse sportive, prima dell'evento e live, sono state lanciate a febbraio 
 
 ## PROMOZIONI
 
-Il bonus di benvenuto si sceglie nel modulo di registrazione e spetta una sola volta per persona, codice fiscale, nucleo familiare, email, numero di telefono e indirizzo IP.
+I bonus di benvenuto Slot, Slot e Lotterie e Lotterie si scelgono nel modulo di registrazione e spettano una sola volta per persona, codice fiscale, nucleo familiare, email, numero di telefono e indirizzo IP. Per le scommesse sportive c'è un'offerta di benvenuto con un regolamento a parte, descritta su una pagina dedicata del sito.
 
 ### Benvenuto Slot, fino a 2.000€
 
@@ -176,11 +176,22 @@ Il bonus di benvenuto si sceglie nel modulo di registrazione e spetta una sola v
 
 Offerte riservate a chi apre il conto in uno dei punti vendita aderenti, con prima ricarica entro 7 giorni; le ricariche con bonifico non attivano il bonus, e ogni bonus vale 5 giorni dall'attivazione.
 
+### Benvenuto Scommesse, fino a 300€
+
+| Campo | Dettaglio |
+|---|---|
+| Percentuale e massimale | Fun Bonus del 50% del primo deposito, fino a 300€: per arrivare al massimale serve un primo deposito di 600€ |
+| Validità della promozione | Dal 29/09/2026 al 31/10/2026, per i nuovi conti; una sola attivazione per persona, codice fiscale, nucleo familiare, indirizzo IP, dispositivo, email e numero di telefono |
+| Deposito minimo qualificante | 20€, entro 5 giorni dalla registrazione, con documenti convalidati |
+| Erogazione | Il bonus arriva dopo aver giocato l'intero deposito entro 5 giorni, su multiple da almeno 3 eventi a quota minima 1,50 per evento (esclusi sistemi, antepost, bet builder e cashout), quando tutti gli eventi sono refertati |
+| Requisito di puntata | Rigioco di 5 volte il Fun Bonus entro 14 giorni, su schedine da almeno 5 eventi a quota minima 1,50, scegliendo l'uso del Fun Bonus nel carrello prima della giocata. Esclusi sistemi, antepost, cashout, bet builder e scommesse sui singoli giocatori; puntata massima 100€ |
+| Conversione | Le vincite residue diventano Bonus Real Scommesse fino a 50€, valido 5 giorni. Per prelevare quanto vinto con il Bonus Real servono biglietti da almeno 3 eventi a quota minima 1,50 e quota totale minima 4,00. Una richiesta di prelievo annulla i bonus attivi |
+
 ### Bonus Multipla (scommesse sportive)
 
 Sulle multiple vincenti con almeno 4 eventi a quota minima 1,25 riconosce un importo aggiuntivo calcolato in percentuale sulla vincita netta, che cresce con il numero di eventi: 3% con 4 eventi, 25% con 10, 89% con 20, 650% con 30. Promozione valida fino al 31/12/2026, modificabile o sospendibile dall'operatore.
 
-**Nota importante**: Il Fun Bonus non si può prelevare così com'è: si converte in Real Bonus Slot, da rigiocare almeno una volta prima del prelievo, secondo le condizioni di ciascun regolamento. Le offerte di benvenuto online sono valide fino al 31/12/2026. Condizioni verificate il 17/10/2026 sulle pagine ufficiali dell'operatore e soggette a cambiamento: verificare sempre i T&C aggiornati prima dell'attivazione.
+**Nota importante**: Il Fun Bonus non si può prelevare così com'è: si converte in Real Bonus Slot, da rigiocare almeno una volta prima del prelievo, o in Bonus Real Scommesse, secondo le condizioni di ciascun regolamento. Le offerte di benvenuto online Slot, Slot e Lotterie e Lotterie sono valide fino al 31/12/2026, il Welcome Bonus Scommesse fino al 31/10/2026. Condizioni verificate il 17/10/2026 (Welcome Bonus Scommesse il 18/10/2026) sulle pagine ufficiali dell'operatore e soggette a cambiamento: verificare sempre i T&C aggiornati prima dell'attivazione.
 
 ---
 
@@ -253,7 +264,7 @@ Sono indicatori di reputazione, non un campione rappresentativo: chi ha avuto un
 
 My Lotteries Play è pensata soprattutto per chi gioca alle lotterie: in un solo conto ci sono i giochi del gruppo concessionario di Lotto e Gratta e Vinci, la Lotteria Italia, insieme a SuperEnalotto, Eurojackpot e agli altri giochi numerici. L'offerta di benvenuto va dal bonus Lotterie fino a 25€, semplice da usare, al bonus Slot da 2.000€, più alto e più impegnativo.
 
-Il limite indicato nei Contro resta il più rilevante: il marchio deve ancora farsi conoscere online. Un aiuto può venire dalla rete fisica, perché il conto si apre anche in ricevitoria. Chi gioca soprattutto a Lotto, 10eLotto, Gratta e Vinci e SuperEnalotto trova qui un'offerta ampia; chi mette lo sport al centro trova un'offerta partita a febbraio 2026, con i campionati principali e senza un bonus di benvenuto dedicato.
+Il limite indicato nei Contro resta il più rilevante: il marchio deve ancora farsi conoscere online. Un aiuto può venire dalla rete fisica, perché il conto si apre anche in ricevitoria. Chi gioca soprattutto a Lotto, 10eLotto, Gratta e Vinci e SuperEnalotto trova qui un'offerta ampia; chi mette lo sport al centro trova un'offerta partita a febbraio 2026, con i campionati principali e un bonus di benvenuto dedicato fino al 31/10/2026.
 
 Come si arriva al voto: la media delle otto categorie è 7/10, pari a 3,5 su 5. Il voto è alto sulle lotterie, con i Gratta e Vinci che ci hanno convinto nella prova, e sulla concessione ADM. Lo abbassano uno sport ancora giovane, un marchio poco conosciuto online e un giudizio pubblico più severo della nostra prova.
 
@@ -263,7 +274,7 @@ Come si arriva al voto: la media delle otto categorie è 7/10, pari a 3,5 su 5. 
 
 ## NOTA METODOLOGICA
 
-Recensione di Alberto Lattuada, aggiornata il 17/10/2026. Sito, app per iPhone, Gratta e Vinci online (linea Il Miliardario, giocate da 5 e 10 euro, senza vincite) e chat di assistenza li abbiamo provati il 16/10/2026. Il prelievo non è stato provato: tempi e metodi vengono dalle pagine ufficiali. Concessione, proprietà, bonus, pagamenti, registrazione, contatti, programma fedeltà, strumenti di gioco responsabile e prodotti disponibili vengono dalle pagine ufficiali e dai T&C di mylotteriesplay.it (bonus di benvenuto e Bonus Multipla verificati il 17/10/2026). Palinsesto, mercati e rating dell'app vengono dalla scheda App Store; il punteggio Trustpilot dal profilo della piattaforma, il 16/10/2026; le concessioni del gruppo dai siti di Brightstar Lottery e LottoItalia; i dati Sisal e Lottomatica da comunicati societari e fonti di stampa. Bonus, condizioni di gioco, metodi di pagamento e limiti cambiano nel tempo: verificare sempre i T&C ufficiali aggiornati prima di ogni decisione di gioco.
+Recensione di Alberto Lattuada, aggiornata il 18/10/2026. Sito, app per iPhone, Gratta e Vinci online (linea Il Miliardario, giocate da 5 e 10 euro, senza vincite) e chat di assistenza li abbiamo provati il 16/10/2026. Il prelievo non è stato provato: tempi e metodi vengono dalle pagine ufficiali. Concessione, proprietà, bonus, pagamenti, registrazione, contatti, programma fedeltà, strumenti di gioco responsabile e prodotti disponibili vengono dalle pagine ufficiali e dai T&C di mylotteriesplay.it (bonus di benvenuto e Bonus Multipla verificati il 17/10/2026, Welcome Bonus Scommesse il 18/10/2026). Palinsesto, mercati e rating dell'app vengono dalla scheda App Store; il punteggio Trustpilot dal profilo della piattaforma, il 16/10/2026; le concessioni del gruppo dai siti di Brightstar Lottery e LottoItalia; i dati Sisal e Lottomatica da comunicati societari e fonti di stampa. Bonus, condizioni di gioco, metodi di pagamento e limiti cambiano nel tempo: verificare sempre i T&C ufficiali aggiornati prima di ogni decisione di gioco.
 
 ---
 
@@ -299,11 +310,11 @@ Sì. Le scommesse sportive, prima dell'evento e live, sono disponibili dal sito 
 
 ### Qual è il bonus di benvenuto di My Lotteries Play?
 
-Online ci sono tre offerte, da scegliere nel modulo di registrazione: Lotterie, 100% della prima ricarica fino a 25€; Slot e Lotterie, 100% fino a 50€; Slot, 200% fino a 2.000€ in cinque tranche, con moltiplicatore di giocata 45x. Chi apre il conto in un punto vendita aderente ha offerte dedicate fino a 40€. Valgono fino al 31/12/2026.
+Online ci sono tre offerte, da scegliere nel modulo di registrazione: Lotterie, 100% della prima ricarica fino a 25€; Slot e Lotterie, 100% fino a 50€; Slot, 200% fino a 2.000€ in cinque tranche, con moltiplicatore di giocata 45x. Chi apre il conto in un punto vendita aderente ha offerte dedicate fino a 40€. Valgono fino al 31/12/2026. Per le scommesse sportive c'è il Welcome Bonus Scommesse, 50% del primo deposito fino a 300€, valido fino al 31/10/2026.
 
 ### Si possono ricevere più bonus di benvenuto?
 
-No. Il bonus di benvenuto si sceglie nel modulo di registrazione e spetta una sola volta per persona, codice fiscale, nucleo familiare, email, numero di telefono e indirizzo IP.
+Tra le tre offerte online scelte nel modulo di registrazione, no: ne spetta una sola per persona, codice fiscale, nucleo familiare, email, numero di telefono e indirizzo IP. Il Welcome Bonus Scommesse ha un regolamento a parte, con una sola attivazione per persona.
 
 ### Si può aprire il conto in ricevitoria?
 
@@ -331,6 +342,7 @@ Versione del 16/10/2026: rifatta col metodo "prova sul campo" (`../_template/pro
 - **Pagine ufficiali discordanti**: prelievi (tabella generale 24-48 ore carta / 24 ore PayPal; pagine dedicate 3-5 giorni lavorativi carta / evasione entro 3 PayPal): scelta di Alberto, valgono le pagine dedicate. Ricarica massima carta: 1.000€ tabella generale, 950€ pagina dedicata: scritte entrambe.
 - **Affiliazione**: Bottadiculo è in affiliazione (Alberto, 17/10). Tolti il pulsante "VAI SU" e il bonus in copertina, formule descrittive al posto degli inviti alla scelta (rischio AGCOM 132/19/CONS). Da segnalare a Francesco per le cinque recensioni già uscite.
 - **Bonus di benvenuto e Bonus Multipla**: riverificati il 17/10/2026 sulle pagine ufficiali (validi fino al 31/12/2026).
+- **Welcome Bonus Scommesse (aggiunto il 18/10/2026)**: visto da Alberto sul canale Telegram di MyLotteries; T&C letti sulla landing ufficiale `mylotteriesplay.it/landing/sports` (si apre anche senza codice affiliato), non elencato nella pagina `/bonus`. Valido 29/09-31/10/2026: dopo il 31/10 la recensione va aggiornata (rinnovo o rimozione). Voti sport e bonus non toccati. Da dire a Francesco nel messaggio.
 - **Dati di reputazione**: App Store 3,3 su 27 (API iTunes, 16/10); Trustpilot 1,7 su 23 (16/10); Goldbet 25.766 valutazioni (API, 17/10). Rimisurare il giorno dell'invio.
 - **Voti**: decisi con Alberto il 17/10 (lotterie 8, il resto confermato); media 7/10 = 3,5/5.
 - **Android**: app distribuita come APK dal sito ufficiale.

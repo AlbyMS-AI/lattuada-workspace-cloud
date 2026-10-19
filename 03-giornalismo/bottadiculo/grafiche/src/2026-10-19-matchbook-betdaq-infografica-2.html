@@ -1,0 +1,46 @@
+<!-- Infografica 2, Gambling Insights #86: Cosa cambia da domani, quattro azioni con icona propria, griglia 2x2 (scheletro diverso dall'infografica 1). -->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../../04-linkedin/grafiche/lib/base.css">
+<style>
+  html,body{width:1080px;height:1350px}
+  body{background:linear-gradient(170deg,#1C0F3A 0%,#140A2C 100%);
+    display:grid;grid-template-rows:auto 1fr auto;padding:64px 72px 48px}
+  .etichetta{font-size:28px;margin-bottom:22px}
+  h1{font-size:84px;margin-bottom:16px}
+  .catenaccio{font-size:30px;line-height:1.3;color:var(--testo2);max-width:900px}
+  .catenaccio b{color:var(--testo);font-weight:600}
+  .area{width:936px;height:780px;margin-top:40px}
+  .piede{display:flex;align-items:flex-end;gap:22px;padding-top:20px;border-top:1px solid var(--linea)}
+  /* Logo ufficiale da ../brand/logo-whitetypo.svg (16/10/2026): mai ridisegnato, ricolorato o deformato */
+  .piede .logo{flex:none;width:300px;height:auto;display:block}
+  .piede .fonte{flex:1}
+  .area{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:26px}
+  .az{background:var(--pannello);border-top:6px solid var(--accento);padding:34px 30px 30px;display:flex;flex-direction:column;gap:16px}
+  .az .ic{width:84px;height:84px;border-radius:50%;background:rgba(249,81,31,.14);display:flex;align-items:center;justify-content:center}
+  .az .ruolo{font-family:var(--f-cond);font-weight:700;font-size:30px;text-transform:uppercase;letter-spacing:.03em;color:var(--accento)}
+  .az .testo{font-size:31px;line-height:1.3;font-weight:600}
+</style>
+</head>
+<body class="tema-bottadiculo">
+
+  <header>
+    <div class="etichetta">Cosa cambia da domani</div>
+    <h1 class="titolo-display">Se il sito <em>cambia</em></h1>
+    <p class="catenaccio">Quattro cose da fare prima che il cliente chieda dove sono i suoi soldi.</p>
+  </header>
+  <div class="area">
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><path d="M6 10h30a4 4 0 0 1 4 4v14a4 4 0 0 1-4 4H20l-9 8v-8H6a4 4 0 0 1-4-4V14a4 4 0 0 1 4-4z" stroke="#F9511F" stroke-width="3.2" stroke-linejoin="round"/><path d="M19 17a4 4 0 1 1 5 4c-1 .5-1 1.5-1 2.5" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/><circle cx="23" cy="27.5" r="1.6" fill="#fff"/></svg></div><div class="ruolo">Assistenza</div><div class="testo">Scrivi oggi la risposta: conti dedicati, garanzia, prelievo in 7 giorni.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><rect x="9" y="5" width="26" height="34" rx="2" stroke="#F9511F" stroke-width="3.2"/><path d="M15 14h14M15 20h14" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/><path d="M15 29l4 4 8-9" stroke="#F9511F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="ruolo">Ragione sociale</div><div class="testo">Il consenso esplicito del cliente si chiede prima, non dopo.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><rect x="6" y="9" width="36" height="32" rx="3" stroke="#F9511F" stroke-width="3.2"/><path d="M6 18h36" stroke="#F9511F" stroke-width="3"/><path d="M15 5v8M33 5v8" stroke="#F9511F" stroke-width="3.2" stroke-linecap="round"/><path d="M17 26l14 9M31 26l-14 9" stroke="#fff" stroke-width="2.8" stroke-linecap="round"/></svg></div><div class="ruolo">Antepost</div><div class="testo">Non si annullano, salvo i casi del regolamento del gioco: leggilo.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><path d="M6 22h36v18H6z" stroke="#F9511F" stroke-width="3.2" stroke-linejoin="round"/><path d="M4 22l6-12h28l6 12" stroke="#F9511F" stroke-width="3.2" stroke-linejoin="round"/><path d="M18 40V30h12v10" stroke="#fff" stroke-width="2.6" stroke-linejoin="round"/></svg></div><div class="ruolo">Al banco</div><div class="testo">Segna cosa chiede chi gioca sull'exchange e giralo al concessionario.</div></div>
+  </div>
+  <footer class="piede">
+    <img class="logo" data-brand src="../brand/logo-whitetypo.svg" alt="Bottadiculo">
+    <p class="fonte">Fonte: <b>ADM, schemi di convenzione e di contratto di conto di gioco</b></p>
+  </footer>
+  <script src="../../../../04-linkedin/grafiche/lib/componenti.js"></script>
+</body>
+</html>
