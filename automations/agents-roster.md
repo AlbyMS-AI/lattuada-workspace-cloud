@@ -1,5 +1,7 @@
 # Agenti Workspace — Roster e Stato
 
+> **Aggiornato: 21/10/2026** — sistema Oggi: ALDO v3 (niente email, niente calendario in scrittura, scrive il documento Linear "Oggi" e sceglie le voci), Check serale spento, pagina Oggi + messaggio Telegram alle 07:30. Dettaglio nella sezione "Sistema Oggi (21/10/2026)".
+
 > **Aggiornato: 11/10/2026** — spento il `Linear-deadline-reminder` (dismissione decisa il 01/09 e mai eseguita), nuovo job locale di lint settimanale dei due second brain. Dettaglio nella sezione "Lint settimanale dei second brain".
 
 > **Aggiornato: 01/09/2026** — ALDO riscritto in v2, nuova routine Check serale, `Linear-deadline-reminder` in dismissione. Registro task unificato su Linear, convenzioni in `linear-convenzioni.md`. Dettaglio nella sezione "ALDO v2 e il registro unico su Linear". Terzo caso della stessa classe di errore (elenco di progetti hardcoded dentro il prompt di ALDO), da cui la regola generalizzata: **mai un elenco di entità mutevoli dentro un prompt**.
@@ -19,8 +21,8 @@
 | **PIERO** | News Radar iGaming (RSS → morning brief → Slack) | **Locale** (launchd `com.albertol.piero`) + skill `/piero` on demand | Ogni giorno 07:00 e 12:40 Roma | ✅ Attivo, ultimo run 12/08 07:01 (fetch 10 fonti in ~9 secondi, l'hardening dell'08/08 ha retto). La versione cloud (`trig_01R5LLasoxRqBYz2w48MSRh6`) resta disattivata per il blocco RSS del 23/07, mai ritestato. Alberto lo lancia anche a mano con `/piero`: dal 12/08 la skill è allineata al job (salva l'archivio e manda il DM), vedi sotto |
 | **MARCO** | BDM / Pipeline review (Pipedrive Dealbot + Linear + Granola) | Cloud cron | Lun 07:00 Roma (`0 5 * * 1` UTC) | ✅ Attivo — `trig_018CSmAP6w4tyJcyenYNZBMd`. Prompt corretto il 12/08: rimossa la deadline hardcoded, aggiunto il divieto di inventare date, aggiunto un controllo che segnala le issue Linear il cui titolo contraddice la due date. Modello portato a Sonnet 5. ⚠️ Resta legato a Pipedrive: da rifare con la migrazione HubSpot |
 | **VERA** | **Lock editoriale settimanale** (repo → tavolo del lock → Slack) | **Solo cloud** | **Gio 09:00 Roma** (`0 7 * * 4` UTC) | ✅ Attivo — `trig_011zLYAjZLmCnbYTNhcmjVvo`, prossimo run **gio 20/08**. **Riconvertita il 17/08/2026**: era "Brief editoriale settimanale" del venerdì 12:00, che sotto il nuovo piano newsletter arrivava a scrittura già iniziata. Ora prepara il lock del giovedì: legge la rassegna PIERO del giorno, conta le schede in banca e segnala le scadute, elenca cosa è già stato coperto in settimana, ricorda il test delle tre letture. **Non decide i temi, prepara il tavolo.** Nessuna data né tema hardcoded, tutto letto dal repo a ogni run; ha una sezione obbligatoria "Buchi in questo brief" che elenca i file non leggibili invece di tacere. Orario alle 09:00 e non alle 08:00 perché il sync del repo gira ogni 3 ore e il brief PIERO delle 07:00 deve avere tempo di arrivare |
-| **ALDO v2** | **Assistente personale / Agenda giornaliera** (Calendar + Gmail + Linear) | Cloud cron | **Tutti i giorni 08:30 Roma** (`30 6 * * *` UTC) | ✅ Attivo — `trig_01Li3P6YAkhP2gLGb5VzsDsm`. **Riscritto il 01/09/2026** (vedi sezione dedicata sotto): non è più un aggregatore di tre fonti ma un assistente bidirezionale. Sequenzia al massimo cinque azioni ordinate, ha orizzonte a 72 ore, chiude le issue leggendo la risposta di Alberto al check serale, e il lunedì genera le ricorrenze LasVegas. Resta a 7 giorni su 7 con versione leggera nel weekend (deciso 12/08). Modello Sonnet 5. **Canale passato da Slack a email Gmail il 17/09/2026**, vedi sezione dedicata sotto. **Dal 29/09/2026 gestisce anche il calendario**: legge i segnali `ok` / `+` di Alberto e piazza i blocchi di lavoro, vedi "Calendario come interfaccia" sotto |
-| **Check serale** | Chiede ad Alberto cosa ha chiuso oggi (e dal 29/09 quanto tempo gli ha preso) | Cloud cron | **Lun-ven 18:30 Roma** (`30 16 * * 1-5` UTC) | ✅ Attivo dal 01/09/2026 — `trig_01J3Go9PV537sbW6qanj9Gvc`. **Non scrive su Linear**: chiede e basta, la scrittura la fa ALDO il mattino dopo leggendo il thread. Se non ci sono issue scadute o in scadenza oggi non manda niente, per non diventare rumore quotidiano. Prende il posto nel bilancio del `Linear-deadline-reminder`. **Canale passato da Slack a email Gmail il 17/09/2026**, vedi sezione dedicata sotto |
+| **ALDO v3** | **Assistente personale: sceglie le voci di Oggi** (Calendar in sola lettura + Linear) | Cloud cron | **Tutti i giorni prima delle 07:30 Roma** (`0 5 * * *` UTC: 07:00 con l'ora legale, 06:00 con l'ora solare) | ✅ Attivo dal 21/10/2026 — `trig_01Li3P6YAkhP2gLGb5VzsDsm`. **Riscritto il 21/10/2026** (piano `plans/2026-10-20-sistema-oggi-telegram-webapp.md`): non manda più email, non legge Gmail, non scrive sul calendario. Legge `automations/oggi-regole.md` dal repo cloud, sceglie al massimo cinque voci (label `oggi`), riscrive il documento Linear "Oggi" (data, call, da ieri, problemi), assegna il progetto alle voci `da-smistare`, il lunedì crea le ricorrenze e chiude le copie vecchie. Prompt v2 salvato in `automations/logs/aldo-v2-prompt-backup-2026-10-21.md`. Modello Sonnet 5 |
+| **Check serale** | (spento) Chiedeva ad Alberto cosa aveva chiuso oggi | Cloud cron | ~~Lun-ven 18:30 Roma~~ | ⏸ **Disattivato il 21/10/2026** — `trig_01J3Go9PV537sbW6qanj9Gvc`, non cancellato: si riaccende con `enabled: true`. Il gesto "ho chiuso" è ora il tocco sulla pagina Oggi |
 | **OTTO** | Check workspace del sabato | **Solo cloud** | Sab 08:30 Roma (`30 6 * * 6` UTC) | ✅ Attivo — `trig_01LRGJfc8rvJb3SGnMLbWqDf`, verificato via `RemoteTrigger list_runs` il 31/08: run regolari 01, 08, 15, 22, 29/08, nessun buco. Output solo via DM Slack dal 20/07 (non più su `automations/check-sabato/`, che resta ferma all'08/08 come residuo pre-migrazione: normale, non un guasto). Regola di onestà dell'08/08 invariata |
 | **Linear-deadline-reminder** | Scadenze Linear a 3 giorni → bozza Gmail + DM Slack | Cloud cron | — | ⏸ **Disattivato l'11/10/2026** — `trig_01KPMhuagKVioGPGeaEkwf4k`, non cancellato. La dismissione era decisa dal 01/09 "dopo due giorni di ALDO v2 verificato" e non era mai stata eseguita: per quaranta giorni le scadenze a tre giorni sono arrivate due volte, alle 08:00 qui e alle 08:30 in ALDO, più una bozza Gmail e un DM Slack mai aperti. Si riaccende in un clic se ALDO v2 avesse un problema |
 | **Lint second brain** | Lint settimanale dei due vault, solo report | **Locale** (launchd `com.albertol.lint-secondbrain`, script `automations/lint-second-brain.sh`) | Domenica 21:30, o al risveglio del Mac | ✅ Attivo dall'11/10/2026, primo giro fatto a mano lo stesso giorno (giornalismo 19 rilievi, 1,47 $; Softswiss 15 rilievi, 1,72 $). Vedi sezione dedicata sotto |
@@ -48,7 +50,20 @@ Piano `plans/2026-10-11-routine-gaito-lint-second-brain.md`, dal modulo 4 del co
 - **Log:** `automations/logs/lint-second-brain.log`, più un JSON per vault e giro
 - **Da rivalutare a quattro settimane, cioè l'08/11:** se i report non vengono mai letti, il job si spegne
 
+### Sistema Oggi (21/10/2026)
+
+Piano `plans/2026-10-20-sistema-oggi-telegram-webapp.md`. Sostituisce email di ALDO, check serale e time blocking, che Alberto aveva definito caotici (20/10).
+
+- **Pagina Oggi**: web app Apps Script (`automations/oggi-app/`), account Google di Alberto, accesso "Solo io". Mostra call, Oggi (max cinque), Prossimi giorni, e chiusi Resto, Spunti, In attesa. Chiude, sposta a domani o alla settimana dopo, aggiunge. Scrive su Linear direttamente via API. Deploy e chiavi in `automations/oggi-app/istruzioni-deploy.md` (chiavi solo nelle Script Properties).
+- **Messaggio Telegram alle 07:30** (trigger Apps Script, ±15 minuti): conteggio call con orari, "N cose oggi", link. Mai nomi di deal. Se ALDO non ha aggiornato il documento, la prima riga lo dice.
+- **ALDO v3**: vedi riga nella tabella. Regole in `automations/oggi-regole.md` (nel repo cloud pubblico).
+- **Linear**: label `oggi`, `spunto`, `da-smistare`, `in-attesa`; documento "Oggi" (id in `oggi-regole.md`). Il documento "Finestre disponibili" non è più usato.
+- **Archiviato**: `time-blocking-regole.md` in `archive/`.
+- **Idee per dopo**: tocco "fatto" dal messaggio Telegram (richiede un webhook), riga "N email da leggere", ricorrenze dell'inglese (`11-inglese/` fuori dal sync).
+
 ### Calendario come interfaccia: time blocking di ALDO (29/09/2026)
+
+> **Superato dal 21/10/2026**: i blocchi `[TB]` sono stati cancellati e ALDO non scrive più sul calendario. Vedi "Sistema Oggi (21/10/2026)". Il testo sotto resta come storico.
 
 Piano `plans/2026-09-29-time-blocking-calendario-aldo.md`, adattato dal video "Ho chiesto all'AI di gestire il mio calendario". Alberto non ama Linear e ha scelto il calendario Softswiss come unico punto di contatto con i task. Linear resta il registro, ma lo usano solo agenti e skill.
 
@@ -66,6 +81,8 @@ Piano `plans/2026-09-29-time-blocking-calendario-aldo.md`, adattato dal video "H
 **Limite noto:** le "Finestre disponibili" coprono fino al 31/12/2026. ALDO avvisa quattordici giorni prima. Aggiornarle è un'operazione manuale in sessione Claude. Ricalibrazione delle durate a quattordici giorni dall'attivazione, issue su Linear.
 
 ### ALDO e Check serale: da Slack a email Gmail (17/09/2026)
+
+> **Superato dal 21/10/2026**: ALDO non manda più email e il Check serale è spento. Storico.
 
 Piano `plans/2026-09-17-aldo-checkserale-email-gmail.md`. Alberto ha segnalato di non riuscire a tenere traccia dei DM Slack ("non riesco a tenere traccia ed avere un alert per ricordare a che punto sono") e ha chiesto un canale diverso, con Slack spento del tutto per questi due agenti (non tenuto come backup). Valutate Telegram/WhatsApp (richiedono un bot/connettore che non esiste in questo workspace) e la notifica push nativa (funziona solo in sessione interattiva con Remote Control collegato, inutile per una routine cloud non presidiata): scelta l'email, perché Gmail è già connesso e già usato da ALDO stesso.
 
@@ -244,6 +261,6 @@ Il set attuale copre bene: rassegna stampa (PIERO), pipeline commerciale (MARCO)
 | VERA (ID storico, non usare) | trig_01DA1gYJLFTNbqUwcG4rw1uA | Disattivata |
 | Doppione PIERO via Gmail | trig_01SDsLJnhYQcxE4p2tUGSCto | Disattivata l'08/08/2026 |
 | Linear deadline reminder (3gg) | trig_01KPMhuagKVioGPGeaEkwf4k | Disattivata l'11/10/2026 (verificato via RemoteTrigger list il 12/10) |
-| Check serale | trig_01J3Go9PV537sbW6qanj9Gvc | Attiva dal 01/09/2026 |
+| Check serale | trig_01J3Go9PV537sbW6qanj9Gvc | Disattivata il 21/10/2026 (non cancellata) |
 | ALB-17 Weekly Review Reminder | trig_01L2wP4nyxfp1UHhkqGrBmvg | Disattivata 02/08 |
 | LinkedIn Post Reminder 24h | trig_01WyDwxbxyNBTmET6Qc3KmtK | Disattivata 02/08 |

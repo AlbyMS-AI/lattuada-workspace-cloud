@@ -12,7 +12,7 @@ Un piano contiene il ragionamento, gli slittamenti motivati, il backlog senza da
 
 Quando i due divergono, si aggiorna prima il piano e poi si lancia `/agenda`, che riallinea il registro.
 
-**Alberto non apre Linear (dal 29/09/2026).** Non ama usarlo per gestire i task. La sua interfaccia è il calendario Softswiss più l'email di ALDO: chiude, aggiunge e data i task con tre segnali sul calendario (`ok`, `+ testo`, `+ ALB-NNN`), descritti in `time-blocking-regole.md`, e ALDO li riporta qui ogni mattina. Linear resta il registro unico, ma lo usano gli agenti e le skill. Nessuna skill e nessun agente deve proporre ad Alberto "apri Linear e...": se serve un'azione sua, gliela si chiede sul calendario o in chat.
+**Alberto non apre Linear (dal 29/09/2026).** Non ama usarlo per gestire i task. Dal 21/10/2026 la sua interfaccia è la **pagina Oggi** (web app, annunciata da un messaggio Telegram alle 07:30), che legge e scrive Linear direttamente; ALDO sceglie ogni mattina le voci di Oggi. Linear resta il registro unico, ma lo usano la pagina, gli agenti e le skill. Regole in `oggi-regole.md`. Nessuna skill e nessun agente deve proporre ad Alberto "apri Linear e...": se serve un'azione sua, gliela si chiede in chat o sulla pagina Oggi.
 
 ## Workspace e team
 
@@ -42,6 +42,10 @@ Quando i due divergono, si aggiorna prima il piano e poi si lancia `/agenda`, ch
 | `ricorrente` | Generata da ALDO il lunedì leggendo le sezioni "Ricorrenze" delle task list. **Non crearla a mano** |
 | `commerciale` | Deal, prospect, outreach, pipeline (Softswiss e LasVegas) |
 | `admin` | Manutenzione workspace, formazione, amministrazione |
+| `oggi` | Le al massimo cinque voci di oggi. Le scelgono ALDO e la pagina Oggi. Non metterla a mano |
+| `spunto` | Idea senza data. Mai in Oggi |
+| `da-smistare` | Voce aggiunta dalla pagina Oggi. ALDO assegna il progetto e toglie la label |
+| `in-attesa` | Voce ferma su altri. Mai in Oggi |
 
 ## La due date: la data in cui devi metterti a lavorare
 
@@ -66,7 +70,7 @@ Regola "creare entro" per i contenuti LinkedIn, da `04-linkedin/task-list.md`: c
 
 ## Durata
 
-Facoltativa. Una riga `Durata: Xh` (o `Durata: 30m`, `Durata: 1h30`) nella descrizione della issue dice ad ALDO quanto blocco riservarle a calendario. Senza la riga vale la tabella per formato in `time-blocking-regole.md`. Il campo `estimate` di Linear non si usa.
+Non più usata dal 21/10/2026 (serviva a piazzare i blocchi sul calendario, sostituiti dalla pagina Oggi). Una riga `Durata: Xh` nella descrizione di una issue vecchia è innocua.
 
 ## Quando NON mettere una due date
 
@@ -104,8 +108,9 @@ Davanti a una issue con due date passata, **non spostare la data e basta**. Prim
 
 | Chi | Cosa scrive |
 |---|---|
-| **ALDO** (cron, 08:30) | Chiude le issue leggendo i blocchi segnati `ok` sul calendario e la risposta di Alberto al check serale, con commento `Tempo reale`. Crea issue dagli eventi `+ testo` e imposta due date dagli eventi `+ ALB-NNN`. Scrive e sposta i blocchi `[TB]` sul calendario. Il lunedì crea le issue `ricorrente` mancanti. Regole in `time-blocking-regole.md` |
-| **Check serale** (cron, lun-ven 18:30) | Non scrive nulla su Linear. Chiede e basta |
+| **ALDO** (cron, prima delle 07:30) | Sceglie le voci di Oggi (label `oggi`), riscrive il documento Linear "Oggi" con le call del giorno, assegna il progetto alle voci `da-smistare`, il lunedì crea le issue `ricorrente` mancanti e chiude le copie vecchie. Mai email, mai calendario in scrittura. Regole in `oggi-regole.md` |
+| **Pagina Oggi** (Apps Script, a ogni tocco) | Chiude le issue (Done), imposta la due date (domani, lunedì prossimo), mette e toglie `oggi`, `in-attesa`, `spunto`, crea le voci aggiunte (con `da-smistare`) |
+| **Check serale** (spento il 21/10/2026) | Non esiste più: il gesto "ho chiuso" è il tocco sulla pagina |
 | **`/agenda`** (on demand) | Sincronizza piani e registro, propone e applica solo dopo conferma di Alberto |
 | **Skill di contenuto** (`linkedin-crea-post`, `linkedin-crea-newsletter`, `jamma`, `bottadiculo`, `news-sitiscommesse`) | Chiudono la issue del pezzo che hanno appena prodotto |
 | **`post-call`** | Crea le issue dai task emersi in call (invariato) |
