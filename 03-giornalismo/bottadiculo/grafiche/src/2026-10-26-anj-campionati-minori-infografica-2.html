@@ -1,0 +1,46 @@
+<!-- Infografica 2, Gambling Insights #87: Cosa cambia da domani, quattro azioni con icona propria, griglia 2x2 (scheletro diverso dall'infografica 1). -->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../../04-linkedin/grafiche/lib/base.css">
+<style>
+  html,body{width:1080px;height:1350px}
+  body{background:linear-gradient(170deg,#1C0F3A 0%,#140A2C 100%);
+    display:grid;grid-template-rows:auto 1fr auto;padding:64px 72px 48px}
+  .etichetta{font-size:28px;margin-bottom:22px}
+  h1{font-size:84px;margin-bottom:16px}
+  .catenaccio{font-size:30px;line-height:1.3;color:var(--testo2);max-width:900px}
+  .catenaccio b{color:var(--testo);font-weight:600}
+  .area{width:936px;height:780px;margin-top:40px}
+  .piede{display:flex;align-items:flex-end;gap:22px;padding-top:20px;border-top:1px solid var(--linea)}
+  /* Logo ufficiale da ../brand/logo-whitetypo.svg (16/10/2026): mai ridisegnato, ricolorato o deformato */
+  .piede .logo{flex:none;width:300px;height:auto;display:block}
+  .piede .fonte{flex:1}
+  .area{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:26px}
+  .az{background:var(--pannello);border-top:6px solid var(--accento);padding:34px 30px 30px;display:flex;flex-direction:column;gap:16px}
+  .az .ic{width:84px;height:84px;border-radius:50%;background:rgba(249,81,31,.14);display:flex;align-items:center;justify-content:center}
+  .az .ruolo{font-family:var(--f-cond);font-weight:700;font-size:30px;text-transform:uppercase;letter-spacing:.03em;color:var(--accento)}
+  .az .testo{font-size:31px;line-height:1.3;font-weight:600}
+</style>
+</head>
+<body class="tema-bottadiculo">
+
+  <header>
+    <div class="etichetta">Cosa cambia da domani</div>
+    <h1 class="titolo-display">Chi gioca di <em>notte</em></h1>
+    <p class="catenaccio">Quattro cose da guardare per chi lavora sulle scommesse live.</p>
+  </header>
+  <div class="area">
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><path d="M8 20v8l22 10V10L8 20z" stroke="#F9511F" stroke-width="3.2" stroke-linejoin="round"/><path d="M8 20H4v8h4" stroke="#F9511F" stroke-width="3.2" stroke-linejoin="round"/><path d="M36 18c2 1.5 3 3.6 3 6s-1 4.5-3 6" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg></div><div class="ruolo">Marketing e CRM</div><div class="testo">La promo delle ore piccole è legittima: guarda a chi arriva.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><circle cx="21" cy="21" r="12" stroke="#F9511F" stroke-width="3.2"/><path d="M30 30l11 11" stroke="#F9511F" stroke-width="3.6" stroke-linecap="round"/><path d="M15 23l4-5 4 3 4-6" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="ruolo">Compliance</div><div class="testo">Frazioni e campionati sconosciuti, live, di notte: da lì si guarda per primo.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><path d="M6 22h36v18H6z" stroke="#F9511F" stroke-width="3.2" stroke-linejoin="round"/><path d="M4 22l6-12h28l6 12" stroke="#F9511F" stroke-width="3.2" stroke-linejoin="round"/><path d="M18 40V30h12v10" stroke="#fff" stroke-width="2.6" stroke-linejoin="round"/></svg></div><div class="ruolo">Al banco</div><div class="testo">Chi racconta la nottata sul telefono ti dice come gioca a sala chiusa.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><rect x="6" y="8" width="36" height="26" rx="3" stroke="#F9511F" stroke-width="3.2"/><path d="M18 42h12M24 34v8" stroke="#F9511F" stroke-width="3.2" stroke-linecap="round"/><path d="M13 16h22M13 22h14" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg></div><div class="ruolo">Contenuti e affiliazione</div><div class="testo">I campionati esotici live parlano a un pubblico preciso.</div></div>
+  </div>
+  <footer class="piede">
+    <img class="logo" data-brand src="../brand/logo-whitetypo.svg" alt="Bottadiculo">
+    <p class="fonte">Fonte: <b>ANJ, nota sulle scommesse sportive 2025; ADM, DM 145/2022</b></p>
+  </footer>
+  <script src="../../../../04-linkedin/grafiche/lib/componenti.js"></script>
+</body>
+</html>

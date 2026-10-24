@@ -1,0 +1,46 @@
+<!-- Infografica 1, Gambling Insights #87: quota di puntate live sul calcio in Francia per competizione (ANJ, 2025). Più la competizione è lontana e meno nota, più si gioca live. Valori esatti dalla nota ANJ, pp. 5 e 8. -->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../../04-linkedin/grafiche/lib/base.css">
+<style>
+  html,body{width:1080px;height:1350px}
+  body{background:linear-gradient(170deg,#1C0F3A 0%,#140A2C 100%);
+    display:grid;grid-template-rows:auto 1fr auto;padding:64px 72px 48px}
+  .etichetta{font-size:28px;margin-bottom:22px}
+  h1{font-size:76px;margin-bottom:16px}
+  .catenaccio{font-size:30px;line-height:1.3;color:var(--testo2);max-width:900px}
+  .catenaccio b{color:var(--testo);font-weight:600}
+  .area{width:936px;height:720px;margin-top:48px}
+  .piede{display:flex;align-items:flex-end;gap:22px;padding-top:20px;border-top:1px solid var(--linea)}
+  /* Logo ufficiale da ../brand/logo-whitetypo.svg (16/10/2026): mai ridisegnato, ricolorato o deformato */
+  .piede .logo{flex:none;width:300px;height:auto;display:block}
+  .piede .fonte{flex:1}
+</style>
+</head>
+<body class="tema-bottadiculo">
+<script type="application/json" id="dati">{
+  "live": { "unita": "%", "decimali": 0, "voci": [
+    { "label": "Minori Asia e Oceania", "valore": 60 },
+    { "label": "Minori Americhe", "valore": 53 },
+    { "label": "Minori, media", "valore": 48 },
+    { "label": "Minori Europa", "valore": 42 },
+    { "label": "Ligue 1", "valore": 30 },
+    { "label": "Mondiale per club", "valore": 29 },
+    { "label": "Champions League", "valore": 26 }
+  ]}
+}</script>
+  <header>
+    <div class="etichetta">Scommesse live sul calcio</div>
+    <h1 class="titolo-display">Più è <em>lontana</em>, più si gioca live</h1>
+    <p class="catenaccio">Quota di puntate live per competizione, Francia 2025. Su Brasile, Giappone e Australia <b>oltre l'80% delle puntate viene dai due profili di rischio più alti</b>.</p>
+  </header>
+  <div class="area" data-componente="barreClassifica" data-dati="live" data-opzioni='{"evidenzia":[0,1],"labelW":0.36,"valoreW":0.18}'></div>
+  <footer class="piede">
+    <img class="logo" data-brand src="../brand/logo-whitetypo.svg" alt="Bottadiculo">
+    <p class="fonte">Fonte: <b>ANJ, Le pari sportif en ligne par sport en 2025, ottobre 2026</b></p>
+  </footer>
+  <script src="../../../../04-linkedin/grafiche/lib/componenti.js"></script>
+</body>
+</html>
