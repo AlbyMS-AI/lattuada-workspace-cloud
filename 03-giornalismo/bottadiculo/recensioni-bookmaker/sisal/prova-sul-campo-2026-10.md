@@ -63,13 +63,38 @@ Tutti gratuiti, minimo 10€.
 
 ## 10. Assistenza (prova diretta, 24/10/2026)
 
-Canale: chat. Domanda: esito di una giocata. Operatori molto gentili e disponibili. Tempo di risposta: da chiedere.
+Canale: chat. Domanda: esito di una giocata. Operatori molto gentili e disponibili. Tempo di attesa: non più di 5-6 minuti.
 
 Giudizio di Alberto (vale per il settore, non solo per Sisal): le assistenze vanno bene per una clientela di base, meno per chi è più esperto. Il giocatore esperto si appoggia sempre più spesso ad agenti, tipster o altri professionisti del settore, che offrono servizi e possono lavorare con il book, essere in affiliazione oppure non avere alcun rapporto con l'operatore. Materiale anche per la voce 12. Nel testo: in terza persona, come osservazione di settore e non come critica a Sisal; nessun invito a usare tipster.
 
-## 11. Gioco responsabile (T&C ufficiali) — da completare
+## 11. Gioco responsabile (T&C ufficiali, art. 5, 24/10/2026)
 
-- Autoesclusione dal gioco a distanza da 7 a 270 giorni o a tempo indeterminato, con effetto immediato.
+- Programma "Responsabili insieme".
+- Limiti di prima attivazione previsti in registrazione: tempo 3 ore/giorno, spesa 100€/giorno, deposito 200€/giorno; per i 18-24enni 2 ore, 50€ e 50€. **Non ancora effettivi**: lo diventano con le nuove regole tecniche ADM, nel frattempo vale il limite di deposito scelto dal giocatore. Abbassare un limite è immediato, alzarlo richiede 7 giorni (1 giorno per i limiti di prima attivazione).
+- Autoesclusione dal gioco a distanza da 7 a 270 giorni o a tempo indeterminato, con effetto immediato: solo su Sisal.it oppure trasversale su tutti i concessionari, per un gioco, più giochi o tutti. Revoca di quella a tempo indeterminato solo dopo 9 mesi, riattivazione 7 giorni dopo la richiesta.
+- **Prova diretta (Alberto, 24/10/2026):** ha visto e gestito i limiti nel proprio conto e li ha trovati senza difficoltà (risposta: "sì"). Nel testo: si dice che sono raggiungibili dall'area del conto, senza dettagli sul percorso non descritti da Alberto.
+- Nota: il PDF dei T&C riporta "CONFIDENTIAL" a piè di pagina, ma è il documento pubblico del sito.
+
+## 12. Lo sguardo di chi lavora nel settore (Alberto, 24/10/2026)
+
+- Sisal, come Lottomatica, ha un marchio molto conosciuto. Flutter, con l'acquisizione di Sisal e soprattutto di Snai, si è rafforzato nel terrestre.
+- Le lotterie aiutano molto il gruppo.
+- Le criticità possibili sono quelle comuni al settore: onboarding difficile e poca attenzione al coinvolgimento del giocatore per un ciclo di vita lungo, nonostante Sisal Tipster e altre buone iniziative.
+- Uso nel testo: terza persona, tono da partner. Onboarding e coinvolgimento vanno detti come limite comune al mercato, non come difetto di Sisal. Va chiarito con Alberto cosa intende per "onboarding difficile", visto che la registrazione non l'ha rifatta (conto già aperto).
+- Da verificare su fonte primaria: date e perimetro delle acquisizioni Flutter (Sisal, Snaitech); se le lotterie (SuperEnalotto) sono di Sisal dentro Flutter; Sisal Tipster (wiki: lanciata a dicembre 2020, citata dalla giuria EGR Italy 2026, pezzo Bottadiculo del 22/10).
+
+### Onboarding: cosa intende Alberto e cosa dicono le fonti (24/10/2026)
+
+Alberto: "onboarding difficile" = l'apertura del conto gioco. Chiede di verificarlo con recensioni e fonti simili.
+
+- **Fonte primaria (PDF salvati il 24/10):** T&C art. 6, conto sospeso in automatico se dopo 3 giorni dalla registrazione non è arrivato il documento fronte-retro; contratto di conto gioco, senza documento valido niente ricariche né prelievi, e dopo 60 giorni senza regolarizzazione il contratto si risolve di diritto. Il contratto segue lo schema ADM: sono regole del gioco a distanza in Italia, non una scelta di Sisal.
+- **FAQ Sisal (solo da snippet di ricerca, pagina non raggiungibile):** validazione del documento fino a 24 ore; se resta "non validato" si contatta l'assistenza. Da usare solo se Alberto salva la pagina FAQ registrazione.
+- **App Store, app scommesse:** 50 recensioni scritte leggibili via RSS (13/05-03/06/2026), media 3,56, nessuna parla di registrazione o documenti. Il voto complessivo resta 4,7 su 128.354.
+- **Trustpilot:** 403, non leggibile da qui.
+- **Altroconsumo, bacheca reclami (aprile 2026):** un caso singolo di conto sospeso con saldo trattenuto. Caso isolato, non verificato: non entra nella recensione (regola serie: niente temi dei reclami nei Contro).
+- **Lettura:** nessuna prova di un problema specifico di Sisal. L'attrito c'è, ma è strutturale (documento, convalida ADM, scadenze) e vale per tutti i concessionari. Nel testo va così: un passaggio che chiede pazienza al giocatore nuovo, comune al mercato regolato.
+
+**Decisione di Alberto (24/10/2026):** nel testo "l'apertura del conto chiede qualche passaggio e un po' di pazienza al giocatore nuovo (documento entro 3 giorni, convalida), come in tutto il mercato regolato italiano". Non è un difetto di Sisal.
 
 ## Punti aperti
 
