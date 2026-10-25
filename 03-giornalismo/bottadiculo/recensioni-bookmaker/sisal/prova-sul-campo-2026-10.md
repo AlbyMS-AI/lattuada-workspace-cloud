@@ -40,7 +40,30 @@ Regole comuni: prima ricarica di almeno 20€, passaggi da completare entro 7 gi
 - **Tutti i giochi**: 100% della prima ricarica fino a 50€ in Real Bonus + 5.000€ virtuali per Salva il Bottino (totale dichiarato 5.050€).
 - Altre pagine salvate, da leggere: Bingo, Poker, Giochi di carte, Lotterie, e le quattro varianti "da punto vendita".
 - Fun Bonus (T&C generali): si usa solo in sessioni dedicate, non è mai prelevabile, non si combina nella posta iniziale con saldo e bonus. Ogni bonus ha una scadenza indicata nella pagina della promozione.
-- **Mancano**: i "Termini e condizioni" della singola promozione (rollover del Real Bonus, conversione Fun → Real, validità delle Freebet). Nei PDF il riquadro è chiuso.
+
+### T&C delle promozioni (PDF risalvati da Alberto col riquadro aperto, 25/10/2026, 11:28-11:30)
+
+Comuni alle tre offerte online: solo con registrazione online (no pre-registrazioni in negozio); prima ricarica minima 20€ entro 7 giorni, non con bonifico (sì carta, Postepay, BancoPosta Online, PayPal, Skrill, Neteller, Paysafe, ricevitoria o agenzia); accredito dopo validazione del documento e verifica dell'email; **convalida del documento "indicativamente entro 1 ora"**; una sola volta per conto, persona, nucleo familiare, email, telefono, IP; prelevabili solo le vincite, non il bonus; esclusi conti sospesi o diffidati; Sisal può sospendere chi fa giocate a rischio minimo (copertura di almeno il 66,7% degli esiti su mercati a tre opzioni o del 50% su mercati a due).
+
+**Scommesse (fino a 7.150€):**
+
+- Real Bonus 30% fino a 100€: 20% entro 24 ore dalla prima ricarica, 80% nella settimana dopo. Ogni tranche si spende entro 3 giorni, solo su scommesse sportive, quota minima 1,90 per evento, almeno 4 eventi.
+- Freebet 50€: 10€ entro 24 ore, 40€ nella settimana dopo; stesse regole (3 giorni, 1,90, 4 eventi).
+- Fun Bonus 50% fino a 2.000€: accredito entro 24 ore, **wagering 45x, da giocare entro 2 giorni** su 15 slot indicate; conversione massima 2.000€ in Real Bonus, poi spendibile su altre 15 slot indicate.
+- Freebet extra Fantacalcio 5€: solo alla prima associazione dell'account entro 7 giorni, accredito entro 5 giorni lavorativi della settimana dopo; quota minima 2,50 per evento, 6,00 sul biglietto, almeno 5 eventi.
+- Salva il Bottino: 5.000€ virtuali da puntare su quesiti Sì/No; si passa al quesito successivo solo con la parte puntata sulla risposta corretta; non più di 3 giorni tra una domanda e l'altra, gioco da finire entro 20 giorni; il bottino salvato si accredita sul conto e si usa sulle scommesse sportive. Su sito e app Scommesse.
+
+**Casinò (fino a 7.000€):** Fun Bonus 50% della prima ricarica, accredito entro 24 ore, wagering 45x da giocare entro 2 giorni su 15 slot indicate; conversione massima 7.000€; il Real Bonus convertito si spende entro 7 giorni su 15 slot indicate.
+
+**Tutti i giochi (fino a 5.050€):** Real Bonus 100% fino a 50€, entro 6 ore dalla prima ricarica se il documento è validato; da spendere entro 7 giorni, diviso 25% scommesse sportive, ippica e virtual (quota 1,90, 4 eventi), 25% lotterie, 25% bingo, 25% slot (15 indicate); più Salva il Bottino.
+
+**Da punto vendita (online con codice, prima ricarica in ricevitoria o agenzia, minimo 10€, documento entro 7 giorni, bonus entro 6 ore, spendibile in 7 giorni):** Scommesse PDV-SPORT26, 50% fino a 100€ su scommesse con quota minima 7 e almeno 5 eventi, più Salva il Bottino; Tutti i giochi PDV-CROSS262, 50% fino a 100€ diviso 25% per sport (quota 7, 5 eventi), slot, lotterie, bingo; Casinò e slot PDV-CASINO263, 25% fino a 50€ in Real Bonus + 25% fino a 50€ in Fun Bonus, più Salva il Bottino. Altre pagine salvate da leggere se servono: Bingo, Poker, Giochi di carte, Lotterie.
+
+**Conti fatti (25/10/2026):**
+
+- Real Bonus sport al massimo (100€) con una ricarica di 333,33€; Fun Bonus sport al massimo (2.000€) con una ricarica di 4.000€; 45x su 2.000€ = 90.000€ di giocate in 2 giorni.
+- Casinò: per arrivare a 7.000€ di Fun Bonus serve una prima ricarica di 14.000€, ma il massimo per operazione è 10.000€ con carte, PayPal e simili e 4.999€ in punto vendita (FAQ ricariche). Con una sola ricarica da 10.000€ il Fun Bonus arriva a 5.000€. 45x su 7.000€ = 315.000€ in 2 giorni. **Decisione di Alberto (25/10/2026): non si segnala.** Nel testo solo percentuale, massimale e requisiti come da T&C.
+- Totali: sport 100+2.000+50+5.000 = 7.150 ✓; tutti i giochi 50+5.000 = 5.050 ✓.
 
 ## 9. Prelievo
 
@@ -96,9 +119,24 @@ Alberto: "onboarding difficile" = l'apertura del conto gioco. Chiede di verifica
 
 **Decisione di Alberto (24/10/2026):** nel testo "l'apertura del conto chiede qualche passaggio e un po' di pazienza al giocatore nuovo (documento entro 3 giorni, convalida), come in tutto il mercato regolato italiano". Non è un difetto di Sisal.
 
+## Giudizio personale di Alberto (24-25/10/2026)
+
+- **Posizione rispetto alla serie:** Sisal sopra Goldbet, Lottomatica, Betflag, Planetwin365 e MyLotteries, per l'innovazione e la flessibilità che contraddistinguono il gruppo Flutter. Nel testo come giudizio personale datato, dimostrato con esempi concreti; niente classifica esplicita contro operatori partner nel testo pubblico (tono da partner): da decidere con Alberto.
+- **Confronto con la serie (decisione di Alberto, 25/10/2026):** tutti sullo stesso piano, nessun vantaggio particolare a nessuno, come finora. Niente classifica né "sopra tutti" nel testo; innovazione e omnichannel come tratti di Sisal, senza confronti di merito con gli altri partner; comparativa solo come tabella di dati. Il giudizio "sopra tutti" resta in questa scheda, non nel pezzo.
+- **Voti già consegnati nella serie:** Betflag 4,5, Planetwin365 4,5, Lottomatica 4, Goldbet 4, MyLotteries 3,5. Sisal a 4,5 è allineata a Betflag e Planetwin365, non è il voto più alto.
+- **Voto finale (25/10/2026):** 4,5/5. È una sintesi editoriale, non la conversione lineare della media delle categorie (lezione Astra sulla serie): va dichiarato nel testo, e le categorie vanno tarate in modo coerente.
+- **Innovazione:** tutte le novità introdotte (Tipster, Salva il Bottino, collegamento Fantacalcio e simili).
+- **Flessibilità:** gestione dell'omnicanalità e negozi spesso innovativi; Alberto cita un bell'esempio a Milano (quale: da chiedere, la ricerca non lo identifica con certezza).
+- **Negozio di Milano:** Alberto dice "Wincity Green". La ricerca (25/10/2026) non trova un punto con questo nome; trova il Sisal Wincity di viale Jenner, vicino alla sede di via Ugo Bassi, inaugurato il 06/07/2022, format ibrido con intrattenimento, ristorazione, Serie A in streaming, scommesse, slot, VLT e lotterie (sisal.it/news/apre-il-nuovo-punto-vendita-sisal-wincity-a-milano, solo snippet). Da chiarire con Alberto.
+  Precisazione di Alberto (25/10/2026): il punto è in zona San Gottardo, Milano. La ricerca non trova un Sisal Wincity in corso San Gottardo: nel testo vale solo come osservazione diretta di Alberto (cosa ha visto), senza nome del format non verificato.
+  **Fonte trovata da Alberto (25/10/2026):** YouMark, 20/06/2025 (youmark.it/sisal-inaugura-a-milano-wincity-green-concept-store-orientato-alla-sostenibilita/). Sisal Wincity Green, corso San Gottardo, Milano: concept store orientato alla sostenibilità, progetto di Lombardini22; materiali riciclati, raccolta e riciclo dei mozziconi, soffitto verde con piante vere, impianti ad alta efficienza energetica, interventi artistici con NABA, adesione ai Punti Viola di DonneXStrada, spazi per la comunità e il non profit, formazione del personale sul gioco responsabile e incontri aperti al pubblico. Data di inaugurazione non indicata. In fact-check: cercare il comunicato Sisal (fonte primaria) per data e dettagli.
+- **Sostegno agli atleti:** Win for Italia Team, lotteria numerica della famiglia Win for Life con il CONI; il 26,5% della raccolta va al Comitato Olimpico per gli atleti dell'Italia Team; partenza indicata il 28/09 (2026 secondo SBC News del 10/09/2026); in tutti i punti vendita e online. Fonti: sisal.it/news/win-for-italia-team-il-nuovo-gioco-sisal-in-collaborazione-con-il-coni, sigma.world, sbcnews.co.uk. Da verificare su fonte primaria in fact-check (data, percentuale, provvedimento ADM).
+
 ## Punti aperti
 
-- Rollover e T&C delle singole promozioni di benvenuto (riquadro chiuso nei PDF): senza questi dati la recensione non esce.
+- ~~Rollover e T&C delle singole promozioni~~: chiuso il 25/10/2026 con i PDF risalvati.
+- ~~Massimale casinò di 7.000€~~: deciso, non si segnala.
+- Comparativa: dati di Lottomatica e Snai da rilevare alla data della recensione su fonte ufficiale.
 
 ## Voci 5-12: prova di Alberto
 
