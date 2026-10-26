@@ -1,6 +1,6 @@
 # Post LinkedIn personale: presenza al SiGMA World Roma (2-5 novembre 2026)
 
-Stato: versione scelta da Alberto il 26/10/2026 (v3, meno sales, senza la riga sulle regole italiane), costruita con Alberto passo passo. Da pubblicare nella settimana prima dell'evento, data da decidere. Immagine: la mette Alberto.
+Stato: versione scelta da Alberto il 26/10/2026 (v4: v3 adattata alle raccomandazioni SiGMA su perché vai, apertura agli incontri e CTA breve; CTA finale solo messaggio, chi non ha già un appuntamento scrive), costruita con Alberto passo passo. PUBBLICATO il 26/10/2026 alle 12:00 da Alberto, nella versione sotto. Sigla stand con trattino (H4-4029), come nel comunicato Softswiss; scelta di Alberto, anche se il trattino nel corpo di solito non si usa. Dopo i revisori locali (Codex 6/10, Astra 7/10 sulla v4) sono state applicate CTA, secondo paragrafo e sigla; la versione finale non è stata ricontrollata. Immagine: la mette Alberto.
 
 Scelte di Alberto: lettore = operatori italiani; obiettivo = fissare un incontro; tema = "come lavorare con noi"; nome Softswiss citato (scelta sua, in deroga alla regola "niente aggregatori specifici" della variante LinkedIn personale); stand H4 4029; invito sia allo stand sia a scrivere in privato; presente allo stand dal 3 al 5 novembre (non il 2).
 
@@ -14,8 +14,8 @@ Da verificare prima di pubblicare: sigla dello stand sulla mappa ufficiale (scri
 
 Dal 3 al 5 novembre sono al SiGMA World di Roma, allo stand Softswiss.
 
-Con chi gestisce un operatore italiano mi interessa parlare di una cosa sola: come si sceglie un gioco quando i cataloghi si somigliano.
+Quando propongo un gioco a un operatore guardo se rende e se risponde a quello che chiede il pubblico italiano. Mi interessa capire come scegli tu quando i cataloghi si somigliano.
 
-Io guardo tre cose: se rende, se risponde a quello che chiede il pubblico italiano, se porta engagement e una buona esperienza di gioco. Sono curioso di sapere cosa guardi tu.
+Se gestisci un operatore italiano, sono disponibile a incontrarti in fiera.
 
-Lo stand è H4 4029. Se ne vuoi parlare, passa o scrivimi.
+Scrivimi un messaggio per fissare un orario allo stand H4-4029.
