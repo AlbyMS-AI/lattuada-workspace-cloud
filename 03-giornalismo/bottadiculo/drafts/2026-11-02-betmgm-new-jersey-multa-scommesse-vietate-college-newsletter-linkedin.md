@@ -1,76 +1,76 @@
-# BetMGM multata due volte in New Jersey per le scommesse vietate sul college
+# BetMGM multata di nuovo in New Jersey per scommesse su eventi vietati
 
-Nel 2022 il New Jersey aveva multato BetMGM per 25.000 dollari. Motivo: scommesse accettate su partite universitarie che nello Stato non si possono quotare, per meno di 100 dollari in tutto.
+Nel 2022 il New Jersey aveva multato BetMGM per 25.000 dollari. Motivo: giocate accettate su due partite universitarie che nello Stato non si possono quotare, per meno di 100 dollari in tutto.
 
-A ottobre 2026 ci risiamo. Stessa violazione, multa da 72.000 dollari. E in più 8.204,49 dollari da restituire.
+A settembre 2026 ci risiamo. Di nuovo eventi vietati, multa da 72.000 dollari: quasi il triplo. Più 8.204,49 dollari da versare al regolatore.
 
-## Multa BetMGM in New Jersey: 72.000 dollari e il guadagno da restituire
+## Multa BetMGM in New Jersey: 72.000 dollari per eventi vietati e non approvati
 
-L'ordine è il numero 3073 della Division of Gaming Enforcement, il regolatore del gioco del New Jersey, firmato dalla direttrice ad interim Mary Jo Flaherty. Adotta l'atto di contestazione del 18 settembre e impone a BetMGM una sanzione civile di 72.000 dollari e un disgorgement di 8.204,49: la restituzione di quanto incassato con quelle giocate.
+L'ordine è il numero 3073 della Division of Gaming Enforcement, il regolatore del gioco del New Jersey, firmato dalla direttrice ad interim Mary Jo Flaherty. Adotta l'atto di contestazione del 18 settembre e impone a BetMGM una sanzione civile di 72.000 dollari e un disgorgement, cioè un versamento in più alla DGE, di 8.204,49.
 
-Le norme violate sono tre livelli diversi. La Costituzione dello Stato, il Sports Wagering Act, le regole della DGE sugli eventi ammessi. In New Jersey non si scommette sulle partite universitarie giocate nello Stato, né su quelle delle sue squadre universitarie, ovunque si giochino. Lo dice la Costituzione, e a togliere il divieto non sono riusciti nemmeno gli elettori (ma ci arriviamo in fondo).
+Il sommario degli atti della DGE parla di scommesse su eventi sportivi vietati e non approvati. Quali eventi, quante giocate, in che periodo: l'ordine non lo dice, e l'atto di contestazione non è pubblico. Tra le norme violate cita però, per prima, il paragrafo della Costituzione dello Stato che regola le scommesse sportive e che contiene, tra le altre cose, il divieto sul college.
 
-Lo stesso giro di ordini ha colpito altri due nomi. Bet365 paga 33.000 dollari per violazioni delle regole sull'autoesclusione, sanzione accettata. FanDuel 5.000, per non aver seguito un'indicazione della DGE durante un'indagine su scommesse sospette: secondo l'operatore, aveva restituito dei fondi a un cliente prima che l'indagine si chiudesse.
+Il divieto è questo: in New Jersey non si scommette sulle partite universitarie giocate nello Stato, né su quelle delle sue squadre universitarie, ovunque si giochino. Gli elettori, chiamati a toglierlo, l'hanno tenuto (ma ci arriviamo in fondo).
 
-Tre storie diverse. Quella che conta qui è la prima.
+Nello stesso giro di atti sono finiti altri due nomi. Bet365 paga 33.000 dollari per le regole sull'autoesclusione. FanDuel 5.000, per non aver seguito un'indicazione della DGE durante un'indagine su scommesse sospette: secondo l'operatore, aveva restituito dei fondi a un cliente prima che l'indagine si chiudesse.
 
-## La prima volta, nel 2022: meno di 100 dollari su Rutgers
+## BetMGM nel 2022: una multipla con Rutgers costruita in Australia
 
-Marzo 2022. La DGE multa BetMGM per 25.000 dollari per giocate accettate su due partite del 2021: una del torneo NCAA con Rutgers, università del New Jersey, il 20 marzo, e una del torneo MAAC tra Niagara e Marist, giocata ad Atlantic City il 10 marzo. Totale delle giocate: sotto i 100 dollari.
+Marzo 2022. La DGE chiude con una transazione da 25.000 dollari il caso di due giocate vietate accettate da BetMGM il 10 e il 20 marzo 2021. Come sono andate le cose lo ha raccontato all'epoca la stampa americana, riprendendo l'accertamento del regolatore.
 
-Nei documenti dello Stato, il ruolo principale nei mercati aperti per errore lo aveva Entain, la società che allora forniva a BetMGM la tecnologia. Una partita di Rutgers finita in quota perché qualcuno, lungo la catena, non sapeva o non aveva segnato che Rutgers sta in New Jersey.
+Il 10 marzo BetMGM accetta due scommesse sulla partita del torneo MAAC tra Niagara e Marist, in programma il giorno dopo ad Atlantic City. Un membro del trading se ne accorge dopo 40 minuti, annulla, rimborsa.
 
-Sull'ordine del 2026 la causa non c'è. Non si sa chi abbia sbagliato, né su quali partite. Si sa la cifra. **Gli 8.204 dollari da restituire valgono da soli più di ottanta volte l'intero giocato contestato nel 2022.** Quattro anni dopo, il buco nel palinsesto non era più una svista da pochi spiccioli.
+Dieci giorni dopo, sui siti di BetMGM e Borgata compare una multipla già confezionata con dentro una partita di Rutgers. L'aveva costruita un dipendente di Entain che lavorava in Australia e che Rutgers, squadra del New Jersey, non l'aveva riconosciuta. Resta online otto ore. Ci giocano in due, 30 dollari in tutto.
 
-## Chi costruisce il palinsesto e chi paga la multa
+Entain è la socia di BetMGM nella joint venture e la sua partner tecnologica, oggi come allora. Nell'ordine del 2022 la DGE scrive di aver tenuto conto dei provvedimenti disciplinari presi da BetMGM ed Entain verso i dipendenti coinvolti.
 
-Il divieto sul college ha una ragione che chi lavora nelle scommesse conosce bene. Atleti giovani, partite seguite da pochi: il terreno dove una combine costa meno. Il New Jersey l'ha scritto in Costituzione. Giusto così.
+## Chi controlla il palinsesto scommesse e chi paga la multa
 
-Il problema è un altro. Un palinsesto oggi non lo scrive una persona sola. Arriva da un feed, passa da un trader, da una mappatura degli eventi, da un filtro che dovrebbe togliere quello che in quello Stato non si può offrire. Ogni passaggio è un punto dove una partita vietata può scivolare dentro.
+Il divieto sul college ha senso. Atleti giovani, partite seguite da pochi, il terreno dove una combine costa meno: il New Jersey ha scelto di tenerlo fuori dal palinsesto, e giusto così.
 
-E quando scivola, la DGE non manda la fattura al fornitore. La manda a chi ha la licenza.
+Un palinsesto oggi non lo scrive una persona sola. Arriva da un feed, passa da un trader, da una mappatura degli eventi, da un filtro che dovrebbe togliere quello che in quello Stato non si può offrire, e se uno di questi passaggi sta dall'altra parte del mondo, con un altro fuso e un'altra geografia in testa, basta poco. Nel 2022 il controllo c'era. Arrivava dopo: 40 minuti, otto ore.
 
-**Un errore che si ripete a quattro anni di distanza, sulla stessa regola, dice che il controllo non sta dove dovrebbe stare: alla fine della catena, prima che l'evento vada in quota.** La multa del 2022 doveva servire a spostarlo lì. Non è bastata.
+**Nel 2026 la DGE non ha detto dove si è rotto. Ma un operatore multato una seconda volta per eventi vietati dice che quel controllo non sta ancora dove dovrebbe: prima che l'evento vada in quota, non dopo.** È una lettura, l'ordine i fatti non li descrive. Il conto, intanto, è arrivato due volte a BetMGM, non a Entain.
 
-## Al banco, quando la Primavera non c'è
+Non che in New Jersey il fornitore sia intoccabile. La DGE ha multato anche fornitori con licenza, Kambi nel 2023 e nel 2024, Amelco nel 2024. Nei due casi BetMGM ha pagato chi aveva il marchio sul sito.
+
+## Scommesse al banco, quando la Primavera non è in palinsesto
 
 Al banco di una sala italiana la scena è questa. Un cliente chiede di giocare una partita della Primavera. L'addetto la cerca nel terminale, scorre, non la trova. Non c'è.
 
-Il cliente non si scompone. Risponde: sull'altro sito c'è.
+Il cliente non si scompone. Risponde: «sull'altro sito c'è».
 
-Fine della conversazione, perché dal banco non si può fare altro. Il terminale accetta solo quello che il concessionario ha messo nel programma, e quella partita lì dentro non c'è. Nessun trader da convincere, nessuna eccezione. Proprio il filtro che a BetMGM, in quei passaggi, è mancato.
+Fine della conversazione. Dal banco nessun trader da convincere: il terminale mostra solo il programma del concessionario, e se una partita lì dentro non c'è, non si gioca. Perché non ci sia (scelta commerciale, elenco autorizzato, altro) l'addetto non lo sa e non gli serve saperlo.
 
-Dove vada poi quel cliente è un'altra storia, raccontata nella newsletter della settimana scorsa: il sito che quota tutto, fuori da ogni controllo. Qui conta il punto prima. Il "no" del banco è il sistema che funziona.
+Il controllo, insomma, sta tutto a monte, nel programma. Dove vada poi quel cliente è un'altra storia, raccontata nella newsletter della settimana scorsa: il sito .com, fuori dalle regole ADM.
 
 ## Scommesse fuori palinsesto in Italia: il programma è del concessionario
 
-Da noi la catena è la stessa, e la responsabilità finisce nello stesso posto. Il DM 145 del 2022, il regolamento delle scommesse a quota fissa, dice che il programma ufficiale lo definisce il singolo concessionario ed è "l'unico documento in riferimento al quale le scommesse possono essere accettate". Il programma di accettazione, con esiti e quote, lo redige il concessionario. Anche la refertazione degli esiti spetta a lui.
+Nel DM 145 del 2022, che disciplina le scommesse a quota fissa, il programma ufficiale «è definito dal singolo concessionario» dentro l'elenco di manifestazioni e tipologie autorizzate da ADM, e «costituisce l'unico documento in riferimento al quale le scommesse possono essere accettate» (articolo 5).
 
-Il fornitore esterno di quote o di trading nel decreto non compare mai. Che il feed arrivi da Malta, da Londra o da un ufficio interno, verso ADM il programma è del concessionario.
+Sulla base di quel programma il concessionario redige il programma di accettazione, con esiti e quote. La refertazione degli esiti spetta a lui. **Il fornitore esterno di quote o di trading nel decreto non c'è**: che il feed arrivi da Malta, da Londra o da un ufficio interno, il regolamento parla solo del concessionario.
 
-E le sanzioni del decreto colpiscono lui. **Se le violazioni sulle regole di validità e rimborso delle giocate si ripetono, il DM 145 prevede la sospensione del collegamento al totalizzatore fino a tre mesi e, nei casi più gravi, la decadenza della concessione.** Una scommessa accettata dopo l'inizio effettivo dell'evento, o a esito già noto, è "non valida" e va rimborsata.
-
-Insomma: la recidiva, in Italia, ha un prezzo scritto nel regolamento. E non è una fattura.
+Anche le sanzioni dell'articolo 17 parlano a lui. Per una violazione del regolamento ADM può sospendere il collegamento al totalizzatore, per un massimo di tre mesi. **Se a ripetersi sono le violazioni delle regole su validità e rimborso delle giocate, il decreto apre alla decadenza della concessione.** Una giocata accettata dopo l'inizio effettivo dell'evento, o dopo che un suo esito si è già verificato, è «non valida» e il giocatore ha diritto al rimborso.
 
 ## Cosa cambia da domani per chi lavora sul palinsesto
 
-Se lavori nel trading o nel risk, la domanda da fare al fornitore è semplice: quali esclusioni locali applica il vostro feed, e chi le aggiorna? Se la risposta è "le applicate voi", il filtro è tuo. Va scritto, va testato, va controllato prima di ogni apertura di mercato su campionati che non conosci.
+Se lavori nel trading o nel risk, la domanda da fare al fornitore è semplice: quali esclusioni locali applica il vostro feed, e chi le aggiorna? Se la risposta è «le applicate voi», il filtro è tuo. Va scritto e va testato, soprattutto prima di aprire mercati su campionati che non conosci.
 
-Se lavori in compliance, il caso BetMGM è un argomento da portare in riunione. Un errore pagato una volta non garantisce niente sulla seconda. Serve sapere chi, nell'ultimo passaggio, guarda la lista degli eventi prima che vadano online.
+Se lavori in compliance, il caso BetMGM 2022 è un esempio da portare in riunione: 40 minuti per accorgersene, otto ore per la multipla. Chiedi quanto ci metterebbe il vostro sistema, e chi riceve l'allarme.
 
-Se lavori al banco, il cliente che dice "sull'altro sito c'è" ti sta dando un'informazione: dove gioca quando non è da te. Il terminale che dice no, intanto, ti sta proteggendo.
+Se lavori al banco, il cliente che dice «sull'altro sito c'è» ti sta dando un'informazione: dove gioca quando non è da te. Vale la pena ricordarselo, magari scriverlo.
 
 Se fai affiliazione o scrivi pronostici, controlla che gli eventi di cui parli siano davvero offerti dagli operatori che promuovi. Il contenuto su una partita che il concessionario non ha in palinsesto porta il lettore da un'altra parte.
 
 ## Il numero della settimana: 57%
 
-Novembre 2021, referendum in New Jersey: togliere il divieto di scommettere sulle partite universitarie giocate nello Stato e sulle sue squadre? Gli elettori hanno detto no, con il 57% contro il 43%.
+Novembre 2021, referendum in New Jersey: permettere, nei casinò e negli ippodromi, le scommesse su tutti gli eventi universitari, comprese le partite giocate nello Stato e quelle delle sue squadre? Gli elettori hanno detto no, con il 57% contro il 43%.
 
-Il divieto che BetMGM ha violato due volte, quindi, non è una regola calata dall'alto e dimenticata. Lo hanno confermato i cittadini dello Stato, alle urne, pochi mesi prima della prima multa.
+Il divieto che BetMGM aveva violato nel marzo 2021 è nel testo della Costituzione dal referendum del 2011, ed è stato confermato alle urne dieci anni dopo.
 
 ---
 
-Nel tuo palinsesto, chi controlla l'ultimo passaggio prima che un evento vada in quota? E se domani entrasse una partita che non si può offrire, chi se ne accorgerebbe per primo: il trader o il regolatore?
+Nel tuo palinsesto, se domani entrasse una partita che non si può offrire, chi se ne accorgerebbe per primo: il trader o il regolatore? E dopo quanti minuti?
 
 Salvati la newsletter e girala a chi lavora sul trading e sul palinsesto.
 
@@ -80,6 +80,9 @@ Salvati la newsletter e girala a chi lavora sul trading e sul palinsesto.
 
 - Gambling Insights #88, lunedì 02/11/2026. Scritta sabato 31/10. Tema del piano (New Jersey) confermato da Alberto il 31/10, apertura A (recidiva BetMGM). Famiglia C (casi e persone), territorio conto online e banco, categoria normativa-regolamentazione.
 - Tesi di Alberto: divieto giusto, controllo debole. Contributo dal campo: la scena al banco, "sull'altro sito c'è", con la Primavera (Alberto, 31/10).
-- Sovrapposizioni: post del 30/10 (ASA, autoesclusione) → bet365 e autoesclusione restano una riga. Newsletter #87 (palinsesto ADM, .com) → niente rispiegazione di DM 145 generale, palinsesto complementare, determinazione 2019; il .com solo con rimando. Jamma #11 dello stesso lunedì: tema ancora da definire, controllare a lock.
+- Fact-check del 31/10 (verificatore-fatti), correzioni approvate da Alberto: college nel 2026 non dimostrato (ordine e sommario DGE: "prohibited and unapproved sports events"), quindi H1 su "eventi vietati" e college solo come norma costituzionale citata; tolto il confronto "ottanta volte" (disgorgement contro giocato); "la DGE non multa il fornitore" falso come regola (Kambi 2023 e 2024, Amelco 2024), limitato ai due casi BetMGM; il controllo fallito nel 2026 dichiarato come lettura; date 2022 corrette (giocate del 10 e 20/03/2021, partita MAAC l'11/03); Entain socia e partner tecnologica ancora oggi.
+- 2022, dettagli dell'atto di contestazione (trader Entain in Australia, verifica manuale mancata, due giocatori per 30 dollari): dalla stampa dell'epoca (SBC Americas 25/03/2022, GGB News, Legal Sports Report). L'ordine DGE 2022 conferma solo le due giocate, la transazione e i provvedimenti disciplinari sui dipendenti. Il "programma non funzionante" non ha trovato riscontro: escluso.
+- Sovrapposizioni: post del 30/10 (ASA, autoesclusione) → bet365 resta una riga. Newsletter #87 (palinsesto ADM, .com) → niente rispiegazione del palinsesto complementare né della determinazione 2019; il .com solo con rimando. Jamma #11 dello stesso lunedì: tema ancora da definire, controllare a lock.
 - Non verificato e quindi escluso: Primavera nell'elenco ADM delle manifestazioni autorizzate, articolo della convenzione sui fornitori terzi, importi delle penali ADM, causa dell'errore 2026.
-- Fonti primarie: ordini DGE n. 3073 (BetMGM), 3075 (bet365), 3071 (FanDuel), PDF pubblicati con l'articolo di The iGaming Europe del 16/10/2026 <https://theigaming.eu/2026/10/16/new-jersey-fines-betmgm-bet365/>; 2022: iGB 24/03/2022 <https://igamingbusiness.com/legal-compliance/compliance/betmgm-to-pay-penalty-for-prohibited-nj-college-basketball-bets/>, AP 23/03/2022 <https://abc17news.com/news/2022/03/23/nj-fines-betmgm-25k-for-bets-on-prohibited-basketball-games/>; DM 145/2022 <https://www.gazzettaufficiale.it/eli/id/2022/09/28/22G00153/sg>.
+- Revisori locali del 01/11 (Astra non disponibile): revisore-astra 6/10, revisore-codex 6/10. Applicate: 2022 rifatto su GGB (annullamento dopo 40 minuti, multipla online otto ore, dipendente Entain, tolta la verifica manuale non riscontrata); disgorgement versato alla DGE, non ai giocatori; parallelo sanzioni ADM limitato all'art. 17 (sospensione per violazione del regolamento, decadenza per violazioni ripetute degli artt. 6 e 7); scena al banco ridimensionata (il terminale mostra il programma, il motivo dell'assenza non si sa); elettori «l'hanno tenuto»; antitesi e tesi ripetute ridotte; H2 con keyword; caporali. Citazioni DM 145 verificate sul testo GU (art. 5 c. 2 e 5, art. 6 c. 6, art. 17).
+- Fonti primarie: ordine DGE 3073 <https://www.nj.gov/oag/ge/docs/Rulings/2026/sep16_30/B3betmgm.pdf>; sommario DGE 16-30/09/2026 <https://www.nj.gov/oag/ge/docs/Rulings/2026/sep16_30/Summary.pdf>; ordini 3075 (bet365) e 3071 (FanDuel) <https://www.sportsbettingdime.com/app/uploads/2026/10/B1bet365.pdf>, <https://www.sportsbettingdime.com/app/uploads/2026/10/B5fanduel5k.pdf>; ordine DGE 2022 <https://www.nj.gov/oag/ge/docs/Rulings/2022/mar1_15/b2_mgm.pdf>; Kambi/Rush Street 2023 <https://www.nj.gov/oag/ge/docs/Rulings/2023/aug1_15/B3kambirush.pdf>; Amelco 2024 <https://www.nj.gov/oag/ge/docs/Rulings/2024/nov16_30/B2amelcosettle.pdf>; risultati referendum 2021 <https://www.nj.gov/state/elections/assets/pdf/election-results/2021/2021-official-general-results-public-question-1.pdf>; DM 145/2022 <https://www.gazzettaufficiale.it/eli/id/2022/09/28/22G00153/sg>; GGB 2022 <https://ggbmagazine.com/article/nj-fines-betmgm-for-taking-in-state-college-bets>.
