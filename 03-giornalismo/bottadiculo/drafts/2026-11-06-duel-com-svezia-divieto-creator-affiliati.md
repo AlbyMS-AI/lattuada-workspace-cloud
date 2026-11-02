@@ -2,21 +2,21 @@
 
 Famiglia: casi e persone (Duel.com, Spelinspektionen). Tesi: senza toccare i pagamenti il divieto resta un cartello, e Duel lo dice apertamente; chi resta esposto è chi porta i clienti, e in Italia il Decreto Dignità colpisce anche il mezzo di diffusione. Lettore: creator e affiliati italiani.
 
-**Titolo grafica:** Duel.com vietato in Svezia. Il sito resta aperto, chi lo promuove no
+**Titolo grafica:** Vietato, ma raggiungibile. Il rischio passa a chi lo promuove. (kicker: Duel.com vietato in Svezia) — file: grafiche/2026-11-06-duel-com-svezia-cover.png
 
 ---
 
-Duel.com, il casinò crypto lanciato nel 2025 a forza di croupier famosi in streaming e serate di combattimento, è vietato in Svezia dal 28 ottobre. Spelinspektionen ha emesso un divieto con effetto immediato contro la società che lo gestisce, Immortal Snail LLC, licenza di Anjouan.
+Duel.com, il casinò crypto lanciato nel 2025 e noto per i croupier famosi in streaming e per un evento di combattimento a suo marchio, è vietato in Svezia dal 28 ottobre. Spelinspektionen ha emesso un divieto con effetto immediato contro la società che lo gestisce, Immortal Snail LLC, licenza di Anjouan.
 
-Il sito però è ancora lì. Il regolatore ha verificato che da un IP svedese compaiono corone e lingua svedese, e che il blocco degli accessi dalla Svezia non c'è. La risposta di Duel: lo svedese è una lingua internazionale, se la Svezia vuole bloccare blocchi lei.
+Il giorno della decisione il regolatore ha trovato il sito ancora raggiungibile da un IP svedese, con corone e lingua svedese, e nessun blocco degli accessi dalla Svezia. La risposta di Duel: lo svedese è una lingua internazionale, la Svezia va bloccata via IP, e dal sito lo svedese non lo toglierà.
 
-Ha ragione su una cosa. Un divieto che non tocca i pagamenti è un cartello, e con i depositi in cripto anche quella strada si stringe.
+In Svezia le carte verso i casinò senza licenza sono già bloccate. Con i depositi in cripto quel blocco non serve, e un divieto che non arriva al pagamento resta un cartello.
 
 Al banco di una sala, un cliente racconta di aver giocato su un casinò crypto visto in diretta su una piattaforma di streaming. Poi chiede perché qui quei bonus non ci sono.
 
-La parte che quasi nessuno sottolinea: se il sito non si ferma, il divieto finisce per mordere chi lo promuove. In Italia la strada è già scritta. L'articolo 9 del Decreto Dignità vieta la pubblicità del gioco con vincite in denaro con qualsiasi mezzo e sanziona anche chi la diffonde, con un minimo di 50.000 euro. Le linee guida AGCOM ci mettono dentro i social e gli influencer.
+La parte che quasi nessuno sottolinea: se il sito non si ferma, il divieto finisce per mordere chi lo promuove. In Italia la strada è già scritta. L'articolo 9 del Decreto Dignità vieta la pubblicità del gioco con vincite in denaro con qualsiasi mezzo e sanziona anche chi la diffonde, di norma non inferiore a 50.000 euro. Le linee guida AGCOM ci mettono dentro anche la pubblicità fatta dagli influencer, e nel 2024 l'AGCOM ha sanzionato per la prima volta anche dei content creator.
 
-Se fai il creator o l'affiliato e un marchio offshore ti offre il doppio: il sito resta aperto, il conto della sanzione arriva a te.
+Se fai il creator o l'affiliato e un marchio offshore ti offre il doppio: il sito magari resta raggiungibile, il conto della sanzione arriva a te.
 
 ---
 
