@@ -264,3 +264,7 @@ Il set attuale copre bene: rassegna stampa (PIERO), pipeline commerciale (MARCO)
 | Check serale | trig_01J3Go9PV537sbW6qanj9Gvc | Disattivata il 21/10/2026 (non cancellata) |
 | ALB-17 Weekly Review Reminder | trig_01L2wP4nyxfp1UHhkqGrBmvg | Disattivata 02/08 |
 | LinkedIn Post Reminder 24h | trig_01WyDwxbxyNBTmET6Qc3KmtK | Disattivata 02/08 |
+
+## Spike registro task su Google Sheet (09/11/2026)
+
+Prova di raggiungibilità di un endpoint Apps Script dal cloud (routine `trig_01EAmDTqz3vP8BpUiwEdfKwA`, disattivata, non cancellabile da qui: sessione `cse_015ZGNwBFqiRFvcXRc9EMFWH`). Esito: **non verificabile, bloccato dal classificatore di sicurezza** della routine (motivo "Exfil Scouting") sia su curl GET sia su curl POST verso `script.google.com`; WebFetch non tentato. Il blocco è del classificatore, non della rete. Lettura pratica: una routine non può chiamare in modo affidabile un URL esterno sconosciuto, e ancora meno con un token nel prompt. Dal Mac l'API funziona (GET e POST). Piano: ramo B (vedi `plans/2026-11-09-registro-task-google-sheet-via-linear.md`).
