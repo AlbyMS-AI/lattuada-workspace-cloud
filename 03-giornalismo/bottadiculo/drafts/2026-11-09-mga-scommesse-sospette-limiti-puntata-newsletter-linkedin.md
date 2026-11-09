@@ -1,72 +1,72 @@
-# Scommesse sospette, MGA: 48 segnalazioni in tre mesi. La giocata tagliata non sparisce
+# Scommesse sospette, MGA: 48 segnalazioni in tre mesi. E la giocata tagliata dal limite dove va?
 
-Tra luglio e settembre 2026 la Malta Gaming Authority ha ricevuto 48 segnalazioni di scommesse sospette. Cinquantaquattro eventi, quattordici conti, metà dei casi sul calcio.
+Tra luglio e settembre 2026 la Malta Gaming Authority ha ricevuto 48 segnalazioni di scommesse sospette, su 54 eventi e 14 conti. Metà delle segnalazioni riguarda il calcio.
 
-Quarantotto in tre mesi, da tutti i book con licenza maltese. Poche. E secondo la stessa MGA non è detto che sia un problema.
+Il numero, da solo, dice poco. Dice di più un documento che l'MGA ha pubblicato poche settimane dopo, su un altro tema: perché alcuni operatori segnalano pochissimo.
 
 ## Scommesse sospette, i numeri MGA del terzo trimestre 2026
 
-Il report sull'integrità delle scommesse sportive è uscito a metà ottobre. Ventiquattro segnalazioni sul calcio, tredici sul tennis, poi cricket (4), basket (3), esports (2), una sul tennis tavolo e una sul football americano.
+Ventiquattro segnalazioni sul calcio, tredici sul tennis, poi cricket (4), basket (3), esports (2), una sul tennis tavolo e una sul football americano. I dati del report sono quelli ripresi dalla stampa di settore a metà ottobre.
 
-Le allerte diffuse nel trimestre sono 23. Cinque casi sono diventati un rapporto con l'analisi delle giocate, inviato agli organismi che governano lo sport; due sono ancora in lavorazione, per sedici il rapporto non è servito. L'MGA ha preso parte a sei indagini.
+Le allerte diffuse nel trimestre sono 23. Cinque sono diventate un rapporto con l'analisi delle giocate, inviato agli organismi che governano lo sport. Due risultavano ancora in lavorazione alla chiusura del report, per le altre sedici non era stato predisposto un ulteriore rapporto. L'MGA ha preso parte a sei indagini.
 
-Numeri ordinati, quasi rassicuranti. Il punto interessante è un altro, e sta in un documento uscito due settimane dopo.
+## Scommesse sospette e thematic review MGA: perché alcuni operatori segnalano poco
 
-## Thematic review MGA: perché le segnalazioni di scommesse sospette sono poche
+Il 27 ottobre l'MGA ha pubblicato una revisione tematica, condotta nel 2025, sugli operatori che negli ultimi anni avevano segnalato pochissimo o niente. Un campione scelto apposta, non un'analisi del trimestre.
 
-A fine ottobre l'MGA ha pubblicato una revisione tematica sugli operatori che segnalano poco o niente. La conclusione, in sostanza: pochi rapporti non vogliono dire per forza un monitoraggio che non funziona.
+Nel campione esaminato, i volumi bassi dipendevano anche dai controlli preventivi: limiti di puntata stretti, offerta prudente, eventi a rischio tolti dal palinsesto, a cominciare da certe competizioni giovanili. Per il singolo operatore il vantaggio è chiaro: meno esposizione alla puntata sospetta.
 
-In vari casi il numero basso nasce dalla prevenzione. Limiti di puntata stretti, eventi considerati troppo esposti alla manipolazione tolti dal palinsesto. Se la giocata non entra, non c'è niente da segnalare.
+Ma la stessa revisione mette per iscritto anche le debolezze. Molti operatori si affidano a partner esterni di monitoraggio e aprono un'indagine interna solo quando arriva la loro allerta: niente allerta, meno probabilità che il sospetto venga visto. Alcuni operatori con licenze in più giurisdizioni non sapevano che l'attività sospetta vista sullo stesso mercato, con giocatori sotto licenza MGA, va segnalata anche a Malta.
 
-Ha una logica. Anzi, funziona: una combine che non trova dove piazzare i soldi non rende.
+E c'è una riga che conta più delle altre. Nei documenti interni di alcuni operatori mancava il dettaglio sull'obbligo di segnalare l'attività sospetta nei tempi previsti, **anche quando non c'è stato un danno economico**.
 
-Nella stessa revisione l'MGA indica però cosa va sistemato: procedure di escalation scritte con chiarezza, responsabilità di segnalazione definite, supervisione umana sopra i sistemi automatici, una lettura uniforme degli obblighi di segnalazione. Tradotto: non dappertutto è chiaro chi deve alzare la mano, e quando.
+## Scommesse sospette e limiti di puntata al banco: cosa succede in agenzia
 
-## Limiti di puntata al banco: cosa succede in agenzia
-
-In una sala italiana la giocata grossa raramente arriva a fare rumore. Il limite c'è già, e non lo decide la sala: lo imposta il concessionario di riferimento.
+In una sala italiana la giocata grossa quasi mai arriva a fare rumore. Il limite c'è già, e non lo decide la sala: lo imposta il concessionario di riferimento.
 
 Non è uguale per tutti. C'è il cliente libero di puntare cifre alte e quello che su un certo evento, o con quel conto, trova il tetto molto più in basso. Caso per caso, e il motivo al banco non arriva.
 
-Chi si ritrova limitato quasi mai va dal responsabile di sala a chiedere spiegazioni. Del resto il responsabile, anche volendo, dovrebbe girare la domanda all'assistenza clienti dell'operatore, e spesso da solo non avrebbe gli strumenti per gestirla.
+Chi si ritrova limitato di rado va dal responsabile di sala a chiedere spiegazioni. Del resto il responsabile, anche volendo, dovrebbe girare la domanda all'assistenza clienti dell'operatore, e spesso da solo non avrebbe gli strumenti per gestirla.
 
 Quindi il cliente non protesta. Se ne va.
 
-## Limiti di puntata e .com: dove finisce la giocata tagliata
+## Scommesse sospette fuori dal perimetro ADM: dove può spostarsi la giocata
 
-Qui sta la parte che nel report non c'è. Chi vuole puntare più di quanto il suo conto gli consente ha alternative, e non tutte stanno dentro il perimetro ADM: siti .com, operatori senza concessione italiana, dove il tetto è più alto o non c'è proprio.
+Chi vuole puntare più di quanto il suo conto gli consente può cercare altrove, anche presso operatori senza concessione italiana, dove spera di trovare un tetto più alto. Per arrivarci non serve nemmeno cambiare sala: basta il telefono.
 
-**Il limite toglie la giocata dal book. Dal mercato, no.**
+Quella giocata, se viene fatta lì, esce dal flusso ordinario di dati che arriva ad ADM. Autorità e forze dell'ordine si scambiano informazioni anche sull'offerta illegale, quindi qualcosa può emergere lo stesso. Ma da lì è più difficile vederla.
 
-Quello che succede su un sito senza concessione ADM ad ADM non arriva. E se il sito non ha nemmeno una licenza seria, da qualche altra parte, non arriva a nessuno.
+**Il limite riduce l'esposizione del book. Il tentativo resta un'informazione.**
 
-Limitare va bene, sia chiaro. Nessuno chiede a un book di accettare una giocata che puzza. **Ma il tentativo andrebbe segnalato lo stesso**: il conto che prova una puntata alta su un evento minore e se la vede tagliare è già un'informazione, forse la più pulita che un book possa avere. Se resta un limite e basta, chi indaga non la vede mai (e sul tennis, ci arriviamo in fondo, questo pesa più che altrove).
+Va distinto. Una puntata alta rifiutata non è di per sé un sospetto: spesso è solo un cliente che gioca forte. Ma quando il tentativo ha altri indizi (un evento minore, un conto nuovo, più conti sulla stessa partita) diventa un sospetto da valutare. Registrarlo, esaminarlo, decidere se segnalarlo: sono tre passaggi diversi. Se manca il primo, gli altri due non partono, e l'informazione resta isolata nel sistema del concessionario.
 
-## Flussi anomali in Italia: il percorso tra ADM e UISS
+## Scommesse sospette e flussi anomali in Italia: cosa dice la legge dal 2025
 
-In Italia il percorso delle anomalie è conosciuto. Il bookmaker che vede movimenti strani su un evento allerta ADM, e ADM gira la segnalazione all'Unità informativa scommesse sportive, l'UISS del ministero dell'Interno, dove siedono le forze di polizia. Dal 2020 un protocollo tra ADM, Procura generale dello sport del CONI e procure federali regola anche il passaggio verso la giustizia sportiva.
+In Italia il sistema è più largo di una segnalazione del bookmaker. ADM monitora i flussi di gioco. Il protocollo tra CONI e ADM dell'8 ottobre 2020 disciplina lo scambio di dati con la Procura generale dello sport e le procure federali, e scrive che i concessionari sono tenuti a collaborare nell'individuazione dei fenomeni di gioco non corrispondenti agli esiti attesi. Le anomalie arrivano anche all'Unità informativa scommesse sportive (UISS) del ministero dell'Interno.
 
-È un sistema costruito per leggere i flussi: giocate che si concentrano su un evento, quote che si muovono senza una ragione visibile. **Una giocata rifiutata dal limite un flusso non lo crea.** Resta nel sistema del concessionario, se qualcuno l'ha registrata, e lì si ferma.
+Dal 2025 c'è anche una norma. Il decreto Sport (DL 96/2025, convertito dalla legge 119/2025) ha aggiunto alla legge 401 del 1989 un obbligo per le autorità amministrative competenti: quando rilevano flussi anomali di scommesse, ne danno comunicazione alla Procura generale dello sport. L'attuazione spetta ad ADM.
 
-## Cosa cambia da domani
+**È un sistema costruito per leggere i flussi**: giocate che si concentrano, quote che si muovono senza una ragione visibile. Un tentativo bloccato dal limite, da solo, un flusso non lo crea.
 
-Se lavori nel risk o nel trading: ogni limite messo a un conto per un sospetto è un dato. Va registrato con il motivo, e la domanda da portare in riunione è se quel motivo, oggi, esce mai dal vostro ufficio.
+## Cosa cambia da domani per chi gestisce le scommesse sospette
 
-Se fai il responsabile di sala: quando un cliente chiede perché non può puntare di più, sapere a chi girare la richiesta e cosa scrivere è già metà del lavoro. Il cliente che se ne va senza chiedere è un'informazione persa due volte, per la sala e per il concessionario.
+Se lavori nel risk o nel trading: quando un limite nasce da un sospetto, e non da una scelta commerciale, va registrato con il motivo. La domanda da portare in riunione è chi lo valuta dopo, e in quanto tempo. Se il monitoraggio lo fa un partner esterno, chiedete anche cosa vede: solo le giocate accettate o pure i tentativi bloccati?
 
-Se lavori in compliance: le aree di miglioramento indicate dall'MGA (escalation scritta, chi segnala cosa, supervisione umana) sono una checklist già pronta. Vale anche con una concessione ADM.
+Se fai il responsabile di sala: quando un cliente chiede perché non può puntare di più, sapere a chi girare la richiesta e cosa scrivere è già metà del lavoro. Il cliente che se ne va senza chiedere è un'informazione che nessuno raccoglie.
 
-Se scrivi pronostici o gestisci una community: la domanda «dove posso puntare di più?» prima o poi arriva. In Italia la risposta legale sta dentro il perimetro ADM, e un consiglio diverso è un problema anche tuo.
+Se lavori in compliance: le aree di miglioramento indicate dall'MGA (escalation scritta, responsabilità chiare, supervisione umana, obbligo di segnalare anche senza danno economico) si rivolgono ai suoi licenziatari. Come riferimento operativo funzionano anche per un concessionario ADM.
 
-## Il numero della settimana: 13
+Se scrivi pronostici o gestisci una community: la domanda «dove posso puntare di più?» prima o poi arriva. Indicare un operatore senza concessione italiana significa promuovere offerta non autorizzata, e in Italia anche l'offerta autorizzata ha i suoi limiti, a partire dal divieto di pubblicità del decreto Dignità.
+
+## Il numero della settimana: 13 segnalazioni di scommesse sospette sul tennis
 
 Le segnalazioni MGA sul tennis nel terzo trimestre. Seconda voce dopo il calcio.
 
-Nel tennis in campo c'è una persona sola. Per spostare un game, un set, a volte una partita intera, basta convincerne una, e nei tornei minori, con montepremi piccoli e quote comunque in palinsesto, convincerla costa meno. Il limite di puntata lì protegge il book. Il segnale, se nessuno lo passa, si perde.
+Nel singolare, a incidere su un game o su un set può bastare un solo giocatore. I 13 casi non dicono che il tennis sia più esposto di altri sport, dicono dove nel trimestre si sono concentrati i sospetti. E nel tennis un limite che taglia una giocata strana su un match minore protegge il book, mentre il segnale, se nessuno lo valuta, si ferma lì.
 
 ---
 
-Nel tuo book, quando un conto si vede tagliare la puntata su un evento minore, quell'informazione dove finisce: in un limite o in una segnalazione?
+Nel tuo book, quando un conto si vede tagliare la puntata per un sospetto, chi riceve quell'informazione, e cosa ne fa?
 
 Salvati la newsletter e girala a chi lavora su risk, trading e banco.
 
@@ -74,8 +74,9 @@ Salvati la newsletter e girala a chi lavora su risk, trading e banco.
 
 **Note di produzione (non pubblicare):**
 
-- Gambling Insights #89, lunedì 09/11/2026. Scritta sabato 07/11. Tema del piano (skill games Pennsylvania e totem) caduto per mancanza di contributo dal campo; caduta anche la riserva MGD (stesso motivo). Scelta da Alberto la scheda 6 della banca temi (MGA, scommesse sospette). Famiglia K (curiosità), territorio banco, categoria gioco-responsabile.
-- Tesi di Alberto: limitare va bene, ma il tentativo andrebbe segnalato lo stesso. Contributo dal campo (Alberto, 07/11): limite deciso dal concessionario e variabile per cliente, conto ed evento; il cliente limitato quasi mai va dal responsabile; il responsabile passa dall'assistenza clienti dell'operatore e spesso non ha gli strumenti; chi vuole puntare di più va anche fuori dal perimetro ADM.
-- Non verificato e quindi non affermato: un obbligo normativo del concessionario italiano di segnalare i flussi anomali (trovato solo il percorso bookmaker, ADM, UISS e il protocollo 2020).
-- Piano: la #90 del 16/11 (MGD) va ridiscussa al lock, stesso problema del contributo dal campo.
-- Fonti: AGIMEG 16/10/2026 sul report MGA Q3 <https://www.agimeg.it/malta-48-segnalazioni-scommesse-sospette-ricevute-mga-terzo-trimestre-2026/>; Jamma <https://www.jamma.it/attualita/scommesse-sospette-mga-di-malta-48-segnalazioni-nel-terzo-trimestre-2026-calcio-e-tennis-i-piu-coinvolti-360719>; MGA thematic review <https://www.mga.org.mt/app/uploads/Thematic-Review-of-Monitoring-Escalation-and-Controls.pdf>, ripresa da EEG 29/10/2026 <https://eegaming.org/latest-news/2026/10/29/53389/mga-publishes-findings-from-thematic-review-on-sports-betting-integrity-reporting-and-escalation/>; protocollo CONI-PGS-ADM 2020 <https://www.CONI.IT/images/Procura_Generale_dello_Sport/linea_guida_su_protocollo_CONI-PGS_-_ADM_-_20ott2020.pdf>; UISS e percorso ADM (LaPresse 23/06/2015) <https://www.lapresse.it/sport/2015/06/23/calcio-bookie-segnalarono-gara-catania-trapani-come-sospetta-al-viminale/>.
+- Gambling Insights #89, lunedì 09/11/2026. Scritta sabato 07/11, corretta lunedì 09/11 dopo il check Astra (voto 5/10). Tema del piano (skill games Pennsylvania e totem) caduto per mancanza di contributo dal campo; caduta anche la riserva MGD (stesso motivo). Scelta da Alberto la scheda 6 della banca temi (MGA, scommesse sospette). Famiglia K (curiosità), territorio banco, categoria gioco-responsabile.
+- Tesi di Alberto: limitare va bene, ma il tentativo andrebbe segnalato lo stesso. Dopo Astra circoscritta ai tentativi sospetti (registrare, valutare, decidere se segnalare). Contributo dal campo (Alberto, 07/11): limite deciso dal concessionario e variabile per cliente, conto ed evento; il cliente limitato di rado va dal responsabile; il responsabile passa dall'assistenza clienti dell'operatore e spesso non ha gli strumenti; chi vuole puntare di più va anche fuori dal perimetro ADM.
+- Correzioni Astra applicate: separato il 48 dalla revisione tematica (campione selezionato, non spiegazione del trimestre); tolto «se la giocata non entra non c'è niente da segnalare» e aggiunto l'obbligo MGA di segnalare anche senza danno economico (revisione, p. 15); tolto «Poche»; stato al passato per i due casi in lavorazione; revisione datata 27/10; licenze multiple circoscritte; spostamento della giocata e perdita dell'informazione al condizionale; tolti «.com», «non c'è proprio», «non arriva a nessuno», «licenza seria», «la più pulita»; protocollo CONI e ADM 8/10/2020 con le parti corrette e il dovere di collaborazione dei concessionari (p. 6); aggiunto art. 6 DL 96/2025 conv. L. 119/2025 (commi 3-bis e seguenti dell'art. 2 L. 401/1989), obbligo in capo alle autorità, non al bookmaker; tolta la presidenza UISS; tennis al singolare, tolto «più che altrove» e «ci arriviamo»; checklist MGA come riferimento operativo; affiliati con il divieto di pubblicità; H2 con «scommesse sospette»; ridotte le frasi a effetto.
+- Non verificato e quindi non affermato: un obbligo specifico del concessionario italiano di segnalare i tentativi rifiutati. Il report MGA Q3 originale non è stato aperto (numeri da AGIMEG e Jamma).
+- Piano: la #90 del 16/11 (MGD) va ridiscussa al lock, stesso problema del contributo dal campo. Su Linear non esiste la issue della #89.
+- Fonti: AGIMEG 16/10/2026 <https://www.agimeg.it/malta-48-segnalazioni-scommesse-sospette-ricevute-mga-terzo-trimestre-2026/>; Jamma <https://www.jamma.it/attualita/scommesse-sospette-mga-di-malta-48-segnalazioni-nel-terzo-trimestre-2026-calcio-e-tennis-i-piu-coinvolti-360719>; MGA thematic review <https://www.mga.org.mt/app/uploads/Thematic-Review-of-Monitoring-Escalation-and-Controls.pdf>; protocollo CONI e ADM 2020 <https://www.coni.it/images/Procura_Generale_dello_Sport/linea_guida_su_protocollo_CONI-PGS_-_ADM_-_20ott2020.pdf>; DL 96/2025 conv. L. 119/2025, testo coordinato in Gazzetta Ufficiale (art. 6).
