@@ -41,7 +41,17 @@ newsletter del lunedì non saltano mai per fare spazio ai pezzi mer/ven.
 
 ---
 
+## Una tantum (non ricorrenti)
+
+Voci singole concordate con la redazione. ALDO non le legge da qui: servono a non perderle finché non c'è la issue su Linear.
+
+- **News Sitiscommesse, manovra 2027** (Corte dei conti, proroghe concessioni, versamenti una tantum). Concordata con Arianna il 10/11/2026, che è off giovedì 12 e venerdì 13: uscita spostata a **lunedì 16/11** per avere tutte le info. **Si lavora sabato 14/11.** Fonte di partenza segnalata da Arianna: Agimeg (https://www.agimeg.it/gioco-pubblico-manovra-2027-corte-dei-conti-proroghe-concessioni-versamenti-una-tantum/). Prima di scrivere: controllare `articoli-pubblicati.md` e `sitiscommesse/manovra-2027-giochi-preu-proroghe-20261102.html` per non ripetere la news del 02/11, poi `/news-sitiscommesse` con check finale. **Issue Linear non creata il 10/11**: limite issue del piano gratuito. Titolo pronto: `[pubb. 16/11] News Sitiscommesse IT — Manovra 2027: Corte dei conti, proroghe concessioni, versamenti una tantum`, progetto Giornalismo, label `contenuto`, due date 14/11. Da creare appena il limite è risolto.
+
+---
+
 ## Storico
+
+- **10/11/2026** — Aggiunta la sezione "Una tantum" per la news Sitiscommesse sulla manovra 2027 (lavoro sabato 14/11, uscita 16/11). Issue Linear non creata per il limite del piano gratuito.
 
 - **07/09/2026** — Prima applicazione delle ricorrenze via `/agenda`. Creata `ALB-114` (Articolo Jamma, pubb. 09/09), `ALB-115` (Articolo Jamma, pubb. 11/09), `ALB-116` (Post Bottadiculo, pubb. 09/09), `ALB-117` (Post Bottadiculo, pubb. 11/09), `ALB-118` (Newsletter Jamma, pubb. 14/09), `ALB-119` (Newsletter Bottadiculo, pubb. 14/09). Chiusa `ALB-110` (lock 03/09 per la newsletter del 07/09, già pubblicata) — risolve anche la nota lasciata aperta su quella issue il 02/09 ("popolare il progetto Giornalismo con le newsletter ricorrenti è una decisione ancora aperta").
 - **17/09/2026** — La settimana 2 del ciclo mer/ven (16/09-18/09) non era mai stata creata su Linear (ALDO non l'ha popolata lunedì 14/09). Corretto via `/agenda`: creata `ALB-135` (Articolo Jamma, pubb. 16/09, già Done) e `ALB-136` (Post Bottadiculo, pubb. 16/09, già Done) retroattivamente per i due pezzi già pubblicati mercoledì; create `ALB-137` (Articolo Jamma, pubb. 18/09) e `ALB-138` (Post Bottadiculo, pubb. 18/09) per il venerdì, ancora da scrivere. Chiuse anche `ALB-118` e `ALB-119` (newsletter del 14/09), rimaste aperte per errore nonostante la pubblicazione confermata in `articoli-pubblicati.md`.
