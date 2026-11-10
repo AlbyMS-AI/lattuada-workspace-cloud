@@ -65,7 +65,7 @@ Focus news e notizie del settore scommesse. Zero opinioni, solo fatti.
 
 ## I cicli editoriali
 
-Jamma e Bottadiculo hanno ciascuna due cicli settimanali: la newsletter LinkedIn del lunedì (tema deciso e scritto nel weekend precedente dal 16/10/2026, priorità LinkedIn personale → Jamma → Bottadiculo) e due pezzi mercoledì/venerdì con fonte PIERO, same-day. Le sei uscite sono tracciate come ricorrenza su Linear in `task-list.md` (progetto Giornalismo), lette da ALDO ogni lunedì mattina. Regole complete (gerarchia, banca temi, rubriche fisse, valvola di sicurezza): `contesto/cicli-editoriali.md`.
+Jamma e Bottadiculo hanno ciascuna due cicli settimanali: la newsletter LinkedIn del lunedì (tema deciso e scritto nel weekend precedente dal 16/10/2026, priorità LinkedIn personale → Jamma → Bottadiculo) e due pezzi mercoledì/venerdì con fonte PIERO, same-day. Le sei uscite sono tracciate come ricorrenza nella scheda "Ricorrenze" del foglio "Registro task" (progetto Giornalismo), create da `scegliOggi` ogni lunedì mattina; `task-list.md` resta il piano. Regole complete (gerarchia, banca temi, rubriche fisse, valvola di sicurezza): `contesto/cicli-editoriali.md`.
 
 ## Flusso di lavoro (per tutti i format)
 
@@ -148,7 +148,7 @@ per il resto sì.
 ├── sitiscommesse/      ← guidelines, workflows, templates
 ├── news-igaming 2026/  ← rassegna stampa e fonti giornaliere
 ├── articoli-pubblicati.md ← indice cronologico di tutti gli articoli usciti
-├── task-list.md        ← piano ricorrenze per ALDO (le sei uscite settimanali su Linear)
+├── task-list.md        ← piano delle ricorrenze (le sei uscite settimanali; le cadenze vere stanno nella scheda Ricorrenze del registro)
 ├── archive/            ← materiale di riferimento per stile
 └── fatture/            ← gestione amministrativa
 ```

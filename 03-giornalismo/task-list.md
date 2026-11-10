@@ -14,6 +14,8 @@ in questo file, non solo per le uscite nuove.
 
 ## Ricorrenze
 
+> **Dal 10/11/2026 le cadenze vere stanno nella scheda "Ricorrenze" del foglio "Registro task"**, e le crea ogni lunedì `scegliOggi` (Apps Script). ALDO è spento e Linear non si usa più: dove il testo sotto nomina ALDO o Linear è storico. Questa tabella resta come piano: se una cadenza cambia, si cambia **prima la riga nella scheda** e poi questa. Regole in `automations/oggi-regole.md`.
+
 > **Sezione letta da ALDO ogni lunedì mattina.** Per ogni riga sotto, se la ricorrenza cade nella
 > settimana corrente e non esiste già una issue aperta con quel titolo e quella data, ALDO la crea
 > su Linear (progetto Giornalismo, label `contenuto` + `ricorrente`).

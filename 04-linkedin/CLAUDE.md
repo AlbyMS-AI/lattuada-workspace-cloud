@@ -97,11 +97,11 @@ Dove possibile, ogni contenuto derivato da materiale interno va anche verificato
 
 ## Piano editoriale
 
-**Registro operativo su Linear (dal 01/09/2026).** `piano-editoriale-2026.md` e `task-list.md` sono i **piani**: contengono il ragionamento, gli slittamenti motivati, il backlog senza data. Le scadenze azionabili vivono su Linear, progetto **Contenuti LinkedIn**, ed è da lì che ALDO le porta nel brief delle 08:30.
+**Registro operativo sul foglio "Registro task" (dal 10/11/2026; prima Linear).** `piano-editoriale-2026.md` e `task-list.md` sono i **piani**: contengono il ragionamento, gli slittamenti motivati, il backlog senza data. Le scadenze azionabili vivono nel registro, progetto **Contenuti LinkedIn**, ed è da lì che la selezione di Oggi le porta sulla pagina Oggi.
 
-La due date su Linear è la colonna **"Creare entro"**, mai "Pubblica": la data di pubblicazione sta nel titolo della issue, formato `[pubb. GG/MM]`. Convenzioni complete in `../automations/linear-convenzioni.md`.
+La due date è la colonna **"Creare entro"**, mai "Pubblica": la data di pubblicazione sta nel titolo della voce, formato `[pubb. GG/MM]`. Convenzioni complete in `../automations/registro-convenzioni.md`.
 
-Quando il piano cambia: prima `piano-editoriale-2026.md`, poi `task-list.md`, poi `/agenda` per riallineare Linear. Le skill `linkedin-crea-post` e `linkedin-crea-newsletter` chiudono da sole la issue del pezzo che producono.
+Quando il piano cambia: prima `piano-editoriale-2026.md`, poi `task-list.md`, poi `/agenda` per riallineare il registro. Le skill `linkedin-crea-post` e `linkedin-crea-newsletter` chiudono da sole la voce del pezzo che producono.
 
 Piano: `piano-editoriale-2026.md`. Stato al 12/10/2026:
 Due linee BDM distinte: **nutrimento Italia** (IT, account già chiusi) e **lead gen estero** (EN, Sales Navigator/InMail).
