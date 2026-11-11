@@ -78,4 +78,4 @@ Per ogni voce: domande da fare, poi il campo **Fonte** (prova diretta / T&C uffi
 3. Compilare la scheda segnando la fonte di ogni dato
 4. Togliere ogni voce senza fonte
 5. Scrivere la recensione sulla struttura SNAI (`../piano.md`), con la sezione "La prova" dopo la prefazione
-6. Fact-check con `verificatore-fatti`, umanizzazione, check Codex e Astra
+6. Fact-check con `verificatore-fatti`, umanizzazione, prompt Astra in consegna (Codex fuori dal 10/11/2026)

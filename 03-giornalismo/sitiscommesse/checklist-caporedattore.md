@@ -71,6 +71,6 @@ contrasto con `guidelines.md` o con la skill `news-sitiscommesse`, vale questa c
 
 - [ ] **La notizia è ancora quella?** Rileggere la fonte e gli sviluppi più recenti: se nel
   frattempo è cambiato qualcosa, si corregge prima di mandare (24/08)
-- [ ] **Dopo un check esterno** (Astra, Codex, altri): ricontrollare i link, perché quei
+- [ ] **Dopo un check esterno** (Astra o revisori locali): ricontrollare i link, perché quei
   controlli non conoscono le regole della testata e reintroducono testate concorrenti o più
   link esterni (14/09)
