@@ -1,5 +1,7 @@
 # Agenti Workspace — Roster e Stato
 
+> **Aggiornato: 14/11/2026**: sistema Oggi fase 1 (piano `plans/2026-11-14-oggi-fase1-ferme-priorita-tre-messaggi.md`): quattro trigger Apps Script (`scegliOggi` 07:00, `inviaMattina` 07:30, `inviaRichiamo` 13:30, `inviaSera` 21:00), blocco Ferme, priorità a Softswiss, giornalismo e LinkedIn.
+>
 > **Aggiornato: 10/11/2026**: Linear non è più il registro (limite gratuito superato il 09/11). Il registro è il foglio Google "Registro task"; ALDO è spento e la selezione di Oggi gira in Apps Script (`scegliOggi`, 07:00); MARCO senza Linear. Dettaglio nella sezione "Registro su Google Sheet (10/11/2026)" in fondo.
 >
 > **Aggiornato: 21/10/2026** — sistema Oggi: ALDO v3 (niente email, niente calendario in scrittura, scrive il documento Linear "Oggi" e sceglie le voci), Check serale spento, pagina Oggi + messaggio Telegram alle 07:30. Dettaglio nella sezione "Sistema Oggi (21/10/2026)".
@@ -277,7 +279,7 @@ Piano `plans/2026-11-09-registro-task-google-sheet-via-linear.md`. Linear ha sup
 
 | Pezzo | Dove | Cosa fa |
 |---|---|---|
-| Pagina Oggi + Telegram | Apps Script "Oggi" (`automations/oggi-app/`) | Legge e scrive il foglio; `scegliOggi` 07:00 sceglie le voci di Oggi; `inviaMattina` 07:30 manda il messaggio |
+| Pagina Oggi + Telegram | Apps Script "Oggi" (`automations/oggi-app/`) | Legge e scrive il foglio; `scegliOggi` 07:00 sceglie le voci di Oggi; `inviaMattina` 07:30, `inviaRichiamo` 13:30 (solo se serve) e `inviaSera` 21:00 (solo se serve) mandano i messaggi |
 | Registro API | Apps Script "Registro API" (`automations/registro-api/`) | Solo POST con token; list, get, add, update, close |
 | Client | `automations/registro.sh` | URL e token nel portachiavi macOS (servizio `registro-task`); errore esplicito se l'API non risponde |
 
