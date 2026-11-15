@@ -12,14 +12,41 @@
 | 10/08 | Post testo | EN | Tony Bloom non scommette | 30.154 | 33 tot. | n/d | n/d | 4 | 22 | 2 | 30/08 | `post-2026-08-10-tony-bloom-liquidita.md` |
 | 12/08 | Carosello | EN | Portfolio giochi | 897 | 3 tot. | n/d | n/d | 0 | 1 | 1 | 30/08 | `carosello-2026-08-12-portfolio-giochi.md` |
 | 14/08 | Newsletter N2 | IT | Delibera AGCOM 85/26/CONS | 2.654 | 30 tot. | n/d | n/d | 1 | 8 | 0 | 30/08 | `newsletter-2026-07-24-n2-agcom-85-26-cons.md` |
-| 18/08 | Post testo | IT | Varenne | 287 | 3 tot. | n/d | n/d | 0 | 1 | 0 | 30/08 | `post-2026-08-18-varenne-morte.md` |
+| 18/08 | Post testo | IT | Varenne | 327 | 3 tot. | n/d | n/d | 0 | 1 | 0 | 30/08 | `post-2026-08-18-varenne-morte.md` |
 | 21/08 | Newsletter N3 | IT | Certificazione provider | 562 | 3 tot. | n/d | n/d | 0 | 2 | 0 | 30/08 | `newsletter-2026-08-21-n3-certificazione-provider.md` |
 | 21/08 | Carosello | IT | Certificazione provider | 290 | 3 tot. | n/d | n/d | 0 | 1 | 0 | 30/08 | `carosello-2026-08-21-certificazione-provider.md` |
-| 22/08 | Post testo | EN | Paul Gauselmann | 5.586 | 92 tot. | n/d | n/d | 2 | 14 | 6 | 30/08 | `post-2026-08-22-paul-gauselmann.md` |
+| 22/08 | Post testo | EN | Paul Gauselmann | 6.036 | 92 tot. | n/d | n/d | 2 | 14 | 6 | 30/08 | `post-2026-08-22-paul-gauselmann.md` |
 | 24/08 | Sondaggio | IT | Proroga concessioni fisico | 665 | 3 tot. | n/d | n/d | 0 | 1 | 0 | 30/08 | `sondaggio-2026-08-24-proroga-concessioni-fisico.md` |
 | 28/08 | Post testo | IT | Lo stallo non è neutrale | 473 | 3 tot. | n/d | n/d | 0 | 3 | 0 | 30/08 | `post-2026-08-28-stallo-non-neutrale.md` |
+| 31/08 | Post con immagine | IT | Caso True Data Serie A | 1.802 | 18 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-08-31-true-data-serie-a.md` |
+| 02/09 | Post testo | IT | Fusione Lottomatica-CIRSA | 1.948 | 8 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-09-02-lottomatica-cirsa-merger.md` |
+| 04/09 | Newsletter N4 | IT | Costo reale di un'integrazione multipla | 1.236 | 5 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `newsletter-2026-09-04-n4-costo-integrazione-multipla.md` |
+| 07/09 | Post testo | EN | Catena di responsabilità partner/aggregatore | 264 | 1 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-09-07-partner-liability-chain.md` |
+| 09/09 | Post con immagine | IT | Inter senza sponsor, decreto dignità (nel file: 08/09; su LinkedIn 09/09) | 19.913 | 86 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-09-08-inter-decreto-dignita.md` |
+| 14/09 | Newsletter N5 | IT | Checklist compliance nuovo mercato | 612 | 5 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `newsletter-2026-09-14-n5-checklist-compliance-nuovo-mercato.md` |
+| 14/09 | Carosello | EN | Market entry compliance checklist | 417 | n/d | n/d | n/d | n/d | n/d | n/d | 14/11 | `carosello-2026-09-14-checklist-compliance-nuovo-mercato.md` |
+| 15/09 | Post testo | IT | Novig e il Connecticut | 1.198 | 3 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-09-15-novig-sweeney-arbitraggio-regolatorio.md` |
+| 21/09 | Post testo | IT | Gioco legale 2030, tre minuti a testa (nel file: 20/09) | 687 | 19 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-09-20-gioco-legale-2030.md` |
+| 25/09 | Post testo | EN | Una licenza dice dove, non cosa (Atto 2) | 293 | 3 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-09-25-licence-where-not-what.md` |
+| 25/09 | Newsletter N7 | IT | Mercati regolamentati: Italia, Germania, Belgio | 771 | 5 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `newsletter-2026-09-25-n7-mercati-regolamentati-it-de-be.md` |
+| 28/09 | Post con infografiche | EN | Brasile, licenza e durata del divieto | 338 | 4 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-09-28-brazil-ban-licence-how-long.md` |
+| 06/10 | Post con immagine | EN | Brasile, sponsor di maglia in dieci giorni | 194 | 2 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-10-06-brazil-sponsorship-ban-ten-days.md` |
+| 09/10 | Carosello | EN | 5 casino catalogue metrics | 277 | 5 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `carosello-2026-10-09-casino-catalogue-metrics.md` |
+| 09/10 | Newsletter N8 | IT | Le 5 metriche del catalogo giochi | 499 | 4 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `newsletter-2026-10-09-n8-metriche-catalogo-casino.md` |
+| 13/10 | Post con immagine | IT | Il bonus visto dalla sala | 892 | 5 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-10-13-bonus-visto-dalla-sala.md` |
+| 16/10 | Newsletter N9 | IT | Tornei e jackpot nel casinò online | 705 | 4 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `newsletter-2026-10-16-n9-tornei-jackpot.md` |
+| 21/10 | Post con immagine | IT | EGR Italy Awards, il 10 | 2.098 | 34 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-10-21-egr-italy-2026.md` |
+| 23/10 | Newsletter N10 | IT | Dati ADM sul casinò online | 958 | 7 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `newsletter-2026-10-23-n10-dati-adm-casino-online.md` |
+| 26/10 | Post con immagine | IT | SiGMA Roma, stand H4-4029 (annuncio) | 1.207 | 45 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-10-sigma-roma-stand-h4-4029.md` |
+| 28/10 | Repost + introduzione | EN | Live Panel Softswiss, 2027 iGaming Trends | 188 | 3 tot. | n/d | n/d | n/d | n/d | n/d | 14/11 | `post-2026-10-28-repost-live-panel-trends-2027.md` |
+| 04/11 | Post con immagine | EN | SiGMA Roma, giorno 1 (nessun file nel workspace) | 3.298 | 87 reaz. | 6 | n/d | n/d | 19 | 2 | 14/11 | n/d |
+| 06/11 | Post con immagine | IT | SiGMA Roma, chiusura | 2.980 | 49 reaz. | 6 | n/d | n/d | 4 | 0 | 14/11 | `post-2026-11-06-sigma-roma-chiusura.md` |
 
-**Da coprire al primo giro della fonte A:** tutti i pezzi dal 31/08 in poi (`task-list.md`), più il post del 11/08 e il post di accompagnamento N3 del 21/08, mai rilevati.
+**Coperto il 14/11/2026 (primo giro della fonte A):** tutti i pezzi dal 31/08 in poi presenti nell'export; restano da attribuire i pezzi elencati sotto.
+
+**Rilevazione del 14/11/2026 (fonte A: export "AnalisiAggregate" 17/08-14/11 e PDF "Tutte le attività"; fonte B solo per i tre pezzi più recenti).** Rendimento complessivo del periodo: 58.168 impressioni, 25.920 utenti raggiunti. Le interazioni dei pezzi più vecchi sono il totale (reazioni, commenti, diffusioni sommati): reazioni e commenti separati solo per i tre pezzi recenti. **Salvataggi n/d** per tutti: l'export non li riporta.
+
+**Pezzi su LinkedIn senza file in `04-linkedin/` (non attribuiti a un file, impression e interazioni lifetime al 14/11):** 12/10 articolo EN sul costo della certificazione ADM per i provider (875 impression, 13 interazioni); 16/10 "Ci vediamo ancora una volta nella capitale" EGR Global Italy (812, 26); 29/09 "Five years changes the way you read a trend" (506, 23, da attribuire: probabile post collegato ai cinque mercati del 02/10); 23/09 "Most regulated markets share the same blind spot" (144, 3, probabile `post-2026-09-21-regulatory-coherence-market-entry.md`, data diversa); 31/08 "Ask a CDO what an integration costs" (205, n/d); 02/11 articolo EN "Italy's new online gaming systems go live" (1.387 impression, 15 reazioni, 5 commenti, 2 visite, 1 follower). Aggiornati in place i valori di 18/08 Varenne (327) e 22/08 Paul Gauselmann (6.036).
 
 ---
 

@@ -1,0 +1,46 @@
+<!-- Infografica 2, Gambling Insights #90: Cosa cambia da domani, quattro azioni con icona propria, griglia 2x2 (gestore di sala, PVR al bar, al banco, chi lavora sulla Romania). -->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../../04-linkedin/grafiche/lib/base.css">
+<style>
+  html,body{width:1080px;height:1350px}
+  body{background:linear-gradient(170deg,#1C0F3A 0%,#140A2C 100%);
+    display:grid;grid-template-rows:auto 1fr auto;padding:64px 72px 48px}
+  .etichetta{font-size:28px;margin-bottom:22px}
+  h1{font-size:84px;margin-bottom:16px}
+  .catenaccio{font-size:30px;line-height:1.3;color:var(--testo2);max-width:900px}
+  .catenaccio b{color:var(--testo);font-weight:600}
+  .area{width:936px;height:780px;margin-top:40px}
+  .piede{display:flex;align-items:flex-end;gap:22px;padding-top:20px;border-top:1px solid var(--linea)}
+  /* Logo ufficiale da ../brand/logo-whitetypo.svg (16/10/2026): mai ridisegnato, ricolorato o deformato */
+  .piede .logo{flex:none;width:300px;height:auto;display:block}
+  .piede .fonte{flex:1}
+  .area{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:26px}
+  .az{background:var(--pannello);border-top:6px solid var(--accento);padding:34px 30px 30px;display:flex;flex-direction:column;gap:16px}
+  .az .ic{width:84px;height:84px;border-radius:50%;background:rgba(249,81,31,.14);display:flex;align-items:center;justify-content:center}
+  .az .ruolo{font-family:var(--f-cond);font-weight:700;font-size:30px;text-transform:uppercase;letter-spacing:.03em;color:var(--accento)}
+  .az .testo{font-size:31px;line-height:1.3;font-weight:600}
+</style>
+</head>
+<body class="tema-bottadiculo">
+
+  <header>
+    <div class="etichetta">Cosa cambia da domani</div>
+    <h1 class="titolo-display">Quando la sala chiude, <em>il cliente resta</em></h1>
+    <p class="catenaccio">Quattro cose da fare per chi lavora in sala, al banco e nei punti ricarica.</p>
+  </header>
+  <div class="area">
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><circle cx="24" cy="24" r="17" stroke="#F9511F" stroke-width="3.2"/><path d="M24 13v11l7 5" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="ruolo">Gestore di sala</div><div class="testo">Orario ridotto? Tieni al banco come si riconosce un sito autorizzato. Nessun invito a giocare.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><circle cx="21" cy="21" r="12" stroke="#F9511F" stroke-width="3.2"/><path d="M30 30l11 11" stroke="#F9511F" stroke-width="3.6" stroke-linecap="round"/><path d="M16 21l4 4 6-7" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="ruolo">PVR al bar</div><div class="testo">Marchio ADM e numero di concessione: se mancano, controlla l'elenco ADM.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><rect x="13" y="4" width="22" height="40" rx="4" stroke="#F9511F" stroke-width="3.2"/><path d="M20 38h8" stroke="#F9511F" stroke-width="3" stroke-linecap="round"/><path d="M18 14h12M18 20h12M18 26h7" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg></div><div class="ruolo">Al banco</div><div class="testo">Ti mostra una giocata? Guarda il dominio. Dirglielo costa una frase.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><rect x="7" y="10" width="34" height="30" rx="3" stroke="#F9511F" stroke-width="3.2"/><path d="M7 19h34M15 6v8M33 6v8" stroke="#F9511F" stroke-width="3.2" stroke-linecap="round"/><path d="M14 27h6M24 27h6M14 33h6" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg></div><div class="ruolo">Chi lavora sulla Romania</div><div class="testo">Chiedi le scadenze ONJN apparecchio per apparecchio.</div></div>
+  </div>
+  <footer class="piede">
+    <img class="logo" data-brand src="../brand/logo-whitetypo.svg" alt="Bottadiculo">
+    <p class="fonte">Fonte: <b>ADM, regole amministrative 14/01/2025; OUG 7/2026</b></p>
+  </footer>
+  <script src="../../../../04-linkedin/grafiche/lib/componenti.js"></script>
+</body>
+</html>
