@@ -1,4 +1,4 @@
-# Versione blog Bottadiculo.it — Gambling Insights #90
+# Versione blog Bottadiculo.it — Gambling Insights #89
 
 **Slug:** `sale-slot-romania-autorizzazioni-comuni-fedbet`
 **Categoria /gambling/:** mercati-esteri
@@ -30,7 +30,7 @@ In Italia il titolo principale è una concessione nazionale, ma il comune ha gi�
 
 Su un sito autorizzato devono comparire il marchio del concessionario, il numero della concessione e il marchio di ADM, di solito in fondo alla pagina. ADM pubblica l'elenco dei concessionari autorizzati al gioco a distanza e quello dei siti inibiti. Su un sito senza concessione italiana non valgono le tutele del sistema ADM, come l'autoesclusione e i limiti di deposito, e non c'è un'autorità italiana a cui rivolgersi se la vincita non viene pagata.
 
-La versione completa, con le indicazioni operative per sale e punti ricarica, è nella newsletter Gambling Insights #90 su LinkedIn.
+La versione completa, con le indicazioni operative per sale e punti ricarica, è nella newsletter Gambling Insights #89 su LinkedIn.
 
 ---
 

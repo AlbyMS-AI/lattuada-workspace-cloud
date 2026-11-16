@@ -1,4 +1,4 @@
-# Post di supporto LinkedIn — Gambling Insights #90
+# Post di supporto LinkedIn — Gambling Insights #89
 
 **Pubblicazione:** lunedì 16 novembre 2026, in giornata (dopo l'uscita della newsletter alle 7:30)
 **Formato:** solo testo
@@ -14,7 +14,7 @@ Chi gioca, però, non smette. Al banco di una sala italiana un cliente mostra un
 
 Nella newsletter di oggi: come funziona il blocco romeno, perché la rete fisica italiana vive di proroghe e di ordinanze locali, e come chi sta al banco o gestisce un punto ricarica può aiutare a riconoscere un sito autorizzato.
 
-Gambling Insights #90 è uscita. Leggi la newsletter completa qui sotto.
+Gambling Insights #89 è uscita. Leggi la newsletter completa qui sotto.
 
 ---
 

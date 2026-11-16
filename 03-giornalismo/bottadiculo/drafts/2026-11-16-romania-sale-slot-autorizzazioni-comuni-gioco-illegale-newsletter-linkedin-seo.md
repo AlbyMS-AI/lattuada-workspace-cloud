@@ -1,4 +1,4 @@
-# SEO — Newsletter LinkedIn Gambling Insights #90
+# SEO — Newsletter LinkedIn Gambling Insights #89
 
 # Sale slot in Romania, la stima di FEDBET: l'80% fuori mercato entro fine anno. Dove va chi gioca
 
@@ -76,6 +76,6 @@ Keyword correlate: FEDBET, ONJN, ordinanza 7/2026, gioco illegale, siti senza co
 
 ## Alt text grafiche
 
-- Cover: «Copertina Gambling Insights #90 di Bottadiculo: chi esce dal legale non sa di esserne uscito. Romania, stima FEDBET: l'80% delle slot fuori mercato.»
+- Cover: «Copertina Gambling Insights #89 di Bottadiculo: chi esce dal legale non sa di esserne uscito. Romania, stima FEDBET: l'80% delle slot fuori mercato.»
 - Infografica 1: «Come una slot esce dal mercato legale in Romania: autorizzazione ONJN in scadenza, delibera del comune assente (secondo FEDBET in oltre il 96% degli enti), rinnovo impossibile, giocatore che passa all'online legale o illegale.»
 - Infografica 2: «Cosa cambia da domani per gestori di sala, punti ricarica nei bar, personale al banco e chi lavora con operatori esposti sulla Romania.»

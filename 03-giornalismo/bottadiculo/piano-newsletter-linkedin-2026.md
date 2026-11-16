@@ -234,7 +234,7 @@ Il piano fissa gli slot, non i temi. Ogni riga si riempie al lock del giovedì p
 | #87 | Lun 26/10 | Sab 24/10 – Dom 25/10 | (stesso weekend) | Weekend. Tema: sport di nicchia e giocatore a rischio (ANJ), K, scommesse al banco. Riserva: MGA 48 segnalazioni |
 | #88 | Lun 02/11 | Sab 31/10 – Dom 01/11 | (stesso weekend) | Weekend. Tema: New Jersey multa BetMGM, bet365, FanDuel, C, conto online. Riserva: Doherty/Shuffle |
 | #89 | Lun 09/11 | Sab 07/11 – Dom 08/11 | (stesso weekend) | Weekend. Tema: skill games illegali in Pennsylvania e totem in Italia, K, sala e PVR. Riserva: MGD posti a rischio |
-| #90 | Lun 16/11 | Sab 14/11 – Dom 15/11 | (stesso weekend) | Weekend. Tema del piano (MGD, rehash) e riserva (Entain Brasile, nessun contributo dal campo) caduti al lock del 14/11. Uscita: Romania, FEDBET e autorizzazioni comunali (OUG 7/2026), K, sala, mercati-esteri |
+| #90 | Lun 16/11 | Sab 14/11 – Dom 15/11 | (stesso weekend) | Weekend. Tema del piano (MGD, rehash) e riserva (Entain Brasile, nessun contributo dal campo) caduti al lock del 14/11. Uscita: Romania, FEDBET e autorizzazioni comunali (OUG 7/2026), K, sala, mercati-esteri. Pubblicata come Gambling Insights #89 (numerazione indicata da Alberto il 15/11; anche l'edizione del 09/11 risulta #89) |
 | #91 | Lun 23/11 | Sab 21/11 – Dom 22/11 | (stesso weekend) | Weekend. Tema: X Factor in quota, eventi non sportivi in Italia, C, banco. Riserva: caso dalla rassegna |
 | #92 | Lun 30/11 | Sab 28/11 – Dom 29/11 | (stesso weekend) | Weekend. Tema: test sui chatbot AI e operatori senza licenza, K, conto online. Riserva: Hacksaw prediction market |
 
