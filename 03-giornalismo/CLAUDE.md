@@ -70,10 +70,10 @@ Jamma e Bottadiculo hanno ciascuna due cicli settimanali: la newsletter LinkedIn
 ## Flusso di lavoro (per tutti i format)
 
 ```text
-1. RICERCA   — fonti primarie (comunicati, normative, dati), secondarie (analisi, altri media)
+1. RICERCA E VERIFICA — fonti primarie (comunicati, normative, dati) con citazione testuale; secondarie (analisi, altri media)
 2. SVILUPPO  — scrittura basata sulla ricerca, struttura del contenuto
-3. FACT-CHECK — verifica ogni dato, nome, data, cifra
-4. UMANIZZAZIONE — revisione tono, rimozione strutture AI, voce personale
+3. CONTROLLO — in sessione, solo i numeri nati in scrittura (calcoli, confronti, assoluti); niente subagent
+4. UMANIZZAZIONE — revisione tono, rimozione strutture AI, voce personale; poi check finale Astra e Codex (Mac aziendale)
 ```
 
 **Le 5W in fase di RICERCA.** Prima di passare a SVILUPPO, ogni pezzo (eccetto le rubriche
