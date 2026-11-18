@@ -1,0 +1,46 @@
+# Prevenzione del gioco, il contributo volontario non si verifica: il prelievo obbligatorio che l'Italia ancora non ha
+
+Il 13 novembre EGBA, l'associazione europea degli operatori online, ha pubblicato il suo sesto rapporto di sostenibilità. I titoli sono andati agli oltre 5,5 miliardi di contributo alla società europea e ai 4,5 miliardi di tasse. Più in basso, in una nota sotto un grafico, c'è il numero che interessa a chi si occupa di prevenzione: la spesa dei membri per ricerca, educazione e trattamento nel 2024 non vale più i 148,9 milioni di euro comunicati a luglio 2025, ma 64,8. Pochi giorni dopo, tra gli emendamenti alla manovra 2027, un gruppo di parlamentari del PD ha chiesto un fondo da 200 milioni l'anno per la prevenzione e la cura delle dipendenze da gioco.
+
+I due fatti pongono problemi diversi, la credibilità di un dato dichiarato e il finanziamento pubblico della prevenzione, ma si incrociano su una domanda: chi certifica quanto si spende per la prevenzione, e con quali regole? La Gran Bretagna ha risposto con un prelievo obbligatorio, l'Irlanda lo sta scrivendo. Base di calcolo comune, versamento per legge, destinazione pubblica, dati sotto vigilanza del regolatore. L'Italia non ha nessuno dei quattro elementi, e dovrebbe darseli.
+
+## Il dato EGBA sulla prevenzione non si può verificare dall'esterno
+
+La serie del rapporto parte da 23,5 milioni nel 2021, sale a 49 nel 2022 e a 61,2 nel 2023, poi 64,8 nel 2024 nella versione corretta e 98,2 nel 2025. EGBA presenta l'ultimo dato come una crescita del 52%. Letti con la versione del 2024 pubblicata un anno fa, gli stessi 98,2 milioni sarebbero sembrati un calo di un terzo, e la distanza fra le due letture misura l'effetto della rettifica più che l'andamento reale della spesa.
+
+La nota attribuisce la revisione alla disponibilità di dati aggiornati. Un portavoce dell'associazione ha spiegato a un sito di settore che una verifica aveva trovato, nel dato 2024, contributi estranei a ricerca, educazione e trattamento. La stessa nota dice cosa entra nel conteggio: prelievi sociali obbligatori e volontari, più donazioni volontarie che prelievi non sono. Il perimetro sono le attività online dei membri nell'Unione e nel Regno Unito, e in Gran Bretagna dal 6 aprile 2025 il contributo alla prevenzione è un obbligo di legge. Quanta parte del salto del 2025 venga dalla norma britannica e quanta da una scelta degli operatori, il rapporto non lo scompone. Cambia anche la platea, perché i dati dei nuovi membri entrano dal loro primo anno di adesione.
+
+Il rapporto, lo dichiara da sé, non è passato da una revisione esterna, e i dettagli pubblicati non bastano a ricostruire la rettifica da 84 milioni. Un numero così può servire a raccontare l'impegno di un settore. Una politica pubblica non ci si costruisce sopra.
+
+## Prelievo per la prevenzione: la Gran Bretagna lo applica, l'Irlanda lo sta scrivendo
+
+Il prelievo britannico nasce con le Gambling Levy Regulations 2025, in vigore dal 6 aprile 2025. L'aliquota cambia con la licenza: 1,1% per casinò, scommesse e bingo online e per le licenze software, 0,5% per casinò e scommesse terrestri, 0,2% per le scommesse in ippodromo, fino allo 0,1% di lotterie e pool betting. Anche la base cambia con l'attività. Per chi raccoglie gioco sono le puntate e gli altri ricavi delle attività autorizzate meno le vincite, per il software i ricavi della fornitura soggetta a licenza. A regime si calcola sull'esercizio da aprile a marzo e si versa prima del 1° ottobre successivo. Il primo anno ha raccolto poco meno di 120 milioni di sterline, che il governo ha ripartito così: 20% alla ricerca, 30% alla prevenzione, 50% al trattamento attraverso il servizio sanitario e i governi di Scozia e Galles. Il vecchio sistema di contributi volontari è stato sostituito.
+
+A dichiarare restano comunque gli operatori. L'importo la Gambling Commission lo calcola sui Regulatory Returns che i licenziatari le trasmettono, con possibilità di rettifiche successive. La differenza con il rapporto di un'associazione sta nella natura del dato, che qui è una comunicazione al regolatore, con una formula fissata per legge e un versamento che finisce in un fondo pubblico. Un errore da 84 milioni, in quel sistema, è un problema di vigilanza.
+
+L'Irlanda è un passo indietro. Il Gambling Regulation Act 2024 obbliga ogni licenziatario, escluse le licenze per fini benefici, a un contributo annuo al Fondo di Impatto Sociale, e lascia al ministro della Giustizia la scelta della percentuale. La bozza di regolamento, notificata alla Commissione europea il 12 novembre con la procedura TRIS, la fissa all'1% del turnover, da versare entro il 1° luglio di ogni anno, con entrata in operatività proposta dal 1° aprile 2027. Il periodo di sospensione si chiude il 15 febbraio 2027, e fino all'adozione resta una bozza. Per chi raccoglie gioco il turnover sono i ricavi meno le vincite, per gli intermediari di scommesse le commissioni, per il fornitore B2B l'utile lordo.
+
+Nel dibattito italiano è rimasto fuori un dettaglio, chi paga. I due modelli includono anche categorie di fornitori soggetti a licenza, e a Londra la licenza software sta nella fascia più alta, accanto al casinò online. La scelta segue il modo in cui il prodotto è costruito. Nei contratti a revenue share, accanto a eventuali componenti fisse, una parte del compenso di un provider di slot o dell'aggregatore che lo distribuisce dipende dai ricavi di gioco dell'operatore, la stessa spesa del giocatore che la prevenzione prova a tenere sotto controllo. Chi lavora sul lato B2B conosce il meccanismo, ed è il motivo per cui un prelievo italiano dovrebbe guardare anche ai fornitori certificati, non solo ai concessionari.
+
+## In Italia lo 0,2% per la prevenzione del gioco resta nel budget di comunicazione
+
+L'Italia un prelievo destinato non ce l'ha. Il Fondo per il gioco d'azzardo patologico, nato con la legge di stabilità 2016 presso il ministero della Salute, aveva una dotazione di 50 milioni l'anno presi dal bilancio dello Stato. La legge di bilancio 2025 lo ha abrogato e ha istituito un Fondo per le dipendenze patologiche da 94 milioni l'anno, che finanzia anche personale dei servizi e monitoraggio e riserva il 34,25% ai piani regionali sul gioco d'azzardo patologico. Sono circa 32 milioni, contro la dotazione originaria di 50. Le risorse restano di fiscalità generale, e la cifra la decide chi scrive la manovra.
+
+Per i concessionari a distanza l'articolo 15 del decreto legislativo 41 del 2024 prevede un obbligo specifico: investire ogni anno lo 0,2% dei ricavi netti, entro un tetto di un milione di euro, in campagne di informazione su temi scelti da una commissione presso la Presidenza del Consiglio. La spesa la gestisce il concessionario e la norma la fa rientrare nei suoi investimenti di comunicazione e informazione. Sopra i 500 milioni di ricavi netti il contributo smette di crescere, e la somma non confluisce in un fondo pubblico dedicato a ricerca e trattamento. Un dato pubblico aggregato su quanto venga speso non risulta.
+
+Su questo sfondo arrivano i 200 milioni del PD. Nella versione diffusa l'emendamento indica una copertura, la riduzione del Fondo per interventi strutturali di politica economica dal 2027, e prevede risorse vincolate, riparto con decreto previa intesa e rendicontazione. Il testo ufficiale depositato non è ancora consultabile, e quella versione non espone il calcolo del fabbisogno che porta a 200 milioni, né come si dividerebbero tra prevenzione e cura. Il fabbisogno resta una stima che spetta alla sanità pubblica. Un prelievo risolve un'altra parte del problema, perché lega il finanziamento al gioco che genera il rischio, con una base fissata per legge e dati che passano dal regolatore invece che da un rapporto di sostenibilità.
+
+Che l'emendamento passi o no in questa manovra, il tema tornerà, e le scelte che contano, cioè la base imponibile, l'aliquota del casinò online rispetto alla raccolta fisica, l'ingresso dei fornitori, le farà chi scrive il testo in commissione. La domanda da portare al prossimo incontro con la propria associazione di categoria è se esiste già una proposta di prelievo con base, aliquote e destinazione, pronta da portare al MEF prima che ne arrivi una scritta da altri.
+
+---
+
+**Meta title:** Prelievo sul gioco per la prevenzione: GB, Irlanda e Italia (59 caratteri)
+
+**Meta description:** EGBA rivede il dato 2024 sulla prevenzione, il PD chiede 200 milioni. La Gran Bretagna applica un prelievo obbligatorio, l'Irlanda lo scrive. E l'Italia? (157 caratteri)
+
+**Fonti:**
+
+- Esterna (fonte primaria): EGBA, Sustainability Report 2026, 13/11/2026: <https://www.egba.eu/uploads/2026/11/261113-EGBA-Sustainability-Report-2026-final.pdf>
+- Esterna: The Gambling Levy Regulations 2025 (SI 2025/213): <https://www.legislation.gov.uk/uksi/2025/213/made>; DCMS, Statutory gambling levy: <https://www.gov.uk/government/publications/statutory-gambling-levy>
+- Esterna: notifica TRIS 2026/0645/IE (Social Impact Fund Regulations 2026): <https://technical-regulation-information-system.ec.europa.eu/en/notification/30076>
+- Esterna: d.lgs. 41/2024, art. 15: <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-03-25;41~art15>
