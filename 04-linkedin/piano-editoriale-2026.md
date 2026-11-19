@@ -545,6 +545,33 @@ Idee in riserva, stessa linea: ~~il bonus visto dalla sala (chi entra con il bon
 
 ---
 
+## Blocco 8 — Head of Casino e prima linea (24/11-22/12/2026)
+
+**Deciso il 19/11/2026.** Il checkpoint del 26/10 non è stato fatto e la newsletter è ferma dalla N10 del 23/10. Alberto riprende la linea del Blocco 7 e allarga il lettore.
+
+- **Lettore:** Head of Casino/Product e chi lavora in prima linea: sceglie e integra i titoli, li mette in lobby, configura bonus e promo, segue il giocatore ogni giorno. La keyword dei titoli resta "Head of Casino"; il testo parla anche a chi esegue.
+- **Fonte:** i temi emersi negli incontri di SiGMA Roma (03-05/11), solo come meccanismi di mercato ("parlando con diversi operatori"). Mai chi ha detto cosa, mai trattative in corso, mai la strada di Softswiss. Più il campo LasVegas, senza nomi né cifre.
+- **Temi scelti (proposta di Claude, approvata da Alberto):** A lobby che si somigliano; B promo uguali per tutti; C cura del giocatore; D dalla scelta di un titolo al primo giro; E report da chiedere al fornitore.
+- **Temi esclusi dal binario personale:** esclusive sui titoli (discussione interna aperta), jackpot e tornei in Italia (offerta in costruzione e terreno del binario Softswiss), tempi e costi di certificazione di un titolo nuovo (terreno degli articoli LI Pulse).
+- **Restano le regole del Blocco 7:** Italia sì negli esempi; DE/BE/CZ/IE mai; ogni pezzo chiude con le domande da fare al fornitore; prima di pubblicare i tre controlli Softswiss (interesse commerciale, notizia da dare per prima, pezzo LI Pulse non ancora uscito); check Astra; post di accompagnamento il giorno di ogni newsletter.
+- **Attenzione su A:** l'angolo è "misurare quanto il catalogo coincide", mai "servono provider nuovi" (si sovrapporrebbe alle idee interne).
+- **Cadenza:** invariata, post del martedì alternato EN/IT, newsletter IT del venerdì. Salta l'08/12 (Immacolata) e il 25/12 (Natale).
+
+| Pubblica | Formato | Lingua | Tema (titolo definitivo alla creazione) | Creare entro |
+|---|---|---|---|---|
+| Mar 24/11 | Post | EN | Dalla scelta di un titolo al primo giro: cosa fa l'operatore nel mezzo (D) | lun 23/11 |
+| Ven 27/11 | **Newsletter N11** + accompagnamento | IT | Lobby che si somigliano: come misurare quanto il tuo catalogo coincide con quello dei concorrenti (A) | mer 25/11 |
+| Mar 01/12 | Post | IT | Le promo di dicembre viste dalla sala: cosa chiede il giocatore che entra (apre B) | ven 27/11 |
+| Ven 04/12 | **Newsletter N12** + accompagnamento | IT | Promo uguali per tutti: come costruire una promo che sia solo tua (B) | mer 02/12 |
+| Ven 11/12 | **Newsletter N13** + accompagnamento | IT | Chi segue il giocatore ogni giorno: cosa vede, cosa può fare (C) | mer 09/12 |
+| Mar 15/12 | Post | EN | Player care seen from the front line (C) | ven 11/12 |
+| Ven 18/12 | **Newsletter N14** + accompagnamento | IT | I report da chiedere al fornitore per il 2027 (E) | mer 16/12 |
+| Mar 22/12 | Post | IT | Chiusura d'anno: cosa ho sentito dagli operatori nel 2026 (riflessione personale, senza nomi) | ven 18/12 |
+
+**Checkpoint:** a gennaio 2027, prima di pianificare il nuovo anno, con `/linkedin-settimana`: impression, salvataggi e visite al profilo di N11-N14 contro N8-N10. La domanda è se il lettore allargato porta più interazione dal target.
+
+---
+
 ## Note operative
 
 **Newsletter:** "The Betting Edge" — unica newsletter attiva, 1.023 iscritti, 17 edizioni pubblicate. Bisettimanale fino a N4, **settimanale dal 11/09/2026** (deciso post Lezione 10 MLR, 01/09/2026) e indipendente dai blocchi post. Sempre IT, mai lead gen esplicita; dal 09/10/2026 linea Blocco 7 (casinò online per l'Head of Casino) al posto della market intelligence sui mercati europei. Dal 01/09/2026 ogni post/carosello del blocco chiude con rimando esplicito all'edizione della settimana (pivot). Sequenza aggiornata il 12/10/2026: N1 10/07 · N2 14/08 · N3 21/08 · N4 04/09 · N5 14/09 · N6 18/09 (non uscita, arretrato chiuso il 30/09) · N7 25/09 · N8 09/10 (la N8 del 02/10 sui cinque mercati è stata sospesa e il numero riassegnato) · N9 16/10 · N10 23/10.

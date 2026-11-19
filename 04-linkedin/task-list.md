@@ -1,5 +1,7 @@
 # Piano Editoriale LinkedIn — produzione
 
+> **Stato al 19/11/2026:** il calendario attivo è il **Blocco 8** (24/11-22/12, newsletter N11-N14 e quattro post) in `piano-editoriale-2026.md`. Le scadenze stanno nel foglio "Registro task", progetto Contenuti LinkedIn (Linear non si usa più dal 10/11). Tutto ciò che segue è storico fino al Blocco 7: dove nomina Linear, vale il registro.
+>
 > **Questo file è il piano, non il registro.** Dal 01/09/2026 le scadenze operative vivono su Linear, progetto **Contenuti LinkedIn**. Qui restano il ragionamento, gli slittamenti motivati, il backlog e lo storico: cose che Linear non regge e che servono comunque.
 >
 > **La due date su Linear è la colonna "Creare entro", non "Pubblica".** La data di pubblicazione sta nel titolo della issue, formato `[pubb. GG/MM]`. Convenzioni complete: `../automations/linear-convenzioni.md`.
