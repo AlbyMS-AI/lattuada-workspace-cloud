@@ -16,6 +16,10 @@
 
 **Alt text immagine in evidenza:** Copertina Gambling Insights #90 sulle scommesse su X Factor e sugli eventi non sportivi in Italia, 2026
 
+**Alt text grafiche**
+- Infografica 1: Schema sulle scommesse su eventi non sportivi: il cliente che arriva per X Factor e le tre regole della quota fissa che non conosce, esito, quota e chiusura, secondo il DM 145/2022
+- Infografica 2: Quattro indicazioni per chi lavora al banco sulle scommesse su X Factor e Sanremo: programma del concessionario, quota, chiusura dell'accettazione, rimborsi
+
 **Categoria WordPress:** Mercato e dati
 
 **Tag WordPress:** X Factor, scommesse eventi non sportivi, scommesse spettacolo, DM 145/2022, ADM, Sanremo, agenzie scommesse, Betfred
@@ -24,9 +28,9 @@
 
 **H2 con keyword correlate (già nel testo):**
 - Scommesse su X Factor: cosa consente il decreto sugli eventi non sportivi
-- Chi scommette su X Factor gioca a simpatia, e non conosce le regole
+- Chi scommette su X Factor gioca a simpatia, e spesso non conosce le regole
 - Cosa cambia da domani per chi sta al banco con le scommesse su X Factor e Sanremo
-- Il numero della settimana: 73 agenzie Betfred chiuse nel Regno Unito
+- Il numero della settimana: 73 agenzie Betfred in chiusura nel Regno Unito
 
 **Link in uscita:** DM MEF 1° agosto 2022, n. 145, Gazzetta Ufficiale n. 227 del 28/09/2022: https://www.gazzettaufficiale.it/eli/gu/2022/09/28/227/sg/pdf (in alternativa Normattiva: https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.e.finanze:decreto:2022-08-01;145!vig=)
 
@@ -36,22 +40,22 @@
 - [x] Keyphrase in SEO title, slug, meta description, H1, primo blocco, almeno un H2
 - [x] 1 link in uscita (Gazzetta Ufficiale)
 - [ ] 1 link interno (da inserire)
-- [ ] Immagine in evidenza con alt text (copertina da produrre)
+- [x] Immagine in evidenza con alt text (`grafiche/2026-11-23-x-factor-eventi-non-sportivi-cover.png`)
 
 ---
 
 ## Post LinkedIn di accompagnamento
 
-Su X Factor Alex Fontana passa da 3.00 a 1.50 in otto giorni.
+Su X Factor il favorito cambia in otto giorni, senza una statistica nuova.
 
-Nessun infortunio, nessuna statistica. Esibizioni, simpatie, voci.
+Esibizioni, simpatie, voci.
 
 Al banco la giocata sullo spettacolo arriva così: un nome, pochi euro, nessun ragionamento da schedina del sabato. E spesso arriva da qualcuno che sul calcio non gioca.
 
 È la porta d'ingresso.
 
-Il cliente nuovo entra per un talent o per Sanremo e trova un banco, una ricevuta, un conto da aprire. Con regole che nessuno gli spiega: chi decide l'esito quando non c'è una federazione, perché la quota in app può non essere quella del banco, quando si chiude l'accettazione in una gara dove a ogni puntata qualcuno esce.
+Il cliente nuovo entra per un talent o per Sanremo e trova un banco, una ricevuta, un conto da aprire. Le regole sono quelle di ogni scommessa, ma lui non le conosce: chi decide l'esito quando non c'è una federazione, perché la quota in app può non essere quella del banco, quando si chiude l'accettazione in una gara dove a ogni serata qualcuno esce.
 
-Nella Gambling Insights #90 trovi cosa dice il decreto sugli eventi non sportivi e cosa fare al banco prima della finale del 3 dicembre. Più il numero della settimana: le 73 agenzie che Betfred ha appena chiuso nel Regno Unito.
+Nella Gambling Insights #90 trovi cosa dice il decreto sugli eventi non sportivi e cosa fare al banco prima della finale del 3 dicembre. Più il numero della settimana: le 73 agenzie che Betfred sta chiudendo nel Regno Unito.
 
 Gambling Insights #90 è uscita. Leggi la newsletter completa [link]

@@ -1,0 +1,46 @@
+<!-- Infografica 2, Gambling Insights #90: Cosa cambia da domani, quattro azioni al banco con icona propria, griglia 2x2 (programma, quota, chiusura, rimborsi). -->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../../04-linkedin/grafiche/lib/base.css">
+<style>
+  html,body{width:1080px;height:1350px}
+  body{background:linear-gradient(170deg,#1C0F3A 0%,#140A2C 100%);
+    display:grid;grid-template-rows:auto 1fr auto;padding:64px 72px 48px}
+  .etichetta{font-size:28px;margin-bottom:22px}
+  h1{font-size:84px;margin-bottom:16px}
+  .catenaccio{font-size:30px;line-height:1.3;color:var(--testo2);max-width:900px}
+  .catenaccio b{color:var(--testo);font-weight:600}
+  .area{width:936px;height:780px;margin-top:40px}
+  .piede{display:flex;align-items:flex-end;gap:22px;padding-top:20px;border-top:1px solid var(--linea)}
+  /* Logo ufficiale da ../brand/logo-whitetypo.svg (16/10/2026): mai ridisegnato, ricolorato o deformato */
+  .piede .logo{flex:none;width:300px;height:auto;display:block}
+  .piede .fonte{flex:1}
+  .area{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:26px}
+  .az{background:var(--pannello);border-top:6px solid var(--accento);padding:34px 30px 30px;display:flex;flex-direction:column;gap:16px}
+  .az .ic{width:84px;height:84px;border-radius:50%;background:rgba(249,81,31,.14);display:flex;align-items:center;justify-content:center}
+  .az .ruolo{font-family:var(--f-cond);font-weight:700;font-size:30px;text-transform:uppercase;letter-spacing:.03em;color:var(--accento)}
+  .az .testo{font-size:31px;line-height:1.3;font-weight:600}
+</style>
+</head>
+<body class="tema-bottadiculo">
+
+  <header>
+    <div class="etichetta">Cosa cambia da domani</div>
+    <h1 class="titolo-display">Prima <em>della ricevuta</em></h1>
+    <p class="catenaccio">Quattro cose da dire a chi viene a giocare X Factor o Sanremo. <b>Nessuna spinta alla multipla.</b></p>
+  </header>
+  <div class="area">
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><circle cx="21" cy="21" r="12" stroke="#F9511F" stroke-width="3.2"/><path d="M30 30l11 11" stroke="#F9511F" stroke-width="3.6" stroke-linecap="round"/><path d="M16 21l4 4 6-7" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="ruolo">Programma</div><div class="testo">Prima di accettare, guarda se X Factor è nel programma del tuo concessionario.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><rect x="13" y="4" width="22" height="40" rx="4" stroke="#F9511F" stroke-width="3.2"/><path d="M20 38h8" stroke="#F9511F" stroke-width="3" stroke-linecap="round"/><path d="M18 17h12M18 24h12" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/><path d="M27 21l3 3-3 3" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="ruolo">Quota</div><div class="testo">Digli subito che la quota del banco può non essere quella vista in app.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><circle cx="24" cy="26" r="16" stroke="#F9511F" stroke-width="3.2"/><path d="M19 5h10M24 5v5" stroke="#F9511F" stroke-width="3.2" stroke-linecap="round"/><path d="M24 17v9l6 4" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div class="ruolo">Chiusura</div><div class="testo">A programma iniziato la giocata può non essere accettata. Dirlo prima.</div></div>
+    <div class="az"><div class="ic"><svg viewBox="0 0 48 48" width="56" height="56" fill="none"><rect x="9" y="6" width="30" height="36" rx="3" stroke="#F9511F" stroke-width="3.2"/><path d="M24 14v12" stroke="#fff" stroke-width="3.4" stroke-linecap="round"/><circle cx="24" cy="33" r="2.4" fill="#fff"/></svg></div><div class="ruolo">Rimborsi</div><div class="testo">Tieni in vista l'avviso sui rimborsi: è la prima domanda se qualcosa va storto.</div></div>
+  </div>
+  <footer class="piede">
+    <img class="logo" data-brand src="../brand/logo-whitetypo.svg" alt="Bottadiculo">
+    <p class="fonte">Fonte: <b>DM MEF 145/2022, artt. 1, 5 e 7; linee guida AGCOM, delibera 132/19/CONS</b></p>
+  </footer>
+  <script src="../../../../04-linkedin/grafiche/lib/componenti.js"></script>
+</body>
+</html>

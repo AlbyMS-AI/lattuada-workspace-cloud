@@ -1,0 +1,58 @@
+<!-- Infografica 1, Gambling Insights #90: il cliente che arriva dallo spettacolo e le tre regole della quota fissa che non conosce (refertazione, che cambia con lo spettacolo; quota banco/online e chiusura, che su un talent pesano di più). Fonte DM MEF 145/2022. -->
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../../04-linkedin/grafiche/lib/base.css">
+<style>
+  html,body{width:1080px;height:1350px}
+  body{background:linear-gradient(170deg,#1C0F3A 0%,#140A2C 100%);
+    display:grid;grid-template-rows:auto 1fr auto;padding:64px 72px 48px}
+  .etichetta{font-size:28px;margin-bottom:22px}
+  h1{font-size:80px;margin-bottom:16px}
+  .catenaccio{font-size:30px;line-height:1.3;color:var(--testo2);max-width:900px}
+  .catenaccio b{color:var(--testo);font-weight:600}
+  .area{width:936px;margin-top:40px;display:flex;flex-direction:column;gap:0}
+  .piede{display:flex;align-items:flex-end;gap:22px;padding-top:20px;border-top:1px solid var(--linea)}
+  /* Logo ufficiale da ../brand/logo-whitetypo.svg (16/10/2026): mai ridisegnato, ricolorato o deformato */
+  .piede .logo{flex:none;width:300px;height:auto;display:block}
+  .piede .fonte{flex:1}
+  .step{display:grid;grid-template-columns:76px 1fr;gap:26px;align-items:center;background:var(--pannello);padding:20px 28px}
+  .step .n{width:76px;height:76px;border-radius:50%;border:4px solid var(--accento);display:flex;align-items:center;justify-content:center}
+  .step .t{font-family:var(--f-cond);font-weight:700;font-size:35px;text-transform:uppercase;letter-spacing:.02em;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+  .step .d{font-size:27px;line-height:1.3;color:var(--testo2);margin-top:4px}
+  .tag{font-family:var(--f-body,inherit);font-size:19px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:4px 12px;border-radius:100px;border:2px solid var(--accento);color:var(--accento)}
+  .tag.pieno{background:var(--accento);color:#fff}
+  .freccia{height:30px;display:flex;justify-content:flex-start;padding-left:64px}
+  .gruppo{display:flex;flex-direction:column;gap:12px;border-left:6px solid var(--accento);padding-left:18px}
+  .gruppo-t{font-size:24px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--testo2);margin-bottom:2px}
+  .step.quota{background:var(--accento)}
+  .step.quota .n{border-color:#fff}
+  .step.quota .d{color:#fff}
+</style>
+</head>
+<body class="tema-bottadiculo">
+  <header>
+    <div class="etichetta">Eventi non sportivi, DM 145/2022</div>
+    <h1 class="titolo-display">Dallo spettacolo <em>al banco</em></h1>
+    <p class="catenaccio">Le regole sono quelle di ogni quota fissa. <b>Chi arriva per X Factor, spesso, non le conosce.</b></p>
+  </header>
+  <div class="area">
+    <div class="step"><div class="n"><svg viewBox="0 0 48 48" width="44" height="44" fill="none"><rect x="17" y="5" width="14" height="24" rx="7" stroke="#F9511F" stroke-width="3.4"/><path d="M11 23c0 7 6 12 13 12s13-5 13-12" stroke="#F9511F" stroke-width="3.4" stroke-linecap="round"/><path d="M24 35v8M17 43h14" stroke="#fff" stroke-width="3" stroke-linecap="round"/></svg></div><div><div class="t">Arriva per X Factor</div><div class="d">Gioca a simpatia, con pochi euro. Sul calcio, spesso, non c'è</div></div></div>
+    <div class="freccia"><svg width="48" height="30" viewBox="0 0 48 30"><path d="M24 2v22M14 16l10 10 10-10" stroke="#F9511F" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+    <div class="gruppo">
+      <div class="gruppo-t">Tre regole che non conosce</div>
+      <div class="step"><div class="n"><svg viewBox="0 0 48 48" width="44" height="44" fill="none"><rect x="6" y="9" width="36" height="25" rx="3" stroke="#F9511F" stroke-width="3.4"/><path d="M17 41h14M24 34v7" stroke="#F9511F" stroke-width="3.4" stroke-linecap="round"/><path d="M17 21l5 5 9-9" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div><div class="t">Chi decide l'esito <span class="tag pieno">Cambia</span></div><div class="d">Niente federazione: referta il concessionario, su fatti riscontrabili</div></div></div>
+      <div class="step"><div class="n"><svg viewBox="0 0 48 48" width="44" height="44" fill="none"><rect x="5" y="8" width="16" height="30" rx="3" stroke="#F9511F" stroke-width="3.2"/><path d="M10 33h6" stroke="#F9511F" stroke-width="2.8" stroke-linecap="round"/><rect x="27" y="20" width="16" height="18" rx="2" stroke="#F9511F" stroke-width="3.2"/><path d="M25 38h20" stroke="#F9511F" stroke-width="3.2" stroke-linecap="round"/><path d="M10 20h6M31 27h8" stroke="#fff" stroke-width="2.8" stroke-linecap="round"/></svg></div><div><div class="t">La quota <span class="tag">Pesa di più</span></div><div class="d">Banco e online possono avere quote diverse</div></div></div>
+      <div class="step"><div class="n"><svg viewBox="0 0 48 48" width="44" height="44" fill="none"><circle cx="24" cy="26" r="16" stroke="#F9511F" stroke-width="3.4"/><path d="M19 5h10M24 5v5" stroke="#F9511F" stroke-width="3.4" stroke-linecap="round"/><path d="M24 17v9l6 4" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div><div class="t">La chiusura <span class="tag">Pesa di più</span></div><div class="d">Si chiude quando un esito si determina, e a ogni serata qualcuno esce</div></div></div>
+    </div>
+    <div class="freccia"><svg width="48" height="30" viewBox="0 0 48 30"><path d="M24 2v22M14 16l10 10 10-10" stroke="#F9511F" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+    <div class="step quota"><div class="n"><svg viewBox="0 0 48 48" width="44" height="44" fill="none"><path d="M7 10h34v22H21l-9 8v-8H7z" stroke="#fff" stroke-width="3.4" stroke-linejoin="round"/><path d="M15 18h18M15 24h11" stroke="#fff" stroke-width="3" stroke-linecap="round"/></svg></div><div><div class="t">Chi sta al banco</div><div class="d">Gliele spiega prima della ricevuta</div></div></div>
+  </div>
+  <footer class="piede">
+    <img class="logo" data-brand src="../brand/logo-whitetypo.svg" alt="Bottadiculo">
+    <p class="fonte">Fonte: <b>DM MEF 1° agosto 2022, n. 145 (artt. 1, 5 e 6)</b></p>
+  </footer>
+  <script src="../../../../04-linkedin/grafiche/lib/componenti.js"></script>
+</body>
+</html>
