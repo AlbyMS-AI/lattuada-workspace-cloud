@@ -568,6 +568,8 @@ Idee in riserva, stessa linea: ~~il bonus visto dalla sala (chi entra con il bon
 | Ven 18/12 | **Newsletter N14** + accompagnamento | IT | I report da chiedere al fornitore per il 2027 (E) | mer 16/12 |
 | Mar 22/12 | Post | IT | Chiusura d'anno: cosa ho sentito dagli operatori nel 2026 (riflessione personale, senza nomi) | ven 18/12 |
 
+**Stato N11 (26/11):** programmata per ven 27/11 ore 11:30, vale come pubblicata, `newsletter-2026-11-27-n11-lobby-che-si-somigliano.md` con post di accompagnamento, copertina e infografica in `grafiche/` (note in `grafiche/2026-11-27-n11-lobby-grafiche.md`). H1 "Lobby del casinò online in Italia: perché si somigliano e come misurarlo". Check Astra applicato. Tesi spostata dal catalogo alla vetrina e alla resa della posizione; nessun dato Slotmetry nel testo. Spunto sul gioco responsabile in sala rinviato alla N13 (11/12). Stato del post EN del 24/11 da chiarire.
+
 **Checkpoint:** a gennaio 2027, prima di pianificare il nuovo anno, con `/linkedin-settimana`: impression, salvataggi e visite al profilo di N11-N14 contro N8-N10. La domanda è se il lettore allargato porta più interazione dal target.
 
 ---

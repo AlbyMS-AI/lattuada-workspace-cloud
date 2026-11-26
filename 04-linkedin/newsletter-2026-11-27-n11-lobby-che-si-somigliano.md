@@ -1,6 +1,8 @@
 # Newsletter N11 — The Betting Edge
 
-**Pubblicazione:** ven 27/11/2026 · **Lingua:** IT · **Blocco 8, tema A** · **Registro:** T-062
+**Pubblicazione:** ven 27/11/2026 · **Lingua:** IT · **Blocco 8, tema A** · **Registro:** T-062 (chiusa)
+
+**Stato:** [x] Programmata da Alberto per ven 27/11/2026 ore 11:30, vale come pubblicata (deciso il 26/11). Check Astra applicato. Link da aggiungere al primo giro di `/linkedin-settimana`.
 
 ---
 H1: Lobby del casinò online in Italia: perché si somigliano e come misurarlo
